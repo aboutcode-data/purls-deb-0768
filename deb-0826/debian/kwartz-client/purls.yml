@@ -1,0 +1,3 @@
+- pkg:deb/debian/kwartz-client@1.9-2?arch=all
+- pkg:deb/debian/kwartz-client@2.1-2?arch=all
+- pkg:deb/debian/kwartz-client@3.0-17?arch=all

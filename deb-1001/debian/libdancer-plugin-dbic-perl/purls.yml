@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdancer-plugin-dbic-perl@0.2104-1.1?arch=all
+- pkg:deb/debian/libdancer-plugin-dbic-perl@0.2104-3?arch=all
+- pkg:deb/debian/libdancer-plugin-dbic-perl@0.2104-4?arch=all
+- pkg:deb/debian/libdancer-plugin-dbic-perl@0.2104-5?arch=all

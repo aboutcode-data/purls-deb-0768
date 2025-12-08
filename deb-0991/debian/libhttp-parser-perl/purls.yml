@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttp-parser-perl@0.06-2?arch=all
+- pkg:deb/debian/libhttp-parser-perl@0.06-4?arch=all

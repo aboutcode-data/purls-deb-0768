@@ -1,0 +1,4 @@
+- pkg:deb/debian/libics-doc@1.6.4-1?arch=all
+- pkg:deb/debian/libics-doc@1.6.6-1?arch=all
+- pkg:deb/debian/libics-doc@1.6.8-1?arch=all
+- pkg:deb/debian/libics-doc@1.7.0-1?arch=all

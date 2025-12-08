@@ -1,0 +1,4 @@
+- pkg:deb/debian/libencoding-fixlatin-perl@1.04-1.1?arch=all
+- pkg:deb/debian/libencoding-fixlatin-perl@1.04-3?arch=all
+- pkg:deb/debian/libencoding-fixlatin-perl@1.04-4?arch=all
+- pkg:deb/debian/libencoding-fixlatin-perl@1.04-5?arch=all

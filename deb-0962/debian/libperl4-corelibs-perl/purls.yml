@@ -1,0 +1,3 @@
+- pkg:deb/debian/libperl4-corelibs-perl@0.004-2?arch=all
+- pkg:deb/debian/libperl4-corelibs-perl@0.004-3?arch=all
+- pkg:deb/debian/libperl4-corelibs-perl@0.005-1?arch=all

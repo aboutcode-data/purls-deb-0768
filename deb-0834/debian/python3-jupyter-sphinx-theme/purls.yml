@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-jupyter-sphinx-theme@0.0.6%2Bds1-10?arch=all
+- pkg:deb/debian/python3-jupyter-sphinx-theme@0.0.6%2Bds1-11?arch=all
+- pkg:deb/debian/python3-jupyter-sphinx-theme@0.0.6%2Bds1-12?arch=all
+- pkg:deb/debian/python3-jupyter-sphinx-theme@0.0.6%2Bds1-14?arch=all

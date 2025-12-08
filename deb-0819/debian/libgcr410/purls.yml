@@ -1,0 +1,12 @@
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=amd64
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=arm64
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=armel
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=armhf
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=i386
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=ppc64el
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=riscv64
+- pkg:deb/debian/libgcr410@2.4.0-11?arch=s390x
+- pkg:deb/debian/libgcr410@2.4.0-9.2%2Bb1?arch=amd64
+- pkg:deb/debian/libgcr410@2.4.0-9.2%2Bb1?arch=i386
+- pkg:deb/debian/libgcr410@2.4.0-9.3?arch=amd64
+- pkg:deb/debian/libgcr410@2.4.0-9.3?arch=i386

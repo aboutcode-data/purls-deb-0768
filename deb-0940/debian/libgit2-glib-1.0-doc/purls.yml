@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgit2-glib-1.0-doc@0.99.0.1-1?arch=all
+- pkg:deb/debian/libgit2-glib-1.0-doc@1.1.0-1?arch=all
+- pkg:deb/debian/libgit2-glib-1.0-doc@1.2.1-1?arch=all
+- pkg:deb/debian/libgit2-glib-1.0-doc@1.2.1-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatalyst-modules-extra-perl@10?arch=all
+- pkg:deb/debian/libcatalyst-modules-extra-perl@9%2Bnmu1?arch=all

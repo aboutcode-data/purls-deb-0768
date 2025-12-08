@@ -1,0 +1,8 @@
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-12?arch=all
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=amd64
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=arm64
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=armhf
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=i386
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=ppc64el
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=riscv64
+- pkg:deb/debian/libclang-common-14-dev@14.0.6-20?arch=s390x

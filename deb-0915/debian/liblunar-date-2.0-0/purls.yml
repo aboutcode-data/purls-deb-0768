@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblunar-date-2.0-0@2.4.0-8?arch=amd64
+- pkg:deb/debian/liblunar-date-2.0-0@2.4.0-8?arch=arm64
+- pkg:deb/debian/liblunar-date-2.0-0@2.4.0-8?arch=armhf
+- pkg:deb/debian/liblunar-date-2.0-0@2.4.0-8?arch=i386

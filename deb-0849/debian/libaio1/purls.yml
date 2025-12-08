@@ -1,0 +1,13 @@
+- pkg:deb/debian/libaio1@0.3.112-9?arch=amd64
+- pkg:deb/debian/libaio1@0.3.112-9?arch=arm64
+- pkg:deb/debian/libaio1@0.3.112-9?arch=armhf
+- pkg:deb/debian/libaio1@0.3.112-9?arch=i386
+- pkg:deb/debian/libaio1@0.3.113-4?arch=amd64
+- pkg:deb/debian/libaio1@0.3.113-4?arch=arm64
+- pkg:deb/debian/libaio1@0.3.113-4?arch=armel
+- pkg:deb/debian/libaio1@0.3.113-4?arch=armhf
+- pkg:deb/debian/libaio1@0.3.113-4?arch=i386
+- pkg:deb/debian/libaio1@0.3.113-4?arch=mips64el
+- pkg:deb/debian/libaio1@0.3.113-4?arch=mipsel
+- pkg:deb/debian/libaio1@0.3.113-4?arch=ppc64el
+- pkg:deb/debian/libaio1@0.3.113-4?arch=s390x

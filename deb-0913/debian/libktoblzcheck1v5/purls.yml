@@ -1,0 +1,13 @@
+- pkg:deb/debian/libktoblzcheck1v5@1.53-2?arch=amd64
+- pkg:deb/debian/libktoblzcheck1v5@1.53-2?arch=arm64
+- pkg:deb/debian/libktoblzcheck1v5@1.53-2?arch=armhf
+- pkg:deb/debian/libktoblzcheck1v5@1.53-2?arch=i386
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=amd64
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=arm64
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=armel
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=armhf
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=i386
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=mips64el
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=mipsel
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=ppc64el
+- pkg:deb/debian/libktoblzcheck1v5@1.53-3?arch=s390x

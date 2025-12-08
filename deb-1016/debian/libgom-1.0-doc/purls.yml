@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgom-1.0-doc@0.4-1?arch=all
+- pkg:deb/debian/libgom-1.0-doc@0.5.3-1?arch=all
+- pkg:deb/debian/libgom-1.0-doc@0.5.5-1?arch=all

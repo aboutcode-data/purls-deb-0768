@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmodule-install-rdf-perl@0.009-1.1?arch=all
+- pkg:deb/debian/libmodule-install-rdf-perl@0.009-2?arch=all
+- pkg:deb/debian/libmodule-install-rdf-perl@0.009-4?arch=all
+- pkg:deb/debian/libmodule-install-rdf-perl@0.009-5?arch=all

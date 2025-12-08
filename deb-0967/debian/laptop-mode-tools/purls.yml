@@ -1,0 +1,4 @@
+- pkg:deb/debian/laptop-mode-tools@1.74-1.1?arch=all
+- pkg:deb/debian/laptop-mode-tools@1.74-1.2?arch=all
+- pkg:deb/debian/laptop-mode-tools@1.74-1.4?arch=all
+- pkg:deb/debian/laptop-mode-tools@1.74-2?arch=all

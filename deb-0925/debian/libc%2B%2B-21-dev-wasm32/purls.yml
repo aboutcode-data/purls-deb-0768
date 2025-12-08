@@ -1,0 +1,2 @@
+- pkg:deb/debian/libc%2B%2B-21-dev-wasm32@21.1.6-2?arch=all
+- pkg:deb/debian/libc%2B%2B-21-dev-wasm32@21.1.6-3?arch=all

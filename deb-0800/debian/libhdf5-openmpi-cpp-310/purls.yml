@@ -1,0 +1,15 @@
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-3?arch=amd64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-3?arch=arm64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-3?arch=ppc64el
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-3?arch=riscv64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-3?arch=s390x
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-4?arch=amd64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-4?arch=arm64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-4?arch=ppc64el
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-4?arch=riscv64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.5%2Brepack-4?arch=s390x
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.6%2Brepack-1~exp17?arch=amd64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.6%2Brepack-1~exp17?arch=arm64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.6%2Brepack-1~exp17?arch=ppc64el
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.6%2Brepack-1~exp17?arch=riscv64
+- pkg:deb/debian/libhdf5-openmpi-cpp-310@1.14.6%2Brepack-1~exp17?arch=s390x

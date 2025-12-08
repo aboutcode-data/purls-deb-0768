@@ -1,0 +1,7 @@
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=amd64
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=arm64
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=armhf
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=i386
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=ppc64el
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=riscv64
+- pkg:deb/debian/llvm-22@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjogl2-java@2.3.2%2Bdfsg-10?arch=all
+- pkg:deb/debian/libjogl2-java@2.3.2%2Bdfsg-9?arch=all
+- pkg:deb/debian/libjogl2-java@2.5.0%2Bdfsg-3.1?arch=all
+- pkg:deb/debian/libjogl2-java@2.6.0%2Bdfsg-1?arch=all

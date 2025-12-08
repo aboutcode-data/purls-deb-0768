@@ -1,0 +1,5 @@
+- pkg:deb/debian/keepassx@2.0.3%2Bgit20190121.1682ab9-2.2?arch=amd64
+- pkg:deb/debian/keepassx@2.0.3%2Bgit20190121.1682ab9-2.2?arch=arm64
+- pkg:deb/debian/keepassx@2.0.3%2Bgit20190121.1682ab9-2.2?arch=armhf
+- pkg:deb/debian/keepassx@2.0.3%2Bgit20190121.1682ab9-2.2?arch=i386
+- pkg:deb/debian/keepassx@2.0.3%2Bkeepassxc1?arch=all

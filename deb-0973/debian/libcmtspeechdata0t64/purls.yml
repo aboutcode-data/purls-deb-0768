@@ -1,0 +1,8 @@
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=amd64
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=arm64
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=armel
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=armhf
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=i386
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=riscv64
+- pkg:deb/debian/libcmtspeechdata0t64@2.1.1%2Bgit20160721~8efc468-3%2Bb1?arch=s390x

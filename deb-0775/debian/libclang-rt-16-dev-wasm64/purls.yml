@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclang-rt-16-dev-wasm64@16.0.6-15~deb11u2?arch=all
+- pkg:deb/debian/libclang-rt-16-dev-wasm64@16.0.6-15~deb12u1?arch=all

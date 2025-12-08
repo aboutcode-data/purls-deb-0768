@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcgicc-doc@3.2.19-0.2?arch=all
+- pkg:deb/debian/libcgicc-doc@3.2.19-1?arch=all
+- pkg:deb/debian/libcgicc-doc@3.2.19-3?arch=all
+- pkg:deb/debian/libcgicc-doc@3.2.19-4?arch=all

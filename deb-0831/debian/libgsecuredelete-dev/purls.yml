@@ -1,0 +1,17 @@
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2%2Bb1?arch=arm64
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=amd64
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=armel
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=armhf
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=i386
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=ppc64el
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=riscv64
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3.2?arch=s390x
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=amd64
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=arm64
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=armel
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=armhf
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=i386
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=mips64el
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=mipsel
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=ppc64el
+- pkg:deb/debian/libgsecuredelete-dev@0.3-3?arch=s390x

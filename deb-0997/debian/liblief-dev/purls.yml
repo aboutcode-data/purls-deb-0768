@@ -1,0 +1,13 @@
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb12?arch=amd64
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb12?arch=arm64
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb12?arch=armhf
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb12?arch=i386
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=amd64
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=arm64
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=armel
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=armhf
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=i386
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=mips64el
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=mipsel
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=ppc64el
+- pkg:deb/debian/liblief-dev@0.9.0-1%2Bb14?arch=s390x

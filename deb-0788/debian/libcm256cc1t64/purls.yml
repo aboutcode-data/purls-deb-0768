@@ -1,0 +1,8 @@
+- pkg:deb/debian/libcm256cc1t64@1.1.0-4.1%2Bb1?arch=amd64
+- pkg:deb/debian/libcm256cc1t64@1.1.0-4.1%2Bb1?arch=arm64
+- pkg:deb/debian/libcm256cc1t64@1.1.0-4.1%2Bb1?arch=armhf
+- pkg:deb/debian/libcm256cc1t64@1.1.0-4.1%2Bb1?arch=i386
+- pkg:deb/debian/libcm256cc1t64@1.1.2-1?arch=amd64
+- pkg:deb/debian/libcm256cc1t64@1.1.2-1?arch=arm64
+- pkg:deb/debian/libcm256cc1t64@1.1.2-1?arch=armhf
+- pkg:deb/debian/libcm256cc1t64@1.1.2-1?arch=i386

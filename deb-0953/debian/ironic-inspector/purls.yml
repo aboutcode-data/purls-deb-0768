@@ -1,0 +1,4 @@
+- pkg:deb/debian/ironic-inspector@10.4.1-1?arch=all
+- pkg:deb/debian/ironic-inspector@11.1.0-2?arch=all
+- pkg:deb/debian/ironic-inspector@12.4.0-2?arch=all
+- pkg:deb/debian/ironic-inspector@12.5.0-2?arch=all

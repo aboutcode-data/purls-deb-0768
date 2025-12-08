@@ -1,0 +1,6 @@
+- pkg:deb/debian/libpsm-infinipath1-dbg@3.3%2B20.604758e7-6.1?arch=amd64
+- pkg:deb/debian/libpsm-infinipath1-dbg@3.3%2B20.604758e7-6.1?arch=i386
+- pkg:deb/debian/libpsm-infinipath1-dbg@3.3%2B20.604758e7-6.2?arch=amd64
+- pkg:deb/debian/libpsm-infinipath1-dbg@3.3%2B20.604758e7-6.2?arch=i386
+- pkg:deb/debian/libpsm-infinipath1-dbg@3.3%2B20.604758e7-6.4?arch=amd64
+- pkg:deb/debian/libpsm-infinipath1-dbg@3.3%2B20.604758e7-6.4?arch=i386

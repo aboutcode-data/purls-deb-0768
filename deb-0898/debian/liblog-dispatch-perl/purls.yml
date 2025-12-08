@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblog-dispatch-perl@2.70-1?arch=all
+- pkg:deb/debian/liblog-dispatch-perl@2.71-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-image-6.1.0-39-loongson-3-dbg@6.1.148-1?arch=mips64el
+- pkg:deb/debian/linux-image-6.1.0-39-loongson-3-dbg@6.1.148-1?arch=mipsel

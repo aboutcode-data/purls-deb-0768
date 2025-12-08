@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-syslogd-perl@0.16-1.1?arch=all
+- pkg:deb/debian/libnet-syslogd-perl@0.16-2?arch=all

@@ -1,0 +1,13 @@
+- pkg:deb/debian/libmaus2-dev@2.0.768%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libmaus2-dev@2.0.768%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libmaus2-dev@2.0.768%2Bdfsg-2?arch=i386
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-1?arch=amd64
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-1?arch=arm64
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-1?arch=i386
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-1?arch=ppc64el
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-4?arch=amd64
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-4?arch=ppc64el
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-4?arch=riscv64
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-5%2Bb1?arch=amd64
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-5%2Bb1?arch=ppc64el
+- pkg:deb/debian/libmaus2-dev@2.0.813%2Bds-5%2Bb1?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libauthen-cas-client-perl@0.07-2?arch=all
+- pkg:deb/debian/libauthen-cas-client-perl@0.08-2?arch=all

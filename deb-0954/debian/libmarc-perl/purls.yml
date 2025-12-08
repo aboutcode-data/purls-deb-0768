@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmarc-perl@1.07-6.1?arch=all
+- pkg:deb/debian/libmarc-perl@1.07-8?arch=all

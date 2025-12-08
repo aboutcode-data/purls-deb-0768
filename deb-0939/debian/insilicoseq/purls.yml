@@ -1,0 +1,4 @@
+- pkg:deb/debian/insilicoseq@1.5.2-1?arch=all
+- pkg:deb/debian/insilicoseq@1.5.4-6?arch=all
+- pkg:deb/debian/insilicoseq@2.0.1-1?arch=all
+- pkg:deb/debian/insilicoseq@2.0.1-2?arch=all

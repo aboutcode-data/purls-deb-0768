@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmessage-passing-filter-regexp-perl@0.05-2?arch=all
+- pkg:deb/debian/libmessage-passing-filter-regexp-perl@0.05-3?arch=all
+- pkg:deb/debian/libmessage-passing-filter-regexp-perl@0.05-5?arch=all
+- pkg:deb/debian/libmessage-passing-filter-regexp-perl@0.05-6?arch=all

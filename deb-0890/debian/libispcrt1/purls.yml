@@ -1,0 +1,6 @@
+- pkg:deb/debian/libispcrt1@1.26.0-1?arch=amd64
+- pkg:deb/debian/libispcrt1@1.26.0-1?arch=arm64
+- pkg:deb/debian/libispcrt1@1.26.0-1?arch=i386
+- pkg:deb/debian/libispcrt1@1.28.2-1?arch=amd64
+- pkg:deb/debian/libispcrt1@1.28.2-1?arch=arm64
+- pkg:deb/debian/libispcrt1@1.28.2-1?arch=i386

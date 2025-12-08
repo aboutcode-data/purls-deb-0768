@@ -1,0 +1,4 @@
+- pkg:deb/debian/libam7xxx0.1-doc@0.1.7-1.1?arch=all
+- pkg:deb/debian/libam7xxx0.1-doc@0.1.7-1?arch=all
+- pkg:deb/debian/libam7xxx0.1-doc@0.1.7-5?arch=all
+- pkg:deb/debian/libam7xxx0.1-doc@0.1.7-6?arch=all

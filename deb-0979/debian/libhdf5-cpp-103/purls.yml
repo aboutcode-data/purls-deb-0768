@@ -1,0 +1,13 @@
+- pkg:deb/debian/libhdf5-cpp-103@1.10.6%2Brepack-4%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/libhdf5-cpp-103@1.10.6%2Brepack-4%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/libhdf5-cpp-103@1.10.6%2Brepack-4%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/libhdf5-cpp-103@1.10.6%2Brepack-4%2Bdeb11u1?arch=i386
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=amd64
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=arm64
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=armel
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=armhf
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=i386
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=mips64el
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=mipsel
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=ppc64el
+- pkg:deb/debian/libhdf5-cpp-103@1.10.8%2Brepack1-1?arch=s390x

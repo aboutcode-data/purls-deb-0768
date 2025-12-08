@@ -1,0 +1,15 @@
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=amd64
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=arm64
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=armel
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=armhf
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=i386
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=ppc64el
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=riscv64
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.1.43%2Bdfsg1-1%2Bdeb13u3?arch=s390x
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=arm64
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=armhf
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=i386
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=ppc64el
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=riscv64
+- pkg:deb/debian/libmagickcore-7.q16-10-extra@7.1.2.8%2Bdfsg1-1?arch=s390x

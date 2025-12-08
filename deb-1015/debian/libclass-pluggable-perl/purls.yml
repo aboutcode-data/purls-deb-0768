@@ -1,0 +1,4 @@
+- pkg:deb/debian/libclass-pluggable-perl@0.022-2.1?arch=all
+- pkg:deb/debian/libclass-pluggable-perl@0.022-2.2?arch=all
+- pkg:deb/debian/libclass-pluggable-perl@0.022-2.3?arch=all
+- pkg:deb/debian/libclass-pluggable-perl@0.022-3?arch=all

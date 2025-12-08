@@ -1,0 +1,3 @@
+- pkg:deb/debian/hinawa-utils@0.2.0-3?arch=all
+- pkg:deb/debian/hinawa-utils@0.3.0-2?arch=all
+- pkg:deb/debian/hinawa-utils@0.4.0-1?arch=all

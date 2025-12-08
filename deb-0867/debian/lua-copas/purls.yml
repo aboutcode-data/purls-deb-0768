@@ -1,0 +1,4 @@
+- pkg:deb/debian/lua-copas@1.2.0-1.1?arch=all
+- pkg:deb/debian/lua-copas@1.2.0-2?arch=all
+- pkg:deb/debian/lua-copas@1.2.0-4?arch=all
+- pkg:deb/debian/lua-copas@4.8.0-2?arch=all

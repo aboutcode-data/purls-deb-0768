@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-vnc-perl@0.40-2.1?arch=all
+- pkg:deb/debian/libnet-vnc-perl@0.40-3?arch=all

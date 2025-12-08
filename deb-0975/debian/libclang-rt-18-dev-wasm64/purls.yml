@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclang-rt-18-dev-wasm64@18.1.8-18?arch=all
+- pkg:deb/debian/libclang-rt-18-dev-wasm64@18.1.8-20?arch=all

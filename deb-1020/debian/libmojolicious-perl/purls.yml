@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmojolicious-perl@8.71%2Bdfsg-1?arch=all
+- pkg:deb/debian/libmojolicious-perl@9.31%2Bdfsg-1?arch=all
+- pkg:deb/debian/libmojolicious-perl@9.37%2Bdfsg-2~bpo12%2B1?arch=all
+- pkg:deb/debian/libmojolicious-perl@9.39%2Bdfsg-1?arch=all

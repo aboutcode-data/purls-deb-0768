@@ -1,0 +1,2 @@
+- pkg:deb/debian/laptop-detect@0.16%2Bnmu1?arch=all
+- pkg:deb/debian/laptop-detect@0.16?arch=all

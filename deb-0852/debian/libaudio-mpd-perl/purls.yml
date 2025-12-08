@@ -1,0 +1,2 @@
+- pkg:deb/debian/libaudio-mpd-perl@2.004-2?arch=all
+- pkg:deb/debian/libaudio-mpd-perl@2.004-3?arch=all

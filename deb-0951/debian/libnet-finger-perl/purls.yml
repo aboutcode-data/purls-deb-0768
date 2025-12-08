@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnet-finger-perl@1.06-6.1?arch=all
+- pkg:deb/debian/libnet-finger-perl@1.06-6.2?arch=all
+- pkg:deb/debian/libnet-finger-perl@1.06-7?arch=all

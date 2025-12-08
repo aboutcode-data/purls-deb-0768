@@ -1,0 +1,4 @@
+- pkg:deb/debian/hugin-data@2020.0.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/hugin-data@2022.0.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/hugin-data@2024.0.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/hugin-data@2025.0.0%2Bdfsg-1?arch=all

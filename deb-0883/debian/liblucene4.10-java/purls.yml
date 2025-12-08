@@ -1,0 +1,3 @@
+- pkg:deb/debian/liblucene4.10-java@4.10.4%2Bdfsg-6?arch=all
+- pkg:deb/debian/liblucene4.10-java@4.10.4%2Bdfsg-7.1?arch=all
+- pkg:deb/debian/liblucene4.10-java@4.10.4%2Bdfsg-8?arch=all

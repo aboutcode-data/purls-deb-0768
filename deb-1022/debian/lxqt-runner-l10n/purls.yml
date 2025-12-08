@@ -1,0 +1,4 @@
+- pkg:deb/debian/lxqt-runner-l10n@0.16.0-1?arch=all
+- pkg:deb/debian/lxqt-runner-l10n@1.2.0-1?arch=all
+- pkg:deb/debian/lxqt-runner-l10n@2.1.2-1?arch=all
+- pkg:deb/debian/lxqt-runner-l10n@2.2.0-1?arch=all

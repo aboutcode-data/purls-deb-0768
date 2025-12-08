@@ -1,0 +1,6 @@
+- pkg:deb/debian/i8kutils@1.43%2Bnmu1%2Bb1?arch=amd64
+- pkg:deb/debian/i8kutils@1.43%2Bnmu1%2Bb1?arch=i386
+- pkg:deb/debian/i8kutils@1.43%2Bnmu1?arch=amd64
+- pkg:deb/debian/i8kutils@1.43%2Bnmu1?arch=i386
+- pkg:deb/debian/i8kutils@1.45?arch=amd64
+- pkg:deb/debian/i8kutils@1.45?arch=i386

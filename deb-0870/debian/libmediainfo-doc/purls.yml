@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmediainfo-doc@20.09%2Bdfsg-2?arch=all
+- pkg:deb/debian/libmediainfo-doc@23.04%2Bdfsg-1?arch=all
+- pkg:deb/debian/libmediainfo-doc@25.04%2Bdfsg-1?arch=all
+- pkg:deb/debian/libmediainfo-doc@25.10%2Bdfsg-1?arch=all

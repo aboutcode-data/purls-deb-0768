@@ -1,0 +1,4 @@
+- pkg:deb/debian/libhttp-message-perl@6.28-1?arch=all
+- pkg:deb/debian/libhttp-message-perl@6.44-1?arch=all
+- pkg:deb/debian/libhttp-message-perl@7.00-2?arch=all
+- pkg:deb/debian/libhttp-message-perl@7.01-1?arch=all

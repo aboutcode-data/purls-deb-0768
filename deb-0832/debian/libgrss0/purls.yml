@@ -1,0 +1,9 @@
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=amd64
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=arm64
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=armel
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=armhf
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=i386
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=mips64el
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=mipsel
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=ppc64el
+- pkg:deb/debian/libgrss0@0.7.0-2%2Bb11?arch=s390x

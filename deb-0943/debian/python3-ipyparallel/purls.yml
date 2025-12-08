@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ipyparallel@6.3.0-2?arch=all
+- pkg:deb/debian/python3-ipyparallel@7.1.0-5?arch=all
+- pkg:deb/debian/python3-ipyparallel@8.8.0-5?arch=all
+- pkg:deb/debian/python3-ipyparallel@8.8.0-6?arch=all

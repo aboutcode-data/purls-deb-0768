@@ -1,0 +1,4 @@
+- pkg:deb/debian/hibiscus-doc@2.10.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/hibiscus-doc@2.10.10%2Bdfsg-1?arch=all
+- pkg:deb/debian/hibiscus-doc@2.10.24%2Bdfsg-1?arch=all
+- pkg:deb/debian/hibiscus-doc@2.12.1%2Bdfsg-1?arch=all

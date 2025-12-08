@@ -1,0 +1,4 @@
+- pkg:deb/debian/imediff@2.2-1.1?arch=all
+- pkg:deb/debian/imediff@2.6-1?arch=all
+- pkg:deb/debian/imediff@3.4.0-1?arch=all
+- pkg:deb/debian/imediff@3.4.1-1?arch=all

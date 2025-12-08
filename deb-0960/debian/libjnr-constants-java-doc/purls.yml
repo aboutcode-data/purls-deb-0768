@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjnr-constants-java-doc@0.10.1-1?arch=all
+- pkg:deb/debian/libjnr-constants-java-doc@0.10.4-1?arch=all
+- pkg:deb/debian/libjnr-constants-java-doc@0.10.4-2?arch=all

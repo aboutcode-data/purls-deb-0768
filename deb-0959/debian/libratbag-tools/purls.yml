@@ -1,0 +1,2 @@
+- pkg:deb/debian/libratbag-tools@0.15-1?arch=all
+- pkg:deb/debian/libratbag-tools@0.17-1?arch=all

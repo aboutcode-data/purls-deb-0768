@@ -1,0 +1,4 @@
+- pkg:deb/debian/libppix-regexp-perl@0.078-1?arch=all
+- pkg:deb/debian/libppix-regexp-perl@0.087-1?arch=all
+- pkg:deb/debian/libppix-regexp-perl@0.088-1?arch=all
+- pkg:deb/debian/libppix-regexp-perl@0.091-1?arch=all

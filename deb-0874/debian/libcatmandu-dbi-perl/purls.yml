@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatmandu-dbi-perl@0.12-2?arch=all
+- pkg:deb/debian/libcatmandu-dbi-perl@0.13-1?arch=all

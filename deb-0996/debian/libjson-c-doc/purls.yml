@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjson-c-doc@0.15-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/libjson-c-doc@0.16-2?arch=all
+- pkg:deb/debian/libjson-c-doc@0.18%2Bds-1.1?arch=all
+- pkg:deb/debian/libjson-c-doc@0.18%2Bds-1?arch=all

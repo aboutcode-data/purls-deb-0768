@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdc1394-22-dev@2.2.6-3?arch=amd64
+- pkg:deb/debian/libdc1394-22-dev@2.2.6-3?arch=arm64
+- pkg:deb/debian/libdc1394-22-dev@2.2.6-3?arch=armhf
+- pkg:deb/debian/libdc1394-22-dev@2.2.6-3?arch=i386

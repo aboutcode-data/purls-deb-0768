@@ -1,0 +1,15 @@
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=amd64
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=arm64
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=armel
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=armhf
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=i386
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=mips64el
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=mipsel
+- pkg:deb/debian/libcrcutil-dev@1.0-5.2?arch=ppc64el
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=amd64
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=arm64
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=armel
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=armhf
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=i386
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=ppc64el
+- pkg:deb/debian/libcrcutil-dev@1.0-5.4?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/kubetail@1.6.20-1?arch=all
+- pkg:deb/debian/kubetail@1.6.5-2?arch=all

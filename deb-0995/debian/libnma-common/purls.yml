@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnma-common@1.10.6-1?arch=all
+- pkg:deb/debian/libnma-common@1.10.6-5?arch=all
+- pkg:deb/debian/libnma-common@1.10.6-7?arch=all
+- pkg:deb/debian/libnma-common@1.8.30-1?arch=all

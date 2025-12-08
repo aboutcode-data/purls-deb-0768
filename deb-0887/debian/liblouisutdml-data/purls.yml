@@ -1,0 +1,5 @@
+- pkg:deb/debian/liblouisutdml-data@2.11.0-2?arch=all
+- pkg:deb/debian/liblouisutdml-data@2.12.0-7?arch=all
+- pkg:deb/debian/liblouisutdml-data@2.12.0-7~bpo12%2B1?arch=all
+- pkg:deb/debian/liblouisutdml-data@2.12.0-8?arch=all
+- pkg:deb/debian/liblouisutdml-data@2.9.0-1?arch=all

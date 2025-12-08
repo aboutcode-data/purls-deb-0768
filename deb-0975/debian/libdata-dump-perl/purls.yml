@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdata-dump-perl@1.23-1.1?arch=all
+- pkg:deb/debian/libdata-dump-perl@1.25-1?arch=all

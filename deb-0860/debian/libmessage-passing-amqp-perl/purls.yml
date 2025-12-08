@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmessage-passing-amqp-perl@0.007-1?arch=all
+- pkg:deb/debian/libmessage-passing-amqp-perl@0.008-2?arch=all

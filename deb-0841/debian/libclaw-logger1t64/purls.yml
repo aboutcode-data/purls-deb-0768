@@ -1,0 +1,15 @@
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=amd64
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=arm64
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=armel
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=armhf
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=i386
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=ppc64el
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=riscv64
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-3?arch=s390x
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=amd64
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=arm64
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=armhf
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=i386
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=ppc64el
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=riscv64
+- pkg:deb/debian/libclaw-logger1t64@1.7.4-4?arch=s390x

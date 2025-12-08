@@ -1,0 +1,5 @@
+- pkg:deb/debian/libigdfcl1@1.0.12504.6-1%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/libigdfcl1@1.0.12504.6-1%2Bdeb12u1?arch=i386
+- pkg:deb/debian/libigdfcl1@1.0.17791.18-1?arch=amd64
+- pkg:deb/debian/libigdfcl1@1.0.17791.18-1?arch=i386
+- pkg:deb/debian/libigdfcl1@1.0.5353.1-2?arch=amd64

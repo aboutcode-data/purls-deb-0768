@@ -1,0 +1,6 @@
+- pkg:deb/debian/linux-headers-powerpc64le-64k@6.12.57-1?arch=ppc64el
+- pkg:deb/debian/linux-headers-powerpc64le-64k@6.12.57-1~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/linux-headers-powerpc64le-64k@6.17.10-1?arch=ppc64el
+- pkg:deb/debian/linux-headers-powerpc64le-64k@6.17.8-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/linux-headers-powerpc64le-64k@6.17.9-1?arch=ppc64el
+- pkg:deb/debian/linux-headers-powerpc64le-64k@6.18~rc7-1~exp1?arch=ppc64el

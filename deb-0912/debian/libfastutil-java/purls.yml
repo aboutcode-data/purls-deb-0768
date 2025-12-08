@@ -1,0 +1,4 @@
+- pkg:deb/debian/libfastutil-java@8.4.4-1?arch=all
+- pkg:deb/debian/libfastutil-java@8.5.11%2Bdfsg-1?arch=all
+- pkg:deb/debian/libfastutil-java@8.5.15%2Bdfsg-1?arch=all
+- pkg:deb/debian/libfastutil-java@8.5.16%2Bdfsg-1?arch=all

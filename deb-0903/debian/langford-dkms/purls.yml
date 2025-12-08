@@ -1,0 +1,4 @@
+- pkg:deb/debian/langford-dkms@0.0.20130228-6.1?arch=all
+- pkg:deb/debian/langford-dkms@0.0.20130228-6.3?arch=all
+- pkg:deb/debian/langford-dkms@0.0.20130228-7?arch=all
+- pkg:deb/debian/langford-dkms@0.0.20130228-7~bpo12%2B1?arch=all

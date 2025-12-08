@@ -1,0 +1,13 @@
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=amd64
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=arm64
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=armel
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=armhf
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=i386
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=ppc64el
+- pkg:deb/debian/lomiri-teleports-app@1.20-5?arch=riscv64
+- pkg:deb/debian/lomiri-teleports-app@1.21-2?arch=amd64
+- pkg:deb/debian/lomiri-teleports-app@1.21-2?arch=arm64
+- pkg:deb/debian/lomiri-teleports-app@1.21-2?arch=armhf
+- pkg:deb/debian/lomiri-teleports-app@1.21-2?arch=i386
+- pkg:deb/debian/lomiri-teleports-app@1.21-2?arch=ppc64el
+- pkg:deb/debian/lomiri-teleports-app@1.21-2?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-oauth2-perl@0.66-1?arch=all
+- pkg:deb/debian/libnet-oauth2-perl@0.67-1?arch=all

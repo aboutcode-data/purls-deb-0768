@@ -1,0 +1,4 @@
+- pkg:deb/debian/libhcrypto4-heimdal@7.7.0%2Bdfsg-2%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/libhcrypto4-heimdal@7.7.0%2Bdfsg-2%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/libhcrypto4-heimdal@7.7.0%2Bdfsg-2%2Bdeb11u3?arch=armhf
+- pkg:deb/debian/libhcrypto4-heimdal@7.7.0%2Bdfsg-2%2Bdeb11u3?arch=i386

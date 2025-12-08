@@ -1,0 +1,6 @@
+- pkg:deb/debian/libunwind-14@14.0.6-12?arch=amd64
+- pkg:deb/debian/libunwind-14@14.0.6-12?arch=arm64
+- pkg:deb/debian/libunwind-14@14.0.6-12?arch=armhf
+- pkg:deb/debian/libunwind-14@14.0.6-12?arch=i386
+- pkg:deb/debian/libunwind-14@14.0.6-12?arch=mips64el
+- pkg:deb/debian/libunwind-14@14.0.6-12?arch=ppc64el

@@ -1,0 +1,10 @@
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3%2Bb1?arch=riscv64
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=amd64
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=arm64
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=armel
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=armhf
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=i386
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=mips64el
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=mipsel
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=ppc64el
+- pkg:deb/debian/i3lock-fancy@0.0~git20160228.0.0fcb933-3?arch=s390x

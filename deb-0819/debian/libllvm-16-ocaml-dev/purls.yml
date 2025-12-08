@@ -1,0 +1,8 @@
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb11u2?arch=amd64
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb11u2?arch=arm64
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb11u2?arch=armhf
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb12u1?arch=amd64
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb12u1?arch=arm64
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb12u1?arch=armhf
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb12u1?arch=ppc64el
+- pkg:deb/debian/libllvm-16-ocaml-dev@16.0.6-15~deb12u1?arch=s390x

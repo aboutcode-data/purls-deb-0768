@@ -1,0 +1,4 @@
+- pkg:deb/debian/librarian-puppet@3.0.0-2?arch=all
+- pkg:deb/debian/librarian-puppet@3.0.1-1?arch=all
+- pkg:deb/debian/librarian-puppet@5.0.0-1?arch=all
+- pkg:deb/debian/librarian-puppet@6.0.0-1?arch=all

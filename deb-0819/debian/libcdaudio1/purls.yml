@@ -1,0 +1,17 @@
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=amd64
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=arm64
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=armel
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=armhf
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=i386
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=mips64el
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=mipsel
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=ppc64el
+- pkg:deb/debian/libcdaudio1@0.99.12p2-15?arch=s390x
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=amd64
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=arm64
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=armel
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=armhf
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=i386
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=ppc64el
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=riscv64
+- pkg:deb/debian/libcdaudio1@0.99.12p2-16?arch=s390x

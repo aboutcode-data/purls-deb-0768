@@ -1,0 +1,2 @@
+- pkg:deb/debian/libfcgi-procmanager-perl@0.28-1.1?arch=all
+- pkg:deb/debian/libfcgi-procmanager-perl@0.28-3?arch=all

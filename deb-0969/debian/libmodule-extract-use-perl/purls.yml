@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmodule-extract-use-perl@1.047-1?arch=all
+- pkg:deb/debian/libmodule-extract-use-perl@1.051-1?arch=all
+- pkg:deb/debian/libmodule-extract-use-perl@1.054-1?arch=all

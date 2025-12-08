@@ -1,0 +1,5 @@
+- pkg:deb/debian/linux-headers-loongson-3@6.1.148-1?arch=mips64el
+- pkg:deb/debian/linux-headers-loongson-3@6.1.148-1?arch=mipsel
+- pkg:deb/debian/linux-headers-loongson-3@6.1.158-1?arch=mips64el
+- pkg:deb/debian/linux-headers-loongson-3@6.1.158-1?arch=mipsel
+- pkg:deb/debian/linux-headers-loongson-3@6.12.57-1~bpo12%2B1?arch=mips64el

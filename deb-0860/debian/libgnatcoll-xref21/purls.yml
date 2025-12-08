@@ -1,0 +1,8 @@
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=amd64
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=arm64
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=armel
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=armhf
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=i386
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=riscv64
+- pkg:deb/debian/libgnatcoll-xref21@25.0.0-2%2Bb1?arch=s390x

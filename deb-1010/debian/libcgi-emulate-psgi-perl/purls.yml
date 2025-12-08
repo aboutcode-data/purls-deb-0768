@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcgi-emulate-psgi-perl@0.23-1?arch=all
+- pkg:deb/debian/libcgi-emulate-psgi-perl@0.23-2?arch=all

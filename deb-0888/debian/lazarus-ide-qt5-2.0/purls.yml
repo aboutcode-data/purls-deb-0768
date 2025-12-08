@@ -1,0 +1,4 @@
+- pkg:deb/debian/lazarus-ide-qt5-2.0@2.0.10%2Bdfsg-4%2Bb2?arch=amd64
+- pkg:deb/debian/lazarus-ide-qt5-2.0@2.0.10%2Bdfsg-4%2Bb2?arch=arm64
+- pkg:deb/debian/lazarus-ide-qt5-2.0@2.0.10%2Bdfsg-4%2Bb2?arch=armhf
+- pkg:deb/debian/lazarus-ide-qt5-2.0@2.0.10%2Bdfsg-4%2Bb2?arch=i386

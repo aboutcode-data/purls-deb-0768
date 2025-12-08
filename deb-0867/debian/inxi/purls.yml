@@ -1,0 +1,6 @@
+- pkg:deb/debian/inxi@3.3.01-1-1?arch=all
+- pkg:deb/debian/inxi@3.3.26-1-1?arch=all
+- pkg:deb/debian/inxi@3.3.38-1-1?arch=all
+- pkg:deb/debian/inxi@3.3.38-1-1~bpo12%2B1?arch=all
+- pkg:deb/debian/inxi@3.3.40-1-1?arch=all
+- pkg:deb/debian/inxi@3.3.40-1-1~bpo13%2B1?arch=all

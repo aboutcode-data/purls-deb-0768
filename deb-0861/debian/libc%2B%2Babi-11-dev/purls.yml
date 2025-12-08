@@ -1,0 +1,4 @@
+- pkg:deb/debian/libc%2B%2Babi-11-dev@11.0.1-2?arch=amd64
+- pkg:deb/debian/libc%2B%2Babi-11-dev@11.0.1-2?arch=arm64
+- pkg:deb/debian/libc%2B%2Babi-11-dev@11.0.1-2?arch=armhf
+- pkg:deb/debian/libc%2B%2Babi-11-dev@11.0.1-2?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libowasp-esapi-java@2.1.0-3.1?arch=all
+- pkg:deb/debian/libowasp-esapi-java@2.4.0.0-2.1?arch=all
+- pkg:deb/debian/libowasp-esapi-java@2.4.0.0-2?arch=all

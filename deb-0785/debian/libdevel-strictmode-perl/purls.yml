@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdevel-strictmode-perl@0.003-1.1?arch=all
+- pkg:deb/debian/libdevel-strictmode-perl@0.003-3?arch=all
+- pkg:deb/debian/libdevel-strictmode-perl@0.003-4?arch=all
+- pkg:deb/debian/libdevel-strictmode-perl@0.003-5?arch=all

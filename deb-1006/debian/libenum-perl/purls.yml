@@ -1,0 +1,2 @@
+- pkg:deb/debian/libenum-perl@1.11-1?arch=all
+- pkg:deb/debian/libenum-perl@1.12-2?arch=all

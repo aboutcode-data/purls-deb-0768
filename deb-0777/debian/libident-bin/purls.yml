@@ -1,0 +1,15 @@
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=amd64
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=arm64
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=armel
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=armhf
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=i386
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=ppc64el
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=riscv64
+- pkg:deb/debian/libident-bin@0.32-4%2Bb2?arch=s390x
+- pkg:deb/debian/libident-bin@0.32-5?arch=amd64
+- pkg:deb/debian/libident-bin@0.32-5?arch=arm64
+- pkg:deb/debian/libident-bin@0.32-5?arch=armhf
+- pkg:deb/debian/libident-bin@0.32-5?arch=i386
+- pkg:deb/debian/libident-bin@0.32-5?arch=ppc64el
+- pkg:deb/debian/libident-bin@0.32-5?arch=riscv64
+- pkg:deb/debian/libident-bin@0.32-5?arch=s390x

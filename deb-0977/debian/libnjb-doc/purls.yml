@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnjb-doc@2.2.7~dfsg0-4.1?arch=all
+- pkg:deb/debian/libnjb-doc@2.2.7~dfsg0-5.1?arch=all
+- pkg:deb/debian/libnjb-doc@2.2.7~dfsg0-5.2?arch=all

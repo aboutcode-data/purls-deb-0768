@@ -1,0 +1,2 @@
+- pkg:deb/debian/libapache-session-perl@1.94-1?arch=all
+- pkg:deb/debian/libapache-session-perl@1.94-2?arch=all

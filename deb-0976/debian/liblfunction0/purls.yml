@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblfunction0@1.23%2Bdfsg-11%2Bb1?arch=amd64
+- pkg:deb/debian/liblfunction0@1.23%2Bdfsg-11%2Bb1?arch=arm64
+- pkg:deb/debian/liblfunction0@1.23%2Bdfsg-11%2Bb1?arch=armhf
+- pkg:deb/debian/liblfunction0@1.23%2Bdfsg-11%2Bb1?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/ironseed-data@0.3.6-5?arch=all
+- pkg:deb/debian/ironseed-data@0.4.0-7?arch=all

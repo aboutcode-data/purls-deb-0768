@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-lerc@4.0.0%2Bds-2?arch=all
+- pkg:deb/debian/python3-lerc@4.0.0%2Bds-5?arch=all

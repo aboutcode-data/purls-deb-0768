@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-ip4r@2.4.2-3%2Bb1?arch=amd64
+- pkg:deb/debian/postgresql-17-ip4r@2.4.2-3?arch=arm64
+- pkg:deb/debian/postgresql-17-ip4r@2.4.2-3?arch=ppc64el
+- pkg:deb/debian/postgresql-17-ip4r@2.4.2-3?arch=riscv64
+- pkg:deb/debian/postgresql-17-ip4r@2.4.2-3?arch=s390x

@@ -1,0 +1,3 @@
+- pkg:deb/debian/imagemagick-6-common@6.9.11.60%2Bdfsg-1.3%2Bdeb11u4?arch=all
+- pkg:deb/debian/imagemagick-6-common@6.9.11.60%2Bdfsg-1.6%2Bdeb12u3?arch=all
+- pkg:deb/debian/imagemagick-6-common@6.9.11.60%2Bdfsg-1.6%2Bdeb12u4?arch=all

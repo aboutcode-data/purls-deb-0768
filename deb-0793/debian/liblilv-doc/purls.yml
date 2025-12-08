@@ -1,0 +1,3 @@
+- pkg:deb/debian/liblilv-doc@0.24.26-1?arch=all
+- pkg:deb/debian/liblilv-doc@0.26.0-1?arch=all
+- pkg:deb/debian/liblilv-doc@0.26.2-1?arch=all

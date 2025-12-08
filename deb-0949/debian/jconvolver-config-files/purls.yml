@@ -1,0 +1,3 @@
+- pkg:deb/debian/jconvolver-config-files@1.0.3-2?arch=all
+- pkg:deb/debian/jconvolver-config-files@1.1.0-1?arch=all
+- pkg:deb/debian/jconvolver-config-files@1.1.0-2?arch=all

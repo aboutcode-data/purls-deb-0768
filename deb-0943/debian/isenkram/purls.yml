@@ -1,0 +1,3 @@
+- pkg:deb/debian/isenkram@0.48?arch=all
+- pkg:deb/debian/isenkram@0.51?arch=all
+- pkg:deb/debian/isenkram@0.69?arch=all

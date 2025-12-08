@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdbd-ldap-perl@0.20-1.1?arch=all
+- pkg:deb/debian/libdbd-ldap-perl@1.00-1?arch=all

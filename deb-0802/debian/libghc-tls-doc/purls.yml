@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-tls-doc@1.5.4-1?arch=all
+- pkg:deb/debian/libghc-tls-doc@1.5.8-1?arch=all
+- pkg:deb/debian/libghc-tls-doc@1.8.0-1?arch=all

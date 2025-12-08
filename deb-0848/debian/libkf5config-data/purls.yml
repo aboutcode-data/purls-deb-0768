@@ -1,0 +1,4 @@
+- pkg:deb/debian/libkf5config-data@5.103.0-2?arch=all
+- pkg:deb/debian/libkf5config-data@5.116.0-1?arch=all
+- pkg:deb/debian/libkf5config-data@5.116.0-2?arch=all
+- pkg:deb/debian/libkf5config-data@5.78.0-4?arch=all

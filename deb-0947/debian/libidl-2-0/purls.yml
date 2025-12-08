@@ -1,0 +1,17 @@
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=amd64
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=arm64
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=armel
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=armhf
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=i386
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=mips64el
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=mipsel
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=ppc64el
+- pkg:deb/debian/libidl-2-0@0.8.14-4%2Bb12?arch=s390x
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=amd64
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=arm64
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=armel
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=armhf
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=i386
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=ppc64el
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=riscv64
+- pkg:deb/debian/libidl-2-0@0.8.14-5?arch=s390x

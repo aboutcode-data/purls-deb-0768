@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-jupyterlab-server@2.1.3-1?arch=all
+- pkg:deb/debian/python3-jupyterlab-server@2.16.5-1?arch=all
+- pkg:deb/debian/python3-jupyterlab-server@2.25.2-1?arch=all

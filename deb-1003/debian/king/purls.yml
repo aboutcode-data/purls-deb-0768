@@ -1,0 +1,4 @@
+- pkg:deb/debian/king@2.23.161103%2Bdfsg1-4?arch=all
+- pkg:deb/debian/king@2.24%2Bdfsg2-1?arch=all
+- pkg:deb/debian/king@2.24%2Bdfsg2-2?arch=all
+- pkg:deb/debian/king@2.24%2Bdfsg2-3?arch=all

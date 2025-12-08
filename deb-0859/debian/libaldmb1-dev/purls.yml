@@ -1,0 +1,17 @@
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=amd64
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=arm64
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=armel
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=armhf
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=i386
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=mips64el
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=mipsel
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/libaldmb1-dev@0.9.3-6%2Bb3?arch=s390x
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=amd64
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=arm64
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=armel
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=armhf
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=i386
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=ppc64el
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=riscv64
+- pkg:deb/debian/libaldmb1-dev@0.9.3-7?arch=s390x

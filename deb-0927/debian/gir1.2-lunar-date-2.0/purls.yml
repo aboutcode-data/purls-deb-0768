@@ -1,0 +1,4 @@
+- pkg:deb/debian/gir1.2-lunar-date-2.0@2.4.0-8?arch=amd64
+- pkg:deb/debian/gir1.2-lunar-date-2.0@2.4.0-8?arch=arm64
+- pkg:deb/debian/gir1.2-lunar-date-2.0@2.4.0-8?arch=armhf
+- pkg:deb/debian/gir1.2-lunar-date-2.0@2.4.0-8?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/kaptive-example@0.7.3-3?arch=all
+- pkg:deb/debian/kaptive-example@2.0.4-1?arch=all
+- pkg:deb/debian/kaptive-example@2.0.8-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatalyst-plugin-session-store-fastmmap-perl@0.16-2.1?arch=all
+- pkg:deb/debian/libcatalyst-plugin-session-store-fastmmap-perl@0.16-3?arch=all

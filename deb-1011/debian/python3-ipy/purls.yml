@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ipy@1.01-1?arch=all
+- pkg:deb/debian/python3-ipy@1.01-2?arch=all
+- pkg:deb/debian/python3-ipy@1.01-4?arch=all
+- pkg:deb/debian/python3-ipy@1.01-5?arch=all

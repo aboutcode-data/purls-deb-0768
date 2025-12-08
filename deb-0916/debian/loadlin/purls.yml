@@ -1,0 +1,4 @@
+- pkg:deb/debian/loadlin@1.6f-10?arch=amd64
+- pkg:deb/debian/loadlin@1.6f-10?arch=i386
+- pkg:deb/debian/loadlin@1.6f-13?arch=amd64
+- pkg:deb/debian/loadlin@1.6f-13?arch=i386

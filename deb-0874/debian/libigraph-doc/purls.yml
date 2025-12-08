@@ -1,0 +1,4 @@
+- pkg:deb/debian/libigraph-doc@0.10.15%2Bds-3?arch=all
+- pkg:deb/debian/libigraph-doc@0.10.15%2Bds-3~bpo12%2B1?arch=all
+- pkg:deb/debian/libigraph-doc@0.10.2%2Bds-2?arch=all
+- pkg:deb/debian/libigraph-doc@1.0.0%2Bds-5?arch=all

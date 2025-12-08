@@ -1,0 +1,17 @@
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=amd64
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=arm64
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=armel
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=armhf
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=i386
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=mips64el
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=mipsel
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=ppc64el
+- pkg:deb/debian/libaccounts-qt5-dev@1.16-2?arch=s390x
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=amd64
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=arm64
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=armel
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=armhf
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=i386
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=ppc64el
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=riscv64
+- pkg:deb/debian/libaccounts-qt5-dev@1.17-4%2Bb1?arch=s390x

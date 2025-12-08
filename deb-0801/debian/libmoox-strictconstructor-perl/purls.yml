@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmoox-strictconstructor-perl@0.011-1?arch=all
+- pkg:deb/debian/libmoox-strictconstructor-perl@0.011-2?arch=all
+- pkg:deb/debian/libmoox-strictconstructor-perl@0.013-1?arch=all

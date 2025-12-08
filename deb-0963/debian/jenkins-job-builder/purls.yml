@@ -1,0 +1,4 @@
+- pkg:deb/debian/jenkins-job-builder@3.11.0-6?arch=all
+- pkg:deb/debian/jenkins-job-builder@3.8.0-1?arch=all
+- pkg:deb/debian/jenkins-job-builder@6.4.2-3?arch=all
+- pkg:deb/debian/jenkins-job-builder@6.4.2-5?arch=all

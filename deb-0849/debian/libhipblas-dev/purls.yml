@@ -1,0 +1,5 @@
+- pkg:deb/debian/libhipblas-dev@5.5.1-4%2Bb1?arch=arm64
+- pkg:deb/debian/libhipblas-dev@5.5.1-4?arch=amd64
+- pkg:deb/debian/libhipblas-dev@5.5.1-4?arch=ppc64el
+- pkg:deb/debian/libhipblas-dev@6.4.3-3?arch=amd64
+- pkg:deb/debian/libhipblas-dev@6.4.3-3?arch=arm64

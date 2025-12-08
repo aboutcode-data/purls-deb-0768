@@ -1,0 +1,6 @@
+- pkg:deb/debian/bolt-18@18.1.8-18%2Bb1?arch=amd64
+- pkg:deb/debian/bolt-18@18.1.8-18%2Bb1?arch=arm64
+- pkg:deb/debian/bolt-18@18.1.8-20%2Bb1?arch=amd64
+- pkg:deb/debian/bolt-18@18.1.8-20%2Bb1?arch=arm64
+- pkg:deb/debian/bolt-18@18.1.8-20?arch=amd64
+- pkg:deb/debian/bolt-18@18.1.8-20?arch=arm64

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-hdbc-sqlite3-doc@2.3.3.1-11?arch=all
+- pkg:deb/debian/libghc-hdbc-sqlite3-doc@2.3.3.1-8?arch=all
+- pkg:deb/debian/libghc-hdbc-sqlite3-doc@2.3.3.1-9?arch=all

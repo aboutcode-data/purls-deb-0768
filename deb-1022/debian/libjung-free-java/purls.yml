@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjung-free-java@2.0.1%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/libjung-free-java@2.1.1-2?arch=all
+- pkg:deb/debian/libjung-free-java@2.1.1-3?arch=all

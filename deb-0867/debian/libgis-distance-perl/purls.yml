@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgis-distance-perl@0.19-2?arch=all
+- pkg:deb/debian/libgis-distance-perl@0.20-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/lp-solve-doc@5.5.2.11-2?arch=all
+- pkg:deb/debian/lp-solve-doc@5.5.2.14-4.1?arch=all
+- pkg:deb/debian/lp-solve-doc@5.5.2.5-2?arch=all

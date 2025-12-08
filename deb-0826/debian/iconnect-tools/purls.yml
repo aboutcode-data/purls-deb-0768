@@ -1,0 +1,2 @@
+- pkg:deb/debian/iconnect-tools@0.1%2Bb1?arch=armel
+- pkg:deb/debian/iconnect-tools@0.1%2Bnmu1?arch=armel

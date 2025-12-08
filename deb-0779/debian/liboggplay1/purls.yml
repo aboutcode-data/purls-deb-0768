@@ -1,0 +1,13 @@
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb1?arch=amd64
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb1?arch=arm64
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb1?arch=armhf
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb1?arch=i386
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=amd64
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=arm64
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=armel
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=armhf
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=i386
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=mips64el
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=mipsel
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=ppc64el
+- pkg:deb/debian/liboggplay1@0.2.1~git20091227-5%2Bb2?arch=s390x

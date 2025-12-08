@@ -1,0 +1,15 @@
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=amd64
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=arm64
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=armel
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=armhf
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=i386
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=ppc64el
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=riscv64
+- pkg:deb/debian/liblam4t64@7.1.4-7.2?arch=s390x
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=amd64
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=arm64
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=armhf
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=i386
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=ppc64el
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=riscv64
+- pkg:deb/debian/liblam4t64@7.1.4-8?arch=s390x

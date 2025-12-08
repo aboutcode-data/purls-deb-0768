@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ironic-ui@4.2.0-3?arch=all
+- pkg:deb/debian/python3-ironic-ui@6.0.0-2?arch=all
+- pkg:deb/debian/python3-ironic-ui@6.5.0-2?arch=all
+- pkg:deb/debian/python3-ironic-ui@6.6.0-2?arch=all

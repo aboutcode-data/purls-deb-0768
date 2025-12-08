@@ -1,0 +1,13 @@
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-6?arch=amd64
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-6?arch=arm64
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-6?arch=armhf
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-6?arch=i386
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=amd64
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=arm64
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=armel
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=armhf
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=i386
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=mips64el
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=mipsel
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=ppc64el
+- pkg:deb/debian/libomxil-bellagio-bin@0.9.3-8?arch=s390x

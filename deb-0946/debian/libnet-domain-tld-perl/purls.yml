@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnet-domain-tld-perl@1.75-1.1?arch=all
+- pkg:deb/debian/libnet-domain-tld-perl@1.75-3?arch=all
+- pkg:deb/debian/libnet-domain-tld-perl@1.75-4?arch=all
+- pkg:deb/debian/libnet-domain-tld-perl@1.75-4~bpo12%2B1?arch=all

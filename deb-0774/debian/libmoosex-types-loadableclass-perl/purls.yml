@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmoosex-types-loadableclass-perl@0.015-1?arch=all
+- pkg:deb/debian/libmoosex-types-loadableclass-perl@0.015-2?arch=all
+- pkg:deb/debian/libmoosex-types-loadableclass-perl@0.016-1?arch=all

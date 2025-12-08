@@ -1,0 +1,4 @@
+- pkg:deb/debian/lifelines-doc@3.0.61-2.1?arch=all
+- pkg:deb/debian/lifelines-doc@3.0.61-3?arch=all
+- pkg:deb/debian/lifelines-doc@3.0.61-5?arch=all
+- pkg:deb/debian/lifelines-doc@3.0.61-6?arch=all

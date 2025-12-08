@@ -1,0 +1,4 @@
+- pkg:deb/debian/lxqt-panel-l10n@0.16.1-1?arch=all
+- pkg:deb/debian/lxqt-panel-l10n@1.2.1-1?arch=all
+- pkg:deb/debian/lxqt-panel-l10n@2.1.4-1?arch=all
+- pkg:deb/debian/lxqt-panel-l10n@2.2.2-1?arch=all

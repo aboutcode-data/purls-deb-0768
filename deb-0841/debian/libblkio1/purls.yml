@@ -1,0 +1,10 @@
+- pkg:deb/debian/libblkio1@1.5.0-2?arch=amd64
+- pkg:deb/debian/libblkio1@1.5.0-2?arch=arm64
+- pkg:deb/debian/libblkio1@1.5.0-2?arch=ppc64el
+- pkg:deb/debian/libblkio1@1.5.0-2?arch=riscv64
+- pkg:deb/debian/libblkio1@1.5.0-2?arch=s390x
+- pkg:deb/debian/libblkio1@1.5.0-7?arch=amd64
+- pkg:deb/debian/libblkio1@1.5.0-7?arch=arm64
+- pkg:deb/debian/libblkio1@1.5.0-7?arch=ppc64el
+- pkg:deb/debian/libblkio1@1.5.0-7?arch=riscv64
+- pkg:deb/debian/libblkio1@1.5.0-7?arch=s390x

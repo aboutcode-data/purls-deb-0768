@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpod-minimumversion-perl@50-2?arch=all
+- pkg:deb/debian/libpod-minimumversion-perl@50-3?arch=all

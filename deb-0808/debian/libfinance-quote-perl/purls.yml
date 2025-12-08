@@ -1,0 +1,4 @@
+- pkg:deb/debian/libfinance-quote-perl@1.50~rc2-2?arch=all
+- pkg:deb/debian/libfinance-quote-perl@1.54-3?arch=all
+- pkg:deb/debian/libfinance-quote-perl@1.65-1?arch=all
+- pkg:deb/debian/libfinance-quote-perl@1.67-1?arch=all

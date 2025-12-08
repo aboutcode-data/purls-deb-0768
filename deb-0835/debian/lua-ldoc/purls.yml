@@ -1,0 +1,4 @@
+- pkg:deb/debian/lua-ldoc@1.4.6-1?arch=all
+- pkg:deb/debian/lua-ldoc@1.4.6-2?arch=all
+- pkg:deb/debian/lua-ldoc@1.5.0-1?arch=all
+- pkg:deb/debian/lua-ldoc@1.5.0-4?arch=all

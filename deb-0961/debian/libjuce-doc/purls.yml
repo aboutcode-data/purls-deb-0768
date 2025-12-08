@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjuce-doc@5.4.7~ds0-2?arch=all
+- pkg:deb/debian/libjuce-doc@7.0.5%2Bds-1?arch=all
+- pkg:deb/debian/libjuce-doc@8.0.10%2Bds-2?arch=all
+- pkg:deb/debian/libjuce-doc@8.0.6%2Bds-2?arch=all

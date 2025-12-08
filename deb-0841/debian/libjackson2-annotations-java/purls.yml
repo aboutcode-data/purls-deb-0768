@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjackson2-annotations-java@2.12.1-1?arch=all
+- pkg:deb/debian/libjackson2-annotations-java@2.14.0-1?arch=all

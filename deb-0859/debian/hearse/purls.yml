@@ -1,0 +1,2 @@
+- pkg:deb/debian/hearse@1.5%2Bdebian1-2?arch=all
+- pkg:deb/debian/hearse@1.5-8.3?arch=all

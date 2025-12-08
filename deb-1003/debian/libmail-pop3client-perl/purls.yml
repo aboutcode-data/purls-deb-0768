@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmail-pop3client-perl@2.19-1.1?arch=all
+- pkg:deb/debian/libmail-pop3client-perl@2.21-2?arch=all

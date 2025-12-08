@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdata-faker-perl@0.10-2?arch=all
+- pkg:deb/debian/libdata-faker-perl@0.10-4?arch=all

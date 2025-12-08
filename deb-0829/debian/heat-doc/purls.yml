@@ -1,0 +1,5 @@
+- pkg:deb/debian/heat-doc@15.0.0-4?arch=all
+- pkg:deb/debian/heat-doc@19.0.0-3?arch=all
+- pkg:deb/debian/heat-doc@24.0.0-2?arch=all
+- pkg:deb/debian/heat-doc@25.0.0-2?arch=all
+- pkg:deb/debian/heat-doc@25.0.0-3?arch=all

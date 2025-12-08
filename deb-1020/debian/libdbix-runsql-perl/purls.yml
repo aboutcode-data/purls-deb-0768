@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdbix-runsql-perl@0.21-1?arch=all
+- pkg:deb/debian/libdbix-runsql-perl@0.22-1?arch=all
+- pkg:deb/debian/libdbix-runsql-perl@0.25-1?arch=all
+- pkg:deb/debian/libdbix-runsql-perl@0.26-1?arch=all

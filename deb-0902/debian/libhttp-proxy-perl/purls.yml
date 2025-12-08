@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttp-proxy-perl@0.304-4?arch=all
+- pkg:deb/debian/libhttp-proxy-perl@0.304-5?arch=all

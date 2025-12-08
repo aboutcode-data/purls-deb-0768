@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmldbm-sync-perl@0.30-4.1?arch=all
+- pkg:deb/debian/libmldbm-sync-perl@0.30-6?arch=all

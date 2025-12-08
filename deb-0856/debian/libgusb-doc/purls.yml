@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgusb-doc@0.3.10-1?arch=all
+- pkg:deb/debian/libgusb-doc@0.3.5-1?arch=all
+- pkg:deb/debian/libgusb-doc@0.4.9-1?arch=all
+- pkg:deb/debian/libgusb-doc@0.4.9-2?arch=all
+- pkg:deb/debian/libgusb-doc@0.4.9-5?arch=all

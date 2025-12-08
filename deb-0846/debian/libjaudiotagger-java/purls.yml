@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjaudiotagger-java@2.0.3-3?arch=all
+- pkg:deb/debian/libjaudiotagger-java@3.0.1%2Bdfsg-1?arch=all

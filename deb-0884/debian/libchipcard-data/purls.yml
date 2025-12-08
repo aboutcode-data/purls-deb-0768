@@ -1,0 +1,4 @@
+- pkg:deb/debian/libchipcard-data@5.1.5rc2-7?arch=all
+- pkg:deb/debian/libchipcard-data@5.1.6-1?arch=all
+- pkg:deb/debian/libchipcard-data@5.1.6-2?arch=all
+- pkg:deb/debian/libchipcard-data@5.99.1beta-2?arch=all

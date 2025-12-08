@@ -1,0 +1,8 @@
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=amd64
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=arm64
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=armel
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=armhf
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=i386
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=ppc64el
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=riscv64
+- pkg:deb/debian/libfm4t64@1.4.0-2?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-inifile@0.4-1.1?arch=all
+- pkg:deb/debian/python3-inifile@0.4.1-2?arch=all

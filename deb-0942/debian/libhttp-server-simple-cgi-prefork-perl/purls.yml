@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttp-server-simple-cgi-prefork-perl@6-1.1?arch=all
+- pkg:deb/debian/libhttp-server-simple-cgi-prefork-perl@6-3?arch=all

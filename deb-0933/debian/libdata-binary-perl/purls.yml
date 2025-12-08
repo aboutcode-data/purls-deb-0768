@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdata-binary-perl@0.01-1.1?arch=all
+- pkg:deb/debian/libdata-binary-perl@0.01-2?arch=all

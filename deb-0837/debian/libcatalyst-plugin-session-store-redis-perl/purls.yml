@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatalyst-plugin-session-store-redis-perl@0.900-1?arch=all
+- pkg:deb/debian/libcatalyst-plugin-session-store-redis-perl@0.901-1?arch=all

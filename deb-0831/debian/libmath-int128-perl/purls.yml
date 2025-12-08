@@ -1,0 +1,13 @@
+- pkg:deb/debian/libmath-int128-perl@0.22-2%2Bb2?arch=arm64
+- pkg:deb/debian/libmath-int128-perl@0.22-2%2Bb3?arch=amd64
+- pkg:deb/debian/libmath-int128-perl@0.22-4?arch=amd64
+- pkg:deb/debian/libmath-int128-perl@0.22-4?arch=arm64
+- pkg:deb/debian/libmath-int128-perl@0.22-4?arch=mips64el
+- pkg:deb/debian/libmath-int128-perl@0.22-4?arch=ppc64el
+- pkg:deb/debian/libmath-int128-perl@0.22-4?arch=s390x
+- pkg:deb/debian/libmath-int128-perl@0.22-5%2Bb2?arch=amd64
+- pkg:deb/debian/libmath-int128-perl@0.22-5%2Bb2?arch=ppc64el
+- pkg:deb/debian/libmath-int128-perl@0.22-5%2Bb2?arch=s390x
+- pkg:deb/debian/libmath-int128-perl@0.22-5%2Bb3?arch=arm64
+- pkg:deb/debian/libmath-int128-perl@0.22-5%2Bb3?arch=ppc64el
+- pkg:deb/debian/libmath-int128-perl@0.22-5%2Bb3?arch=riscv64

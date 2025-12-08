@@ -1,0 +1,13 @@
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-5?arch=amd64
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-5?arch=arm64
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-5?arch=armhf
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-5?arch=i386
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=amd64
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=arm64
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=armel
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=armhf
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=i386
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=mips64el
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=mipsel
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=ppc64el
+- pkg:deb/debian/libbpp-seq-omics3@2.4.1-9?arch=s390x

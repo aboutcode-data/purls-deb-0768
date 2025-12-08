@@ -1,0 +1,15 @@
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=amd64
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=arm64
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=armel
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=armhf
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=i386
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=ppc64el
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=riscv64
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-4?arch=s390x
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=amd64
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=arm64
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=armhf
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=i386
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=ppc64el
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=riscv64
+- pkg:deb/debian/libinfinity-0.7-0t64@0.7.2-5?arch=s390x

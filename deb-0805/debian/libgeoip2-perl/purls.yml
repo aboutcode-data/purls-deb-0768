@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgeoip2-perl@2.006002-1?arch=all
+- pkg:deb/debian/libgeoip2-perl@2.006002-2?arch=all

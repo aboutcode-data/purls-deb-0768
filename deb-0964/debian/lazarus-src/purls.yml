@@ -1,0 +1,5 @@
+- pkg:deb/debian/lazarus-src@2.0.10%2Bdfsg-4?arch=all
+- pkg:deb/debian/lazarus-src@2.2.6%2Bdfsg2-2?arch=all
+- pkg:deb/debian/lazarus-src@3.0%2Bdfsg1-8~bpo12%2B1?arch=all
+- pkg:deb/debian/lazarus-src@3.6%2Bdfsg1-4~bpo12%2B1?arch=all
+- pkg:deb/debian/lazarus-src@4.0%2Bdfsg-3?arch=all

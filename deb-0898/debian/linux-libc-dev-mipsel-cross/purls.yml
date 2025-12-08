@@ -1,3 +1,4 @@
 - pkg:deb/debian/linux-libc-dev-mipsel-cross@5.10.28-1cross1?arch=all
 - pkg:deb/debian/linux-libc-dev-mipsel-cross@6.1.8-1cross2?arch=all
 - pkg:deb/debian/linux-libc-dev-mipsel-cross@6.12.8-1cross1?arch=all
+- pkg:deb/debian/linux-libc-dev-mipsel-cross@6.18~rc7-1~exp1?arch=all

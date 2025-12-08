@@ -1,0 +1,4 @@
+- pkg:deb/debian/leveldb-doc@1.22-3?arch=all
+- pkg:deb/debian/leveldb-doc@1.23-4?arch=all
+- pkg:deb/debian/leveldb-doc@1.23-5?arch=all
+- pkg:deb/debian/leveldb-doc@1.23-6?arch=all

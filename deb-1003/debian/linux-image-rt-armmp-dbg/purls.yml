@@ -1,0 +1,5 @@
+- pkg:deb/debian/linux-image-rt-armmp-dbg@5.10.223-1?arch=armhf
+- pkg:deb/debian/linux-image-rt-armmp-dbg@6.1.148-1?arch=armhf
+- pkg:deb/debian/linux-image-rt-armmp-dbg@6.1.158-1?arch=armhf
+- pkg:deb/debian/linux-image-rt-armmp-dbg@6.12.57-1?arch=armhf
+- pkg:deb/debian/linux-image-rt-armmp-dbg@6.12.57-1~bpo12%2B1?arch=armhf

@@ -1,0 +1,3 @@
+- pkg:deb/debian/lua-soap@3.0%2Bgit91419a7-1.1?arch=all
+- pkg:deb/debian/lua-soap@3.0%2Bgit91419a7-2?arch=all
+- pkg:deb/debian/lua-soap@3.0%2Bgit91419a7-3?arch=all

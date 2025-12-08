@@ -2,3 +2,4 @@
 - pkg:deb/debian/linux-libc-dev-ppc64-cross@6.1.4-1cross1?arch=all
 - pkg:deb/debian/linux-libc-dev-ppc64-cross@6.12.38-1cross1?arch=all
 - pkg:deb/debian/linux-libc-dev-ppc64-cross@6.17.10-1cross1?arch=all
+- pkg:deb/debian/linux-libc-dev-ppc64-cross@6.18~rc7-1~exp1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-jupyter-server-mathjax@0.2.3-2?arch=all
+- pkg:deb/debian/python3-jupyter-server-mathjax@0.2.6-1?arch=all

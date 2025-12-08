@@ -1,0 +1,4 @@
+- pkg:deb/debian/libccp4-data@6.5.1-5?arch=all
+- pkg:deb/debian/libccp4-data@8.0.0-2?arch=all
+- pkg:deb/debian/libccp4-data@8.0.0-4?arch=all
+- pkg:deb/debian/libccp4-data@8.0.0-5?arch=all

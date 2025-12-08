@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-junitparser@2.0.0-1?arch=all
+- pkg:deb/debian/python3-junitparser@2.8.0-1?arch=all
+- pkg:deb/debian/python3-junitparser@3.2.0-1?arch=all
+- pkg:deb/debian/python3-junitparser@4.0.2-1?arch=all

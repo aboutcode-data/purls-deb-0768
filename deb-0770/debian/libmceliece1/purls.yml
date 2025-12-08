@@ -1,0 +1,15 @@
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=amd64
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=arm64
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=armel
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=armhf
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=i386
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=ppc64el
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=riscv64
+- pkg:deb/debian/libmceliece1@0~20241009-2?arch=s390x
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=amd64
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=arm64
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=armhf
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=i386
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=ppc64el
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=riscv64
+- pkg:deb/debian/libmceliece1@0~20250507-4?arch=s390x

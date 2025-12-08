@@ -1,0 +1,17 @@
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=amd64
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=arm64
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=armel
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=armhf
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=i386
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=ppc64el
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=riscv64
+- pkg:deb/debian/libofa0@0.9.3-21%2Bb3?arch=s390x
+- pkg:deb/debian/libofa0@0.9.3-21?arch=amd64
+- pkg:deb/debian/libofa0@0.9.3-21?arch=arm64
+- pkg:deb/debian/libofa0@0.9.3-21?arch=armel
+- pkg:deb/debian/libofa0@0.9.3-21?arch=armhf
+- pkg:deb/debian/libofa0@0.9.3-21?arch=i386
+- pkg:deb/debian/libofa0@0.9.3-21?arch=mips64el
+- pkg:deb/debian/libofa0@0.9.3-21?arch=mipsel
+- pkg:deb/debian/libofa0@0.9.3-21?arch=ppc64el
+- pkg:deb/debian/libofa0@0.9.3-21?arch=s390x

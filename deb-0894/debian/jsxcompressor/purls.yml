@@ -1,0 +1,4 @@
+- pkg:deb/debian/jsxcompressor@1.10.1%2Bdfsg1-1?arch=all
+- pkg:deb/debian/jsxcompressor@1.12.2%2Bdfsg1-1?arch=all
+- pkg:deb/debian/jsxcompressor@1.3.5%2Bdfsg1-8?arch=all
+- pkg:deb/debian/jsxcompressor@1.5.0%2Bdfsg1-3?arch=all

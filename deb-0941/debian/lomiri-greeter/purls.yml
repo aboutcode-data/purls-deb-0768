@@ -1,0 +1,3 @@
+- pkg:deb/debian/lomiri-greeter@0.1.2-3?arch=all
+- pkg:deb/debian/lomiri-greeter@0.5.0-2?arch=all
+- pkg:deb/debian/lomiri-greeter@0.5.0-6?arch=all

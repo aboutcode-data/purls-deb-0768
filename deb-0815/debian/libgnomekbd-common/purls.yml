@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgnomekbd-common@3.26.1-1?arch=all
+- pkg:deb/debian/libgnomekbd-common@3.28.1-1?arch=all
+- pkg:deb/debian/libgnomekbd-common@3.28.1-2?arch=all
+- pkg:deb/debian/libgnomekbd-common@3.28.1-3?arch=all

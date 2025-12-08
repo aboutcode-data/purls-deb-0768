@@ -1,0 +1,2 @@
+- pkg:deb/debian/libchado-perl@1.31-6?arch=all
+- pkg:deb/debian/libchado-perl@1.31-7?arch=all

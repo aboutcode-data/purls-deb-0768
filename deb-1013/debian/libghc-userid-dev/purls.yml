@@ -1,0 +1,13 @@
+- pkg:deb/debian/libghc-userid-dev@0.1.3.5-1%2Bb3?arch=armhf
+- pkg:deb/debian/libghc-userid-dev@0.1.3.5-1%2Bb3?arch=i386
+- pkg:deb/debian/libghc-userid-dev@0.1.3.5-1%2Bb4?arch=amd64
+- pkg:deb/debian/libghc-userid-dev@0.1.3.5-1%2Bb4?arch=arm64
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb3?arch=mips64el
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb4?arch=armhf
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb4?arch=i386
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb4?arch=s390x
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb5?arch=amd64
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb5?arch=arm64
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb5?arch=armel
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb5?arch=ppc64el
+- pkg:deb/debian/libghc-userid-dev@0.1.3.7-1%2Bb6?arch=mipsel

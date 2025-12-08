@@ -1,0 +1,3 @@
+- pkg:deb/debian/sse2-support@15.1?arch=i386
+- pkg:deb/debian/sse2-support@27?arch=i386
+- pkg:deb/debian/sse2-support@6?arch=i386

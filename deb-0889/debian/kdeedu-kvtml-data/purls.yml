@@ -1,0 +1,3 @@
+- pkg:deb/debian/kdeedu-kvtml-data@20.12.0-1?arch=all
+- pkg:deb/debian/kdeedu-kvtml-data@22.12.3-1?arch=all
+- pkg:deb/debian/kdeedu-kvtml-data@25.04.0-1?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=amd64
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=arm64
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=armel
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=armhf
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=i386
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=ppc64el
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=riscv64
+- pkg:deb/debian/libibtk0t64@0.0.14-18?arch=s390x

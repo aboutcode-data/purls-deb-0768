@@ -1,0 +1,8 @@
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=amd64
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=arm64
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=armel
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=armhf
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=i386
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=riscv64
+- pkg:deb/debian/libhdhomerun5@20230719-1%2Bb4?arch=s390x

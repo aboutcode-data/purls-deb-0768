@@ -1,0 +1,2 @@
+- pkg:deb/debian/installation-birthday@15?arch=all
+- pkg:deb/debian/installation-birthday@20?arch=all

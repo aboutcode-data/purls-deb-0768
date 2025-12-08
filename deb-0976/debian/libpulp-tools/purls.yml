@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpulp-tools@0.2.8-1?arch=amd64
+- pkg:deb/debian/libpulp-tools@0.3.16-1?arch=amd64

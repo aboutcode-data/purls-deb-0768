@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-headers-6.1.0-39-octeon@6.1.148-1?arch=mips64el
+- pkg:deb/debian/linux-headers-6.1.0-39-octeon@6.1.148-1?arch=mipsel

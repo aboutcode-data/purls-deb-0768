@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgda-5.0-common@5.2.10-3?arch=all
+- pkg:deb/debian/libgda-5.0-common@5.2.10-5?arch=all
+- pkg:deb/debian/libgda-5.0-common@5.2.10-8?arch=all
+- pkg:deb/debian/libgda-5.0-common@5.2.9-2?arch=all

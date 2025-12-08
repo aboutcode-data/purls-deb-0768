@@ -1,0 +1,3 @@
+- pkg:deb/debian/libhttp-cookiejar-perl@0.010-2?arch=all
+- pkg:deb/debian/libhttp-cookiejar-perl@0.014-1?arch=all
+- pkg:deb/debian/libhttp-cookiejar-perl@0.014-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libij-java-doc@1.53g-2?arch=all
+- pkg:deb/debian/libij-java-doc@1.53t-1?arch=all
+- pkg:deb/debian/libij-java-doc@1.54g-1?arch=all

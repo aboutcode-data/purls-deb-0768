@@ -1,0 +1,2 @@
+- pkg:deb/debian/libauthen-simple-perl@0.5-1.1?arch=all
+- pkg:deb/debian/libauthen-simple-perl@0.5-2?arch=all

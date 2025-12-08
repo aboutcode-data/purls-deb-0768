@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjs-of-ocaml-doc@3.8.0-2?arch=all
+- pkg:deb/debian/libjs-of-ocaml-doc@4.0.0-2?arch=all
+- pkg:deb/debian/libjs-of-ocaml-doc@5.9.1-1?arch=all
+- pkg:deb/debian/libjs-of-ocaml-doc@6.2.0-2?arch=all

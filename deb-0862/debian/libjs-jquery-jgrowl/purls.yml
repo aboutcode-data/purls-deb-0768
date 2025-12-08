@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-jquery-jgrowl@1.2.13%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/libjs-jquery-jgrowl@1.4.10%2Bdfsg-0.1?arch=all

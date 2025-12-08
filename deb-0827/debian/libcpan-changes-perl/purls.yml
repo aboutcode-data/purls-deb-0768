@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcpan-changes-perl@0.400002-1.1?arch=all
+- pkg:deb/debian/libcpan-changes-perl@0.400002-3?arch=all
+- pkg:deb/debian/libcpan-changes-perl@0.500005-1?arch=all

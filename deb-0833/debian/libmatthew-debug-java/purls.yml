@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmatthew-debug-java@0.8.1-1.1?arch=all
+- pkg:deb/debian/libmatthew-debug-java@0.8.1-2?arch=all
+- pkg:deb/debian/libmatthew-debug-java@0.8.1-4?arch=all

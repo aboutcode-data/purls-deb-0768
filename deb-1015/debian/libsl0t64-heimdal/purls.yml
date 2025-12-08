@@ -1,0 +1,8 @@
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=amd64
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=arm64
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=armel
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=armhf
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=i386
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=ppc64el
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=riscv64
+- pkg:deb/debian/libsl0t64-heimdal@7.8.git20221117.28daf24%2Bdfsg-9?arch=s390x

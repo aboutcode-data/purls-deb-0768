@@ -1,0 +1,8 @@
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=amd64
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=arm64
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=armel
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=armhf
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=i386
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=ppc64el
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=riscv64
+- pkg:deb/debian/gir1.2-hinawa-4.0@4.0.2-4?arch=s390x

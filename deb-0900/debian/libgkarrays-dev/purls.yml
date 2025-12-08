@@ -1,0 +1,17 @@
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2%2Bb1?arch=arm64
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=amd64
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=armel
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=armhf
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=i386
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=ppc64el
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=riscv64
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4.2?arch=s390x
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=armel
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=i386
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=mips64el
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=mipsel
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/libgkarrays-dev@2.1.0%2Bdfsg-4?arch=s390x

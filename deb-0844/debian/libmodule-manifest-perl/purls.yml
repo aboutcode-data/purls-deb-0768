@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmodule-manifest-perl@1.09-1?arch=all
+- pkg:deb/debian/libmodule-manifest-perl@1.09-2?arch=all

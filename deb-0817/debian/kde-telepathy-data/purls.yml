@@ -1,0 +1,2 @@
+- pkg:deb/debian/kde-telepathy-data@20.08.0-1?arch=all
+- pkg:deb/debian/kde-telepathy-data@22.12.3-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpicocontainer-java@2.15%2Brepack-2?arch=all
+- pkg:deb/debian/libpicocontainer-java@2.15%2Brepack-3?arch=all

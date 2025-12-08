@@ -1,0 +1,3 @@
+- pkg:deb/debian/libpgobject-type-json-perl@2.000001-2?arch=all
+- pkg:deb/debian/libpgobject-type-json-perl@2.000001-3?arch=all
+- pkg:deb/debian/libpgobject-type-json-perl@2.1.1-1?arch=all

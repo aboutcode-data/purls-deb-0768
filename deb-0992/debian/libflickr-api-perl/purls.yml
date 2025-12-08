@@ -1,0 +1,3 @@
+- pkg:deb/debian/libflickr-api-perl@1.28-2?arch=all
+- pkg:deb/debian/libflickr-api-perl@1.28-3?arch=all
+- pkg:deb/debian/libflickr-api-perl@1.29-2?arch=all

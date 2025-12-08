@@ -1,0 +1,3 @@
+- pkg:deb/debian/live-manual-odf@20151217.1?arch=all
+- pkg:deb/debian/live-manual-odf@20151217.2?arch=all
+- pkg:deb/debian/live-manual-odf@20250226?arch=all

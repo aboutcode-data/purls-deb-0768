@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclass-dbi-pg-perl@0.09-5.1?arch=all
+- pkg:deb/debian/libclass-dbi-pg-perl@0.09-6?arch=all

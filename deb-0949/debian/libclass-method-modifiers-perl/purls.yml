@@ -1,0 +1,3 @@
+- pkg:deb/debian/libclass-method-modifiers-perl@2.13-1?arch=all
+- pkg:deb/debian/libclass-method-modifiers-perl@2.14-1?arch=all
+- pkg:deb/debian/libclass-method-modifiers-perl@2.15-1?arch=all

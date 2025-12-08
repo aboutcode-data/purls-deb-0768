@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblangtag-doc@0.6.3-2?arch=all
+- pkg:deb/debian/liblangtag-doc@0.6.4-2?arch=all
+- pkg:deb/debian/liblangtag-doc@0.6.7-1?arch=all
+- pkg:deb/debian/liblangtag-doc@0.6.8-2?arch=all

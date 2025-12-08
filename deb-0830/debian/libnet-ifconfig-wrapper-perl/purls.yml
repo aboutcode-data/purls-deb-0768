@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-ifconfig-wrapper-perl@0.26-1?arch=all
+- pkg:deb/debian/libnet-ifconfig-wrapper-perl@0.26-2?arch=all

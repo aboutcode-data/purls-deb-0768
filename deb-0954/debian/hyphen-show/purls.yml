@@ -1,0 +1,17 @@
+- pkg:deb/debian/hyphen-show@20000425-4?arch=amd64
+- pkg:deb/debian/hyphen-show@20000425-4?arch=arm64
+- pkg:deb/debian/hyphen-show@20000425-4?arch=armel
+- pkg:deb/debian/hyphen-show@20000425-4?arch=armhf
+- pkg:deb/debian/hyphen-show@20000425-4?arch=i386
+- pkg:deb/debian/hyphen-show@20000425-4?arch=mips64el
+- pkg:deb/debian/hyphen-show@20000425-4?arch=mipsel
+- pkg:deb/debian/hyphen-show@20000425-4?arch=ppc64el
+- pkg:deb/debian/hyphen-show@20000425-4?arch=s390x
+- pkg:deb/debian/hyphen-show@20000425-5?arch=amd64
+- pkg:deb/debian/hyphen-show@20000425-5?arch=arm64
+- pkg:deb/debian/hyphen-show@20000425-5?arch=armel
+- pkg:deb/debian/hyphen-show@20000425-5?arch=armhf
+- pkg:deb/debian/hyphen-show@20000425-5?arch=i386
+- pkg:deb/debian/hyphen-show@20000425-5?arch=ppc64el
+- pkg:deb/debian/hyphen-show@20000425-5?arch=riscv64
+- pkg:deb/debian/hyphen-show@20000425-5?arch=s390x

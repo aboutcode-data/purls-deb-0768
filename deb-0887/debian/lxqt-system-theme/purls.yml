@@ -1,0 +1,4 @@
+- pkg:deb/debian/lxqt-system-theme@0.16.0-1?arch=all
+- pkg:deb/debian/lxqt-system-theme@1.2.0-1?arch=all
+- pkg:deb/debian/lxqt-system-theme@2.1.0-1?arch=all
+- pkg:deb/debian/lxqt-system-theme@2.3.0-1?arch=all

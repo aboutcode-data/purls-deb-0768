@@ -1,0 +1,4 @@
+- pkg:deb/debian/liboxli1@2.1.2%2Bdfsg-8?arch=amd64
+- pkg:deb/debian/liboxli1@2.1.2%2Bdfsg-8?arch=arm64
+- pkg:deb/debian/liboxli1@3.0.0~a3%2Bdfsg-4%2Bb2?arch=amd64
+- pkg:deb/debian/liboxli1@3.0.0~a3%2Bdfsg-9~0exp%2Bb1?arch=amd64

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtrident-java-doc@7.3%2Bdfsg3-5.1?arch=all
+- pkg:deb/debian/libtrident-java-doc@7.3%2Bdfsg3-5?arch=all
+- pkg:deb/debian/libtrident-java-doc@7.3%2Bdfsg3-6?arch=all

@@ -1,0 +1,9 @@
+- pkg:deb/debian/iprutils@2.4.19-1?arch=ppc64el
+- pkg:deb/debian/iprutils@2.4.19-3?arch=ppc64el
+- pkg:deb/debian/iprutils@2.4.19-4?arch=amd64
+- pkg:deb/debian/iprutils@2.4.19-4?arch=arm64
+- pkg:deb/debian/iprutils@2.4.19-4?arch=armhf
+- pkg:deb/debian/iprutils@2.4.19-4?arch=i386
+- pkg:deb/debian/iprutils@2.4.19-4?arch=ppc64el
+- pkg:deb/debian/iprutils@2.4.19-4?arch=riscv64
+- pkg:deb/debian/iprutils@2.4.19-4?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/javascript-common@11%2Bnmu1?arch=all
+- pkg:deb/debian/javascript-common@12%2Bnmu1?arch=all

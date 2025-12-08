@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-jquery-livequery@12-3?arch=all
+- pkg:deb/debian/libjs-jquery-livequery@12-4?arch=all

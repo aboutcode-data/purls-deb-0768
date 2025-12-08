@@ -1,0 +1,3 @@
+- pkg:deb/debian/xfonts-x3270-misc@4.0ga12-3?arch=all
+- pkg:deb/debian/xfonts-x3270-misc@4.1ga10-1.1?arch=all
+- pkg:deb/debian/xfonts-x3270-misc@4.3ga10-5?arch=all

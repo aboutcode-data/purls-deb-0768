@@ -1,0 +1,8 @@
+- pkg:deb/debian/libgmpada9@1.6-4?arch=amd64
+- pkg:deb/debian/libgmpada9@1.6-4?arch=arm64
+- pkg:deb/debian/libgmpada9@1.6-4?arch=armel
+- pkg:deb/debian/libgmpada9@1.6-4?arch=armhf
+- pkg:deb/debian/libgmpada9@1.6-4?arch=i386
+- pkg:deb/debian/libgmpada9@1.6-4?arch=ppc64el
+- pkg:deb/debian/libgmpada9@1.6-4?arch=riscv64
+- pkg:deb/debian/libgmpada9@1.6-4?arch=s390x

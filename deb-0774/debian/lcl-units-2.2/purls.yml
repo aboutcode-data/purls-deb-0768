@@ -1,0 +1,7 @@
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=amd64
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=arm64
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=armel
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=armhf
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=i386
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=mipsel
+- pkg:deb/debian/lcl-units-2.2@2.2.6%2Bdfsg2-2?arch=ppc64el

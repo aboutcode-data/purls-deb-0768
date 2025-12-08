@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmodule-build-tiny-perl@0.039-1.1?arch=all
+- pkg:deb/debian/libmodule-build-tiny-perl@0.039-2?arch=all
+- pkg:deb/debian/libmodule-build-tiny-perl@0.051-1?arch=all
+- pkg:deb/debian/libmodule-build-tiny-perl@0.052-1?arch=all

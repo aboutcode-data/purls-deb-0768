@@ -1,0 +1,16 @@
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=amd64
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=arm64
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=armel
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=armhf
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=i386
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=mips64el
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=mipsel
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=ppc64el
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-12?arch=s390x
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=amd64
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=arm64
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=armhf
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=i386
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=ppc64el
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=riscv64
+- pkg:deb/debian/libclang-cpp14-dev@14.0.6-20?arch=s390x

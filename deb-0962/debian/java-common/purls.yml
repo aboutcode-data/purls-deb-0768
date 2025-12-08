@@ -1,0 +1,3 @@
+- pkg:deb/debian/java-common@0.72?arch=all
+- pkg:deb/debian/java-common@0.74?arch=all
+- pkg:deb/debian/java-common@0.76?arch=all

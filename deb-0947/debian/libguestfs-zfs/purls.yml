@@ -1,0 +1,10 @@
+- pkg:deb/debian/libguestfs-zfs@1.44.0-2?arch=amd64
+- pkg:deb/debian/libguestfs-zfs@1.44.0-2?arch=i386
+- pkg:deb/debian/libguestfs-zfs@1.48.6-2?arch=amd64
+- pkg:deb/debian/libguestfs-zfs@1.48.6-2?arch=i386
+- pkg:deb/debian/libguestfs-zfs@1.54.1-2%2Bb1?arch=amd64
+- pkg:deb/debian/libguestfs-zfs@1.54.1-2%2Bb1?arch=i386
+- pkg:deb/debian/libguestfs-zfs@1.54.1-3.1%2Bb1?arch=amd64
+- pkg:deb/debian/libguestfs-zfs@1.54.1-3.1%2Bb1?arch=i386
+- pkg:deb/debian/libguestfs-zfs@1.54.1-3?arch=amd64
+- pkg:deb/debian/libguestfs-zfs@1.54.1-3?arch=i386

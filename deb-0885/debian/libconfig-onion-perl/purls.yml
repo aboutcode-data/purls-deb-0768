@@ -1,0 +1,4 @@
+- pkg:deb/debian/libconfig-onion-perl@1.007-1.1?arch=all
+- pkg:deb/debian/libconfig-onion-perl@1.007-2?arch=all
+- pkg:deb/debian/libconfig-onion-perl@1.007-3?arch=all
+- pkg:deb/debian/libconfig-onion-perl@1.007-4?arch=all

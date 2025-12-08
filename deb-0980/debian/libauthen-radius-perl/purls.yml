@@ -1,0 +1,2 @@
+- pkg:deb/debian/libauthen-radius-perl@0.32-1?arch=all
+- pkg:deb/debian/libauthen-radius-perl@0.33-1?arch=all

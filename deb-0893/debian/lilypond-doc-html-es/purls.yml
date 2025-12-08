@@ -1,0 +1,4 @@
+- pkg:deb/debian/lilypond-doc-html-es@2.22.0-10?arch=all
+- pkg:deb/debian/lilypond-doc-html-es@2.24.1-2?arch=all
+- pkg:deb/debian/lilypond-doc-html-es@2.24.4-5?arch=all
+- pkg:deb/debian/lilypond-doc-html-es@2.24.4-6?arch=all

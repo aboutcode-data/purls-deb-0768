@@ -1,0 +1,13 @@
+- pkg:deb/debian/libiniparser1@4.1-4?arch=amd64
+- pkg:deb/debian/libiniparser1@4.1-4?arch=arm64
+- pkg:deb/debian/libiniparser1@4.1-4?arch=armhf
+- pkg:deb/debian/libiniparser1@4.1-4?arch=i386
+- pkg:deb/debian/libiniparser1@4.1-6?arch=amd64
+- pkg:deb/debian/libiniparser1@4.1-6?arch=arm64
+- pkg:deb/debian/libiniparser1@4.1-6?arch=armel
+- pkg:deb/debian/libiniparser1@4.1-6?arch=armhf
+- pkg:deb/debian/libiniparser1@4.1-6?arch=i386
+- pkg:deb/debian/libiniparser1@4.1-6?arch=mips64el
+- pkg:deb/debian/libiniparser1@4.1-6?arch=mipsel
+- pkg:deb/debian/libiniparser1@4.1-6?arch=ppc64el
+- pkg:deb/debian/libiniparser1@4.1-6?arch=s390x

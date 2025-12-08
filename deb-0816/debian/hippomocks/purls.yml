@@ -1,0 +1,11 @@
+- pkg:deb/debian/hippomocks@5.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/hippomocks@5.0-1?arch=armel
+- pkg:deb/debian/hippomocks@5.0-1?arch=i386
+- pkg:deb/debian/hippomocks@5.0-1?arch=ppc64el
+- pkg:deb/debian/hippomocks@5.0-1?arch=s390x
+- pkg:deb/debian/hippomocks@5.0-2%2Bb1?arch=riscv64
+- pkg:deb/debian/hippomocks@5.0-2?arch=amd64
+- pkg:deb/debian/hippomocks@5.0-2?arch=armel
+- pkg:deb/debian/hippomocks@5.0-2?arch=i386
+- pkg:deb/debian/hippomocks@5.0-2?arch=ppc64el
+- pkg:deb/debian/hippomocks@5.0-2?arch=s390x

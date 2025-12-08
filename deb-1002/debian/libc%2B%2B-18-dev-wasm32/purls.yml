@@ -1,0 +1,2 @@
+- pkg:deb/debian/libc%2B%2B-18-dev-wasm32@18.1.8-18?arch=all
+- pkg:deb/debian/libc%2B%2B-18-dev-wasm32@18.1.8-20?arch=all

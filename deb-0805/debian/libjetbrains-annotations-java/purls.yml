@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjetbrains-annotations-java@20.1.0-1?arch=all
+- pkg:deb/debian/libjetbrains-annotations-java@23.0.0-2?arch=all

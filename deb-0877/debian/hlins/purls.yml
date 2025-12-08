@@ -1,0 +1,17 @@
+- pkg:deb/debian/hlins@0.39-27?arch=all
+- pkg:deb/debian/hlins@0.39-29?arch=all
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=amd64
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=arm64
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=armel
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=armhf
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=i386
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=riscv64
+- pkg:deb/debian/hlins@0.40-1%2Bb3?arch=s390x
+- pkg:deb/debian/hlins@0.40-2?arch=amd64
+- pkg:deb/debian/hlins@0.40-2?arch=arm64
+- pkg:deb/debian/hlins@0.40-2?arch=armhf
+- pkg:deb/debian/hlins@0.40-2?arch=i386
+- pkg:deb/debian/hlins@0.40-2?arch=ppc64el
+- pkg:deb/debian/hlins@0.40-2?arch=riscv64
+- pkg:deb/debian/hlins@0.40-2?arch=s390x

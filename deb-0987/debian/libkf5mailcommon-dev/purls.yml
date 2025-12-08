@@ -1,0 +1,10 @@
+- pkg:deb/debian/libkf5mailcommon-dev@20.08.3-1?arch=amd64
+- pkg:deb/debian/libkf5mailcommon-dev@20.08.3-1?arch=arm64
+- pkg:deb/debian/libkf5mailcommon-dev@20.08.3-1?arch=armhf
+- pkg:deb/debian/libkf5mailcommon-dev@20.08.3-1?arch=i386
+- pkg:deb/debian/libkf5mailcommon-dev@22.12.3-1?arch=amd64
+- pkg:deb/debian/libkf5mailcommon-dev@22.12.3-1?arch=arm64
+- pkg:deb/debian/libkf5mailcommon-dev@22.12.3-1?arch=armhf
+- pkg:deb/debian/libkf5mailcommon-dev@22.12.3-1?arch=i386
+- pkg:deb/debian/libkf5mailcommon-dev@22.12.3-1?arch=mips64el
+- pkg:deb/debian/libkf5mailcommon-dev@22.12.3-1?arch=mipsel

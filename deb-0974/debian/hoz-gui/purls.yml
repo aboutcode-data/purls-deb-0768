@@ -1,0 +1,13 @@
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=amd64
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=arm64
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=armel
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=armhf
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=i386
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=mips64el
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=mipsel
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb1?arch=s390x
+- pkg:deb/debian/hoz-gui@1.65-3%2Bb2?arch=amd64
+- pkg:deb/debian/hoz-gui@1.65-3?arch=arm64
+- pkg:deb/debian/hoz-gui@1.65-3?arch=armhf
+- pkg:deb/debian/hoz-gui@1.65-3?arch=i386

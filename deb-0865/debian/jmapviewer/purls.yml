@@ -1,0 +1,6 @@
+- pkg:deb/debian/jmapviewer@2.14%2Bdfsg-1?arch=all
+- pkg:deb/debian/jmapviewer@2.16%2Bdfsg-2?arch=all
+- pkg:deb/debian/jmapviewer@2.24%2Bdfsg-1?arch=all
+- pkg:deb/debian/jmapviewer@2.24%2Bdfsg-1~bpo12%2B1?arch=all
+- pkg:deb/debian/jmapviewer@2.25%2Bdfsg-1?arch=all
+- pkg:deb/debian/jmapviewer@2.25%2Bdfsg-1~bpo13%2B1?arch=all

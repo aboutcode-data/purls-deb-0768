@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcgroup1@0.41-11?arch=amd64
+- pkg:deb/debian/libcgroup1@0.41-11?arch=arm64
+- pkg:deb/debian/libcgroup1@0.41-11?arch=armhf
+- pkg:deb/debian/libcgroup1@0.41-11?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-clang@11.0-51%2Bnmu5?arch=amd64
+- pkg:deb/debian/python-clang@11.0-51%2Bnmu5?arch=arm64
+- pkg:deb/debian/python-clang@11.0-51%2Bnmu5?arch=armhf
+- pkg:deb/debian/python-clang@11.0-51%2Bnmu5?arch=i386

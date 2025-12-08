@@ -1,0 +1,2 @@
+- pkg:deb/debian/llvm-21-doc@21.1.6-2?arch=all
+- pkg:deb/debian/llvm-21-doc@21.1.6-3?arch=all

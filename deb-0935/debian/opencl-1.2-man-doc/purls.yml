@@ -1,0 +1,3 @@
+- pkg:deb/debian/opencl-1.2-man-doc@1.0~svn33624-5.1?arch=all
+- pkg:deb/debian/opencl-1.2-man-doc@1.0~svn33624-5?arch=all
+- pkg:deb/debian/opencl-1.2-man-doc@1.0~svn33624-6?arch=all

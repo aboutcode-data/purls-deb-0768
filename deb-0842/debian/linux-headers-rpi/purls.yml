@@ -1,0 +1,5 @@
+- pkg:deb/debian/linux-headers-rpi@6.1.148-1?arch=armel
+- pkg:deb/debian/linux-headers-rpi@6.1.158-1?arch=armel
+- pkg:deb/debian/linux-headers-rpi@6.12.57-1?arch=armel
+- pkg:deb/debian/linux-headers-rpi@6.12.57-1~bpo12%2B1?arch=armel
+- pkg:deb/debian/linux-headers-rpi@6.17.8-1~bpo13%2B1?arch=armel

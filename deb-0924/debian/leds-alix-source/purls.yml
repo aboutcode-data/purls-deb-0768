@@ -1,0 +1,4 @@
+- pkg:deb/debian/leds-alix-source@0.0.1-1.3?arch=all
+- pkg:deb/debian/leds-alix-source@0.0.1-3?arch=all
+- pkg:deb/debian/leds-alix-source@0.0.1-5?arch=all
+- pkg:deb/debian/leds-alix-source@0.0.1-6?arch=all

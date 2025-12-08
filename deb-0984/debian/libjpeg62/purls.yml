@@ -1,0 +1,7 @@
+- pkg:deb/debian/libjpeg62@6b2-4?arch=amd64
+- pkg:deb/debian/libjpeg62@6b2-4?arch=arm64
+- pkg:deb/debian/libjpeg62@6b2-4?arch=armhf
+- pkg:deb/debian/libjpeg62@6b2-4?arch=i386
+- pkg:deb/debian/libjpeg62@6b2-4?arch=ppc64el
+- pkg:deb/debian/libjpeg62@6b2-4?arch=riscv64
+- pkg:deb/debian/libjpeg62@6b2-4?arch=s390x

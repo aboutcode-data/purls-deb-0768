@@ -1,0 +1,15 @@
+- pkg:deb/debian/joy2key@1.6.3-4?arch=amd64
+- pkg:deb/debian/joy2key@1.6.3-4?arch=arm64
+- pkg:deb/debian/joy2key@1.6.3-4?arch=armhf
+- pkg:deb/debian/joy2key@1.6.3-4?arch=i386
+- pkg:deb/debian/joy2key@1.6.3-5%2Bb1?arch=arm64
+- pkg:deb/debian/joy2key@1.6.3-5%2Bb1?arch=riscv64
+- pkg:deb/debian/joy2key@1.6.3-5?arch=amd64
+- pkg:deb/debian/joy2key@1.6.3-5?arch=arm64
+- pkg:deb/debian/joy2key@1.6.3-5?arch=armel
+- pkg:deb/debian/joy2key@1.6.3-5?arch=armhf
+- pkg:deb/debian/joy2key@1.6.3-5?arch=i386
+- pkg:deb/debian/joy2key@1.6.3-5?arch=mips64el
+- pkg:deb/debian/joy2key@1.6.3-5?arch=mipsel
+- pkg:deb/debian/joy2key@1.6.3-5?arch=ppc64el
+- pkg:deb/debian/joy2key@1.6.3-5?arch=s390x

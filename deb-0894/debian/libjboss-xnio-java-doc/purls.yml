@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjboss-xnio-java-doc@3.8.10-1?arch=all
+- pkg:deb/debian/libjboss-xnio-java-doc@3.8.4-1?arch=all
+- pkg:deb/debian/libjboss-xnio-java-doc@3.8.8-1?arch=all

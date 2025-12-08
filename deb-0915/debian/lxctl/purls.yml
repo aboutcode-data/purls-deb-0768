@@ -1,0 +1,3 @@
+- pkg:deb/debian/lxctl@0.3.1%2Bdebian-4?arch=all
+- pkg:deb/debian/lxctl@0.3.1%2Bdebian-5?arch=all
+- pkg:deb/debian/lxctl@0.3.1%2Bdebian-6?arch=all

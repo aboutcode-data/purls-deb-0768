@@ -1,0 +1,12 @@
+- pkg:deb/debian/libdnf2@0.55.2-6?arch=amd64
+- pkg:deb/debian/libdnf2@0.55.2-6?arch=arm64
+- pkg:deb/debian/libdnf2@0.55.2-6?arch=armhf
+- pkg:deb/debian/libdnf2@0.55.2-6?arch=i386
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=amd64
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=arm64
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=armhf
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=i386
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=mips64el
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=mipsel
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=ppc64el
+- pkg:deb/debian/libdnf2@0.69.0-2?arch=s390x

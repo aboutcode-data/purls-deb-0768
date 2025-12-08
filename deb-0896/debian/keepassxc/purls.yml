@@ -1,0 +1,15 @@
+- pkg:deb/debian/keepassxc@2.6.2%2Bdfsg.1-1?arch=amd64
+- pkg:deb/debian/keepassxc@2.6.2%2Bdfsg.1-1?arch=arm64
+- pkg:deb/debian/keepassxc@2.6.2%2Bdfsg.1-1?arch=armhf
+- pkg:deb/debian/keepassxc@2.6.2%2Bdfsg.1-1?arch=i386
+- pkg:deb/debian/keepassxc@2.7.10%2Bdfsg1-1?arch=all
+- pkg:deb/debian/keepassxc@2.7.10%2Bdfsg1-2?arch=all
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=amd64
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=arm64
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=armel
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=armhf
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=i386
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=mips64el
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=mipsel
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=ppc64el
+- pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=s390x

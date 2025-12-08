@@ -1,0 +1,13 @@
+- pkg:deb/debian/libpano13-3@2.9.20~rc3%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/libpano13-3@2.9.20~rc3%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/libpano13-3@2.9.20~rc3%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/libpano13-3@2.9.20~rc3%2Bdfsg-1?arch=i386
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=armel
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=i386
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=mips64el
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=mipsel
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/libpano13-3@2.9.21%2Bdfsg-3?arch=s390x

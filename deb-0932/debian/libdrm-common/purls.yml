@@ -1,0 +1,5 @@
+- pkg:deb/debian/libdrm-common@2.4.104-1?arch=all
+- pkg:deb/debian/libdrm-common@2.4.114-1?arch=all
+- pkg:deb/debian/libdrm-common@2.4.123-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libdrm-common@2.4.124-2?arch=all
+- pkg:deb/debian/libdrm-common@2.4.129-1?arch=all

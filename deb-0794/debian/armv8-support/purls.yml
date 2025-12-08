@@ -1,0 +1,4 @@
+- pkg:deb/debian/armv8-support@15.1?arch=armel
+- pkg:deb/debian/armv8-support@15.1?arch=armhf
+- pkg:deb/debian/armv8-support@27?arch=armel
+- pkg:deb/debian/armv8-support@27?arch=armhf

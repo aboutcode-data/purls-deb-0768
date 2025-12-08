@@ -1,0 +1,2 @@
+- pkg:deb/debian/libparallel-prefork-perl@0.17-1.1?arch=all
+- pkg:deb/debian/libparallel-prefork-perl@0.18-1?arch=all

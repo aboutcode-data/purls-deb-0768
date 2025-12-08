@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblucene9-java@9.10.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/liblucene9-java@9.12.3%2Bdfsg-1?arch=all

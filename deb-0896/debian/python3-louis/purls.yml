@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-louis@3.16.0-1?arch=all
+- pkg:deb/debian/python3-louis@3.24.0-1?arch=all
+- pkg:deb/debian/python3-louis@3.33.0-1?arch=all
+- pkg:deb/debian/python3-louis@3.33.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-louis@3.35.0-2~bpo13%2B1?arch=all
+- pkg:deb/debian/python3-louis@3.36.0-1?arch=all
+- pkg:deb/debian/python3-louis@3.36.0-1~bpo13%2B1?arch=all

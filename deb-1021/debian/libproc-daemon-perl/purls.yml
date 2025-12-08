@@ -1,0 +1,2 @@
+- pkg:deb/debian/libproc-daemon-perl@0.23-1?arch=all
+- pkg:deb/debian/libproc-daemon-perl@0.23-2?arch=all

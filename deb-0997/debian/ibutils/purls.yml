@@ -1,0 +1,12 @@
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3%2Bb1?arch=riscv64
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3%2Bb2?arch=arm64
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3%2Bb2?arch=riscv64
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=amd64
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=arm64
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=armel
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=armhf
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=i386
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=mips64el
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=mipsel
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=ppc64el
+- pkg:deb/debian/ibutils@1.5.7%2B0.2.gbd7e502-3?arch=s390x

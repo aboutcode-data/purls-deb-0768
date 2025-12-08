@@ -1,0 +1,4 @@
+- pkg:deb/debian/libhtml-form-perl@6.07-1?arch=all
+- pkg:deb/debian/libhtml-form-perl@6.11-1?arch=all
+- pkg:deb/debian/libhtml-form-perl@6.12-1?arch=all
+- pkg:deb/debian/libhtml-form-perl@6.13-1?arch=all

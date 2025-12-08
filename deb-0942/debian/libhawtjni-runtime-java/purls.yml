@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhawtjni-runtime-java@1.17-1?arch=all
+- pkg:deb/debian/libhawtjni-runtime-java@1.18-1?arch=all

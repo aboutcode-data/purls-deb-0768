@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjsonrpc-glib-doc@3.38.0-1?arch=all
+- pkg:deb/debian/libjsonrpc-glib-doc@3.42.0-1?arch=all
+- pkg:deb/debian/libjsonrpc-glib-doc@3.44.1-2?arch=all
+- pkg:deb/debian/libjsonrpc-glib-doc@3.44.2-1?arch=all

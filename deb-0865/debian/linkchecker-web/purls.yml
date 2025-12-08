@@ -1,0 +1,4 @@
+- pkg:deb/debian/linkchecker-web@10.0.1-2?arch=all
+- pkg:deb/debian/linkchecker-web@10.2.1-1?arch=all
+- pkg:deb/debian/linkchecker-web@10.5.0-1.1?arch=all
+- pkg:deb/debian/linkchecker-web@10.5.0-1?arch=all

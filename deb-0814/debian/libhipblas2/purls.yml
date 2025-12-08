@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhipblas2@6.4.3-3?arch=amd64
+- pkg:deb/debian/libhipblas2@6.4.3-3?arch=arm64

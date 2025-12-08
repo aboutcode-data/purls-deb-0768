@@ -1,0 +1,2 @@
+- pkg:deb/debian/libplack-middleware-fixmissingbodyinredirect-perl@0.11-1.1?arch=all
+- pkg:deb/debian/libplack-middleware-fixmissingbodyinredirect-perl@0.12-1?arch=all

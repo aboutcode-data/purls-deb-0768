@@ -1,0 +1,3 @@
+- pkg:deb/debian/libhd-doc@21.72-1?arch=all
+- pkg:deb/debian/libhd-doc@21.82-1.1?arch=all
+- pkg:deb/debian/libhd-doc@21.82-1?arch=all

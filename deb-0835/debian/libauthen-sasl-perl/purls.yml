@@ -1,0 +1,4 @@
+- pkg:deb/debian/libauthen-sasl-perl@2.1600-1.1?arch=all
+- pkg:deb/debian/libauthen-sasl-perl@2.1600-3?arch=all
+- pkg:deb/debian/libauthen-sasl-perl@2.1700-1?arch=all
+- pkg:deb/debian/libauthen-sasl-perl@2.1900-1?arch=all

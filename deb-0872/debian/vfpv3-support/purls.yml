@@ -1,0 +1,2 @@
+- pkg:deb/debian/vfpv3-support@15.1?arch=armel
+- pkg:deb/debian/vfpv3-support@27?arch=armel

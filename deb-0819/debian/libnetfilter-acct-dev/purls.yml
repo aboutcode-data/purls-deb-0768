@@ -1,0 +1,17 @@
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=amd64
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=arm64
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=armel
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=armhf
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=i386
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=mips64el
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=mipsel
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=ppc64el
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-3?arch=s390x
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=amd64
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=arm64
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=armel
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=armhf
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=i386
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=ppc64el
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=riscv64
+- pkg:deb/debian/libnetfilter-acct-dev@1.0.3-4%2Bb3?arch=s390x

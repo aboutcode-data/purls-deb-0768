@@ -1,0 +1,5 @@
+- pkg:deb/debian/libosmium2-doc@2.16.0-1?arch=all
+- pkg:deb/debian/libosmium2-doc@2.19.0-1?arch=all
+- pkg:deb/debian/libosmium2-doc@2.22.0-1?arch=all
+- pkg:deb/debian/libosmium2-doc@2.22.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libosmium2-doc@2.22.0-2?arch=all

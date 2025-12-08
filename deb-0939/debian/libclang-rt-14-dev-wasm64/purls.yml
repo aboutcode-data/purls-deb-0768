@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclang-rt-14-dev-wasm64@14.0.6-12?arch=all
+- pkg:deb/debian/libclang-rt-14-dev-wasm64@14.0.6-20?arch=all

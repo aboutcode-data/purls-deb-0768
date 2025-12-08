@@ -1,0 +1,5 @@
+- pkg:deb/debian/libcamera-doc@0.0.3-6?arch=all
+- pkg:deb/debian/libcamera-doc@0.3.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libcamera-doc@0.4.0-7?arch=all
+- pkg:deb/debian/libcamera-doc@0.5.2-3?arch=all
+- pkg:deb/debian/libcamera-doc@0.5.2-3~bpo13%2B1?arch=all

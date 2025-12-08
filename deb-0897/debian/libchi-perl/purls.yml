@@ -1,0 +1,2 @@
+- pkg:deb/debian/libchi-perl@0.60-4?arch=all
+- pkg:deb/debian/libchi-perl@0.61-1?arch=all

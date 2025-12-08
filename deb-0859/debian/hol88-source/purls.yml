@@ -1,0 +1,4 @@
+- pkg:deb/debian/hol88-source@2.02.19940316-35.1?arch=all
+- pkg:deb/debian/hol88-source@2.02.19940316dfsg-5?arch=all
+- pkg:deb/debian/hol88-source@2.02.19940316dfsg-6?arch=all
+- pkg:deb/debian/hol88-source@2.02.19940316dfsg-8?arch=all

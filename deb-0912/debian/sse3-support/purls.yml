@@ -1,0 +1,6 @@
+- pkg:deb/debian/sse3-support@15.1?arch=amd64
+- pkg:deb/debian/sse3-support@15.1?arch=i386
+- pkg:deb/debian/sse3-support@27?arch=amd64
+- pkg:deb/debian/sse3-support@27?arch=i386
+- pkg:deb/debian/sse3-support@6?arch=amd64
+- pkg:deb/debian/sse3-support@6?arch=i386

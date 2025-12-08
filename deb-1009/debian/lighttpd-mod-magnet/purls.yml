@@ -1,0 +1,4 @@
+- pkg:deb/debian/lighttpd-mod-magnet@1.4.59-1%2Bdeb11u2?arch=amd64
+- pkg:deb/debian/lighttpd-mod-magnet@1.4.59-1%2Bdeb11u2?arch=arm64
+- pkg:deb/debian/lighttpd-mod-magnet@1.4.59-1%2Bdeb11u2?arch=armhf
+- pkg:deb/debian/lighttpd-mod-magnet@1.4.59-1%2Bdeb11u2?arch=i386

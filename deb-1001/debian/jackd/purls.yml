@@ -1,0 +1,2 @@
+- pkg:deb/debian/jackd@5%2Bnmu1?arch=all
+- pkg:deb/debian/jackd@6?arch=all

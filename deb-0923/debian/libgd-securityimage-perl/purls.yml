@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgd-securityimage-perl@1.75-1?arch=all
+- pkg:deb/debian/libgd-securityimage-perl@1.75-2?arch=all
+- pkg:deb/debian/libgd-securityimage-perl@1.75-3?arch=all

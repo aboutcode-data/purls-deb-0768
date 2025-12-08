@@ -1,0 +1,4 @@
+- pkg:deb/debian/hovercraft@2.7-10?arch=all
+- pkg:deb/debian/hovercraft@2.7-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/hovercraft@2.7-6~deb12u1?arch=all
+- pkg:deb/debian/hovercraft@2.7-9?arch=all

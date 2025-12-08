@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmediaart-doc@1.9.4-3?arch=all
+- pkg:deb/debian/libmediaart-doc@1.9.6-1?arch=all
+- pkg:deb/debian/libmediaart-doc@1.9.7-1?arch=all
+- pkg:deb/debian/libmediaart-doc@1.9.7-2?arch=all

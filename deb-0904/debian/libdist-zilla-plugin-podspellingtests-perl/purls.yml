@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdist-zilla-plugin-podspellingtests-perl@2.007005-1.1?arch=all
+- pkg:deb/debian/libdist-zilla-plugin-podspellingtests-perl@2.007005-3?arch=all
+- pkg:deb/debian/libdist-zilla-plugin-podspellingtests-perl@2.007006-1?arch=all

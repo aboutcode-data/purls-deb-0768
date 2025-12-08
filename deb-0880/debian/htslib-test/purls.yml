@@ -1,0 +1,4 @@
+- pkg:deb/debian/htslib-test@1.11-4?arch=all
+- pkg:deb/debian/htslib-test@1.16%2Bds-3?arch=all
+- pkg:deb/debian/htslib-test@1.21%2Bds-1?arch=all
+- pkg:deb/debian/htslib-test@1.22.1%2Bds2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/aspell-fo@0.4.2%2Brepack1-2?arch=all
+- pkg:deb/debian/aspell-fo@0.4.2%2Brepack1-4?arch=all
+- pkg:deb/debian/aspell-fo@0.4.2%2Brepack1-5?arch=all
+- pkg:deb/debian/aspell-fo@0.4.2%2Brepack1-6?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-18%2Bb1?arch=amd64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-18%2Bb1?arch=arm64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-18%2Bb1?arch=ppc64el
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-18%2Bb1?arch=riscv64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-18%2Bb1?arch=s390x
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20%2Bb1?arch=amd64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20%2Bb1?arch=arm64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20%2Bb1?arch=ppc64el
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20%2Bb1?arch=riscv64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20%2Bb1?arch=s390x
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20?arch=amd64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20?arch=arm64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20?arch=ppc64el
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20?arch=riscv64
+- pkg:deb/debian/libllvm-18-ocaml-dev@18.1.8-20?arch=s390x

@@ -1,0 +1,7 @@
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=amd64
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=arm64
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=armhf
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=i386
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=ppc64el
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=riscv64
+- pkg:deb/debian/libpreludedb7t64@5.2.0-2.2%2Bb5?arch=s390x

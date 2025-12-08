@@ -1,0 +1,4 @@
+- pkg:deb/debian/libaccounts-glib-doc@1.25-1?arch=all
+- pkg:deb/debian/libaccounts-glib-doc@1.26-1?arch=all
+- pkg:deb/debian/libaccounts-glib-doc@1.27-1?arch=all
+- pkg:deb/debian/libaccounts-glib-doc@1.27-2?arch=all
