@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-imageio@2.37.0-1?arch=all
+- pkg:deb/debian/python3-imageio@2.37.2-1?arch=all
+- pkg:deb/debian/python3-imageio@2.4.1-3?arch=all
+- pkg:deb/debian/python3-imageio@2.4.1-5?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pyftpdlib-doc@1.5.4-2?arch=all
+- pkg:deb/debian/python-pyftpdlib-doc@1.5.7-3?arch=all
+- pkg:deb/debian/python-pyftpdlib-doc@2.0.1-1?arch=all
+- pkg:deb/debian/python-pyftpdlib-doc@2.1.0-1?arch=all

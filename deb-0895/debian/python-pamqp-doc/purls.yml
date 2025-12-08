@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-pamqp-doc@2.3.0-2?arch=all
+- pkg:deb/debian/python-pamqp-doc@3.2.1-1?arch=all
+- pkg:deb/debian/python-pamqp-doc@3.3.0-3?arch=all

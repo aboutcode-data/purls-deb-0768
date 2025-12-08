@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-coverage-doc@5.1%2Bdfsg.1-2?arch=all
+- pkg:deb/debian/python-coverage-doc@6.5.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python-coverage-doc@7.6.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python-coverage-doc@7.8.2%2Bdfsg1-1?arch=all

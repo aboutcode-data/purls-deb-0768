@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-distutils@3.11.2-3?arch=all
+- pkg:deb/debian/python3-distutils@3.9.2-1?arch=all

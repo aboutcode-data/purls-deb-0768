@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-flate2%2Btokio-dev@1.0.13-3?arch=amd64
+- pkg:deb/debian/librust-flate2%2Btokio-dev@1.0.13-3?arch=arm64
+- pkg:deb/debian/librust-flate2%2Btokio-dev@1.0.13-3?arch=armhf
+- pkg:deb/debian/librust-flate2%2Btokio-dev@1.0.13-3?arch=i386

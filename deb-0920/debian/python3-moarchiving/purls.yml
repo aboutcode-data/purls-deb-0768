@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-moarchiving@0.6.0-2?arch=all
+- pkg:deb/debian/python3-moarchiving@1.0.0-1?arch=all

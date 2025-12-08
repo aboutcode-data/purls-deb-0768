@@ -1,0 +1,2 @@
+- pkg:deb/debian/r-bioc-organismdbi@1.40.0-1?arch=all
+- pkg:deb/debian/r-bioc-organismdbi@1.48.0%2Bdfsg-2?arch=all

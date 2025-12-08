@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pyranges@0.0.111%2Bds-10?arch=all
+- pkg:deb/debian/python3-pyranges@0.0.111%2Bds-4?arch=all
+- pkg:deb/debian/python3-pyranges@0.0.111%2Bds-9?arch=all
+- pkg:deb/debian/python3-pyranges@0.0.85%2Bds-1?arch=all

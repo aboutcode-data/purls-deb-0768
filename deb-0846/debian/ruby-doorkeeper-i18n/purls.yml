@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-doorkeeper-i18n@5.0.2-2?arch=all
+- pkg:deb/debian/ruby-doorkeeper-i18n@5.2.8-1?arch=all

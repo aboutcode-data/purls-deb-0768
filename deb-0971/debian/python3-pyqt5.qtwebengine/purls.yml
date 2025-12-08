@@ -1,0 +1,14 @@
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.2-2?arch=amd64
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.2-2?arch=arm64
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.2-2?arch=armhf
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.2-2?arch=i386
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.6-1?arch=amd64
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.6-1?arch=arm64
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.6-1?arch=armhf
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.6-1?arch=i386
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.6-1?arch=mips64el
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.6-1?arch=mipsel
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.7-1%2Bb1?arch=arm64
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.7-1?arch=amd64
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.7-1?arch=armhf
+- pkg:deb/debian/python3-pyqt5.qtwebengine@5.15.7-1?arch=i386

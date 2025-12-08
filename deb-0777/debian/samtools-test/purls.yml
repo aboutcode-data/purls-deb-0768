@@ -1,0 +1,4 @@
+- pkg:deb/debian/samtools-test@1.11-1?arch=all
+- pkg:deb/debian/samtools-test@1.16.1-1?arch=all
+- pkg:deb/debian/samtools-test@1.21-1?arch=all
+- pkg:deb/debian/samtools-test@1.22.1-1?arch=all

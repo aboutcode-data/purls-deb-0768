@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-gccjit-dbg@0.4-11?arch=amd64
+- pkg:deb/debian/python3-gccjit-dbg@0.4-11?arch=arm64
+- pkg:deb/debian/python3-gccjit-dbg@0.4-11?arch=armhf
+- pkg:deb/debian/python3-gccjit-dbg@0.4-11?arch=i386

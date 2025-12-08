@@ -1,0 +1,4 @@
+- pkg:deb/debian/roarplaylistd@0.1.9-9?arch=amd64
+- pkg:deb/debian/roarplaylistd@0.1.9-9?arch=arm64
+- pkg:deb/debian/roarplaylistd@0.1.9-9?arch=armhf
+- pkg:deb/debian/roarplaylistd@0.1.9-9?arch=i386

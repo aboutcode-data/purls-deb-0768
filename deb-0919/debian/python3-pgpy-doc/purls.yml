@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pgpy-doc@0.5.3-3?arch=all
+- pkg:deb/debian/python3-pgpy-doc@0.6.0-1.4?arch=all
+- pkg:deb/debian/python3-pgpy-doc@0.6.0-1.5?arch=all
+- pkg:deb/debian/python3-pgpy-doc@0.6.0-1?arch=all

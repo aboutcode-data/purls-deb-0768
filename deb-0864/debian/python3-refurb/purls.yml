@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-refurb@1.10.0-1?arch=all
+- pkg:deb/debian/python3-refurb@1.27.0-1?arch=all

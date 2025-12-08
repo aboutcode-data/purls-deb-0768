@@ -1,0 +1,2 @@
+- pkg:deb/debian/libqat4@24.02.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/libqat4@25.08.0-3?arch=amd64

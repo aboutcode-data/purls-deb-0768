@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-os-testr-doc@1.1.0-3?arch=all
+- pkg:deb/debian/python-os-testr-doc@2.0.1-2?arch=all
+- pkg:deb/debian/python-os-testr-doc@3.0.0-4?arch=all
+- pkg:deb/debian/python-os-testr-doc@3.0.0-5?arch=all

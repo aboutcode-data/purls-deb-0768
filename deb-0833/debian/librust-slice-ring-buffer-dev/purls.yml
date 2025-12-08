@@ -1,0 +1,8 @@
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=amd64
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=arm64
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=armel
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=armhf
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=i386
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=ppc64el
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=riscv64
+- pkg:deb/debian/librust-slice-ring-buffer-dev@0.3.4-4?arch=s390x

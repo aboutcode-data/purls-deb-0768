@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-os-traits-doc@2.4.0-2?arch=all
+- pkg:deb/debian/python-os-traits-doc@2.9.0-2?arch=all
+- pkg:deb/debian/python-os-traits-doc@3.4.0-1?arch=all
+- pkg:deb/debian/python-os-traits-doc@3.5.0-2?arch=all

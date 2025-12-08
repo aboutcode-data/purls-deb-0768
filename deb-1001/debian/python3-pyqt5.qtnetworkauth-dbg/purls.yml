@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pyqt5.qtnetworkauth-dbg@5.15.2%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/python3-pyqt5.qtnetworkauth-dbg@5.15.2%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/python3-pyqt5.qtnetworkauth-dbg@5.15.2%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/python3-pyqt5.qtnetworkauth-dbg@5.15.2%2Bdfsg-3?arch=i386

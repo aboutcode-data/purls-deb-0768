@@ -1,0 +1,13 @@
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb3?arch=amd64
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb3?arch=arm64
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb3?arch=armhf
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb3?arch=i386
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=amd64
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=arm64
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=armel
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=armhf
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=i386
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=mips64el
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=mipsel
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=ppc64el
+- pkg:deb/debian/ruby-dataobjects-sqlite3@0.10.17-1%2Bb7?arch=s390x

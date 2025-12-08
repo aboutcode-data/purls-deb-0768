@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-bluetooth-adapters@0.21.4-1?arch=all
+- pkg:deb/debian/python3-bluetooth-adapters@2.1.1-1?arch=all

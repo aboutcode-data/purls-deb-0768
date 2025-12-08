@@ -1,0 +1,3 @@
+- pkg:deb/debian/qt6-webengine-doc-html@6.8.2%2Bdfsg-4?arch=all
+- pkg:deb/debian/qt6-webengine-doc-html@6.9.2%2Bdfsg-3~bpo13%2B1?arch=all
+- pkg:deb/debian/qt6-webengine-doc-html@6.9.2%2Bdfsg-4?arch=all

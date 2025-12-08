@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-distribution@0.7.3%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/ruby-distribution@0.8.0%2Bdfsg-1?arch=all

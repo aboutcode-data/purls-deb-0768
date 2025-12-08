@@ -1,0 +1,2 @@
+- pkg:deb/debian/r-cran-rtweet@1.1.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-cran-rtweet@2.0.0%2Bdfsg-1?arch=all

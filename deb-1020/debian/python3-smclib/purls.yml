@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-smclib@1.8.6-10?arch=all
+- pkg:deb/debian/python3-smclib@1.8.6-11?arch=all
+- pkg:deb/debian/python3-smclib@1.8.6-3?arch=amd64
+- pkg:deb/debian/python3-smclib@1.8.6-3?arch=arm64
+- pkg:deb/debian/python3-smclib@1.8.6-3?arch=armhf
+- pkg:deb/debian/python3-smclib@1.8.6-3?arch=i386
+- pkg:deb/debian/python3-smclib@1.8.7-1?arch=all

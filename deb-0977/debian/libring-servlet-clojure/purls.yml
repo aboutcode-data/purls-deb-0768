@@ -1,0 +1,3 @@
+- pkg:deb/debian/libring-servlet-clojure@1.6.2-4?arch=all
+- pkg:deb/debian/libring-servlet-clojure@1.8.2-2?arch=all
+- pkg:deb/debian/libring-servlet-clojure@1.8.2-3?arch=all

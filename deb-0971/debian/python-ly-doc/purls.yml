@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-ly-doc@0.9.6-1?arch=all
+- pkg:deb/debian/python-ly-doc@0.9.7-1?arch=all
+- pkg:deb/debian/python-ly-doc@0.9.9-3?arch=all

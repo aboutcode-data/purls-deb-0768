@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pyocd@0.13.1%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/python3-pyocd@0.13.1%2Bdfsg-3?arch=all
+- pkg:deb/debian/python3-pyocd@0.36.0-2.1?arch=all
+- pkg:deb/debian/python3-pyocd@0.36.0-3?arch=all

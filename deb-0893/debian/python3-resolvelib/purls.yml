@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-resolvelib@0.5.4-1?arch=all
+- pkg:deb/debian/python3-resolvelib@0.9.0-2?arch=all
+- pkg:deb/debian/python3-resolvelib@1.1.0-1?arch=all
+- pkg:deb/debian/python3-resolvelib@1.2.1-1?arch=all

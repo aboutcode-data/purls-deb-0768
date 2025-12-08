@@ -1,0 +1,15 @@
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=amd64
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=arm64
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=armel
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=armhf
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=i386
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=ppc64el
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=riscv64
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-2%2Bb6?arch=s390x
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=amd64
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=arm64
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=armhf
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=i386
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=riscv64
+- pkg:deb/debian/librust-linescroll-dev@0.2.0-3%2Bb1?arch=s390x

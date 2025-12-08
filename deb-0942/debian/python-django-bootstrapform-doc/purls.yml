@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-django-bootstrapform-doc@3.4-7?arch=all
+- pkg:deb/debian/python-django-bootstrapform-doc@3.4-9?arch=all

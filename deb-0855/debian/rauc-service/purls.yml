@@ -1,0 +1,4 @@
+- pkg:deb/debian/rauc-service@1.13-3?arch=all
+- pkg:deb/debian/rauc-service@1.15-1?arch=all
+- pkg:deb/debian/rauc-service@1.5.1-1?arch=all
+- pkg:deb/debian/rauc-service@1.8-2?arch=all

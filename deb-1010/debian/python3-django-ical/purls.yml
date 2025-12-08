@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-ical@1.7.1-2?arch=all
+- pkg:deb/debian/python3-django-ical@1.8.3-4?arch=all

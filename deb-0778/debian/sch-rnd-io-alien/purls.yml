@@ -1,0 +1,13 @@
+- pkg:deb/debian/sch-rnd-io-alien@1.0.10-1?arch=amd64
+- pkg:deb/debian/sch-rnd-io-alien@1.0.10-1?arch=arm64
+- pkg:deb/debian/sch-rnd-io-alien@1.0.10-1?arch=armhf
+- pkg:deb/debian/sch-rnd-io-alien@1.0.10-1?arch=ppc64el
+- pkg:deb/debian/sch-rnd-io-alien@1.0.10-1?arch=riscv64
+- pkg:deb/debian/sch-rnd-io-alien@1.0.10-1?arch=s390x
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=amd64
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=arm64
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=armel
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=armhf
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=ppc64el
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=riscv64
+- pkg:deb/debian/sch-rnd-io-alien@1.0.8-3?arch=s390x

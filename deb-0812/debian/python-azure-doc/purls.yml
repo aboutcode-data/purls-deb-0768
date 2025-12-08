@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-azure-doc@20201208%2Bgit-6?arch=all
+- pkg:deb/debian/python-azure-doc@20230112%2Bgit-1?arch=all
+- pkg:deb/debian/python-azure-doc@20250603%2Bgit-1?arch=all
+- pkg:deb/debian/python-azure-doc@20251118%2Bgit-1?arch=all
+- pkg:deb/debian/python-azure-doc@20251202%2Bgit-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-parking-lot-core-0.4%2Bthread-id-dev@0.4.0-4?arch=amd64
+- pkg:deb/debian/librust-parking-lot-core-0.4%2Bthread-id-dev@0.4.0-4?arch=arm64
+- pkg:deb/debian/librust-parking-lot-core-0.4%2Bthread-id-dev@0.4.0-4?arch=armhf
+- pkg:deb/debian/librust-parking-lot-core-0.4%2Bthread-id-dev@0.4.0-4?arch=i386

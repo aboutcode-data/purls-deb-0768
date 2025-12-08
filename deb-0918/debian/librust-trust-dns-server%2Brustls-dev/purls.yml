@@ -1,0 +1,5 @@
+- pkg:deb/debian/librust-trust-dns-server%2Brustls-dev@0.22.0-2?arch=amd64
+- pkg:deb/debian/librust-trust-dns-server%2Brustls-dev@0.22.0-2?arch=arm64
+- pkg:deb/debian/librust-trust-dns-server%2Brustls-dev@0.22.0-2?arch=armel
+- pkg:deb/debian/librust-trust-dns-server%2Brustls-dev@0.22.0-2?arch=armhf
+- pkg:deb/debian/librust-trust-dns-server%2Brustls-dev@0.22.0-2?arch=i386

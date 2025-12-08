@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-bioc-ctc@1.64.0-1?arch=all
+- pkg:deb/debian/r-bioc-ctc@1.72.0-1?arch=all
+- pkg:deb/debian/r-bioc-ctc@1.80.0-2?arch=all

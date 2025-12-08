@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-mashumaro@3.15-1?arch=all
+- pkg:deb/debian/python3-mashumaro@3.16-1?arch=all

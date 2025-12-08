@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-keycloak@5.3.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-keycloak@5.7.0%2Bdfsg-1?arch=all

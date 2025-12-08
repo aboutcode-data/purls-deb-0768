@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-knapsack@1.18.0-2?arch=all
+- pkg:deb/debian/ruby-knapsack@4.0.0-1?arch=all

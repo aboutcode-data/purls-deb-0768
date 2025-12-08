@@ -1,0 +1,4 @@
+- pkg:deb/debian/qtcreator-doc@16.0.1-2?arch=all
+- pkg:deb/debian/qtcreator-doc@18.0.0-1?arch=all
+- pkg:deb/debian/qtcreator-doc@4.14.1-1?arch=all
+- pkg:deb/debian/qtcreator-doc@9.0.2-2?arch=all

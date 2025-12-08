@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsdformat6-dev@12.3.0%2Bds-2?arch=all
+- pkg:deb/debian/libsdformat6-dev@9.3.0%2Bds-3?arch=all

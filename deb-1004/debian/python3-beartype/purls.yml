@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-beartype@0.20.2-1?arch=all
+- pkg:deb/debian/python3-beartype@0.22.5-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/qtvirtualkeyboard5-doc@5.15.15%2Bdfsg-2?arch=all
+- pkg:deb/debian/qtvirtualkeyboard5-doc@5.15.17%2Bdfsg-2?arch=all
+- pkg:deb/debian/qtvirtualkeyboard5-doc@5.15.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/qtvirtualkeyboard5-doc@5.15.8%2Bdfsg-2?arch=all

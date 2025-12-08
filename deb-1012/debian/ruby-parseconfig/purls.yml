@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-parseconfig@1.0.8-1?arch=all
+- pkg:deb/debian/ruby-parseconfig@1.1.2-1?arch=all

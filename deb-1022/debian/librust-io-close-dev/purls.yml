@@ -1,0 +1,15 @@
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=amd64
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=arm64
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=armel
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=armhf
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=i386
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=riscv64
+- pkg:deb/debian/librust-io-close-dev@0.3.7-1%2Bb3?arch=s390x
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=amd64
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=arm64
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=armhf
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=i386
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=ppc64el
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=riscv64
+- pkg:deb/debian/librust-io-close-dev@0.3.7-3?arch=s390x

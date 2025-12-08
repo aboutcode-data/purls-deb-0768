@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-guid@3.5.1-1?arch=all
+- pkg:deb/debian/python3-django-guid@3.5.2-1?arch=all

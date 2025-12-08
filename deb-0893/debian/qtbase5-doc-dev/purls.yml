@@ -1,0 +1,4 @@
+- pkg:deb/debian/qtbase5-doc-dev@5.15.15%2Bdfsg-6?arch=all
+- pkg:deb/debian/qtbase5-doc-dev@5.15.17%2Bdfsg-4?arch=all
+- pkg:deb/debian/qtbase5-doc-dev@5.15.2%2Bdfsg-9%2Bdeb11u1?arch=all
+- pkg:deb/debian/qtbase5-doc-dev@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=all

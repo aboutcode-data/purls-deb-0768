@@ -1,0 +1,13 @@
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb3?arch=amd64
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb3?arch=arm64
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb3?arch=armhf
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb3?arch=i386
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=amd64
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=arm64
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=armel
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=armhf
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=i386
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=mips64el
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=mipsel
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=ppc64el
+- pkg:deb/debian/qt5-style-plugin-cleanlooks@5.0.0%2Bgit23.g335dbec-4%2Bb7?arch=s390x

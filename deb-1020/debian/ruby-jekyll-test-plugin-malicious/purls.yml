@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-jekyll-test-plugin-malicious@0.2.0-1.1?arch=all
+- pkg:deb/debian/ruby-jekyll-test-plugin-malicious@0.2.0-2?arch=all

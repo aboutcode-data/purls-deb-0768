@@ -1,0 +1,2 @@
+- pkg:deb/debian/2to3@3.11.2-1?arch=all
+- pkg:deb/debian/2to3@3.9.2-3?arch=all

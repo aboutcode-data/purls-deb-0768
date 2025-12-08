@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-scitrack@2020.6.5-1?arch=all
+- pkg:deb/debian/python3-scitrack@2021.5.3-3?arch=all
+- pkg:deb/debian/python3-scitrack@2024.10.8-1?arch=all

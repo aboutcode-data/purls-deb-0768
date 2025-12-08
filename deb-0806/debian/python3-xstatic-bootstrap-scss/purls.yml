@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-xstatic-bootstrap-scss@3.3.7.1-5?arch=all
+- pkg:deb/debian/python3-xstatic-bootstrap-scss@3.4.1.0-2?arch=all
+- pkg:deb/debian/python3-xstatic-bootstrap-scss@3.4.1.0-4?arch=all

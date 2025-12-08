@@ -1,0 +1,9 @@
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=amd64
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=arm64
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=armel
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=armhf
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=i386
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=mips64el
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=mipsel
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=ppc64el
+- pkg:deb/debian/sq-wot@0.2.0-1%2Bb5?arch=s390x

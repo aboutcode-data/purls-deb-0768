@@ -1,0 +1,17 @@
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3%2Bb1?arch=amd64
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=arm64
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=armel
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=armhf
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=i386
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=mips64el
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=mipsel
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=ppc64el
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20210223.8dfad9e-3?arch=s390x
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=amd64
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=arm64
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=armel
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=armhf
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=i386
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=ppc64el
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=riscv64
+- pkg:deb/debian/rime-data-cangjie5@0.0~git20240325.0ac8452-1?arch=s390x

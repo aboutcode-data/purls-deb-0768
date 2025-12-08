@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-oslo.reports-doc@2.2.0-2?arch=all
+- pkg:deb/debian/python-oslo.reports-doc@2.4.0-2?arch=all
+- pkg:deb/debian/python-oslo.reports-doc@3.5.1-3?arch=all
+- pkg:deb/debian/python-oslo.reports-doc@3.6.0-2?arch=all

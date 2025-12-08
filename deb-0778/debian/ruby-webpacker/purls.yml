@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-webpacker@4.2.2-7?arch=all
+- pkg:deb/debian/ruby-webpacker@5.4.3-2?arch=all

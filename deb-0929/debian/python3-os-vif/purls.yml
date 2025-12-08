@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-os-vif@2.2.0-2?arch=all
+- pkg:deb/debian/python3-os-vif@3.0.0-2?arch=all
+- pkg:deb/debian/python3-os-vif@4.1.0-2?arch=all
+- pkg:deb/debian/python3-os-vif@4.2.1-2?arch=all

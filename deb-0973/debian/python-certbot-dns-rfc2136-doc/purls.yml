@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-certbot-dns-rfc2136-doc@1.10.1-1?arch=all
+- pkg:deb/debian/python-certbot-dns-rfc2136-doc@2.1.0-1?arch=all
+- pkg:deb/debian/python-certbot-dns-rfc2136-doc@4.0.0-1?arch=all

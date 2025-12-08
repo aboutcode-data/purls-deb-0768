@@ -1,0 +1,4 @@
+- pkg:deb/debian/joint-state-publisher@1.15.0-2?arch=all
+- pkg:deb/debian/joint-state-publisher@1.15.1-1?arch=all
+- pkg:deb/debian/joint-state-publisher@1.15.1-4?arch=all
+- pkg:deb/debian/joint-state-publisher@1.15.2-1?arch=all

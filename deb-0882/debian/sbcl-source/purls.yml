@@ -1,0 +1,4 @@
+- pkg:deb/debian/sbcl-source@2.1.1-2?arch=all
+- pkg:deb/debian/sbcl-source@2.2.9-1?arch=all
+- pkg:deb/debian/sbcl-source@2.5.10-1?arch=all
+- pkg:deb/debian/sbcl-source@2.5.2-1?arch=all

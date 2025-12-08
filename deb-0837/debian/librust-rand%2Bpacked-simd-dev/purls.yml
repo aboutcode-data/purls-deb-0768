@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-rand%2Bpacked-simd-dev@0.7.3-3?arch=amd64
+- pkg:deb/debian/librust-rand%2Bpacked-simd-dev@0.7.3-3?arch=arm64
+- pkg:deb/debian/librust-rand%2Bpacked-simd-dev@0.7.3-3?arch=armhf
+- pkg:deb/debian/librust-rand%2Bpacked-simd-dev@0.7.3-3?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-tuf@5.1.0-2?arch=all
+- pkg:deb/debian/python3-tuf@6.0.0-2?arch=all

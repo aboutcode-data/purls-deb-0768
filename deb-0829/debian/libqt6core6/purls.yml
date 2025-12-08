@@ -1,0 +1,9 @@
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=amd64
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=arm64
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=armel
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=armhf
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=i386
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=mips64el
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=mipsel
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=ppc64el
+- pkg:deb/debian/libqt6core6@6.4.2%2Bdfsg-10?arch=s390x

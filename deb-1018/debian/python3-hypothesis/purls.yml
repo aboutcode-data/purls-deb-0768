@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-hypothesis@5.43.3-1?arch=all
+- pkg:deb/debian/python3-hypothesis@6.130.5-2?arch=all
+- pkg:deb/debian/python3-hypothesis@6.148.2-1?arch=all
+- pkg:deb/debian/python3-hypothesis@6.67.1-1?arch=all

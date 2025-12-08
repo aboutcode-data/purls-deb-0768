@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-pytest-subprocess-doc@1.5.3-1?arch=all
+- pkg:deb/debian/python-pytest-subprocess-doc@1.5.3-1~bpo12%2B1?arch=all

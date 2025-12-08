@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-msgpack-numpy@0.4.4-1.1?arch=all
+- pkg:deb/debian/python3-msgpack-numpy@0.4.8-1?arch=all

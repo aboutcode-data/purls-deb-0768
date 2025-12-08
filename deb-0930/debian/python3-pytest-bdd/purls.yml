@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-bdd@5.0.0-1?arch=all
+- pkg:deb/debian/python3-pytest-bdd@7.1.2-2?arch=all

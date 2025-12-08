@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-diagnostic-updater@1.10.1%2Bds1-3?arch=all
+- pkg:deb/debian/python3-diagnostic-updater@1.11.0%2Bds-4?arch=all
+- pkg:deb/debian/python3-diagnostic-updater@1.11.0%2Bds-8?arch=all
+- pkg:deb/debian/python3-diagnostic-updater@1.12.1%2Bds-1?arch=all

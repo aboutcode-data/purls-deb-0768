@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-instance-storage@1.0.0-4?arch=all
+- pkg:deb/debian/ruby-instance-storage@2.0.0-2?arch=all

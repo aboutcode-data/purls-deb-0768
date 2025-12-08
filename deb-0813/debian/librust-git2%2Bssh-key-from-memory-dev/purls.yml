@@ -1,0 +1,13 @@
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.13.11-2?arch=amd64
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.13.11-2?arch=arm64
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.13.11-2?arch=armhf
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.13.11-2?arch=i386
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=amd64
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=arm64
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=armel
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=armhf
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=i386
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=mips64el
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=mipsel
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=ppc64el
+- pkg:deb/debian/librust-git2%2Bssh-key-from-memory-dev@0.16.0-1?arch=s390x

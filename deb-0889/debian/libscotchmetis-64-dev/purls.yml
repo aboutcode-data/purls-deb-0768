@@ -1,0 +1,7 @@
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=amd64
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=arm64
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=armhf
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=i386
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=ppc64el
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=riscv64
+- pkg:deb/debian/libscotchmetis-64-dev@7.0.10-7?arch=s390x

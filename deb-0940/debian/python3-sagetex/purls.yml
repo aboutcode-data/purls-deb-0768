@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-sagetex@3.5%2Bds-2?arch=all
+- pkg:deb/debian/python3-sagetex@3.6.1%2Bds-1?arch=all

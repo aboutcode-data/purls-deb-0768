@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mofapy@1.6.1%2Bdfsg-10?arch=all
+- pkg:deb/debian/python3-mofapy@1.6.1%2Bdfsg-15?arch=all
+- pkg:deb/debian/python3-mofapy@1.6.1%2Bdfsg-16?arch=all
+- pkg:deb/debian/python3-mofapy@1.6.1%2Bdfsg-1?arch=all

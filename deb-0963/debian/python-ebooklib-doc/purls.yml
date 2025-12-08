@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-ebooklib-doc@0.18-2?arch=all
+- pkg:deb/debian/python-ebooklib-doc@0.19-1?arch=all
+- pkg:deb/debian/python-ebooklib-doc@0.20-1?arch=all

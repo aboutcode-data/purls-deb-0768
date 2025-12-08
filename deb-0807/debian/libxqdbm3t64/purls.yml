@@ -1,0 +1,15 @@
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=amd64
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=arm64
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=armel
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=armhf
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=i386
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=ppc64el
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=riscv64
+- pkg:deb/debian/libxqdbm3t64@1.8.78-13%2Bb3?arch=s390x
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=amd64
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=arm64
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=armhf
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=i386
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=ppc64el
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=riscv64
+- pkg:deb/debian/libxqdbm3t64@1.8.78-14?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-dependency@0.5.1-2?arch=all
+- pkg:deb/debian/python3-pytest-dependency@0.5.1-5?arch=all

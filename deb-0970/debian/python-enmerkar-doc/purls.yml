@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-enmerkar-doc@0.7.1-3?arch=all
+- pkg:deb/debian/python-enmerkar-doc@0.7.1-5?arch=all
+- pkg:deb/debian/python-enmerkar-doc@0.7.1-8?arch=all

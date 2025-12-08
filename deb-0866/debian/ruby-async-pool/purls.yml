@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-async-pool@0.3.12-1?arch=all
+- pkg:deb/debian/ruby-async-pool@0.3.2-2?arch=all

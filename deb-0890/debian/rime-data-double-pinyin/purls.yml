@@ -1,0 +1,17 @@
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4%2Bb1?arch=amd64
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=arm64
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=armel
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=armhf
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=i386
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=mips64el
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=mipsel
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=ppc64el
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-4?arch=s390x
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5%2Bb1?arch=riscv64
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=amd64
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=arm64
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=armel
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=armhf
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=i386
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=ppc64el
+- pkg:deb/debian/rime-data-double-pinyin@0.0~git20190120.69bf85d-5?arch=s390x

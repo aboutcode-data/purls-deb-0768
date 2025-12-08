@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-gtk%2Bgtk-rs-lgpl-docs-dev@0.7.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/librust-gtk%2Bgtk-rs-lgpl-docs-dev@0.7.0-1%2Bb1?arch=arm64
+- pkg:deb/debian/librust-gtk%2Bgtk-rs-lgpl-docs-dev@0.7.0-1%2Bb1?arch=armhf
+- pkg:deb/debian/librust-gtk%2Bgtk-rs-lgpl-docs-dev@0.7.0-1%2Bb1?arch=i386

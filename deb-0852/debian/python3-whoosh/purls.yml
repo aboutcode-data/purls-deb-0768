@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-whoosh@2.7.4%2Bgit6-g9134ad92-10?arch=all
+- pkg:deb/debian/python3-whoosh@2.7.4%2Bgit6-g9134ad92-5?arch=all
+- pkg:deb/debian/python3-whoosh@2.7.4%2Bgit6-g9134ad92-7?arch=all

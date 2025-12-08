@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-netdisco@2.8.2-1?arch=all
+- pkg:deb/debian/python3-netdisco@2.8.2-3?arch=all
+- pkg:deb/debian/python3-netdisco@2.9.0-2?arch=all

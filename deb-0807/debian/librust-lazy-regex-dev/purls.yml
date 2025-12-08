@@ -1,0 +1,3 @@
+- pkg:deb/debian/librust-lazy-regex-dev@2.4.1-2?arch=all
+- pkg:deb/debian/librust-lazy-regex-dev@3.4.1%2B20241227-3?arch=all
+- pkg:deb/debian/librust-lazy-regex-dev@3.4.2%2B20251114-1?arch=all

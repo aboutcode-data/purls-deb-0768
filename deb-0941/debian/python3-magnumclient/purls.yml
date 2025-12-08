@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-magnumclient@3.2.1-2?arch=all
+- pkg:deb/debian/python3-magnumclient@4.0.0-2?arch=all
+- pkg:deb/debian/python3-magnumclient@4.8.1-2?arch=all
+- pkg:deb/debian/python3-magnumclient@4.9.0-2?arch=all

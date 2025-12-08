@@ -1,0 +1,2 @@
+- pkg:deb/debian/idle-python3.14@3.14.0-5?arch=all
+- pkg:deb/debian/idle-python3.14@3.14.2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pyatspi@2.38.1-1?arch=all
+- pkg:deb/debian/python3-pyatspi@2.46.0-2?arch=all
+- pkg:deb/debian/python3-pyatspi@2.46.1-1?arch=all
+- pkg:deb/debian/python3-pyatspi@2.57.0-1?arch=all

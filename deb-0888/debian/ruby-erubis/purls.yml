@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-erubis@2.7.0-3.1?arch=all
+- pkg:deb/debian/ruby-erubis@2.7.0-4?arch=all

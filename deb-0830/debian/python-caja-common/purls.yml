@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-caja-common@1.24.0-3?arch=all
+- pkg:deb/debian/python-caja-common@1.26.0-1?arch=all

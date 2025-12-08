@@ -1,0 +1,2 @@
+- pkg:deb/debian/pysatellites@2.6-1?arch=all
+- pkg:deb/debian/pysatellites@2.7-4?arch=all

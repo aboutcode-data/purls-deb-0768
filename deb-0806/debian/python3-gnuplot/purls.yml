@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-gnuplot@1.8-8?arch=all
+- pkg:deb/debian/python3-gnuplot@1.8-9?arch=all

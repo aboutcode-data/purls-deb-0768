@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-anyjson@0.3.3-2?arch=all
+- pkg:deb/debian/python3-anyjson@0.3.3-5?arch=all

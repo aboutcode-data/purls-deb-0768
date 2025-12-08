@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-h5netcdf@0.8.1-2?arch=all
+- pkg:deb/debian/python3-h5netcdf@1.1.0-1?arch=all
+- pkg:deb/debian/python3-h5netcdf@1.6.1-1?arch=all
+- pkg:deb/debian/python3-h5netcdf@1.6.4-2?arch=all

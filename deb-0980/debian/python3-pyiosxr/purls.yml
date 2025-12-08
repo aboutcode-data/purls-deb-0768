@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyiosxr@0.52-1.1?arch=all
+- pkg:deb/debian/python3-pyiosxr@0.52-2?arch=all

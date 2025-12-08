@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-exchangelib@3.2.0-1?arch=all
+- pkg:deb/debian/python3-exchangelib@4.9.0-1?arch=all
+- pkg:deb/debian/python3-exchangelib@5.5.1-1?arch=all
+- pkg:deb/debian/python3-exchangelib@5.5.1-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-logfury@0.1.2-4?arch=all
+- pkg:deb/debian/python3-logfury@1.0.1-1?arch=all

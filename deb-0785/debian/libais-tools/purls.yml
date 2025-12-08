@@ -1,0 +1,4 @@
+- pkg:deb/debian/libais-tools@0.17%2Bgit.20190917.master.e464cf8-2?arch=all
+- pkg:deb/debian/libais-tools@0.17%2Bgit.20190917.master.e464cf8-3?arch=all
+- pkg:deb/debian/libais-tools@0.17%2Bgit.20190917.master.e464cf8-5?arch=all
+- pkg:deb/debian/libais-tools@0.17%2Bgit.20190917.master.e464cf8-6?arch=all

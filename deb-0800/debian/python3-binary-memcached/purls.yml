@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-binary-memcached@0.30.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python3-binary-memcached@0.31.1%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python3-binary-memcached@0.31.2%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python3-binary-memcached@0.31.4%2Bdfsg1-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-wikicloth@0.8.1%2Bdfsg-4.1?arch=all
+- pkg:deb/debian/ruby-wikicloth@0.8.1%2Bdfsg-4?arch=all

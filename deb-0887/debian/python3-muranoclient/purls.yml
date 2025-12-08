@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-muranoclient@2.1.1-2?arch=all
+- pkg:deb/debian/python3-muranoclient@2.5.0-2?arch=all

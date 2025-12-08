@@ -1,0 +1,6 @@
+- pkg:deb/debian/reform-setup-wizard@1.0-13%2Bb1?arch=amd64
+- pkg:deb/debian/reform-setup-wizard@1.0-13%2Bb1?arch=arm64
+- pkg:deb/debian/reform-setup-wizard@1.0-13%2Bb1?arch=i386
+- pkg:deb/debian/reform-setup-wizard@1.0-14%2Bb1?arch=amd64
+- pkg:deb/debian/reform-setup-wizard@1.0-14%2Bb1?arch=arm64
+- pkg:deb/debian/reform-setup-wizard@1.0-14%2Bb1?arch=i386

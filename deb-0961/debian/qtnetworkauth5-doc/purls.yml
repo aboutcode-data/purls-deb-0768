@@ -1,0 +1,4 @@
+- pkg:deb/debian/qtnetworkauth5-doc@5.15.15-3?arch=all
+- pkg:deb/debian/qtnetworkauth5-doc@5.15.17-2?arch=all
+- pkg:deb/debian/qtnetworkauth5-doc@5.15.2-2?arch=all
+- pkg:deb/debian/qtnetworkauth5-doc@5.15.8-2?arch=all

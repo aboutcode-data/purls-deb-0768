@@ -1,0 +1,5 @@
+- pkg:deb/debian/sail-ocaml@0.19.1%2Bdfsg5-1%2Bb5?arch=arm64
+- pkg:deb/debian/sail-ocaml@0.19.1%2Bdfsg5-1%2Bb5?arch=ppc64el
+- pkg:deb/debian/sail-ocaml@0.19.1%2Bdfsg5-1%2Bb5?arch=riscv64
+- pkg:deb/debian/sail-ocaml@0.19.1%2Bdfsg5-1%2Bb5?arch=s390x
+- pkg:deb/debian/sail-ocaml@0.19.1%2Bdfsg5-1%2Bb6?arch=amd64

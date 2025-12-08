@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-sentry-sdk-doc@1.9.10-2?arch=all
+- pkg:deb/debian/python-sentry-sdk-doc@2.18.0-1?arch=all
+- pkg:deb/debian/python-sentry-sdk-doc@2.22.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/policycoreutils-dbus@3.1-1?arch=all
+- pkg:deb/debian/policycoreutils-dbus@3.4-1?arch=all
+- pkg:deb/debian/policycoreutils-dbus@3.8.1-1?arch=all
+- pkg:deb/debian/policycoreutils-dbus@3.9-1?arch=all

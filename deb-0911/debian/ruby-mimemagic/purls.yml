@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-mimemagic@0.3.5%2Bdfsg-1?arch=all
+- pkg:deb/debian/ruby-mimemagic@0.4.3-2?arch=all

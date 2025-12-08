@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-restless@2.1.1-2?arch=all
+- pkg:deb/debian/python3-restless@2.2.0-2?arch=all
+- pkg:deb/debian/python3-restless@2.2.0-3?arch=all

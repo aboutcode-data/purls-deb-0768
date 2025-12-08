@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-mime-types-data@3.2015.1120-1.1?arch=all
+- pkg:deb/debian/ruby-mime-types-data@3.2022.0105-1?arch=all
+- pkg:deb/debian/ruby-mime-types-data@3.2024.0206-1?arch=all
+- pkg:deb/debian/ruby-mime-types-data@3.2025.0924-1?arch=all

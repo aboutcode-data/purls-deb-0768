@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-flycheck-rtags@2.38-12?arch=all
+- pkg:deb/debian/elpa-flycheck-rtags@2.38-3?arch=all
+- pkg:deb/debian/elpa-flycheck-rtags@2.38-7?arch=all
+- pkg:deb/debian/elpa-flycheck-rtags@2.41-2?arch=all

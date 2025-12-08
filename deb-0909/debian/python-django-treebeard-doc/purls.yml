@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-django-treebeard-doc@4.3.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-django-treebeard-doc@4.6.1-1?arch=all
+- pkg:deb/debian/python-django-treebeard-doc@4.7.1-1?arch=all
+- pkg:deb/debian/python-django-treebeard-doc@4.7.1-2?arch=all

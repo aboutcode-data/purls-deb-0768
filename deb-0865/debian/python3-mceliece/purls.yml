@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-mceliece@0~20241009.1-4?arch=all
+- pkg:deb/debian/python3-mceliece@0~20241009.2-1?arch=all

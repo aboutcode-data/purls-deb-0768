@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-validate-pyproject-doc@0.12.2-1?arch=all
+- pkg:deb/debian/python-validate-pyproject-doc@0.24.1-1?arch=all

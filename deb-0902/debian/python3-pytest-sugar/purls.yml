@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pytest-sugar@0.9.4-1?arch=all
+- pkg:deb/debian/python3-pytest-sugar@0.9.6-1?arch=all
+- pkg:deb/debian/python3-pytest-sugar@1.0.0-1?arch=all
+- pkg:deb/debian/python3-pytest-sugar@1.1.1-2?arch=all

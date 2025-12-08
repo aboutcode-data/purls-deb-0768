@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-with-advisory-lock@5.1.0-4?arch=all
+- pkg:deb/debian/ruby-with-advisory-lock@5.3.0-2?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/librust-subversion-dev@0.0.8-3?arch=amd64
+- pkg:deb/debian/librust-subversion-dev@0.0.8-4?arch=amd64
+- pkg:deb/debian/librust-subversion-dev@0.0.8-4?arch=arm64
+- pkg:deb/debian/librust-subversion-dev@0.0.8-4?arch=ppc64el
+- pkg:deb/debian/librust-subversion-dev@0.0.8-4?arch=riscv64
+- pkg:deb/debian/librust-subversion-dev@0.0.8-4?arch=s390x

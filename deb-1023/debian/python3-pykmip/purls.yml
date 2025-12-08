@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pykmip@0.10.0-3?arch=all
+- pkg:deb/debian/python3-pykmip@0.10.0-4?arch=all
+- pkg:deb/debian/python3-pykmip@0.10.0-8?arch=all
+- pkg:deb/debian/python3-pykmip@0.10.0-9?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/r-bioc-progeny@1.20.0%2Bds-1?arch=all
+- pkg:deb/debian/r-bioc-progeny@1.28.0%2Bds-2?arch=all

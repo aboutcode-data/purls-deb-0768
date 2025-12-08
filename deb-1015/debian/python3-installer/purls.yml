@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-installer@0.6.0%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python3-installer@0.7.0%2Bdfsg1-3?arch=all

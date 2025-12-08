@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-xstatic-angular-fileupload@12.0.4.0%2Bdfsg1-3?arch=all
+- pkg:deb/debian/python3-xstatic-angular-fileupload@12.2.13.0%2Bdfsg1-4?arch=all

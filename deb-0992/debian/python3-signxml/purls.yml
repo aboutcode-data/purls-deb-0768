@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-signxml@4.0.5%2Bdfsg-2?arch=all
+- pkg:deb/debian/python3-signxml@4.2.0%2Bdfsg-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-pydbus-doc@0.6.0-4?arch=all
+- pkg:deb/debian/python-pydbus-doc@0.6.0-5?arch=all
+- pkg:deb/debian/python-pydbus-doc@0.6.0-6?arch=all

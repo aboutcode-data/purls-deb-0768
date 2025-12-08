@@ -1,0 +1,2 @@
+- pkg:deb/debian/pygtail@0.6.1-2?arch=all
+- pkg:deb/debian/pygtail@0.6.1-3?arch=all

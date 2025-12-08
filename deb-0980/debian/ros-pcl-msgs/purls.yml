@@ -1,0 +1,2 @@
+- pkg:deb/debian/ros-pcl-msgs@0.3.0-2?arch=all
+- pkg:deb/debian/ros-pcl-msgs@0.3.0-4?arch=all

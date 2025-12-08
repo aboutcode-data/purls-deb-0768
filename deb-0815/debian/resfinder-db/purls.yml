@@ -1,0 +1,3 @@
+- pkg:deb/debian/resfinder-db@0.0%2Bgit20200408.0322c0d-1?arch=all
+- pkg:deb/debian/resfinder-db@0.0%2Bgit20220524.fa32d9a-1?arch=all
+- pkg:deb/debian/resfinder-db@0.0%2Bgit20220524.fa32d9a-2?arch=all

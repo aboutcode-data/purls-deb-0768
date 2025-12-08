@@ -1,0 +1,2 @@
+- pkg:deb/debian/datamodel-codegen@0.26.4-3?arch=all
+- pkg:deb/debian/datamodel-codegen@0.35.0-1?arch=all

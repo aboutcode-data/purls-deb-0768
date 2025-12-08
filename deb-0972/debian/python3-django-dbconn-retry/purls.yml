@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-dbconn-retry@0.1.5-1.1?arch=all
+- pkg:deb/debian/python3-django-dbconn-retry@0.1.7-1?arch=all
+- pkg:deb/debian/python3-django-dbconn-retry@0.1.8-1?arch=all
+- pkg:deb/debian/python3-django-dbconn-retry@0.1.9-1?arch=all

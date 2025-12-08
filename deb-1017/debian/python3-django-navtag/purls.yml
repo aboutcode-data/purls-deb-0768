@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-navtag@2.1.3-2?arch=all
+- pkg:deb/debian/python3-django-navtag@3.0-2?arch=all
+- pkg:deb/debian/python3-django-navtag@3.0-3?arch=all
+- pkg:deb/debian/python3-django-navtag@3.3.1-1?arch=all

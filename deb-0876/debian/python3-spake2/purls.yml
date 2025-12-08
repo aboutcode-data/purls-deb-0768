@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-spake2@0.8-2?arch=all
+- pkg:deb/debian/python3-spake2@0.9-1?arch=all

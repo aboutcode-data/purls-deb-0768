@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-sourceorder@0.5.1-2.1?arch=all
+- pkg:deb/debian/python3-pytest-sourceorder@0.5.1-2?arch=all

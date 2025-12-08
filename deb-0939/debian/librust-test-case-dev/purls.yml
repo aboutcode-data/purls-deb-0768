@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-test-case-dev@2.2.2-6?arch=all
+- pkg:deb/debian/librust-test-case-dev@3.3.1-6?arch=all

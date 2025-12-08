@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mpv@0.5.2-1?arch=all
+- pkg:deb/debian/python3-mpv@1.0.1-3?arch=all
+- pkg:deb/debian/python3-mpv@1.0.7-3?arch=all
+- pkg:deb/debian/python3-mpv@1.0.8-2?arch=all

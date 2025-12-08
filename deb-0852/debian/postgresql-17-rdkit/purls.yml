@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-rdkit@202503.1-4?arch=amd64
+- pkg:deb/debian/postgresql-17-rdkit@202503.1-4?arch=arm64
+- pkg:deb/debian/postgresql-17-rdkit@202503.1-4?arch=ppc64el
+- pkg:deb/debian/postgresql-17-rdkit@202503.1-4?arch=riscv64
+- pkg:deb/debian/postgresql-17-rdkit@202503.1-5?arch=riscv64

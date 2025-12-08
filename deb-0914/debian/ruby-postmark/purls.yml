@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-postmark@1.22.0-2?arch=all
+- pkg:deb/debian/ruby-postmark@1.25.1-1?arch=all

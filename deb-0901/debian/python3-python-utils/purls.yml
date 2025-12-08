@@ -1,0 +1,6 @@
+- pkg:deb/debian/python3-python-utils@2.3.0-2%2Bb2?arch=amd64
+- pkg:deb/debian/python3-python-utils@2.3.0-2%2Bb2?arch=arm64
+- pkg:deb/debian/python3-python-utils@2.3.0-2%2Bb2?arch=armhf
+- pkg:deb/debian/python3-python-utils@2.3.0-2%2Bb2?arch=i386
+- pkg:deb/debian/python3-python-utils@3.5.2-1?arch=all
+- pkg:deb/debian/python3-python-utils@3.9.1-1?arch=all

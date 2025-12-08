@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ilorest@3.1.1%2Bds-1?arch=all
+- pkg:deb/debian/python3-ilorest@3.6.0.0%2Bds-1?arch=all
+- pkg:deb/debian/python3-ilorest@5.2.0.0%2Bds-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-ilorest@5.3.0.0a%2Bds-1?arch=all

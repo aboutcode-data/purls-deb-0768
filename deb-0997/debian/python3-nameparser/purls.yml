@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-nameparser@1.0.6-2?arch=all
+- pkg:deb/debian/python3-nameparser@1.1.2-1?arch=all
+- pkg:deb/debian/python3-nameparser@1.1.3-1?arch=all

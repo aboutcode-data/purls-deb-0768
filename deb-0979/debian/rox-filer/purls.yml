@@ -1,0 +1,13 @@
+- pkg:deb/debian/rox-filer@2.11-5?arch=amd64
+- pkg:deb/debian/rox-filer@2.11-5?arch=arm64
+- pkg:deb/debian/rox-filer@2.11-5?arch=armhf
+- pkg:deb/debian/rox-filer@2.11-5?arch=i386
+- pkg:deb/debian/rox-filer@2.11-7?arch=amd64
+- pkg:deb/debian/rox-filer@2.11-7?arch=arm64
+- pkg:deb/debian/rox-filer@2.11-7?arch=armel
+- pkg:deb/debian/rox-filer@2.11-7?arch=armhf
+- pkg:deb/debian/rox-filer@2.11-7?arch=i386
+- pkg:deb/debian/rox-filer@2.11-7?arch=mips64el
+- pkg:deb/debian/rox-filer@2.11-7?arch=mipsel
+- pkg:deb/debian/rox-filer@2.11-7?arch=ppc64el
+- pkg:deb/debian/rox-filer@2.11-7?arch=s390x

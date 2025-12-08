@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-lewton%2Basync-ogg-dev@0.9.4-3?arch=amd64
+- pkg:deb/debian/librust-lewton%2Basync-ogg-dev@0.9.4-3?arch=arm64
+- pkg:deb/debian/librust-lewton%2Basync-ogg-dev@0.9.4-3?arch=armhf
+- pkg:deb/debian/librust-lewton%2Basync-ogg-dev@0.9.4-3?arch=i386

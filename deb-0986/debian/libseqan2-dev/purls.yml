@@ -1,0 +1,5 @@
+- pkg:deb/debian/libseqan2-dev@2.4.0%2Bdfsg-14?arch=all
+- pkg:deb/debian/libseqan2-dev@2.4.0%2Bdfsg-15?arch=all
+- pkg:deb/debian/libseqan2-dev@2.4.0%2Bdfsg-16?arch=all
+- pkg:deb/debian/libseqan2-dev@2.4.0%2Bdfsg-17?arch=all
+- pkg:deb/debian/libseqan2-dev@2.5.0~rc3%2Bdfsg-1?arch=all

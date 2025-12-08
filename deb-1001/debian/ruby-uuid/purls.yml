@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-uuid@2.3.9-1.1?arch=all
+- pkg:deb/debian/ruby-uuid@2.3.9-4?arch=all

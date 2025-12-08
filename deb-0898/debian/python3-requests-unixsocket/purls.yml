@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-requests-unixsocket@0.2.0-2?arch=all
+- pkg:deb/debian/python3-requests-unixsocket@0.3.0-2?arch=all
+- pkg:deb/debian/python3-requests-unixsocket@0.3.0-6?arch=all
+- pkg:deb/debian/python3-requests-unixsocket@1.0.1-1?arch=all

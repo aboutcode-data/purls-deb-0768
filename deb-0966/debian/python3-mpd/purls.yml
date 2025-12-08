@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mpd@3.0.3-1?arch=all
+- pkg:deb/debian/python3-mpd@3.0.5-1?arch=all
+- pkg:deb/debian/python3-mpd@3.1.1-2?arch=all
+- pkg:deb/debian/python3-mpd@3.1.2-2?arch=all

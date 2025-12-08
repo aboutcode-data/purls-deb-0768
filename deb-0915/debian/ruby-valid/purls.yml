@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-valid@1.0.0-2.1?arch=all
+- pkg:deb/debian/ruby-valid@1.2.0-1?arch=all

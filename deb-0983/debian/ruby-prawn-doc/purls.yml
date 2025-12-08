@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-prawn-doc@2.3.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/ruby-prawn-doc@2.4.0%2Bdfsg-1~?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-certbot-dns-cloudflare-doc@1.6.0-1?arch=all
+- pkg:deb/debian/python-certbot-dns-cloudflare-doc@2.0.0-1?arch=all
+- pkg:deb/debian/python-certbot-dns-cloudflare-doc@4.0.0-1?arch=all

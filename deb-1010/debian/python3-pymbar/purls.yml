@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pymbar@3.1.0-4?arch=all
+- pkg:deb/debian/python3-pymbar@4.0.3-2?arch=all

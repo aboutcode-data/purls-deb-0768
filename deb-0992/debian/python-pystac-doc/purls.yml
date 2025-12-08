@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-pystac-doc@1.13.0-1?arch=all
+- pkg:deb/debian/python-pystac-doc@1.14.1-1?arch=all

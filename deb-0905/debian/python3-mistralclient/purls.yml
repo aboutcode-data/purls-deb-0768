@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mistralclient@4.1.1-2?arch=all
+- pkg:deb/debian/python3-mistralclient@4.5.0-2?arch=all
+- pkg:deb/debian/python3-mistralclient@5.4.0-2?arch=all
+- pkg:deb/debian/python3-mistralclient@6.0.0-2?arch=all

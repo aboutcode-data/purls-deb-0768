@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pyqt5.qtchart-dbg@5.15.2%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/python3-pyqt5.qtchart-dbg@5.15.2%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/python3-pyqt5.qtchart-dbg@5.15.2%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/python3-pyqt5.qtchart-dbg@5.15.2%2Bdfsg-2?arch=i386

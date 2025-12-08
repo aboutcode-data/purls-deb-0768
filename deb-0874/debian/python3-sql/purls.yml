@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sql@1.2.1-1?arch=all
+- pkg:deb/debian/python3-sql@1.4.0-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/python3-sql@1.5.2-2?arch=all
+- pkg:deb/debian/python3-sql@1.6.0-1?arch=all

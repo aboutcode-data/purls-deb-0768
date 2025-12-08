@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-hyperframe@6.0.0-1?arch=all
+- pkg:deb/debian/python3-hyperframe@6.1.0-1?arch=all

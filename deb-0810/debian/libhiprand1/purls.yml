@@ -1,0 +1,5 @@
+- pkg:deb/debian/libhiprand1@5.3.3-4?arch=amd64
+- pkg:deb/debian/libhiprand1@5.3.3-4?arch=arm64
+- pkg:deb/debian/libhiprand1@5.7.1-6?arch=amd64
+- pkg:deb/debian/libhiprand1@5.7.1-6?arch=arm64
+- pkg:deb/debian/libhiprand1@5.7.1-6?arch=ppc64el

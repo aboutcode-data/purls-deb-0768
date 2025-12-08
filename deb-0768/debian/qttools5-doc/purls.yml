@@ -1,0 +1,4 @@
+- pkg:deb/debian/qttools5-doc@5.15.15-6?arch=all
+- pkg:deb/debian/qttools5-doc@5.15.17-4?arch=all
+- pkg:deb/debian/qttools5-doc@5.15.2-5?arch=all
+- pkg:deb/debian/qttools5-doc@5.15.8-2?arch=all

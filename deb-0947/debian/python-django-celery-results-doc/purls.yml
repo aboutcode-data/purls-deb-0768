@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-django-celery-results-doc@2.0.0-1?arch=all
+- pkg:deb/debian/python-django-celery-results-doc@2.4.0-3?arch=all
+- pkg:deb/debian/python-django-celery-results-doc@2.5.1-3?arch=all
+- pkg:deb/debian/python-django-celery-results-doc@2.6.0-1?arch=all

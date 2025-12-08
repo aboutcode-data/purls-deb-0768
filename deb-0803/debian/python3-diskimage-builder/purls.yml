@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-diskimage-builder@3.13.0-2?arch=all
+- pkg:deb/debian/python3-diskimage-builder@3.2.1-4?arch=all
+- pkg:deb/debian/python3-diskimage-builder@3.37.0-2?arch=all
+- pkg:deb/debian/python3-diskimage-builder@3.39.0-2?arch=all

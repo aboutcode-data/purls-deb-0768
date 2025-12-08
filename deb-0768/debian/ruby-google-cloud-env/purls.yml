@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-google-cloud-env@1.3.2-1?arch=all
+- pkg:deb/debian/ruby-google-cloud-env@1.6.0-1?arch=all
+- pkg:deb/debian/ruby-google-cloud-env@2.1.1-1?arch=all

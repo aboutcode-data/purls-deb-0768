@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-pastel@0.7.3-2?arch=all
+- pkg:deb/debian/ruby-pastel@0.8.0-1?arch=all

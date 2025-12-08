@@ -1,0 +1,2 @@
+- pkg:deb/debian/rstcheck@6.1.1%2B~1.0.3-2?arch=all
+- pkg:deb/debian/rstcheck@6.2.4%2B~1.2.1-1?arch=all

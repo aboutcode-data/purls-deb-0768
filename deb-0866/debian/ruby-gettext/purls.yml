@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-gettext@3.3.3-2?arch=all
+- pkg:deb/debian/ruby-gettext@3.4.9-1?arch=all

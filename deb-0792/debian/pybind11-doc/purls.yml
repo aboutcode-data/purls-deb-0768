@@ -1,0 +1,4 @@
+- pkg:deb/debian/pybind11-doc@2.10.3-1?arch=all
+- pkg:deb/debian/pybind11-doc@2.13.6-2?arch=all
+- pkg:deb/debian/pybind11-doc@2.6.2-1?arch=all
+- pkg:deb/debian/pybind11-doc@3.0.1-2?arch=all

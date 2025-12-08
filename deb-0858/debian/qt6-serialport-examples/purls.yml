@@ -1,0 +1,15 @@
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=amd64
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=arm64
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=armel
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=armhf
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=i386
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=ppc64el
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=riscv64
+- pkg:deb/debian/qt6-serialport-examples@6.8.2-3?arch=s390x
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=amd64
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=arm64
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=armhf
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=i386
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=ppc64el
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=riscv64
+- pkg:deb/debian/qt6-serialport-examples@6.9.2-3?arch=s390x

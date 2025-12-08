@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-aodhclient@2.1.1-1?arch=all
+- pkg:deb/debian/python3-aodhclient@3.0.0-2?arch=all
+- pkg:deb/debian/python3-aodhclient@3.7.1-2?arch=all
+- pkg:deb/debian/python3-aodhclient@3.9.1-2?arch=all

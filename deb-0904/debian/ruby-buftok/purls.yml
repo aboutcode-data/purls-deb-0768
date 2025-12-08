@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-buftok@0.2.0-2?arch=all
+- pkg:deb/debian/ruby-buftok@0.3.0-1?arch=all

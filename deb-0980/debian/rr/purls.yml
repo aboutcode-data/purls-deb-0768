@@ -1,0 +1,13 @@
+- pkg:deb/debian/rr@5.4.0-2?arch=amd64
+- pkg:deb/debian/rr@5.4.0-2?arch=i386
+- pkg:deb/debian/rr@5.6.0-3%2Bb1?arch=amd64
+- pkg:deb/debian/rr@5.6.0-3%2Bb1?arch=arm64
+- pkg:deb/debian/rr@5.6.0-3%2Bb1?arch=i386
+- pkg:deb/debian/rr@5.9.0-3?arch=amd64
+- pkg:deb/debian/rr@5.9.0-3?arch=arm64
+- pkg:deb/debian/rr@5.9.0-3?arch=i386
+- pkg:deb/debian/rr@5.9.0-4?arch=arm64
+- pkg:deb/debian/rr@5.9.0-4?arch=i386
+- pkg:deb/debian/rr@5.9.0-5?arch=amd64
+- pkg:deb/debian/rr@5.9.0-5?arch=arm64
+- pkg:deb/debian/rr@5.9.0-5?arch=i386

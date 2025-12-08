@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-textwrap%2Bterm-size-dev@0.11.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/librust-textwrap%2Bterm-size-dev@0.11.0-1%2Bb1?arch=arm64
+- pkg:deb/debian/librust-textwrap%2Bterm-size-dev@0.11.0-1%2Bb1?arch=armhf
+- pkg:deb/debian/librust-textwrap%2Bterm-size-dev@0.11.0-1%2Bb1?arch=i386

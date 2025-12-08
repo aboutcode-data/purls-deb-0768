@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-retrying@1.3.3-4?arch=all
+- pkg:deb/debian/python3-retrying@1.4.2-3?arch=all

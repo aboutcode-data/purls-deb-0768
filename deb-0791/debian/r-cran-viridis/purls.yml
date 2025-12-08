@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-viridis@0.5.1-3?arch=all
+- pkg:deb/debian/r-cran-viridis@0.6.2-1?arch=all
+- pkg:deb/debian/r-cran-viridis@0.6.5-1?arch=all

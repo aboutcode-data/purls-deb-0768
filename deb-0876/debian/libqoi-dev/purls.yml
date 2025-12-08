@@ -1,0 +1,2 @@
+- pkg:deb/debian/libqoi-dev@0%2Bgit20220615%2Bds-3?arch=all
+- pkg:deb/debian/libqoi-dev@0%2Bgit20220615%2Bds-4?arch=all

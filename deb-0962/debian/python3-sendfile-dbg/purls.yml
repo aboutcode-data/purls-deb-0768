@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sendfile-dbg@2.0.1-3%2Bb3?arch=amd64
+- pkg:deb/debian/python3-sendfile-dbg@2.0.1-3%2Bb3?arch=arm64
+- pkg:deb/debian/python3-sendfile-dbg@2.0.1-3%2Bb3?arch=armhf
+- pkg:deb/debian/python3-sendfile-dbg@2.0.1-3%2Bb3?arch=i386

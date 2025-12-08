@@ -1,0 +1,17 @@
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=arm64
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=armel
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=armhf
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=i386
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=mips64el
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=mipsel
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=amd64
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=arm64
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=armel
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=armhf
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=i386
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=riscv64
+- pkg:deb/debian/librust-waker-fn-dev@1.1.0-1%2Bb2?arch=s390x

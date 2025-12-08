@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-puppet-syntax@3.1.0-1?arch=all
+- pkg:deb/debian/ruby-puppet-syntax@3.2.1-1?arch=all
+- pkg:deb/debian/ruby-puppet-syntax@4.1.1-1?arch=all

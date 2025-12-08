@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-structlog-doc@20.1.0-1?arch=all
+- pkg:deb/debian/python-structlog-doc@22.3.0-2?arch=all
+- pkg:deb/debian/python-structlog-doc@25.3.0-2?arch=all
+- pkg:deb/debian/python-structlog-doc@25.4.0-1?arch=all

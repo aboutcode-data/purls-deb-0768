@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-activemodel@6.0.3.7%2Bdfsg-2%2Bdeb11u2?arch=all
+- pkg:deb/debian/ruby-activemodel@6.1.7.10%2Bdfsg-1~deb12u1?arch=all
+- pkg:deb/debian/ruby-activemodel@7.2.2.1%2Bdfsg-7?arch=all
+- pkg:deb/debian/ruby-activemodel@7.2.2.2%2Bdfsg-2?arch=all

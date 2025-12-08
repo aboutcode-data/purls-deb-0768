@@ -1,0 +1,4 @@
+- pkg:deb/debian/rosbuild@1.15.10-1?arch=all
+- pkg:deb/debian/rosbuild@1.15.7-2?arch=all
+- pkg:deb/debian/rosbuild@1.15.8-3?arch=all
+- pkg:deb/debian/rosbuild@1.15.8-7?arch=all

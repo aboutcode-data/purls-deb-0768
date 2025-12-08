@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-cliver@0.3.2-3.1?arch=all
+- pkg:deb/debian/ruby-cliver@0.3.2-3?arch=all
+- pkg:deb/debian/ruby-cliver@0.3.2-4?arch=all

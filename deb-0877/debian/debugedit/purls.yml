@@ -1,3 +1,7 @@
+- pkg:deb/debian/debugedit@4.16.1.2%2Bdfsg1-3?arch=amd64
+- pkg:deb/debian/debugedit@4.16.1.2%2Bdfsg1-3?arch=arm64
+- pkg:deb/debian/debugedit@4.16.1.2%2Bdfsg1-3?arch=armhf
+- pkg:deb/debian/debugedit@4.16.1.2%2Bdfsg1-3?arch=i386
 - pkg:deb/debian/debugedit@5.0-5?arch=amd64
 - pkg:deb/debian/debugedit@5.0-5?arch=arm64
 - pkg:deb/debian/debugedit@5.0-5?arch=armel

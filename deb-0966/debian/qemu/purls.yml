@@ -1,0 +1,4 @@
+- pkg:deb/debian/qemu@5.2%2Bdfsg-11%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/qemu@5.2%2Bdfsg-11%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/qemu@5.2%2Bdfsg-11%2Bdeb11u3?arch=armhf
+- pkg:deb/debian/qemu@5.2%2Bdfsg-11%2Bdeb11u3?arch=i386

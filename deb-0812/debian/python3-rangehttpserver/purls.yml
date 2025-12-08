@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-rangehttpserver@1.2.0-3?arch=all
+- pkg:deb/debian/python3-rangehttpserver@1.4.0-1?arch=all

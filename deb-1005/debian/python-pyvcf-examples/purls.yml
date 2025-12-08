@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pyvcf-examples@0.6.8%2Bgit20170215.476169c-11?arch=all
+- pkg:deb/debian/python-pyvcf-examples@0.6.8%2Bgit20170215.476169c-12?arch=all
+- pkg:deb/debian/python-pyvcf-examples@0.6.8%2Bgit20170215.476169c-7?arch=all
+- pkg:deb/debian/python-pyvcf-examples@0.6.8%2Bgit20170215.476169c-9?arch=all

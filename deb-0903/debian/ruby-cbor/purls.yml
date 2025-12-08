@@ -1,0 +1,12 @@
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2%2Bb4?arch=amd64
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2%2Bb4?arch=arm64
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2%2Bb4?arch=mips64el
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2%2Bb4?arch=s390x
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2?arch=amd64
+- pkg:deb/debian/ruby-cbor@0.5.9.6-2?arch=arm64
+- pkg:deb/debian/ruby-cbor@0.5.9.8-1%2Bb2?arch=amd64
+- pkg:deb/debian/ruby-cbor@0.5.9.8-1%2Bb2?arch=arm64
+- pkg:deb/debian/ruby-cbor@0.5.9.8-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/ruby-cbor@0.5.9.8-1%2Bb2?arch=riscv64
+- pkg:deb/debian/ruby-cbor@0.5.9.8-1%2Bb2?arch=s390x

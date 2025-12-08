@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-seafile@7.0.10-1?arch=all
+- pkg:deb/debian/python3-seafile@8.0.10-1?arch=all
+- pkg:deb/debian/python3-seafile@9.0.13-1?arch=all
+- pkg:deb/debian/python3-seafile@9.0.15-1?arch=all

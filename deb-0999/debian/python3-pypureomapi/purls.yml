@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pypureomapi@0.8-1.1?arch=all
+- pkg:deb/debian/python3-pypureomapi@0.8-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-aiohue@4.7.2-3?arch=all
+- pkg:deb/debian/python3-aiohue@4.8.0-1?arch=all

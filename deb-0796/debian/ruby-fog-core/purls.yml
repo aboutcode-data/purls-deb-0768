@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-fog-core@2.1.0-3.1?arch=all
+- pkg:deb/debian/ruby-fog-core@2.3.0-1?arch=all
+- pkg:deb/debian/ruby-fog-core@2.3.0-2?arch=all
+- pkg:deb/debian/ruby-fog-core@2.6.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libring-codec-clojure@1.1.2-1?arch=all
+- pkg:deb/debian/libring-codec-clojure@1.2.0-1?arch=all

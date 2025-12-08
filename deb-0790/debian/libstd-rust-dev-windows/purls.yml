@@ -1,0 +1,3 @@
+- pkg:deb/debian/libstd-rust-dev-windows@1.48.0%2Bdfsg1-2?arch=amd64
+- pkg:deb/debian/libstd-rust-dev-windows@1.63.0%2Bdfsg1-2?arch=amd64
+- pkg:deb/debian/libstd-rust-dev-windows@1.63.0%2Bdfsg1-2?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/cs@2.7.1-1?arch=all
+- pkg:deb/debian/cs@2.7.1-2?arch=all
+- pkg:deb/debian/cs@3.2.0-1?arch=all
+- pkg:deb/debian/cs@3.4.0-1?arch=all

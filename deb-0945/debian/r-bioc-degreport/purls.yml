@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-bioc-degreport@1.26.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-bioc-degreport@1.34.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-bioc-degreport@1.42.0%2Bdfsg-2?arch=all

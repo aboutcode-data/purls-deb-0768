@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-torch-ignite@0.4.3-1?arch=all
+- pkg:deb/debian/python3-torch-ignite@0.5.1-1?arch=all

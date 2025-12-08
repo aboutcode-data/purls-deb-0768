@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-pkginfo-doc@1.12.1.2-2?arch=all
+- pkg:deb/debian/python-pkginfo-doc@1.4.2-3?arch=all
+- pkg:deb/debian/python-pkginfo-doc@1.8.2-2?arch=all

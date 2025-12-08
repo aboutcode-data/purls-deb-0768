@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pysodium@0.7.0-2?arch=all
+- pkg:deb/debian/python3-pysodium@0.7.0-3?arch=all
+- pkg:deb/debian/python3-pysodium@0.7.18-2?arch=all

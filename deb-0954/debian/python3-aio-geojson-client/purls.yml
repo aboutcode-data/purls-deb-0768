@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-aio-geojson-client@0.20-2?arch=all
+- pkg:deb/debian/python3-aio-geojson-client@0.20-3?arch=all

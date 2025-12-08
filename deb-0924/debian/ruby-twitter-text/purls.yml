@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-twitter-text@1.14.7%2Bconformance-2?arch=all
+- pkg:deb/debian/ruby-twitter-text@1.14.7%2Bconformance-3?arch=all

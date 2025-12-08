@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-fluids-doc@0.1.78-3?arch=all
+- pkg:deb/debian/python-fluids-doc@1.0.22-2?arch=all
+- pkg:deb/debian/python-fluids-doc@1.0.27-1?arch=all

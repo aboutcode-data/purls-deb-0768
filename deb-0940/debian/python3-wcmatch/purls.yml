@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-wcmatch@10.0-1?arch=all
+- pkg:deb/debian/python3-wcmatch@8.4-2?arch=all

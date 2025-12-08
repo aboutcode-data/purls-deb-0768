@@ -1,0 +1,4 @@
+- pkg:deb/debian/qtxmlpatterns5-doc-html@5.15.15-2?arch=all
+- pkg:deb/debian/qtxmlpatterns5-doc-html@5.15.17-2?arch=all
+- pkg:deb/debian/qtxmlpatterns5-doc-html@5.15.2-3?arch=all
+- pkg:deb/debian/qtxmlpatterns5-doc-html@5.15.8-2?arch=all

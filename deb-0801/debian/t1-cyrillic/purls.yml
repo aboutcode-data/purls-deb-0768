@@ -1,0 +1,4 @@
+- pkg:deb/debian/t1-cyrillic@4.17%2Bnmu1?arch=all
+- pkg:deb/debian/t1-cyrillic@4.18%2Bnum1?arch=all
+- pkg:deb/debian/t1-cyrillic@4.18%2Bnum2?arch=all
+- pkg:deb/debian/t1-cyrillic@4.20?arch=all

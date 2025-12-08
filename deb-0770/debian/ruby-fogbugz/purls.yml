@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-fogbugz@0.2.1-3?arch=all
+- pkg:deb/debian/ruby-fogbugz@0.3.0-2?arch=all

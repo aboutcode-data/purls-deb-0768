@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-jekyll-sass-converter@1.5.2-2?arch=all
+- pkg:deb/debian/ruby-jekyll-sass-converter@2.2.0-1?arch=all

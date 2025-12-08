@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-ftdi-doc@0.54.0-1?arch=all
+- pkg:deb/debian/python3-ftdi-doc@0.56.0-1?arch=all

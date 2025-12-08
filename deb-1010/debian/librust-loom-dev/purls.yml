@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-loom-dev@0.5.6-3?arch=amd64
+- pkg:deb/debian/librust-loom-dev@0.5.6-3?arch=arm64

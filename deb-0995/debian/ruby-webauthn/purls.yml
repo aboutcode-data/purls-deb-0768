@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-webauthn@2.4.0-2?arch=all
+- pkg:deb/debian/ruby-webauthn@2.5.2-1?arch=all

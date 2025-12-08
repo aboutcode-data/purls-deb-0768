@@ -1,0 +1,4 @@
+- pkg:deb/debian/libserd-doc@0.30.10-2?arch=all
+- pkg:deb/debian/libserd-doc@0.30.16-1?arch=all
+- pkg:deb/debian/libserd-doc@0.32.4-1?arch=all
+- pkg:deb/debian/libserd-doc@0.32.6-1?arch=all

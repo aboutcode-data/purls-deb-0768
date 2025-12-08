@@ -1,0 +1,4 @@
+- pkg:deb/debian/regina-normal-doc@6.0.1-4?arch=all
+- pkg:deb/debian/regina-normal-doc@7.3-2?arch=all
+- pkg:deb/debian/regina-normal-doc@7.4-1?arch=all
+- pkg:deb/debian/regina-normal-doc@7.4.1-1?arch=all

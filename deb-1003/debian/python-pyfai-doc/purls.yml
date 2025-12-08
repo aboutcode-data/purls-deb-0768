@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pyfai-doc@0.20.0%2Bdfsg1-3?arch=all
+- pkg:deb/debian/python-pyfai-doc@0.21.3%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python-pyfai-doc@2023.9.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python-pyfai-doc@2025.03-1?arch=all

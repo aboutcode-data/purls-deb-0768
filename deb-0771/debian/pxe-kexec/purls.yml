@@ -1,0 +1,4 @@
+- pkg:deb/debian/pxe-kexec@0.2.4-3%2Bb5?arch=amd64
+- pkg:deb/debian/pxe-kexec@0.2.4-3%2Bb5?arch=arm64
+- pkg:deb/debian/pxe-kexec@0.2.4-3%2Bb5?arch=armhf
+- pkg:deb/debian/pxe-kexec@0.2.4-3%2Bb5?arch=i386

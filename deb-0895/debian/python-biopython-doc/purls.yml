@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-biopython-doc@1.78%2Bdfsg-4?arch=all
+- pkg:deb/debian/python-biopython-doc@1.80%2Bdfsg-4?arch=all
+- pkg:deb/debian/python-biopython-doc@1.85%2Bdfsg-4?arch=all
+- pkg:deb/debian/python-biopython-doc@1.86%2Bdfsg-1?arch=all

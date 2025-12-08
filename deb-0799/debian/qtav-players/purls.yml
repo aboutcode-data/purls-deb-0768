@@ -1,0 +1,4 @@
+- pkg:deb/debian/qtav-players@1.13.0%2Bds-3%2Bb2?arch=amd64
+- pkg:deb/debian/qtav-players@1.13.0%2Bds-3%2Bb2?arch=arm64
+- pkg:deb/debian/qtav-players@1.13.0%2Bds-3%2Bb2?arch=armhf
+- pkg:deb/debian/qtav-players@1.13.0%2Bds-3%2Bb2?arch=i386

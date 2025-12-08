@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-altgraph-doc@0.17%2Bds0-1?arch=all
+- pkg:deb/debian/python-altgraph-doc@0.17.3%2Bds0-2?arch=all
+- pkg:deb/debian/python-altgraph-doc@0.17.4%2Bds-2?arch=all
+- pkg:deb/debian/python-altgraph-doc@0.17.4%2Bds-4?arch=all

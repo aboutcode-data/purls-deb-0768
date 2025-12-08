@@ -1,0 +1,2 @@
+- pkg:deb/debian/pypass@0.2.1-1.1?arch=all
+- pkg:deb/debian/pypass@0.2.1-3?arch=all

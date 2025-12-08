@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-tins@1.1.0-2?arch=all
+- pkg:deb/debian/ruby-tins@1.32.1-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/pyjoke@0.5.0-3?arch=all
+- pkg:deb/debian/pyjoke@0.5.0-4?arch=all

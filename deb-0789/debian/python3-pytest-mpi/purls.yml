@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pytest-mpi@0.4-4?arch=all
+- pkg:deb/debian/python3-pytest-mpi@0.6-3?arch=all
+- pkg:deb/debian/python3-pytest-mpi@0.6-8?arch=all
+- pkg:deb/debian/python3-pytest-mpi@0.6-9?arch=all

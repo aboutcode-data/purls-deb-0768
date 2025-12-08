@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-tornado-doc@6.1.0-1?arch=all
+- pkg:deb/debian/python-tornado-doc@6.2.0-3%2Bdeb12u2?arch=all
+- pkg:deb/debian/python-tornado-doc@6.4.2-3?arch=all
+- pkg:deb/debian/python-tornado-doc@6.5.2-3?arch=all

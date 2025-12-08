@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-uuid%2Bwasm-bindgen-dev@0.8.1-3?arch=amd64
+- pkg:deb/debian/librust-uuid%2Bwasm-bindgen-dev@0.8.1-3?arch=arm64
+- pkg:deb/debian/librust-uuid%2Bwasm-bindgen-dev@0.8.1-3?arch=armhf
+- pkg:deb/debian/librust-uuid%2Bwasm-bindgen-dev@0.8.1-3?arch=i386

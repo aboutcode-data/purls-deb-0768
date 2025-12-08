@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-jquery-ui-rails@6.0.1%2Bdfsg-6?arch=all
+- pkg:deb/debian/ruby-jquery-ui-rails@6.0.1%2Bdfsg-7?arch=all

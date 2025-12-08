@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pytest-timeout@1.4.1-1?arch=all
+- pkg:deb/debian/python3-pytest-timeout@2.1.0-3?arch=all
+- pkg:deb/debian/python3-pytest-timeout@2.3.1-1?arch=all
+- pkg:deb/debian/python3-pytest-timeout@2.4.0-2?arch=all

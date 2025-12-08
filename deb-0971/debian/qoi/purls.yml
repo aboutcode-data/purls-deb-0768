@@ -1,0 +1,17 @@
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=amd64
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=arm64
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=armel
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=armhf
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=i386
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=mips64el
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=mipsel
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=ppc64el
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-3?arch=s390x
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=amd64
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=arm64
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=armel
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=armhf
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=i386
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=ppc64el
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=riscv64
+- pkg:deb/debian/qoi@0%2Bgit20220615%2Bds-4?arch=s390x

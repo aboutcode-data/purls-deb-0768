@@ -1,0 +1,15 @@
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=arm64
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=armel
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=armhf
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=i386
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=ppc64el
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=riscv64
+- pkg:deb/debian/libqt5opengl5t64@5.15.15%2Bdfsg-6?arch=s390x
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=i386
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=riscv64
+- pkg:deb/debian/libqt5opengl5t64@5.15.17%2Bdfsg-4?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/r-cran-rcmdrmisc@2.7-1-1?arch=all
+- pkg:deb/debian/r-cran-rcmdrmisc@2.7-2-1?arch=all
+- pkg:deb/debian/r-cran-rcmdrmisc@2.9-1-1?arch=all
+- pkg:deb/debian/r-cran-rcmdrmisc@2.9-2-1?arch=all

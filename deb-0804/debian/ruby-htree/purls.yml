@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-htree@0.8%2Bdfsg-5?arch=all
+- pkg:deb/debian/ruby-htree@0.8%2Bdfsg-6?arch=all

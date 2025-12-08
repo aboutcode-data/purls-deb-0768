@@ -1,0 +1,2 @@
+- pkg:deb/debian/libupnp-java@1.0.4%2Btriplea-1.1?arch=all
+- pkg:deb/debian/libupnp-java@1.0.4%2Btriplea-2?arch=all

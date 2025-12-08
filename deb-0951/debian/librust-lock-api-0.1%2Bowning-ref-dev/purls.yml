@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-lock-api-0.1%2Bowning-ref-dev@0.1.5-1%2Bb1?arch=amd64
+- pkg:deb/debian/librust-lock-api-0.1%2Bowning-ref-dev@0.1.5-1%2Bb1?arch=arm64
+- pkg:deb/debian/librust-lock-api-0.1%2Bowning-ref-dev@0.1.5-1%2Bb1?arch=armhf
+- pkg:deb/debian/librust-lock-api-0.1%2Bowning-ref-dev@0.1.5-1%2Bb1?arch=i386

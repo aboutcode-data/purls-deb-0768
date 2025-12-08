@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pook@1.1.1-1?arch=all
+- pkg:deb/debian/python3-pook@2.1.3-2?arch=all

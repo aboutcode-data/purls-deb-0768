@@ -1,0 +1,5 @@
+- pkg:deb/debian/scalapack-test-common@2.1.0-4?arch=all
+- pkg:deb/debian/scalapack-test-common@2.2.1-2?arch=all
+- pkg:deb/debian/scalapack-test-common@2.2.2-1?arch=all
+- pkg:deb/debian/scalapack-test-common@2.2.2-2?arch=all
+- pkg:deb/debian/scalapack-test-common@2.2.2-4?arch=all

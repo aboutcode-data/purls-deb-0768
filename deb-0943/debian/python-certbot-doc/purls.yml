@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-certbot-doc@1.12.0-2?arch=all
+- pkg:deb/debian/python-certbot-doc@2.1.0-4?arch=all
+- pkg:deb/debian/python-certbot-doc@4.0.0-2?arch=all

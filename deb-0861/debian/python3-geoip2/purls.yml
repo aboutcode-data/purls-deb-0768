@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-geoip2@2.9.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python3-geoip2@2.9.0%2Bdfsg1-5?arch=all

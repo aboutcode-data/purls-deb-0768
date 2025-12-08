@@ -1,0 +1,4 @@
+- pkg:deb/debian/python2-dbg@2.7.18-3?arch=amd64
+- pkg:deb/debian/python2-dbg@2.7.18-3?arch=arm64
+- pkg:deb/debian/python2-dbg@2.7.18-3?arch=armhf
+- pkg:deb/debian/python2-dbg@2.7.18-3?arch=i386

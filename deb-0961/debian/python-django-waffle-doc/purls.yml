@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-django-waffle-doc@2.0.0-1?arch=all
+- pkg:deb/debian/python-django-waffle-doc@3.0.0-1?arch=all
+- pkg:deb/debian/python-django-waffle-doc@4.2.0-1?arch=all

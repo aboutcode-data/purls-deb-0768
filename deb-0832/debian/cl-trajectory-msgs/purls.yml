@@ -1,0 +1,4 @@
+- pkg:deb/debian/cl-trajectory-msgs@1.13.0-2?arch=all
+- pkg:deb/debian/cl-trajectory-msgs@1.13.1-1?arch=all
+- pkg:deb/debian/cl-trajectory-msgs@1.13.1-3?arch=all
+- pkg:deb/debian/cl-trajectory-msgs@1.13.2-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libqcustomplot-doc@2.0.1%2Bdfsg1-4?arch=all
+- pkg:deb/debian/libqcustomplot-doc@2.1.0%2Bdfsg1-3.1?arch=all
+- pkg:deb/debian/libqcustomplot-doc@2.1.1%2Bdfsg1-1?arch=all

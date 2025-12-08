@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-daemons@1.1.9-2.1?arch=all
+- pkg:deb/debian/ruby-daemons@1.4.1-1?arch=all
+- pkg:deb/debian/ruby-daemons@1.4.1-2?arch=all

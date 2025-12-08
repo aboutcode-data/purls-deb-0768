@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-acts-as-taggable-on@11.0.0-2?arch=all
+- pkg:deb/debian/ruby-acts-as-taggable-on@12.0.0-1?arch=all
+- pkg:deb/debian/ruby-acts-as-taggable-on@6.5.0-2?arch=all
+- pkg:deb/debian/ruby-acts-as-taggable-on@9.0.1-2?arch=all

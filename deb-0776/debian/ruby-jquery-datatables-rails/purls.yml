@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-jquery-datatables-rails@3.4.0%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/ruby-jquery-datatables-rails@3.4.0%2Bdfsg-2?arch=all

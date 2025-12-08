@@ -1,0 +1,2 @@
+- pkg:deb/debian/scid-rating-data@200901-3?arch=all
+- pkg:deb/debian/scid-rating-data@202104-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pymysql@0.9.3-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/python3-pymysql@1.0.2-2%2Bdeb12u1?arch=all
+- pkg:deb/debian/python3-pymysql@1.1.1-2?arch=all

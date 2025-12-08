@@ -1,0 +1,4 @@
+- pkg:deb/debian/pybedtools-bin@0.10.0-4?arch=all
+- pkg:deb/debian/pybedtools-bin@0.10.0-5?arch=all
+- pkg:deb/debian/pybedtools-bin@0.8.0-5?arch=all
+- pkg:deb/debian/pybedtools-bin@0.9.0-4?arch=all

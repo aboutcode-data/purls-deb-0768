@@ -1,0 +1,5 @@
+- pkg:deb/debian/librust-pq-sys%2Bpkg-config-dev@0.4.6-1%2Bb1?arch=amd64
+- pkg:deb/debian/librust-pq-sys%2Bpkg-config-dev@0.4.6-1%2Bb1?arch=arm64
+- pkg:deb/debian/librust-pq-sys%2Bpkg-config-dev@0.4.6-1%2Bb1?arch=mips64el
+- pkg:deb/debian/librust-pq-sys%2Bpkg-config-dev@0.4.6-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/librust-pq-sys%2Bpkg-config-dev@0.4.6-1%2Bb1?arch=s390x

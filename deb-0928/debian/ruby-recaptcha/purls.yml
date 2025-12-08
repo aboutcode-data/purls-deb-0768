@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-recaptcha@4.11.1-2?arch=all
+- pkg:deb/debian/ruby-recaptcha@5.12.3-2?arch=all
+- pkg:deb/debian/ruby-recaptcha@5.21.1-1?arch=all

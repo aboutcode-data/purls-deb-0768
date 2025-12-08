@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-packaging-whl@25.0-1?arch=all
+- pkg:deb/debian/python3-packaging-whl@25.0-1~bpo12%2B1?arch=all

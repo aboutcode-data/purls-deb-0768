@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-cookies@0.4.0-2?arch=all
+- pkg:deb/debian/python3-pytest-cookies@0.7.0-2?arch=all

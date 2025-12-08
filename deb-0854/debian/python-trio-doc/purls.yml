@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-trio-doc@0.29.0-1?arch=all
+- pkg:deb/debian/python-trio-doc@0.31.0-1?arch=all

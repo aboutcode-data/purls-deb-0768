@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-torch-scatter@2.1.2-4?arch=amd64
+- pkg:deb/debian/python3-torch-scatter@2.1.2-4?arch=arm64
+- pkg:deb/debian/python3-torch-scatter@2.1.2-4?arch=ppc64el
+- pkg:deb/debian/python3-torch-scatter@2.1.2-4?arch=riscv64
+- pkg:deb/debian/python3-torch-scatter@2.1.2-4?arch=s390x

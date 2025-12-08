@@ -1,0 +1,13 @@
+- pkg:deb/debian/libqt5xml5@5.15.2%2Bdfsg-9%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/libqt5xml5@5.15.2%2Bdfsg-9%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/libqt5xml5@5.15.2%2Bdfsg-9%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/libqt5xml5@5.15.2%2Bdfsg-9%2Bdeb11u1?arch=i386
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=amd64
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=arm64
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=armel
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=armhf
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=i386
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=mips64el
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=mipsel
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=ppc64el
+- pkg:deb/debian/libqt5xml5@5.15.8%2Bdfsg-11%2Bdeb12u3?arch=s390x

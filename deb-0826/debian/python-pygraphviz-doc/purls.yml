@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-pygraphviz-doc@1.14-1?arch=all
+- pkg:deb/debian/python-pygraphviz-doc@1.14-2?arch=all
+- pkg:deb/debian/python-pygraphviz-doc@1.14-3?arch=all
+- pkg:deb/debian/python-pygraphviz-doc@1.7-2?arch=all
+- pkg:deb/debian/python-pygraphviz-doc@1.7-3?arch=all

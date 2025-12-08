@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-arbre@1.2.1-4?arch=all
+- pkg:deb/debian/ruby-arbre@1.5.0-1?arch=all

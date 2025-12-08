@@ -1,0 +1,13 @@
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=amd64
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=arm64
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=armel
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=armhf
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=i386
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=mips64el
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=mipsel
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-14%2Bb2?arch=s390x
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-9%2Bb2?arch=amd64
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-9%2Bb2?arch=arm64
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-9%2Bb2?arch=armhf
+- pkg:deb/debian/python3-pcl@0.3.0~rc1%2Bdfsg-9%2Bb2?arch=i386

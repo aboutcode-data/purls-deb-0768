@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-aptly@0.12.10-2?arch=all
+- pkg:deb/debian/python3-aptly@0.12.12-1?arch=all

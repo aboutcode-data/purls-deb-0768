@@ -1,0 +1,6 @@
+- pkg:deb/debian/r-cran-markdown@1.1%2Bdfsg-1%2Bb1?arch=amd64
+- pkg:deb/debian/r-cran-markdown@1.1%2Bdfsg-1%2Bb1?arch=arm64
+- pkg:deb/debian/r-cran-markdown@1.1%2Bdfsg-1%2Bb1?arch=armhf
+- pkg:deb/debian/r-cran-markdown@1.1%2Bdfsg-1%2Bb1?arch=i386
+- pkg:deb/debian/r-cran-markdown@1.13-1?arch=all
+- pkg:deb/debian/r-cran-markdown@1.5%2Bdfsg-1?arch=all

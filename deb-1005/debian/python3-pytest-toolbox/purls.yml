@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-toolbox@0.4-2?arch=all
+- pkg:deb/debian/python3-pytest-toolbox@0.4-6?arch=all

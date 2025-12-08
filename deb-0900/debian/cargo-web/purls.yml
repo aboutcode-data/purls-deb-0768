@@ -1,0 +1,10 @@
+- pkg:deb/debian/cargo-web@1.78.0%2Bdfsg1-2~deb11u3?arch=amd64
+- pkg:deb/debian/cargo-web@1.78.0%2Bdfsg1-2~deb11u3?arch=arm64
+- pkg:deb/debian/cargo-web@1.78.0%2Bdfsg1-2~deb11u3?arch=armhf
+- pkg:deb/debian/cargo-web@1.78.0%2Bdfsg1-2~deb11u3?arch=i386
+- pkg:deb/debian/cargo-web@1.85.0%2Bdfsg3-1~deb12u3?arch=amd64
+- pkg:deb/debian/cargo-web@1.85.0%2Bdfsg3-1~deb12u3?arch=arm64
+- pkg:deb/debian/cargo-web@1.85.0%2Bdfsg3-1~deb12u3?arch=armhf
+- pkg:deb/debian/cargo-web@1.85.0%2Bdfsg3-1~deb12u3?arch=i386
+- pkg:deb/debian/cargo-web@1.85.0%2Bdfsg3-1~deb12u3?arch=ppc64el
+- pkg:deb/debian/cargo-web@1.85.0%2Bdfsg3-1~deb12u3?arch=s390x

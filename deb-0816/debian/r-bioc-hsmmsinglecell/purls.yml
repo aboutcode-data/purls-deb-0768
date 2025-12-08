@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-bioc-hsmmsinglecell@1.10.0-1?arch=all
+- pkg:deb/debian/r-bioc-hsmmsinglecell@1.18.0-1?arch=all
+- pkg:deb/debian/r-bioc-hsmmsinglecell@1.26.0-2?arch=all

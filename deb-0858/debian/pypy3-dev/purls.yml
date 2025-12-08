@@ -1,0 +1,4 @@
+- pkg:deb/debian/pypy3-dev@7.3.11%2Bdfsg-2%2Bdeb12u3?arch=all
+- pkg:deb/debian/pypy3-dev@7.3.19%2Bdfsg-2?arch=all
+- pkg:deb/debian/pypy3-dev@7.3.20%2Bdfsg-4?arch=all
+- pkg:deb/debian/pypy3-dev@7.3.5%2Bdfsg-2%2Bdeb11u2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pbcore@1.7.1%2Bgit20200430.a127b1e%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-pbcore@2.1.2%2Bdfsg-11?arch=all
+- pkg:deb/debian/python3-pbcore@2.1.2%2Bdfsg-13?arch=all
+- pkg:deb/debian/python3-pbcore@2.1.2%2Bdfsg-5?arch=all

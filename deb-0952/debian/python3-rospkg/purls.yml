@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-rospkg@1.2.9-1?arch=all
+- pkg:deb/debian/python3-rospkg@1.4.0-2?arch=all
+- pkg:deb/debian/python3-rospkg@1.5.1-1?arch=all
+- pkg:deb/debian/python3-rospkg@1.6.0-1?arch=all

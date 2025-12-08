@@ -1,0 +1,5 @@
+- pkg:deb/debian/qtwebengine5-doc-html@5.15.13%2Bdfsg-1~deb12u1?arch=all
+- pkg:deb/debian/qtwebengine5-doc-html@5.15.18%2Bdfsg-2?arch=all
+- pkg:deb/debian/qtwebengine5-doc-html@5.15.18%2Bdfsg-2~bpo12%2B1?arch=all
+- pkg:deb/debian/qtwebengine5-doc-html@5.15.19%2Bdfsg2-1?arch=all
+- pkg:deb/debian/qtwebengine5-doc-html@5.15.2%2Bdfsg-3?arch=all
