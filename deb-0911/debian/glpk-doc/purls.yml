@@ -1,0 +1,2 @@
+- pkg:deb/debian/glpk-doc@5.0-1?arch=all
+- pkg:deb/debian/glpk-doc@5.0-2?arch=all

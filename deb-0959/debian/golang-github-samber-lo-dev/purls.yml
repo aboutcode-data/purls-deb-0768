@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-samber-lo-dev@1.38.1-1?arch=all
+- pkg:deb/debian/golang-github-samber-lo-dev@1.38.1-1~bpo12%2B1?arch=all

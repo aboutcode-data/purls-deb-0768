@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-cli-go-gh-dev@1.0.0-1?arch=all
+- pkg:deb/debian/golang-github-cli-go-gh-dev@1.2.1-2?arch=all

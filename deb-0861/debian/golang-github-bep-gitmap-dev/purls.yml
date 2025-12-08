@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-bep-gitmap-dev@1.1.2-1?arch=all
+- pkg:deb/debian/golang-github-bep-gitmap-dev@1.1.2-2?arch=all
+- pkg:deb/debian/golang-github-bep-gitmap-dev@1.6.0-1?arch=all
+- pkg:deb/debian/golang-github-bep-gitmap-dev@1.9.0-1?arch=all

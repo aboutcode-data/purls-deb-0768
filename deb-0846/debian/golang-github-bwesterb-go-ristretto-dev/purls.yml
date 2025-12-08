@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-bwesterb-go-ristretto-dev@1.2.2-2?arch=all
+- pkg:deb/debian/golang-github-bwesterb-go-ristretto-dev@1.2.3-2?arch=all

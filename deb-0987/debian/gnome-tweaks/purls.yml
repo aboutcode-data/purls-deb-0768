@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-tweaks@3.34.0-4?arch=all
+- pkg:deb/debian/gnome-tweaks@42~beta-4?arch=all
+- pkg:deb/debian/gnome-tweaks@46.1-1?arch=all
+- pkg:deb/debian/gnome-tweaks@49.0-1?arch=all

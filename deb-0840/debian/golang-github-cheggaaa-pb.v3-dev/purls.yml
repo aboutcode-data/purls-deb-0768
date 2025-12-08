@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-cheggaaa-pb.v3-dev@3.1.0-1?arch=all
+- pkg:deb/debian/golang-github-cheggaaa-pb.v3-dev@3.1.5-1?arch=all
+- pkg:deb/debian/golang-github-cheggaaa-pb.v3-dev@3.1.5-1~bpo12%2B1?arch=all

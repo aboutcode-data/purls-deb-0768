@@ -1,0 +1,11 @@
+- pkg:deb/debian/gost@0.1.0%2Bgit20181204.5afeda5e-1.1%2Bb5?arch=amd64
+- pkg:deb/debian/gost@0.1.0%2Bgit20181204.5afeda5e-1.1%2Bb5?arch=arm64
+- pkg:deb/debian/gost@0.1.0%2Bgit20181204.5afeda5e-1.1%2Bb5?arch=armhf
+- pkg:deb/debian/gost@0.1.0%2Bgit20181204.5afeda5e-1.1%2Bb5?arch=i386
+- pkg:deb/debian/gost@0.1.2-2%2Bb12?arch=amd64
+- pkg:deb/debian/gost@0.1.2-2%2Bb12?arch=arm64
+- pkg:deb/debian/gost@0.1.2-2%2Bb12?arch=armhf
+- pkg:deb/debian/gost@0.1.2-2%2Bb12?arch=i386
+- pkg:deb/debian/gost@0.1.2-2%2Bb12?arch=ppc64el
+- pkg:deb/debian/gost@0.1.2-2%2Bb12?arch=s390x
+- pkg:deb/debian/gost@0.1.2-2%2Bb13?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-alexflint-go-scalar-dev@1.0.0%2Bds-2?arch=all
+- pkg:deb/debian/golang-github-alexflint-go-scalar-dev@1.2.0-1?arch=all

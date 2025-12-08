@@ -1,0 +1,9 @@
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=amd64
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=arm64
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=armel
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=armhf
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=i386
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=mips64el
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=mipsel
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=ppc64el
+- pkg:deb/debian/libgfs-1.3-2@20131206%2Bdfsg-19?arch=s390x

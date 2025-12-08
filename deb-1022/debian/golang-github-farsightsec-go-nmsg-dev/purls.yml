@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-farsightsec-go-nmsg-dev@0.0~git20190917.04d2174-2?arch=all
+- pkg:deb/debian/golang-github-farsightsec-go-nmsg-dev@0.2.0-5?arch=all
+- pkg:deb/debian/golang-github-farsightsec-go-nmsg-dev@0.3.0-1?arch=all

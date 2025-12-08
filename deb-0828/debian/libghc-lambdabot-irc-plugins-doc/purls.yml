@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-lambdabot-irc-plugins-doc@5.3-1?arch=all
+- pkg:deb/debian/libghc-lambdabot-irc-plugins-doc@5.3.1-1?arch=all
+- pkg:deb/debian/libghc-lambdabot-irc-plugins-doc@5.3.1.2-1?arch=all

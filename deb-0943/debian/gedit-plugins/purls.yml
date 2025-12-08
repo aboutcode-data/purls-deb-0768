@@ -1,0 +1,4 @@
+- pkg:deb/debian/gedit-plugins@3.38.1-1?arch=all
+- pkg:deb/debian/gedit-plugins@44.1-2?arch=all
+- pkg:deb/debian/gedit-plugins@48.1-2?arch=all
+- pkg:deb/debian/gedit-plugins@48.1-3?arch=all

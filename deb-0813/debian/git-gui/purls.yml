@@ -1,0 +1,6 @@
+- pkg:deb/debian/git-gui@2.30.2-1%2Bdeb11u2?arch=all
+- pkg:deb/debian/git-gui@2.39.5-0%2Bdeb12u2?arch=all
+- pkg:deb/debian/git-gui@2.39.5-0%2Bdeb12u3?arch=all
+- pkg:deb/debian/git-gui@2.47.3-0%2Bdeb13u1?arch=all
+- pkg:deb/debian/git-gui@2.51.0%2Bnext.20250825-1?arch=all
+- pkg:deb/debian/git-gui@2.51.0-1?arch=all

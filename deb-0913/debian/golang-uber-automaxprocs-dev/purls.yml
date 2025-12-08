@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-uber-automaxprocs-dev@1.4.0-3?arch=all
+- pkg:deb/debian/golang-uber-automaxprocs-dev@1.5.3-1?arch=all

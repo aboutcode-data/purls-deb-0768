@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-haddock-library-doc@1.10.0-2?arch=all
+- pkg:deb/debian/libghc-haddock-library-doc@1.11.0-2?arch=all
+- pkg:deb/debian/libghc-haddock-library-doc@1.8.0-1?arch=all

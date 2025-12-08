@@ -1,0 +1,15 @@
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=amd64
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=arm64
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=armel
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=armhf
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=i386
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=ppc64el
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=riscv64
+- pkg:deb/debian/libgfortran-13-dev@13.3.0-16?arch=s390x
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=amd64
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=arm64
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=armhf
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=i386
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=ppc64el
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=riscv64
+- pkg:deb/debian/libgfortran-13-dev@13.4.0-4?arch=s390x

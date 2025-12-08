@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-spiffe-go-spiffe-dev@2.5.0-1?arch=all
+- pkg:deb/debian/golang-github-spiffe-go-spiffe-dev@2.6.0-1?arch=all

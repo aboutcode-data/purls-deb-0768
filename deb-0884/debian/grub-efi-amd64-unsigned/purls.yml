@@ -1,0 +1,4 @@
+- pkg:deb/debian/grub-efi-amd64-unsigned@2.12-9?arch=amd64
+- pkg:deb/debian/grub-efi-amd64-unsigned@2.12-9?arch=i386
+- pkg:deb/debian/grub-efi-amd64-unsigned@2.14~git20250718.0e36779-2?arch=amd64
+- pkg:deb/debian/grub-efi-amd64-unsigned@2.14~git20250718.0e36779-2?arch=i386

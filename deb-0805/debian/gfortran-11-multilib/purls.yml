@@ -1,0 +1,8 @@
+- pkg:deb/debian/gfortran-11-multilib@11.3.0-12?arch=amd64
+- pkg:deb/debian/gfortran-11-multilib@11.3.0-12?arch=i386
+- pkg:deb/debian/gfortran-11-multilib@11.3.0-12?arch=mips64el
+- pkg:deb/debian/gfortran-11-multilib@11.3.0-12?arch=mipsel
+- pkg:deb/debian/gfortran-11-multilib@11.3.0-12?arch=s390x
+- pkg:deb/debian/gfortran-11-multilib@11.5.0-7?arch=amd64
+- pkg:deb/debian/gfortran-11-multilib@11.5.0-7?arch=i386
+- pkg:deb/debian/gfortran-11-multilib@11.5.0-7?arch=s390x

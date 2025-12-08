@@ -1,0 +1,4 @@
+- pkg:deb/debian/ga68-hppa-linux-gnu@15.2.0-4?arch=amd64
+- pkg:deb/debian/ga68-hppa-linux-gnu@15.2.0-4?arch=arm64
+- pkg:deb/debian/ga68-hppa-linux-gnu@15.2.0-4?arch=i386
+- pkg:deb/debian/ga68-hppa-linux-gnu@15.2.0-4?arch=ppc64el

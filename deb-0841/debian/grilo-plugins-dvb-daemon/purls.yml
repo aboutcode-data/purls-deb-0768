@@ -1,0 +1,13 @@
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-4%2Bb4?arch=amd64
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-4%2Bb4?arch=arm64
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-4%2Bb4?arch=armhf
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-4%2Bb4?arch=i386
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=amd64
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=arm64
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=armel
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=armhf
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=i386
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=mips64el
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=mipsel
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=ppc64el
+- pkg:deb/debian/grilo-plugins-dvb-daemon@0.2.91~git20170110-5?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gfortran-15-multilib-x86-64-linux-gnu@15.2.0-7cross1?arch=arm64
+- pkg:deb/debian/gfortran-15-multilib-x86-64-linux-gnu@15.2.0-7cross1?arch=i386
+- pkg:deb/debian/gfortran-15-multilib-x86-64-linux-gnu@15.2.0-7cross1?arch=ppc64el
+- pkg:deb/debian/gfortran-15-multilib-x86-64-linux-gnu@15.2.0-7cross1?arch=s390x

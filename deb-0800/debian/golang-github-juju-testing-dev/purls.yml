@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-juju-testing-dev@1.0.3-1?arch=all
+- pkg:deb/debian/golang-github-juju-testing-dev@1.2.0-1?arch=all

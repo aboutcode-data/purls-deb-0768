@@ -1,0 +1,3 @@
+- pkg:deb/debian/gpsim-doc@0.22.0-2.1?arch=all
+- pkg:deb/debian/gpsim-doc@0.22.0-2.2?arch=all
+- pkg:deb/debian/gpsim-doc@0.22.0-8?arch=all

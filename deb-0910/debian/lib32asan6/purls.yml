@@ -1,1 +1,5 @@
 - pkg:deb/debian/lib32asan6@10.2.1-6?arch=amd64
+- pkg:deb/debian/lib32asan6@11.3.0-12?arch=amd64
+- pkg:deb/debian/lib32asan6@11.3.0-12?arch=s390x
+- pkg:deb/debian/lib32asan6@11.5.0-7?arch=amd64
+- pkg:deb/debian/lib32asan6@11.5.0-7?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-bkaradzic-go-lz4-dev@1.0.0-4?arch=all
+- pkg:deb/debian/golang-github-bkaradzic-go-lz4-dev@1.0.0-5?arch=all

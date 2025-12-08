@@ -1,0 +1,4 @@
+- pkg:deb/debian/libglibmm-2.4-doc@2.64.2-2?arch=all
+- pkg:deb/debian/libglibmm-2.4-doc@2.66.5-2?arch=all
+- pkg:deb/debian/libglibmm-2.4-doc@2.66.8-1?arch=all
+- pkg:deb/debian/libglibmm-2.4-doc@2.66.8-2?arch=all

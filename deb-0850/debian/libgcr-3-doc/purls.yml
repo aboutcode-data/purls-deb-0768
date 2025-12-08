@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgcr-3-doc@3.38.1-2?arch=all
+- pkg:deb/debian/libgcr-3-doc@3.41.1-1?arch=all
+- pkg:deb/debian/libgcr-3-doc@3.41.2-3?arch=all
+- pkg:deb/debian/libgcr-3-doc@3.41.2-5?arch=all
+- pkg:deb/debian/libgcr-3-doc@3.41.2-6?arch=all

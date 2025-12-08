@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgo-13-dev-s390x-cross@13.3.0-16cross1?arch=all
+- pkg:deb/debian/libgo-13-dev-s390x-cross@13.4.0-4cross1?arch=all

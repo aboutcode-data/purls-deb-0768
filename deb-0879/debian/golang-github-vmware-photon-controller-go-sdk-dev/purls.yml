@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-vmware-photon-controller-go-sdk-dev@0.0~PROMOTED-339-1.1?arch=all
+- pkg:deb/debian/golang-github-vmware-photon-controller-go-sdk-dev@0.0~PROMOTED-738%2Bdfsg-1?arch=all

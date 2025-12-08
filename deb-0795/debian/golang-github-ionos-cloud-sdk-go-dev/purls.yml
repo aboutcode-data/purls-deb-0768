@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-ionos-cloud-sdk-go-dev@6.1.4-1?arch=all
+- pkg:deb/debian/golang-github-ionos-cloud-sdk-go-dev@6.3.2-1?arch=all
+- pkg:deb/debian/golang-github-ionos-cloud-sdk-go-dev@6.3.4-1?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/xcas@1.6.0.41%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/xcas@1.6.0.41%2Bdfsg1-1?arch=arm64
+- pkg:deb/debian/xcas@1.6.0.41%2Bdfsg1-1?arch=armhf
+- pkg:deb/debian/xcas@1.6.0.41%2Bdfsg1-1?arch=i386
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=amd64
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=arm64
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=armel
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=armhf
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=i386
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=mips64el
+- pkg:deb/debian/xcas@1.9.0.35%2Bdfsg2-1.1?arch=mipsel
+- pkg:deb/debian/xcas@1.9.0.93%2Bdfsg2-3?arch=amd64
+- pkg:deb/debian/xcas@1.9.0.93%2Bdfsg2-3?arch=arm64
+- pkg:deb/debian/xcas@1.9.0.93%2Bdfsg2-3?arch=armel
+- pkg:deb/debian/xcas@1.9.0.93%2Bdfsg2-3?arch=armhf
+- pkg:deb/debian/xcas@1.9.0.93%2Bdfsg2-3?arch=i386
+- pkg:deb/debian/xcas@1.9.0.93%2Bdfsg2-3?arch=riscv64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgs9@9.53.3~dfsg-7%2Bdeb11u7?arch=amd64
+- pkg:deb/debian/libgs9@9.53.3~dfsg-7%2Bdeb11u7?arch=arm64
+- pkg:deb/debian/libgs9@9.53.3~dfsg-7%2Bdeb11u7?arch=armhf
+- pkg:deb/debian/libgs9@9.53.3~dfsg-7%2Bdeb11u7?arch=i386

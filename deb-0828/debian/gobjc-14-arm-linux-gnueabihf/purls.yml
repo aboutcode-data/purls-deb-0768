@@ -1,0 +1,12 @@
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.2.0-19?arch=armhf
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.2.0-19cross1?arch=amd64
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.2.0-19cross1?arch=arm64
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.2.0-19cross1?arch=i386
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.2.0-19cross1?arch=ppc64el
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.2.0-19cross1?arch=s390x
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.3.0-10?arch=armhf
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.3.0-8cross1?arch=amd64
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.3.0-8cross1?arch=arm64
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.3.0-8cross1?arch=i386
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.3.0-8cross1?arch=ppc64el
+- pkg:deb/debian/gobjc-14-arm-linux-gnueabihf@14.3.0-8cross1?arch=s390x

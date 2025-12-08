@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-documents@3.34.0-2?arch=amd64
+- pkg:deb/debian/gnome-documents@3.34.0-2?arch=arm64
+- pkg:deb/debian/gnome-documents@3.34.0-2?arch=armhf
+- pkg:deb/debian/gnome-documents@3.34.0-2?arch=i386

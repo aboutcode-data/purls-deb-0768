@@ -1,0 +1,4 @@
+- pkg:deb/debian/grisbi-common@2.0.3-1?arch=all
+- pkg:deb/debian/grisbi-common@2.0.5-1?arch=all
+- pkg:deb/debian/grisbi-common@3.0.4-1?arch=all
+- pkg:deb/debian/grisbi-common@3.90.0-1?arch=all

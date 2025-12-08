@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-yamux-dev@0.0%2Bgit20190923.df201c7-1?arch=all
+- pkg:deb/debian/golang-github-hashicorp-yamux-dev@0.1.1-1?arch=all

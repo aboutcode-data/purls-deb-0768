@@ -1,0 +1,3 @@
+- pkg:deb/debian/gnome-shell-extension-weather@0.0~git20201103.d8be50f-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-weather@119-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-weather@139-3?arch=all

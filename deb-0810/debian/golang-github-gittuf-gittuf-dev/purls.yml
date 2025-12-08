@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gittuf-gittuf-dev@0.12.0-1?arch=all
+- pkg:deb/debian/golang-github-gittuf-gittuf-dev@0.9.0-5?arch=all

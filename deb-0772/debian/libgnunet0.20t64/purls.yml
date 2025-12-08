@@ -1,0 +1,15 @@
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=amd64
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=arm64
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=armel
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=armhf
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=i386
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=ppc64el
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=riscv64
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-7?arch=s390x
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=amd64
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=arm64
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=armhf
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=i386
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=ppc64el
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=riscv64
+- pkg:deb/debian/libgnunet0.20t64@0.20.0-8?arch=s390x

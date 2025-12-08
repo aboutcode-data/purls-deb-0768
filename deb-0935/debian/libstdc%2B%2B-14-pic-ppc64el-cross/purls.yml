@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstdc%2B%2B-14-pic-ppc64el-cross@14.2.0-19cross1?arch=all
+- pkg:deb/debian/libstdc%2B%2B-14-pic-ppc64el-cross@14.3.0-8cross1?arch=all

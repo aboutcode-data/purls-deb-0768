@@ -1,0 +1,6 @@
+- pkg:deb/debian/gnumach-image-1.8-xen-486@1.8%2Bgit20201129-4?arch=i386
+- pkg:deb/debian/gnumach-image-1.8-xen-486@1.8%2Bgit20221224-2?arch=amd64
+- pkg:deb/debian/gnumach-image-1.8-xen-486@1.8%2Bgit20221224-2?arch=i386
+- pkg:deb/debian/gnumach-image-1.8-xen-486@1.8%2Bgit20231217-1%2Bb1?arch=amd64
+- pkg:deb/debian/gnumach-image-1.8-xen-486@1.8%2Bgit20250702-1?arch=i386
+- pkg:deb/debian/gnumach-image-1.8-xen-486@1.8%2Bgit20250731-8?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-coreos-pkg-dev@4-3?arch=all
+- pkg:deb/debian/golang-github-coreos-pkg-dev@4-5?arch=all

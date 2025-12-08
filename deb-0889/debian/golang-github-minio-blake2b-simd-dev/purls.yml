@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-minio-blake2b-simd-dev@0.0~git20160723.3f5f724-2?arch=all
+- pkg:deb/debian/golang-github-minio-blake2b-simd-dev@0.0~git20160723.3f5f724-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-desktop3-data@3.38.5-3?arch=all
+- pkg:deb/debian/gnome-desktop3-data@43.2-2?arch=all
+- pkg:deb/debian/gnome-desktop3-data@44.3-3?arch=all
+- pkg:deb/debian/gnome-desktop3-data@44.4-1?arch=all

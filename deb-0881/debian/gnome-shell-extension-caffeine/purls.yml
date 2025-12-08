@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-caffeine@37-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-caffeine@44-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-caffeine@56-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-caffeine@59-1?arch=all

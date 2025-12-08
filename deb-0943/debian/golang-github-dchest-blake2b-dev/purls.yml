@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-dchest-blake2b-dev@0.0~git20170307.0.060063-1-1.1?arch=all
+- pkg:deb/debian/golang-github-dchest-blake2b-dev@0.0~git20170307.0.060063-1-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/harden-doc@3.19%2Bnmu1?arch=all
+- pkg:deb/debian/harden-doc@3.19%2Bnmu3?arch=all

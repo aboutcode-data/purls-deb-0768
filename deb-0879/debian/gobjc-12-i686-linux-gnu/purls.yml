@@ -1,0 +1,9 @@
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.2.0-14cross1?arch=amd64
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.2.0-14cross1?arch=arm64
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.2.0-14cross1?arch=ppc64el
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.4.0-5cross1?arch=amd64
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.4.0-5cross1?arch=arm64
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.4.0-5cross1?arch=ppc64el
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.5.0-6cross1?arch=amd64
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.5.0-6cross1?arch=arm64
+- pkg:deb/debian/gobjc-12-i686-linux-gnu@12.5.0-6cross1?arch=ppc64el

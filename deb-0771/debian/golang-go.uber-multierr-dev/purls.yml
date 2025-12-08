@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-go.uber-multierr-dev@1.1.0-1.1?arch=all
+- pkg:deb/debian/golang-go.uber-multierr-dev@1.6.0-1?arch=all

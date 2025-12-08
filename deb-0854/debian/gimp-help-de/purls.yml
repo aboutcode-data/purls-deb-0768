@@ -1,0 +1,4 @@
+- pkg:deb/debian/gimp-help-de@2.10.0-1?arch=all
+- pkg:deb/debian/gimp-help-de@2.10.34-2?arch=all
+- pkg:deb/debian/gimp-help-de@3.0.0-4?arch=all
+- pkg:deb/debian/gimp-help-de@3.0.0-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gorilla-sessions-dev@1.1%2Bgit20170802.7.b61c93c-4?arch=all
+- pkg:deb/debian/golang-github-gorilla-sessions-dev@1.2.1-1?arch=all

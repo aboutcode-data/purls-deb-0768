@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-puerkitobio-goquery-dev@1.1.0%2Bgit20170324.3.ed7d758-1.1?arch=all
+- pkg:deb/debian/golang-github-puerkitobio-goquery-dev@1.10.2-1?arch=all
+- pkg:deb/debian/golang-github-puerkitobio-goquery-dev@1.11.0-1?arch=all

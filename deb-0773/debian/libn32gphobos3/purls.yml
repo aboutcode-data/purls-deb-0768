@@ -1,0 +1,2 @@
+- pkg:deb/debian/libn32gphobos3@12.2.0-14%2Bdeb12u1?arch=mips64el
+- pkg:deb/debian/libn32gphobos3@12.2.0-14%2Bdeb12u1?arch=mipsel

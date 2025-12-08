@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnuplot-mode@0.11-1?arch=all
+- pkg:deb/debian/gnuplot-mode@0.7.0-2014-12-31-2?arch=all
+- pkg:deb/debian/gnuplot-mode@0.8.0%2Bgit20230101.1.b57caf8-1?arch=all
+- pkg:deb/debian/gnuplot-mode@0.8.1%2Bgit20230727.1.4c6b18f-2?arch=all

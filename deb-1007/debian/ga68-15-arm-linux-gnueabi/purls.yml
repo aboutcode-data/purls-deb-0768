@@ -1,0 +1,4 @@
+- pkg:deb/debian/ga68-15-arm-linux-gnueabi@15.2.0-7cross1?arch=amd64
+- pkg:deb/debian/ga68-15-arm-linux-gnueabi@15.2.0-7cross1?arch=arm64
+- pkg:deb/debian/ga68-15-arm-linux-gnueabi@15.2.0-7cross1?arch=i386
+- pkg:deb/debian/ga68-15-arm-linux-gnueabi@15.2.0-7cross1?arch=ppc64el

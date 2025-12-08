@@ -1,0 +1,15 @@
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=amd64
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=arm64
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=armel
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=armhf
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=i386
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=ppc64el
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=riscv64
+- pkg:deb/debian/gcc-for-host@14.2.0-1?arch=s390x
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=amd64
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=arm64
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=armhf
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=i386
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=ppc64el
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=riscv64
+- pkg:deb/debian/gcc-for-host@15.2.0-4?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-appindicator@34-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-appindicator@46-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-appindicator@59-4?arch=all
+- pkg:deb/debian/gnome-shell-extension-appindicator@61-2?arch=all

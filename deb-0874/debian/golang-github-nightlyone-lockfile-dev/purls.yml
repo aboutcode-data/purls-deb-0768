@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-nightlyone-lockfile-dev@0.0~git20170804.6a197d5-1.1?arch=all
+- pkg:deb/debian/golang-github-nightlyone-lockfile-dev@1.0.0-1?arch=all

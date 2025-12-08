@@ -1,0 +1,3 @@
+- pkg:deb/debian/gitlab-rulez@0.0~git20221202.8222047e-1?arch=all
+- pkg:deb/debian/gitlab-rulez@0.0~git20230818.deb29e64-1~bpo12%2B1?arch=all
+- pkg:deb/debian/gitlab-rulez@0.0~git20250121.3db44276-1?arch=all

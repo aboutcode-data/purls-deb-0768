@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-nebulouslabs-entropy-mnemonics-dev@0.0~git20170316.0.7b01a64-1.1?arch=all
+- pkg:deb/debian/golang-github-nebulouslabs-entropy-mnemonics-dev@0.0~git20181203.bc7e13c-1?arch=all

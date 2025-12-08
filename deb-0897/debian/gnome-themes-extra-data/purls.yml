@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-themes-extra-data@3.28-1?arch=all
+- pkg:deb/debian/gnome-themes-extra-data@3.28-2?arch=all
+- pkg:deb/debian/gnome-themes-extra-data@3.28-4?arch=all
+- pkg:deb/debian/gnome-themes-extra-data@3.28-5?arch=all

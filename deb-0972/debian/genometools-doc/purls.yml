@@ -1,0 +1,5 @@
+- pkg:deb/debian/genometools-doc@1.6.1%2Bds-3?arch=all
+- pkg:deb/debian/genometools-doc@1.6.2%2Bds-3?arch=all
+- pkg:deb/debian/genometools-doc@1.6.5%2Bds-2.2?arch=all
+- pkg:deb/debian/genometools-doc@1.6.5%2Bds-2~bpo12%2B1?arch=all
+- pkg:deb/debian/genometools-doc@1.6.6%2Bds-2?arch=all

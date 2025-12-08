@@ -1,0 +1,10 @@
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.3.0-8cross1?arch=amd64
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.3.0-8cross1?arch=arm64
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.3.0-8cross1?arch=i386
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.3.0-8cross1?arch=mips64el
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.3.0-8cross1?arch=mipsel
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.3.0-8cross1?arch=ppc64el
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.4.0-2cross2?arch=amd64
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.4.0-2cross2?arch=arm64
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.4.0-2cross2?arch=i386
+- pkg:deb/debian/gobjc-11-multilib-mipsisa64r6-linux-gnuabi64@11.4.0-2cross2?arch=ppc64el

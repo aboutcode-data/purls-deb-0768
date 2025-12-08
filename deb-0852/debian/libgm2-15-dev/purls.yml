@@ -1,0 +1,13 @@
+- pkg:deb/debian/libgm2-15-dev@15.2.0-10?arch=amd64
+- pkg:deb/debian/libgm2-15-dev@15.2.0-10?arch=arm64
+- pkg:deb/debian/libgm2-15-dev@15.2.0-10?arch=armhf
+- pkg:deb/debian/libgm2-15-dev@15.2.0-10?arch=i386
+- pkg:deb/debian/libgm2-15-dev@15.2.0-10?arch=ppc64el
+- pkg:deb/debian/libgm2-15-dev@15.2.0-10?arch=s390x
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=amd64
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=arm64
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=armhf
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=i386
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=ppc64el
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=riscv64
+- pkg:deb/debian/libgm2-15-dev@15.2.0-9?arch=s390x

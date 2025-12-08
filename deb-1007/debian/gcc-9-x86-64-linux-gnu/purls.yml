@@ -1,0 +1,2 @@
+- pkg:deb/debian/gcc-9-x86-64-linux-gnu@9.3.0-22cross1?arch=arm64
+- pkg:deb/debian/gcc-9-x86-64-linux-gnu@9.3.0-22cross1?arch=i386

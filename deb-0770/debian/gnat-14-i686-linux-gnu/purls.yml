@@ -1,0 +1,10 @@
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.2.0-19?arch=i386
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.2.0-19cross1?arch=amd64
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.2.0-19cross1?arch=arm64
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.2.0-19cross1?arch=ppc64el
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.2.0-19cross1?arch=s390x
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.3.0-10?arch=i386
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.3.0-8cross1?arch=amd64
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.3.0-8cross1?arch=arm64
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.3.0-8cross1?arch=ppc64el
+- pkg:deb/debian/gnat-14-i686-linux-gnu@14.3.0-8cross1?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/gfortran-10-multilib-powerpc-linux-gnu@10.2.1-6cross1?arch=amd64
+- pkg:deb/debian/gfortran-10-multilib-powerpc-linux-gnu@10.2.1-6cross1?arch=i386

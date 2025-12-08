@@ -1,0 +1,3 @@
+- pkg:deb/debian/glabels-data@3.4.1-3?arch=all
+- pkg:deb/debian/glabels-data@3.4.1-4?arch=all
+- pkg:deb/debian/glabels-data@3.4.1-5.1?arch=all

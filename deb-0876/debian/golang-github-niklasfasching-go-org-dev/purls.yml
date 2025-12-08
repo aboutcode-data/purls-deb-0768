@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-niklasfasching-go-org-dev@1.4.0-1?arch=all
+- pkg:deb/debian/golang-github-niklasfasching-go-org-dev@1.6.6-1?arch=all
+- pkg:deb/debian/golang-github-niklasfasching-go-org-dev@1.7.0-1?arch=all
+- pkg:deb/debian/golang-github-niklasfasching-go-org-dev@1.9.1-2?arch=all

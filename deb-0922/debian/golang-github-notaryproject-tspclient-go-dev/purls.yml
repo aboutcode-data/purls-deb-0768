@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-notaryproject-tspclient-go-dev@0.2.0-2?arch=all
+- pkg:deb/debian/golang-github-notaryproject-tspclient-go-dev@1.0.0-1?arch=all

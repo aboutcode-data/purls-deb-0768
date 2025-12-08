@@ -1,0 +1,2 @@
+- pkg:deb/debian/gcc-14-offload-amdgcn@14.2.0-19?arch=amd64
+- pkg:deb/debian/gcc-14-offload-amdgcn@14.3.0-10?arch=amd64

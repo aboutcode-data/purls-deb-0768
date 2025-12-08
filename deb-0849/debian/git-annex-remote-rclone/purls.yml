@@ -1,0 +1,2 @@
+- pkg:deb/debian/git-annex-remote-rclone@0.6-1?arch=all
+- pkg:deb/debian/git-annex-remote-rclone@0.8-1?arch=all

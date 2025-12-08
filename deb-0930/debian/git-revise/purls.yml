@@ -1,0 +1,2 @@
+- pkg:deb/debian/git-revise@0.6.0-2?arch=all
+- pkg:deb/debian/git-revise@0.7.0-1?arch=all

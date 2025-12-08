@@ -1,0 +1,6 @@
+- pkg:deb/debian/libgiac0t64@1.9.0.93%2Bdfsg2-3?arch=amd64
+- pkg:deb/debian/libgiac0t64@1.9.0.93%2Bdfsg2-3?arch=arm64
+- pkg:deb/debian/libgiac0t64@1.9.0.93%2Bdfsg2-3?arch=armel
+- pkg:deb/debian/libgiac0t64@1.9.0.93%2Bdfsg2-3?arch=armhf
+- pkg:deb/debian/libgiac0t64@1.9.0.93%2Bdfsg2-3?arch=i386
+- pkg:deb/debian/libgiac0t64@1.9.0.93%2Bdfsg2-3?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-avast-retry-go-dev@2.4.3-1?arch=all
+- pkg:deb/debian/golang-github-avast-retry-go-dev@4.6.0-1?arch=all

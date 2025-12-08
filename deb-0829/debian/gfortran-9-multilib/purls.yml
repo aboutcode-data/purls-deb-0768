@@ -1,0 +1,2 @@
+- pkg:deb/debian/gfortran-9-multilib@9.3.0-22?arch=amd64
+- pkg:deb/debian/gfortran-9-multilib@9.3.0-22?arch=i386

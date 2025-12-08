@@ -1,0 +1,16 @@
+- pkg:deb/debian/libgo19@11.3.0-12?arch=amd64
+- pkg:deb/debian/libgo19@11.3.0-12?arch=arm64
+- pkg:deb/debian/libgo19@11.3.0-12?arch=armel
+- pkg:deb/debian/libgo19@11.3.0-12?arch=armhf
+- pkg:deb/debian/libgo19@11.3.0-12?arch=i386
+- pkg:deb/debian/libgo19@11.3.0-12?arch=mips64el
+- pkg:deb/debian/libgo19@11.3.0-12?arch=mipsel
+- pkg:deb/debian/libgo19@11.3.0-12?arch=ppc64el
+- pkg:deb/debian/libgo19@11.3.0-12?arch=s390x
+- pkg:deb/debian/libgo19@11.5.0-7?arch=amd64
+- pkg:deb/debian/libgo19@11.5.0-7?arch=arm64
+- pkg:deb/debian/libgo19@11.5.0-7?arch=armhf
+- pkg:deb/debian/libgo19@11.5.0-7?arch=i386
+- pkg:deb/debian/libgo19@11.5.0-7?arch=ppc64el
+- pkg:deb/debian/libgo19@11.5.0-7?arch=riscv64
+- pkg:deb/debian/libgo19@11.5.0-7?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libghc-djinn-ghc-dev@0.0.2.3-10%2Bb3?arch=amd64
+- pkg:deb/debian/libghc-djinn-ghc-dev@0.0.2.3-10%2Bb3?arch=arm64
+- pkg:deb/debian/libghc-djinn-ghc-dev@0.0.2.3-10%2Bb3?arch=armhf
+- pkg:deb/debian/libghc-djinn-ghc-dev@0.0.2.3-10%2Bb3?arch=i386

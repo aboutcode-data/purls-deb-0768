@@ -1,0 +1,2 @@
+- pkg:deb/debian/libn32gcc-11-dev@11.3.0-12?arch=mips64el
+- pkg:deb/debian/libn32gcc-11-dev@11.3.0-12?arch=mipsel

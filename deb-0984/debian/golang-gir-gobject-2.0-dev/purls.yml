@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-gir-gobject-2.0-dev@2.0.2-1?arch=all
+- pkg:deb/debian/golang-gir-gobject-2.0-dev@2.2.0-1?arch=all
+- pkg:deb/debian/golang-gir-gobject-2.0-dev@2.2.0-2?arch=all
+- pkg:deb/debian/golang-gir-gobject-2.0-dev@3.0.0-1~exp1?arch=all

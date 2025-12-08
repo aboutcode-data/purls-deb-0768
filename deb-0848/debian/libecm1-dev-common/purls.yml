@@ -1,0 +1,4 @@
+- pkg:deb/debian/libecm1-dev-common@7.0.4%2Bds-5?arch=all
+- pkg:deb/debian/libecm1-dev-common@7.0.5%2Bds-1?arch=all
+- pkg:deb/debian/libecm1-dev-common@7.0.6%2Bds-1?arch=all
+- pkg:deb/debian/libecm1-dev-common@7.0.6%2Bds-2?arch=all

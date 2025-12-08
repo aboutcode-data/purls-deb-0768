@@ -1,0 +1,7 @@
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-10?arch=armhf
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-7cross1?arch=amd64
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-7cross1?arch=arm64
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-7cross1?arch=i386
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-7cross1?arch=ppc64el
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-7cross1?arch=s390x
+- pkg:deb/debian/gobjc%2B%2B-15-arm-linux-gnueabihf@15.2.0-9?arch=armhf

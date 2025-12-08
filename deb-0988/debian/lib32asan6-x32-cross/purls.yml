@@ -1,0 +1,2 @@
+- pkg:deb/debian/lib32asan6-x32-cross@10.2.1-6cross1?arch=all
+- pkg:deb/debian/lib32asan6-x32-cross@11.5.0-7cross1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/gccgo-14-multilib@14.2.0-19?arch=amd64
+- pkg:deb/debian/gccgo-14-multilib@14.2.0-19?arch=i386
+- pkg:deb/debian/gccgo-14-multilib@14.2.0-19?arch=s390x
+- pkg:deb/debian/gccgo-14-multilib@14.3.0-10?arch=amd64
+- pkg:deb/debian/gccgo-14-multilib@14.3.0-10?arch=i386
+- pkg:deb/debian/gccgo-14-multilib@14.3.0-10?arch=s390x

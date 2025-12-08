@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgimp-3.0-doc@3.0.4-3%2Bdeb13u2?arch=all
+- pkg:deb/debian/libgimp-3.0-doc@3.0.4-6.2?arch=all
+- pkg:deb/debian/libgimp-3.0-doc@3.0.6-1?arch=all

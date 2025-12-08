@@ -1,0 +1,9 @@
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.2.0-14cross5?arch=amd64
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.2.0-14cross5?arch=arm64
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.2.0-14cross5?arch=i386
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.2.0-14cross5?arch=mipsel
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.2.0-14cross5?arch=ppc64el
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.3.0-17cross1?arch=amd64
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.3.0-17cross1?arch=arm64
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.3.0-17cross1?arch=i386
+- pkg:deb/debian/gm2-12-mips64el-linux-gnuabi64@12.3.0-17cross1?arch=ppc64el

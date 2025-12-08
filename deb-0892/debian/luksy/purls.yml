@@ -1,0 +1,12 @@
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=amd64
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=arm64
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=armel
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=armhf
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=i386
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=ppc64el
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb7?arch=riscv64
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb8?arch=amd64
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb8?arch=arm64
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb8?arch=armhf
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb8?arch=i386
+- pkg:deb/debian/luksy@0.0~git20240812.2e7307c%2Bds1-1%2Bb8?arch=ppc64el

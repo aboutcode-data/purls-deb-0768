@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-minio-md5-simd-dev@1.1.1-1?arch=all
+- pkg:deb/debian/golang-github-minio-md5-simd-dev@1.1.2-4?arch=all

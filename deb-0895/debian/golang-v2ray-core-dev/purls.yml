@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-v2ray-core-dev@4.34.0%2Bds-1?arch=all
+- pkg:deb/debian/golang-v2ray-core-dev@4.34.0%2Bds-4?arch=all
+- pkg:deb/debian/golang-v2ray-core-dev@4.34.0%2Bds-5?arch=all
+- pkg:deb/debian/golang-v2ray-core-dev@4.34.0-1?arch=all

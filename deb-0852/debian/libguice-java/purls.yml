@@ -1,0 +1,2 @@
+- pkg:deb/debian/libguice-java@4.2.3-2?arch=all
+- pkg:deb/debian/libguice-java@5.1.0-1?arch=all

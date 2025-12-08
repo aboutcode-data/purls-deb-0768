@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-primitive-unaligned-doc@0.1.1.1-3?arch=all
+- pkg:deb/debian/libghc-primitive-unaligned-doc@0.1.1.2-1?arch=all
+- pkg:deb/debian/libghc-primitive-unaligned-doc@0.1.1.2-5?arch=all

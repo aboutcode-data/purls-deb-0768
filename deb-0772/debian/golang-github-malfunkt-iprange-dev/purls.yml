@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-malfunkt-iprange-dev@0.9.0-2?arch=all
+- pkg:deb/debian/golang-github-malfunkt-iprange-dev@0.9.0-4?arch=all
+- pkg:deb/debian/golang-github-malfunkt-iprange-dev@0.9.0-5?arch=all

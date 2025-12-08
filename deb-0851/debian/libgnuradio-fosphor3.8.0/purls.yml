@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgnuradio-fosphor3.8.0@3.8~2.2d4fe78-1%2Bb6?arch=amd64
+- pkg:deb/debian/libgnuradio-fosphor3.8.0@3.8~2.2d4fe78-1%2Bb6?arch=arm64
+- pkg:deb/debian/libgnuradio-fosphor3.8.0@3.8~2.2d4fe78-1%2Bb6?arch=armhf
+- pkg:deb/debian/libgnuradio-fosphor3.8.0@3.8~2.2d4fe78-1%2Bb6?arch=i386

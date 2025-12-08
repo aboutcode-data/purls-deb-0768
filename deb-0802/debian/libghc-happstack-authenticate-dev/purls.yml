@@ -1,0 +1,13 @@
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.4.0.3-1%2Bb1?arch=amd64
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.4.0.3-1%2Bb1?arch=i386
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.4.0.3-1%2Bb2?arch=arm64
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.4.0.3-1%2Bb2?arch=armhf
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb3?arch=mipsel
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb4?arch=mips64el
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb5?arch=arm64
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb5?arch=armel
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb5?arch=armhf
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb5?arch=i386
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1%2Bb6?arch=amd64
+- pkg:deb/debian/libghc-happstack-authenticate-dev@2.6.1-1?arch=s390x

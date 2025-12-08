@@ -1,0 +1,4 @@
+- pkg:deb/debian/gm2-11-arm-linux-gnueabihf@11.3.0-11cross1?arch=amd64
+- pkg:deb/debian/gm2-11-arm-linux-gnueabihf@11.3.0-11cross1?arch=arm64
+- pkg:deb/debian/gm2-11-arm-linux-gnueabihf@11.3.0-11cross1?arch=i386
+- pkg:deb/debian/gm2-11-arm-linux-gnueabihf@11.3.0-11cross1?arch=ppc64el

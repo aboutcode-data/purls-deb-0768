@@ -1,0 +1,6 @@
+- pkg:deb/debian/grub-legacy@0.97-77?arch=amd64
+- pkg:deb/debian/grub-legacy@0.97-77?arch=i386
+- pkg:deb/debian/grub-legacy@0.97-80?arch=amd64
+- pkg:deb/debian/grub-legacy@0.97-80?arch=i386
+- pkg:deb/debian/grub-legacy@0.97-84?arch=amd64
+- pkg:deb/debian/grub-legacy@0.97-84?arch=i386

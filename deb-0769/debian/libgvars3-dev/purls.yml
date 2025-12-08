@@ -1,0 +1,13 @@
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=amd64
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=armel
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=armhf
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=i386
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=mips64el
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=mipsel
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-3?arch=s390x
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-4.1%2Bb2?arch=amd64
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-4.1%2Bb2?arch=armel
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-4.1%2Bb2?arch=armhf
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-4.1%2Bb2?arch=i386
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-4.1%2Bb2?arch=riscv64
+- pkg:deb/debian/libgvars3-dev@0.0~git20220105194034.62f5a78-4.1%2Bb2?arch=s390x

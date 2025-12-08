@@ -1,0 +1,8 @@
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=amd64
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=arm64
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=armel
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=armhf
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=i386
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=ppc64el
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=riscv64
+- pkg:deb/debian/nex@0.0.0%2Bgit.2021.03.30.1a3320dab9-3?arch=s390x

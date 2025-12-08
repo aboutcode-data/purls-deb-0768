@@ -1,0 +1,8 @@
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=amd64
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=arm64
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=armel
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=armhf
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=i386
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=ppc64el
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=riscv64
+- pkg:deb/debian/libgnuradio-satellites5.5.0@5.5.0-2%2Bb13?arch=s390x

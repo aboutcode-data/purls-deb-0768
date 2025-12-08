@@ -1,0 +1,2 @@
+- pkg:deb/debian/gosa-dev@2.7.4%2Breloaded3-16?arch=all
+- pkg:deb/debian/gosa-dev@2.8~git20230203.10abe45%2Bdfsg-1%2Bdeb12u2?arch=all

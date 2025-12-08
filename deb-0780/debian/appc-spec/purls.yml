@@ -1,0 +1,13 @@
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=amd64
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=arm64
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=armel
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=armhf
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=i386
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=mips64el
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=mipsel
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=ppc64el
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb11?arch=s390x
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb5?arch=amd64
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb5?arch=arm64
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb5?arch=armhf
+- pkg:deb/debian/appc-spec@0.8.11%2Bdfsg-2.1%2Bb5?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-albenik-go-serial-dev@2.5.1-1?arch=all
+- pkg:deb/debian/golang-github-albenik-go-serial-dev@2.6.1-1?arch=all

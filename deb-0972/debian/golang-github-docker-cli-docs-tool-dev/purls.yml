@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-docker-cli-docs-tool-dev@0.10.0-1?arch=all
+- pkg:deb/debian/golang-github-docker-cli-docs-tool-dev@0.8.0-2?arch=all

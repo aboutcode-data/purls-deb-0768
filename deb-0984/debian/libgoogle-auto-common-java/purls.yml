@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgoogle-auto-common-java@0.10-2?arch=all
+- pkg:deb/debian/libgoogle-auto-common-java@1.1.2-1?arch=all

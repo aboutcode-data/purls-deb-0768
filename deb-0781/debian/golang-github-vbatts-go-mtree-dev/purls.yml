@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-vbatts-go-mtree-dev@0.4.4-2?arch=all
+- pkg:deb/debian/golang-github-vbatts-go-mtree-dev@0.6.0%2Bds-1?arch=all

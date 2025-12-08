@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-maxatome-go-testdeep-dev@1.14.0-1?arch=all
+- pkg:deb/debian/golang-github-maxatome-go-testdeep-dev@1.14.0-1~bpo12%2B1?arch=all

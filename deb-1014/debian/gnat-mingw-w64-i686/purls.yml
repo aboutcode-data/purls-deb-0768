@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnat-mingw-w64-i686@10.2.1-6%2B24.2?arch=all
+- pkg:deb/debian/gnat-mingw-w64-i686@12.2.0-14%2B25.2?arch=all
+- pkg:deb/debian/gnat-mingw-w64-i686@14.2.0-17%2B27?arch=all
+- pkg:deb/debian/gnat-mingw-w64-i686@15.2.0-7%2B28?arch=all

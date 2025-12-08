@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-1.15-go@1.15.15-1~deb11u4?arch=amd64
+- pkg:deb/debian/golang-1.15-go@1.15.15-1~deb11u4?arch=arm64
+- pkg:deb/debian/golang-1.15-go@1.15.15-1~deb11u4?arch=armhf
+- pkg:deb/debian/golang-1.15-go@1.15.15-1~deb11u4?arch=i386

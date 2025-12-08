@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-djherbis-times-dev@1.0.1%2Bgit20170215.d25002f-1.1?arch=all
+- pkg:deb/debian/golang-github-djherbis-times-dev@1.5.0-1?arch=all
+- pkg:deb/debian/golang-github-djherbis-times-dev@1.6.0-1?arch=all

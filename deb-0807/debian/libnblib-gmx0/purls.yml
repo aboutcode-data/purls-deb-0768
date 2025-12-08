@@ -1,0 +1,15 @@
+- pkg:deb/debian/libnblib-gmx0@2022.5-2?arch=amd64
+- pkg:deb/debian/libnblib-gmx0@2022.5-2?arch=arm64
+- pkg:deb/debian/libnblib-gmx0@2022.5-2?arch=mips64el
+- pkg:deb/debian/libnblib-gmx0@2022.5-2?arch=ppc64el
+- pkg:deb/debian/libnblib-gmx0@2022.5-2?arch=s390x
+- pkg:deb/debian/libnblib-gmx0@2025.2-1?arch=amd64
+- pkg:deb/debian/libnblib-gmx0@2025.2-1?arch=arm64
+- pkg:deb/debian/libnblib-gmx0@2025.2-1?arch=ppc64el
+- pkg:deb/debian/libnblib-gmx0@2025.2-1?arch=riscv64
+- pkg:deb/debian/libnblib-gmx0@2025.2-1?arch=s390x
+- pkg:deb/debian/libnblib-gmx0@2025.4-1?arch=amd64
+- pkg:deb/debian/libnblib-gmx0@2025.4-1?arch=arm64
+- pkg:deb/debian/libnblib-gmx0@2025.4-1?arch=ppc64el
+- pkg:deb/debian/libnblib-gmx0@2025.4-1?arch=riscv64
+- pkg:deb/debian/libnblib-gmx0@2025.4-1?arch=s390x

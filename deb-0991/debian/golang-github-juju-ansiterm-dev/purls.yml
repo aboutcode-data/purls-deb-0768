@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-juju-ansiterm-dev@0.0~git20161107.35c59b9-3?arch=all
+- pkg:deb/debian/golang-github-juju-ansiterm-dev@1.0.0-1?arch=all

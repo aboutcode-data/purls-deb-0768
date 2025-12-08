@@ -1,1 +1,15 @@
 - pkg:deb/debian/libgomp-plugin-nvptx1@10.2.1-6?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@12.2.0-14%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@12.2.0-14%2Bdeb12u1?arch=ppc64el
+- pkg:deb/debian/libgomp-plugin-nvptx1@14.2.0-19?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@14.2.0-19?arch=arm64
+- pkg:deb/debian/libgomp-plugin-nvptx1@14.2.0-19?arch=ppc64el
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-10?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-10?arch=arm64
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-10?arch=ppc64el
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-9?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-9?arch=arm64
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-9?arch=ppc64el
+- pkg:deb/debian/libgomp-plugin-nvptx1@16-20251202-1?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@16-20251202-1?arch=arm64
+- pkg:deb/debian/libgomp-plugin-nvptx1@16-20251202-1?arch=ppc64el

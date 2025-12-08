@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-regex-posix-doc@0.96.0.0-1?arch=all
+- pkg:deb/debian/libghc-regex-posix-doc@0.96.0.1-1?arch=all
+- pkg:deb/debian/libghc-regex-posix-doc@0.96.0.1-3?arch=all

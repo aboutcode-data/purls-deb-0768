@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-regex-compat-doc@0.95.2.0-1?arch=all
+- pkg:deb/debian/libghc-regex-compat-doc@0.95.2.1-1?arch=all
+- pkg:deb/debian/libghc-regex-compat-doc@0.95.2.1-3?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/gcc-11-aarch64-linux-gnu-base@11.3.0-11cross1?arch=amd64
+- pkg:deb/debian/gcc-11-aarch64-linux-gnu-base@11.3.0-11cross1?arch=i386
+- pkg:deb/debian/gcc-11-aarch64-linux-gnu-base@11.3.0-11cross1?arch=ppc64el
+- pkg:deb/debian/gcc-11-aarch64-linux-gnu-base@11.5.0-7cross1?arch=amd64
+- pkg:deb/debian/gcc-11-aarch64-linux-gnu-base@11.5.0-7cross1?arch=i386
+- pkg:deb/debian/gcc-11-aarch64-linux-gnu-base@11.5.0-7cross1?arch=ppc64el

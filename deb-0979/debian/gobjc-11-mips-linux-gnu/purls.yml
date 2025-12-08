@@ -1,0 +1,4 @@
+- pkg:deb/debian/gobjc-11-mips-linux-gnu@11.4.0-2cross2?arch=amd64
+- pkg:deb/debian/gobjc-11-mips-linux-gnu@11.4.0-2cross2?arch=arm64
+- pkg:deb/debian/gobjc-11-mips-linux-gnu@11.4.0-2cross2?arch=i386
+- pkg:deb/debian/gobjc-11-mips-linux-gnu@11.4.0-2cross2?arch=ppc64el

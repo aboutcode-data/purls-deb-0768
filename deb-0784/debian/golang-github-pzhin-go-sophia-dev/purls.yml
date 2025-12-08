@@ -1,0 +1,10 @@
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.0.afcd224-5%2Bb6?arch=amd64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.0.afcd224-5%2Bb6?arch=arm64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.0.afcd224-6%2Bb6?arch=amd64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.0.afcd224-6%2Bb6?arch=arm64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.0.afcd224-6%2Bb6?arch=mips64el
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.0.afcd224-6%2Bb6?arch=mipsel
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.afcd224-1%2Bb8?arch=amd64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20191015.afcd224-1%2Bb8?arch=arm64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20250609.a1b0f01-2?arch=amd64
+- pkg:deb/debian/golang-github-pzhin-go-sophia-dev@0.0~git20250609.a1b0f01-2?arch=arm64

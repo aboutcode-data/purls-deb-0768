@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhsail-rt-11-dev-amd64-cross@11.3.0-11cross1?arch=all
+- pkg:deb/debian/libhsail-rt-11-dev-amd64-cross@11.5.0-2cross1?arch=all

@@ -1,0 +1,10 @@
+- pkg:deb/debian/libglgrib-egl0@1.0-4%2Bb3?arch=amd64
+- pkg:deb/debian/libglgrib-egl0@1.0-4%2Bb3?arch=arm64
+- pkg:deb/debian/libglgrib-egl0@1.0-4%2Bb3?arch=ppc64el
+- pkg:deb/debian/libglgrib-egl0@1.0-4%2Bb3?arch=riscv64
+- pkg:deb/debian/libglgrib-egl0@1.0-4%2Bb3?arch=s390x
+- pkg:deb/debian/libglgrib-egl0@1.0-5?arch=amd64
+- pkg:deb/debian/libglgrib-egl0@1.0-5?arch=arm64
+- pkg:deb/debian/libglgrib-egl0@1.0-5?arch=ppc64el
+- pkg:deb/debian/libglgrib-egl0@1.0-5?arch=riscv64
+- pkg:deb/debian/libglgrib-egl0@1.0-5?arch=s390x

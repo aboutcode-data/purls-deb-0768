@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgnuradio-wavelet3.8.2@3.8.2.0-14?arch=amd64
+- pkg:deb/debian/libgnuradio-wavelet3.8.2@3.8.2.0-14?arch=arm64
+- pkg:deb/debian/libgnuradio-wavelet3.8.2@3.8.2.0-14?arch=armhf
+- pkg:deb/debian/libgnuradio-wavelet3.8.2@3.8.2.0-14?arch=i386

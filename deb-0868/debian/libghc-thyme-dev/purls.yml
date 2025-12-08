@@ -1,0 +1,4 @@
+- pkg:deb/debian/libghc-thyme-dev@0.3.5.5-5%2Bb2?arch=armhf
+- pkg:deb/debian/libghc-thyme-dev@0.3.5.5-5%2Bb2?arch=i386
+- pkg:deb/debian/libghc-thyme-dev@0.3.5.5-5%2Bb3?arch=amd64
+- pkg:deb/debian/libghc-thyme-dev@0.3.5.5-5%2Bb3?arch=arm64

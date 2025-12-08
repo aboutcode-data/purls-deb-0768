@@ -1,0 +1,6 @@
+- pkg:deb/debian/haproxy-doc@2.2.9-2%2Bdeb11u6?arch=all
+- pkg:deb/debian/haproxy-doc@2.6.12-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/haproxy-doc@2.6.12-1%2Bdeb12u3?arch=all
+- pkg:deb/debian/haproxy-doc@3.0.11-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/haproxy-doc@3.2.9-1?arch=all
+- pkg:deb/debian/haproxy-doc@3.3.0-1?arch=all

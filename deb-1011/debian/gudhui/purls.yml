@@ -1,0 +1,9 @@
+- pkg:deb/debian/gudhui@3.4.1%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/gudhui@3.4.1%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/gudhui@3.4.1%2Bdfsg-1?arch=i386
+- pkg:deb/debian/gudhui@3.7.1%2Bdfsg-1%2Bb1?arch=amd64
+- pkg:deb/debian/gudhui@3.7.1%2Bdfsg-1%2Bb1?arch=arm64
+- pkg:deb/debian/gudhui@3.7.1%2Bdfsg-1%2Bb1?arch=i386
+- pkg:deb/debian/gudhui@3.7.1%2Bdfsg-1%2Bb1?arch=mips64el
+- pkg:deb/debian/gudhui@3.7.1%2Bdfsg-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/gudhui@3.7.1%2Bdfsg-1%2Bb1?arch=s390x

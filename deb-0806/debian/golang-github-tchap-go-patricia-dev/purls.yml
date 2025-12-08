@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-tchap-go-patricia-dev@2.2.6-5?arch=all
+- pkg:deb/debian/golang-github-tchap-go-patricia-dev@2.3.1-1?arch=all
+- pkg:deb/debian/golang-github-tchap-go-patricia-dev@2.3.2-1?arch=all

@@ -1,0 +1,13 @@
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-7?arch=amd64
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-7?arch=arm64
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-7?arch=armhf
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-7?arch=i386
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=amd64
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=arm64
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=armel
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=armhf
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=i386
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=mips64el
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=mipsel
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=ppc64el
+- pkg:deb/debian/gir1.2-gconf-2.0@3.2.6-8?arch=s390x

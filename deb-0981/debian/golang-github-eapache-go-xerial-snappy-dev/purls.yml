@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-eapache-go-xerial-snappy-dev@0.0~git20160609.bb955e0-1.1?arch=all
+- pkg:deb/debian/golang-github-eapache-go-xerial-snappy-dev@0.0~git20180814.776d571-1?arch=all

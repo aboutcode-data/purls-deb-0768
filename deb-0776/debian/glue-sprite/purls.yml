@@ -1,0 +1,4 @@
+- pkg:deb/debian/glue-sprite@0.13-4?arch=all
+- pkg:deb/debian/glue-sprite@0.13-6?arch=all
+- pkg:deb/debian/glue-sprite@0.13-7?arch=all
+- pkg:deb/debian/glue-sprite@0.13-8?arch=all

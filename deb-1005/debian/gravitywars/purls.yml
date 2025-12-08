@@ -1,0 +1,17 @@
+- pkg:deb/debian/gravitywars@1.102-35?arch=amd64
+- pkg:deb/debian/gravitywars@1.102-35?arch=arm64
+- pkg:deb/debian/gravitywars@1.102-35?arch=armel
+- pkg:deb/debian/gravitywars@1.102-35?arch=armhf
+- pkg:deb/debian/gravitywars@1.102-35?arch=i386
+- pkg:deb/debian/gravitywars@1.102-35?arch=mips64el
+- pkg:deb/debian/gravitywars@1.102-35?arch=mipsel
+- pkg:deb/debian/gravitywars@1.102-35?arch=ppc64el
+- pkg:deb/debian/gravitywars@1.102-35?arch=s390x
+- pkg:deb/debian/gravitywars@1.102-36%2Bb2?arch=arm64
+- pkg:deb/debian/gravitywars@1.102-36?arch=amd64
+- pkg:deb/debian/gravitywars@1.102-36?arch=armel
+- pkg:deb/debian/gravitywars@1.102-36?arch=armhf
+- pkg:deb/debian/gravitywars@1.102-36?arch=i386
+- pkg:deb/debian/gravitywars@1.102-36?arch=ppc64el
+- pkg:deb/debian/gravitywars@1.102-36?arch=riscv64
+- pkg:deb/debian/gravitywars@1.102-36?arch=s390x

@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-spf13-pflag-dev@1.0.10-1?arch=all
+- pkg:deb/debian/golang-github-spf13-pflag-dev@1.0.5-2?arch=all
+- pkg:deb/debian/golang-github-spf13-pflag-dev@1.0.6~git20210604-d5e0c0615ace-1?arch=all

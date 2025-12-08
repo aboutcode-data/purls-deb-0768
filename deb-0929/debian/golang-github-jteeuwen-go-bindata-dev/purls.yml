@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-jteeuwen-go-bindata-dev@3.0.7%2Bgit20151023.72.a0ff256-3?arch=all
+- pkg:deb/debian/golang-github-jteeuwen-go-bindata-dev@3.0.7%2Bgit20151023.72.a0ff256-4?arch=all
+- pkg:deb/debian/golang-github-jteeuwen-go-bindata-dev@3.0.7%2Bgit20151023.72.a0ff256-5?arch=all

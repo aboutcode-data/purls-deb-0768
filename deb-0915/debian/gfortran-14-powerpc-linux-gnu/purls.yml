@@ -1,0 +1,10 @@
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.2.0-19cross1?arch=amd64
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.2.0-19cross1?arch=arm64
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.2.0-19cross1?arch=i386
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.2.0-19cross1?arch=ppc64el
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.2.0-19cross1?arch=s390x
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.3.0-8cross1?arch=amd64
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.3.0-8cross1?arch=arm64
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.3.0-8cross1?arch=i386
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.3.0-8cross1?arch=ppc64el
+- pkg:deb/debian/gfortran-14-powerpc-linux-gnu@14.3.0-8cross1?arch=s390x

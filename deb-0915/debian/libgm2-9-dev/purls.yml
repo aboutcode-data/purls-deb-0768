@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgm2-9-dev@9.3.0-22?arch=amd64
+- pkg:deb/debian/libgm2-9-dev@9.3.0-22?arch=arm64
+- pkg:deb/debian/libgm2-9-dev@9.3.0-22?arch=armhf
+- pkg:deb/debian/libgm2-9-dev@9.3.0-22?arch=i386

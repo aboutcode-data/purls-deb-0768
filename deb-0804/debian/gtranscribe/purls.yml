@@ -1,0 +1,3 @@
+- pkg:deb/debian/gtranscribe@0.10.1-1?arch=all
+- pkg:deb/debian/gtranscribe@0.11-1?arch=all
+- pkg:deb/debian/gtranscribe@0.11-4?arch=all

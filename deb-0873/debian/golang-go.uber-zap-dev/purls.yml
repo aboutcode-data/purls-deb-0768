@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-go.uber-zap-dev@1.15.0-2?arch=all
+- pkg:deb/debian/golang-go.uber-zap-dev@1.23.0-1?arch=all
+- pkg:deb/debian/golang-go.uber-zap-dev@1.26.0-1?arch=all
+- pkg:deb/debian/golang-go.uber-zap-dev@1.27.0-1?arch=all

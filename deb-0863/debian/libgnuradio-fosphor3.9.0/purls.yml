@@ -1,0 +1,17 @@
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=amd64
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=arm64
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=armel
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=armhf
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=i386
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=mips64el
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=mipsel
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~0.974ab2f-1%2Bb9?arch=s390x
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=amd64
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=arm64
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=armel
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=armhf
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=i386
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=ppc64el
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=riscv64
+- pkg:deb/debian/libgnuradio-fosphor3.9.0@3.9~git20240323.74d54fc-1%2Bb10?arch=s390x

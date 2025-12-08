@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgsoap-2.8.104@2.8.104-3?arch=amd64
+- pkg:deb/debian/libgsoap-2.8.104@2.8.104-3?arch=arm64
+- pkg:deb/debian/libgsoap-2.8.104@2.8.104-3?arch=armhf
+- pkg:deb/debian/libgsoap-2.8.104@2.8.104-3?arch=i386

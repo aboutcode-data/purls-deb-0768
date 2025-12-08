@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgradle-plugins-java@4.4.1-13?arch=all
+- pkg:deb/debian/libgradle-plugins-java@4.4.1-18?arch=all
+- pkg:deb/debian/libgradle-plugins-java@4.4.1-22?arch=all

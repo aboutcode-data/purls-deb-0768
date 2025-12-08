@@ -1,0 +1,15 @@
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=amd64
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=arm64
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=armel
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=armhf
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=i386
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=ppc64el
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=riscv64
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb11?arch=s390x
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=amd64
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=arm64
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=armhf
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=i386
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=ppc64el
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=riscv64
+- pkg:deb/debian/imgcrypt@1.1.11-4%2Bb12?arch=s390x

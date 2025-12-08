@@ -1,0 +1,4 @@
+- pkg:deb/debian/ginga@3.1.0-1?arch=all
+- pkg:deb/debian/ginga@4.0.1-1?arch=all
+- pkg:deb/debian/ginga@5.3.0-1?arch=all
+- pkg:deb/debian/ginga@5.4.0-1?arch=all

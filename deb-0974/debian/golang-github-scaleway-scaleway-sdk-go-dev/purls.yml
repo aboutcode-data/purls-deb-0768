@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-scaleway-scaleway-sdk-go-dev@1.0.0~beta12-1?arch=all
+- pkg:deb/debian/golang-github-scaleway-scaleway-sdk-go-dev@1.0.0~beta32-1?arch=all

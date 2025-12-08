@@ -1,0 +1,4 @@
+- pkg:deb/debian/git-cola@3.12.0-2?arch=all
+- pkg:deb/debian/git-cola@3.9-1?arch=all
+- pkg:deb/debian/git-cola@4.12.0-1?arch=all
+- pkg:deb/debian/git-cola@4.16.1-1?arch=all

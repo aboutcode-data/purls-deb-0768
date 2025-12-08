@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-smallstep-cli-dev@0.15.16%2Bds-3?arch=all
+- pkg:deb/debian/golang-github-smallstep-cli-dev@0.15.16%2Bds-4?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgmerlin0@1.2.0~dfsg%2B1-6.1%2Bb3?arch=amd64
+- pkg:deb/debian/libgmerlin0@1.2.0~dfsg%2B1-6.1%2Bb3?arch=arm64
+- pkg:deb/debian/libgmerlin0@1.2.0~dfsg%2B1-6.1%2Bb3?arch=armhf
+- pkg:deb/debian/libgmerlin0@1.2.0~dfsg%2B1-6.1%2Bb3?arch=i386

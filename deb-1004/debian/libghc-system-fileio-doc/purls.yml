@@ -1,0 +1,4 @@
+- pkg:deb/debian/libghc-system-fileio-doc@0.3.16.4-3?arch=all
+- pkg:deb/debian/libghc-system-fileio-doc@0.3.16.4-4?arch=all
+- pkg:deb/debian/libghc-system-fileio-doc@0.3.16.4-6.1?arch=all
+- pkg:deb/debian/libghc-system-fileio-doc@0.3.16.4-6?arch=all

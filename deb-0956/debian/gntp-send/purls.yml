@@ -1,0 +1,15 @@
+- pkg:deb/debian/gntp-send@0.3.4-6?arch=amd64
+- pkg:deb/debian/gntp-send@0.3.4-6?arch=arm64
+- pkg:deb/debian/gntp-send@0.3.4-6?arch=armhf
+- pkg:deb/debian/gntp-send@0.3.4-6?arch=i386
+- pkg:deb/debian/gntp-send@0.3.4-7%2Bb1?arch=arm64
+- pkg:deb/debian/gntp-send@0.3.4-7%2Bb1?arch=riscv64
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=amd64
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=arm64
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=armel
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=armhf
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=i386
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=mips64el
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=mipsel
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=ppc64el
+- pkg:deb/debian/gntp-send@0.3.4-7?arch=s390x

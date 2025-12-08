@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgo23-armel-cross@14.2.0-19cross1?arch=all
+- pkg:deb/debian/libgo23-armel-cross@14.3.0-8cross1?arch=all

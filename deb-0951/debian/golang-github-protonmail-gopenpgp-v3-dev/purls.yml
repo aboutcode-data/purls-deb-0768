@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-protonmail-gopenpgp-v3-dev@3.2.0-1?arch=all
+- pkg:deb/debian/golang-github-protonmail-gopenpgp-v3-dev@3.3.0-1?arch=all

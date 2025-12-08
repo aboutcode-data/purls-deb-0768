@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgnuradio-radar1.0.0@0.0.0.20180308-4%2Bb8?arch=amd64
+- pkg:deb/debian/libgnuradio-radar1.0.0@0.0.0.20180308-4%2Bb8?arch=arm64
+- pkg:deb/debian/libgnuradio-radar1.0.0@0.0.0.20180308-4%2Bb8?arch=armhf
+- pkg:deb/debian/libgnuradio-radar1.0.0@0.0.0.20180308-4%2Bb8?arch=i386

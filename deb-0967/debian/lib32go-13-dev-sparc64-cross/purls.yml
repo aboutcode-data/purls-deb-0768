@@ -1,0 +1,2 @@
+- pkg:deb/debian/lib32go-13-dev-sparc64-cross@13.3.0-16cross1?arch=all
+- pkg:deb/debian/lib32go-13-dev-sparc64-cross@13.4.0-4cross1?arch=all

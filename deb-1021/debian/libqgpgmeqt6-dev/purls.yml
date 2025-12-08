@@ -1,0 +1,8 @@
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=amd64
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=arm64
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=armel
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=armhf
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=i386
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=ppc64el
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=riscv64
+- pkg:deb/debian/libqgpgmeqt6-dev@1.24.2-3?arch=s390x

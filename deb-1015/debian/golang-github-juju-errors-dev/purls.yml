@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-juju-errors-dev@0.0~git20170703.0.c7d06af-5?arch=all
+- pkg:deb/debian/golang-github-juju-errors-dev@1.0.0-1?arch=all

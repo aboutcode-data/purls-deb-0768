@@ -1,0 +1,2 @@
+- pkg:deb/debian/gccrs-15-aarch64-linux-gnu@15.2.0-10?arch=arm64
+- pkg:deb/debian/gccrs-15-aarch64-linux-gnu@15.2.0-9?arch=arm64

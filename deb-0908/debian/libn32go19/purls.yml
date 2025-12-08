@@ -1,0 +1,2 @@
+- pkg:deb/debian/libn32go19@11.3.0-12?arch=mips64el
+- pkg:deb/debian/libn32go19@11.3.0-12?arch=mipsel

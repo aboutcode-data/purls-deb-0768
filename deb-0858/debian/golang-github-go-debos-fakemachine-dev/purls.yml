@@ -1,0 +1,6 @@
+- pkg:deb/debian/golang-github-go-debos-fakemachine-dev@0.0.11-1%2Bb2?arch=amd64
+- pkg:deb/debian/golang-github-go-debos-fakemachine-dev@0.0.11-1%2Bb2?arch=arm64
+- pkg:deb/debian/golang-github-go-debos-fakemachine-dev@0.0.11-2?arch=amd64
+- pkg:deb/debian/golang-github-go-debos-fakemachine-dev@0.0.11-2?arch=arm64
+- pkg:deb/debian/golang-github-go-debos-fakemachine-dev@0.0.4-1%2Bb2?arch=amd64
+- pkg:deb/debian/golang-github-go-debos-fakemachine-dev@0.0~git20201127.9e6ee78-1%2Bb6?arch=amd64

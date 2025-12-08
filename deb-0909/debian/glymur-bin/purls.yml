@@ -1,0 +1,4 @@
+- pkg:deb/debian/glymur-bin@0.12.2-2?arch=all
+- pkg:deb/debian/glymur-bin@0.14.1-1?arch=all
+- pkg:deb/debian/glymur-bin@0.14.4-1?arch=all
+- pkg:deb/debian/glymur-bin@0.9.3-1?arch=all

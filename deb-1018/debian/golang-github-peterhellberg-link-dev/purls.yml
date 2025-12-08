@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-peterhellberg-link-dev@1.0.0-4?arch=all
+- pkg:deb/debian/golang-github-peterhellberg-link-dev@1.0.0-6?arch=all

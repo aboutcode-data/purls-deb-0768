@@ -1,0 +1,2 @@
+- pkg:deb/debian/grub-splashimages@1.2.3%2Bnmu1?arch=all
+- pkg:deb/debian/grub-splashimages@1.2.4?arch=all

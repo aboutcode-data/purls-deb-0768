@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-golang-x-time-dev@0.0%2Bgit20200630.3af7569-1?arch=all
+- pkg:deb/debian/golang-golang-x-time-dev@0.14.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-time-dev@0.3.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-time-dev@0.5.0-1?arch=all

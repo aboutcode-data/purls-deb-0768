@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-cilium-ebpf-dev@0.11.0-2?arch=all
+- pkg:deb/debian/golang-github-cilium-ebpf-dev@0.17.3%2Bds1-4?arch=all
+- pkg:deb/debian/golang-github-cilium-ebpf-dev@0.2.0-1?arch=all
+- pkg:deb/debian/golang-github-cilium-ebpf-dev@0.9.1-1?arch=all

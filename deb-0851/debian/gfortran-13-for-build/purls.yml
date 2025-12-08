@@ -1,0 +1,2 @@
+- pkg:deb/debian/gfortran-13-for-build@13.3.0-16?arch=all
+- pkg:deb/debian/gfortran-13-for-build@13.4.0-4?arch=all

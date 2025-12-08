@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgvplugin-vt100-dev@12.2.1-1?arch=all
+- pkg:deb/debian/libgvplugin-vt100-dev@13.1.2-1?arch=all
+- pkg:deb/debian/libgvplugin-vt100-dev@14.0.5-1?arch=all
+- pkg:deb/debian/libgvplugin-vt100-dev@14.0.5-2?arch=all

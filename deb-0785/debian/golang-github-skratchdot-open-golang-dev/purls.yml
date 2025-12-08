@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-skratchdot-open-golang-dev@0.0~git20160302.0.75fb7ed-2.1?arch=all
+- pkg:deb/debian/golang-github-skratchdot-open-golang-dev@0.0~git20160302.0.75fb7ed-2?arch=all
+- pkg:deb/debian/golang-github-skratchdot-open-golang-dev@0.0~git20160302.0.75fb7ed-3?arch=all

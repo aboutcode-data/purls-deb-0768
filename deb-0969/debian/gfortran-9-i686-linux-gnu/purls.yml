@@ -1,0 +1,2 @@
+- pkg:deb/debian/gfortran-9-i686-linux-gnu@9.3.0-22cross1?arch=amd64
+- pkg:deb/debian/gfortran-9-i686-linux-gnu@9.3.0-22cross1?arch=arm64

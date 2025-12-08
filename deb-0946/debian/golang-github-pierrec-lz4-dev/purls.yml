@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-pierrec-lz4-dev@2.5.2-1?arch=all
+- pkg:deb/debian/golang-github-pierrec-lz4-dev@2.5.2-2?arch=all
+- pkg:deb/debian/golang-github-pierrec-lz4-dev@4.1.18-1?arch=all
+- pkg:deb/debian/golang-github-pierrec-lz4-dev@4.1.18-1~bpo12%2B1?arch=all

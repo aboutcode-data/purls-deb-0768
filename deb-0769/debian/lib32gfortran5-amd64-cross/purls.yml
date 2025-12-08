@@ -1,1 +1,4 @@
 - pkg:deb/debian/lib32gfortran5-amd64-cross@10.2.1-6cross1?arch=all
+- pkg:deb/debian/lib32gfortran5-amd64-cross@12.2.0-14cross1?arch=all
+- pkg:deb/debian/lib32gfortran5-amd64-cross@14.2.0-19cross1?arch=all
+- pkg:deb/debian/lib32gfortran5-amd64-cross@15.2.0-7cross1?arch=all

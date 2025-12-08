@@ -1,0 +1,2 @@
+- pkg:deb/debian/gosa-plugins-ldapmanager@2.8~git20211022.877a67e-3?arch=all
+- pkg:deb/debian/gosa-plugins-ldapmanager@2.8~git20240614.c540e17-1?arch=all

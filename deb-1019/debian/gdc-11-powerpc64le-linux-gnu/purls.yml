@@ -1,0 +1,6 @@
+- pkg:deb/debian/gdc-11-powerpc64le-linux-gnu@11.3.0-11cross1?arch=amd64
+- pkg:deb/debian/gdc-11-powerpc64le-linux-gnu@11.3.0-11cross1?arch=arm64
+- pkg:deb/debian/gdc-11-powerpc64le-linux-gnu@11.3.0-11cross1?arch=i386
+- pkg:deb/debian/gdc-11-powerpc64le-linux-gnu@11.5.0-7cross1?arch=amd64
+- pkg:deb/debian/gdc-11-powerpc64le-linux-gnu@11.5.0-7cross1?arch=arm64
+- pkg:deb/debian/gdc-11-powerpc64le-linux-gnu@11.5.0-7cross1?arch=i386

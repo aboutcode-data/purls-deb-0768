@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-text-icu-doc@0.7.0.1-14?arch=all
+- pkg:deb/debian/libghc-text-icu-doc@0.7.1.0-1?arch=all
+- pkg:deb/debian/libghc-text-icu-doc@0.8.0.5-2?arch=all

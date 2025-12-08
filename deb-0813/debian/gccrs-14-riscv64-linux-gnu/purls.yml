@@ -1,0 +1,2 @@
+- pkg:deb/debian/gccrs-14-riscv64-linux-gnu@14.2.0-19?arch=riscv64
+- pkg:deb/debian/gccrs-14-riscv64-linux-gnu@14.3.0-10?arch=riscv64

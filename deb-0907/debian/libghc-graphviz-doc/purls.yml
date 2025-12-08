@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-graphviz-doc@2999.20.0.4-1?arch=all
+- pkg:deb/debian/libghc-graphviz-doc@2999.20.1.0-1?arch=all
+- pkg:deb/debian/libghc-graphviz-doc@2999.20.2.0-1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/gcc-12-sparc64-linux-gnu-base@12.2.0-13cross1?arch=amd64
+- pkg:deb/debian/gcc-12-sparc64-linux-gnu-base@12.2.0-13cross1?arch=i386
+- pkg:deb/debian/gcc-12-sparc64-linux-gnu-base@12.4.0-5cross1?arch=amd64
+- pkg:deb/debian/gcc-12-sparc64-linux-gnu-base@12.4.0-5cross1?arch=i386
+- pkg:deb/debian/gcc-12-sparc64-linux-gnu-base@12.5.0-6cross1?arch=amd64
+- pkg:deb/debian/gcc-12-sparc64-linux-gnu-base@12.5.0-6cross1?arch=i386

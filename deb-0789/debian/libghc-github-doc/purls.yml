@@ -1,0 +1,4 @@
+- pkg:deb/debian/libghc-github-doc@0.23-1?arch=all
+- pkg:deb/debian/libghc-github-doc@0.27-1?arch=all
+- pkg:deb/debian/libghc-github-doc@0.28.0.1-1?arch=all
+- pkg:deb/debian/libghc-github-doc@0.29-1?arch=all

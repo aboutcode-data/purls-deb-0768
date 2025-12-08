@@ -1,0 +1,4 @@
+- pkg:deb/debian/libghc-binary-tagged-dev@0.2-1%2Bb2?arch=amd64
+- pkg:deb/debian/libghc-binary-tagged-dev@0.2-1%2Bb2?arch=arm64
+- pkg:deb/debian/libghc-binary-tagged-dev@0.2-1%2Bb2?arch=armhf
+- pkg:deb/debian/libghc-binary-tagged-dev@0.2-1%2Bb2?arch=i386

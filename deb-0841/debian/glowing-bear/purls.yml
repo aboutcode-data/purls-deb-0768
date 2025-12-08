@@ -1,0 +1,3 @@
+- pkg:deb/debian/glowing-bear@0.9.0%2Bds-2?arch=all
+- pkg:deb/debian/glowing-bear@0.9.0%2Bds-4?arch=all
+- pkg:deb/debian/glowing-bear@0.9.0%2Bds-6?arch=all

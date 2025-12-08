@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-hard-disk-led@24-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-hard-disk-led@33-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-hard-disk-led@38-5?arch=all
+- pkg:deb/debian/gnome-shell-extension-hard-disk-led@38-6?arch=all

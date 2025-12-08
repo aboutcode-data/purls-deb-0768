@@ -1,0 +1,4 @@
+- pkg:deb/debian/libags3@3.7.44-3?arch=amd64
+- pkg:deb/debian/libags3@3.7.44-3?arch=arm64
+- pkg:deb/debian/libags3@3.7.44-3?arch=armhf
+- pkg:deb/debian/libags3@3.7.44-3?arch=i386

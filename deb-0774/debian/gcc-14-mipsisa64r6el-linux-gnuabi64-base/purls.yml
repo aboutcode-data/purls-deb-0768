@@ -1,0 +1,4 @@
+- pkg:deb/debian/gcc-14-mipsisa64r6el-linux-gnuabi64-base@14.2.0-13cross1?arch=amd64
+- pkg:deb/debian/gcc-14-mipsisa64r6el-linux-gnuabi64-base@14.2.0-13cross1?arch=arm64
+- pkg:deb/debian/gcc-14-mipsisa64r6el-linux-gnuabi64-base@14.2.0-13cross1?arch=i386
+- pkg:deb/debian/gcc-14-mipsisa64r6el-linux-gnuabi64-base@14.2.0-13cross1?arch=ppc64el

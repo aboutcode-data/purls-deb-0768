@@ -1,0 +1,6 @@
+- pkg:deb/debian/gcobol-riscv64-linux-gnu@15.2.0-4?arch=amd64
+- pkg:deb/debian/gcobol-riscv64-linux-gnu@15.2.0-4?arch=arm64
+- pkg:deb/debian/gcobol-riscv64-linux-gnu@15.2.0-4?arch=i386
+- pkg:deb/debian/gcobol-riscv64-linux-gnu@15.2.0-4?arch=ppc64el
+- pkg:deb/debian/gcobol-riscv64-linux-gnu@15.2.0-4?arch=riscv64
+- pkg:deb/debian/gcobol-riscv64-linux-gnu@15.2.0-4?arch=s390x

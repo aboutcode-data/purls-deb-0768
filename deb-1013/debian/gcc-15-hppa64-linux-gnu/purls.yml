@@ -1,0 +1,4 @@
+- pkg:deb/debian/gcc-15-hppa64-linux-gnu@15.2.0-10?arch=amd64
+- pkg:deb/debian/gcc-15-hppa64-linux-gnu@15.2.0-10?arch=i386
+- pkg:deb/debian/gcc-15-hppa64-linux-gnu@15.2.0-9?arch=amd64
+- pkg:deb/debian/gcc-15-hppa64-linux-gnu@15.2.0-9?arch=i386

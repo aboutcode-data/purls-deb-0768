@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-la5nta-wl2k-go-dev@0.10.0-1?arch=all
+- pkg:deb/debian/golang-github-la5nta-wl2k-go-dev@0.11.9-1?arch=all
+- pkg:deb/debian/golang-github-la5nta-wl2k-go-dev@0.7.3%2Breally0.7.2-1?arch=all
+- pkg:deb/debian/golang-github-la5nta-wl2k-go-dev@1.0.1-1?arch=all

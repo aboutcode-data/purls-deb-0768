@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-dependent-sum-doc@0.7.1.0-1?arch=all
+- pkg:deb/debian/libghc-dependent-sum-doc@0.7.1.0-2?arch=all
+- pkg:deb/debian/libghc-dependent-sum-doc@0.7.2.0-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-creack-pty-dev@1.1.11-1?arch=all
+- pkg:deb/debian/golang-github-creack-pty-dev@1.1.18-1?arch=all
+- pkg:deb/debian/golang-github-creack-pty-dev@1.1.21-1?arch=all

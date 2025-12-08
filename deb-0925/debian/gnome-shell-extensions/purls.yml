@@ -1,0 +1,5 @@
+- pkg:deb/debian/gnome-shell-extensions@3.38.2-1?arch=all
+- pkg:deb/debian/gnome-shell-extensions@43.1-1?arch=all
+- pkg:deb/debian/gnome-shell-extensions@48.2-1?arch=all
+- pkg:deb/debian/gnome-shell-extensions@49.0-2?arch=all
+- pkg:deb/debian/gnome-shell-extensions@49.0-3?arch=all

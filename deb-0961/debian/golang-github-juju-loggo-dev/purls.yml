@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-juju-loggo-dev@0.0~git20170605.8232ab8-4?arch=all
+- pkg:deb/debian/golang-github-juju-loggo-dev@1.0.0-1?arch=all
+- pkg:deb/debian/golang-github-juju-loggo-dev@2.1.0-1?arch=all
+- pkg:deb/debian/golang-github-juju-loggo-dev@2.2.0-1?arch=all

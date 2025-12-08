@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-net-rpc-msgpackrpc-dev@0.0~git20151116.0.a14192a-1.1?arch=all
+- pkg:deb/debian/golang-github-hashicorp-net-rpc-msgpackrpc-dev@0.0~git20151116.0.a14192a-2?arch=all

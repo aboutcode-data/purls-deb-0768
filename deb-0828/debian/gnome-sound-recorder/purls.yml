@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-sound-recorder@3.38.1-1?arch=all
+- pkg:deb/debian/gnome-sound-recorder@43~beta-1?arch=all
+- pkg:deb/debian/gnome-sound-recorder@43~beta-4?arch=all
+- pkg:deb/debian/gnome-sound-recorder@43~beta-5?arch=all

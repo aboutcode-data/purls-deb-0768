@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-pquerna-cachecontrol-dev@0.0~git20171018.0dec1b3-1.1?arch=all
+- pkg:deb/debian/golang-github-pquerna-cachecontrol-dev@0.0~git20171018.0dec1b3-2?arch=all

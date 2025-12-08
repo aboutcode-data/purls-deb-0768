@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgfortran-13-dev-sh4-cross@13.3.0-16cross1?arch=all
+- pkg:deb/debian/libgfortran-13-dev-sh4-cross@13.4.0-4cross1?arch=all

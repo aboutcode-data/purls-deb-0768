@@ -1,0 +1,6 @@
+- pkg:deb/debian/gm2-15-powerpc64le-linux-gnu@15.2.0-10?arch=ppc64el
+- pkg:deb/debian/gm2-15-powerpc64le-linux-gnu@15.2.0-7cross1?arch=amd64
+- pkg:deb/debian/gm2-15-powerpc64le-linux-gnu@15.2.0-7cross1?arch=arm64
+- pkg:deb/debian/gm2-15-powerpc64le-linux-gnu@15.2.0-7cross1?arch=i386
+- pkg:deb/debian/gm2-15-powerpc64le-linux-gnu@15.2.0-7cross1?arch=s390x
+- pkg:deb/debian/gm2-15-powerpc64le-linux-gnu@15.2.0-9?arch=ppc64el

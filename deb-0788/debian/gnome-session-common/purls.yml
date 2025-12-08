@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-session-common@3.38.0-4?arch=all
+- pkg:deb/debian/gnome-session-common@43.0-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/gnome-session-common@48.0-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/gnome-session-common@49.2-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-sigstore-protobuf-specs-dev@0.4.1-2?arch=all
+- pkg:deb/debian/golang-github-sigstore-protobuf-specs-dev@0.5.0-1?arch=all

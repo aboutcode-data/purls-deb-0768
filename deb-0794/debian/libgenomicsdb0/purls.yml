@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgenomicsdb0@1.4.4-3?arch=amd64
+- pkg:deb/debian/libgenomicsdb0@1.4.4-3?arch=mips64el

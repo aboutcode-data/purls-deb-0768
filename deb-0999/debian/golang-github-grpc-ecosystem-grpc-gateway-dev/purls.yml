@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-grpc-ecosystem-grpc-gateway-dev@1.6.4-2?arch=all
+- pkg:deb/debian/golang-github-grpc-ecosystem-grpc-gateway-dev@2.20.0-2?arch=all

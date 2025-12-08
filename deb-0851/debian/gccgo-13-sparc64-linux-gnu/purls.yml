@@ -1,0 +1,8 @@
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.3.0-16cross1?arch=amd64
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.3.0-16cross1?arch=arm64
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.3.0-16cross1?arch=i386
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.3.0-16cross1?arch=ppc64el
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.4.0-4cross1?arch=amd64
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.4.0-4cross1?arch=arm64
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.4.0-4cross1?arch=i386
+- pkg:deb/debian/gccgo-13-sparc64-linux-gnu@13.4.0-4cross1?arch=ppc64el

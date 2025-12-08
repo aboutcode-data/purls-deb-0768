@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-alecthomas-assert-dev@0.0~git20170929.405dbfe-1.1?arch=all
+- pkg:deb/debian/golang-github-alecthomas-assert-dev@2.10.0-1?arch=all
+- pkg:deb/debian/golang-github-alecthomas-assert-dev@2.2.1-1?arch=all

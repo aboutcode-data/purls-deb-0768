@@ -1,0 +1,4 @@
+- pkg:deb/debian/gftp-common@2.7.0b-1?arch=all
+- pkg:deb/debian/gftp-common@2.9.1~beta-1?arch=all
+- pkg:deb/debian/gftp-common@2.9.1~beta-4?arch=all
+- pkg:deb/debian/gftp-common@2.9.1~beta-5?arch=all

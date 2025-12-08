@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-gi-gdkx11-doc@3.0.10-1?arch=all
+- pkg:deb/debian/libghc-gi-gdkx11-doc@3.0.13-1?arch=all
+- pkg:deb/debian/libghc-gi-gdkx11-doc@3.0.16-1?arch=all

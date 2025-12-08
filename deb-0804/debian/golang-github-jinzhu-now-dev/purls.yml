@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-jinzhu-now-dev@1.1.1-1?arch=all
+- pkg:deb/debian/golang-github-jinzhu-now-dev@1.1.1-2?arch=all
+- pkg:deb/debian/golang-github-jinzhu-now-dev@1.1.5-1?arch=all

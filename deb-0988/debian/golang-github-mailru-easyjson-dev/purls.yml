@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-mailru-easyjson-dev@0.7.6-2?arch=all
+- pkg:deb/debian/golang-github-mailru-easyjson-dev@0.7.7-1?arch=all
+- pkg:deb/debian/golang-github-mailru-easyjson-dev@0.9.1-1?arch=all

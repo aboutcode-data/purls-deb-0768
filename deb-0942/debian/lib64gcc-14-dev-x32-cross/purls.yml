@@ -1,0 +1,2 @@
+- pkg:deb/debian/lib64gcc-14-dev-x32-cross@14.2.0-19cross1?arch=all
+- pkg:deb/debian/lib64gcc-14-dev-x32-cross@14.3.0-8cross1?arch=all

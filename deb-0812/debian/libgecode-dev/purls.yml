@@ -1,0 +1,17 @@
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=amd64
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=arm64
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=armel
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=armhf
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=i386
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=mips64el
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=mipsel
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=ppc64el
+- pkg:deb/debian/libgecode-dev@6.2.0-5?arch=s390x
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=amd64
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=arm64
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=armel
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=armhf
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=i386
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=ppc64el
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=riscv64
+- pkg:deb/debian/libgecode-dev@6.2.0-7?arch=s390x

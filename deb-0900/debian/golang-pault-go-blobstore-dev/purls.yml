@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-pault-go-blobstore-dev@0.0~git20180314.d6d187c-1.1?arch=all
+- pkg:deb/debian/golang-pault-go-blobstore-dev@0.0~git20180314.d6d187c-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-postgresql-simple-doc@0.6.2-3?arch=all
+- pkg:deb/debian/libghc-postgresql-simple-doc@0.6.4-1?arch=all
+- pkg:deb/debian/libghc-postgresql-simple-doc@0.7.0.0-1?arch=all

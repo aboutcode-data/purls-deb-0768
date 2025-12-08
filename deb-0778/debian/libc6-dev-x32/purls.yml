@@ -1,0 +1,12 @@
+- pkg:deb/debian/libc6-dev-x32@2.31-13%2Bdeb11u11?arch=amd64
+- pkg:deb/debian/libc6-dev-x32@2.31-13%2Bdeb11u11?arch=i386
+- pkg:deb/debian/libc6-dev-x32@2.31-13%2Bdeb11u5?arch=amd64
+- pkg:deb/debian/libc6-dev-x32@2.31-13%2Bdeb11u5?arch=i386
+- pkg:deb/debian/libc6-dev-x32@2.36-9%2Bdeb12u13?arch=amd64
+- pkg:deb/debian/libc6-dev-x32@2.36-9%2Bdeb12u13?arch=i386
+- pkg:deb/debian/libc6-dev-x32@2.41-12?arch=amd64
+- pkg:deb/debian/libc6-dev-x32@2.41-12?arch=i386
+- pkg:deb/debian/libc6-dev-x32@2.42-4?arch=amd64
+- pkg:deb/debian/libc6-dev-x32@2.42-4?arch=i386
+- pkg:deb/debian/libc6-dev-x32@2.42-5?arch=amd64
+- pkg:deb/debian/libc6-dev-x32@2.42-5?arch=i386

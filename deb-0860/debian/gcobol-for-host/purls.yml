@@ -1,0 +1,4 @@
+- pkg:deb/debian/gcobol-for-host@15.2.0-4?arch=amd64
+- pkg:deb/debian/gcobol-for-host@15.2.0-4?arch=arm64
+- pkg:deb/debian/gcobol-for-host@15.2.0-4?arch=ppc64el
+- pkg:deb/debian/gcobol-for-host@15.2.0-4?arch=riscv64

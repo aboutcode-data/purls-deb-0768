@@ -1,0 +1,2 @@
+- pkg:deb/debian/g%2B%2B-9-multilib-i686-linux-gnu@9.3.0-22cross1?arch=amd64
+- pkg:deb/debian/g%2B%2B-9-multilib-i686-linux-gnu@9.3.0-22cross1?arch=arm64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-terminal-data@3.38.3-1?arch=all
+- pkg:deb/debian/gnome-terminal-data@3.46.8-1?arch=all
+- pkg:deb/debian/gnome-terminal-data@3.56.2-2?arch=all
+- pkg:deb/debian/gnome-terminal-data@3.58.0-1?arch=all

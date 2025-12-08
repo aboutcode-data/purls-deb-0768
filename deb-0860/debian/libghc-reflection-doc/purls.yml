@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-reflection-doc@2.1.6-1?arch=all
+- pkg:deb/debian/libghc-reflection-doc@2.1.6-2?arch=all
+- pkg:deb/debian/libghc-reflection-doc@2.1.8-2?arch=all

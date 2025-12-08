@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-socks-doc@0.6.1-1?arch=all
+- pkg:deb/debian/libghc-socks-doc@0.6.1-2?arch=all
+- pkg:deb/debian/libghc-socks-doc@0.6.1-4?arch=all

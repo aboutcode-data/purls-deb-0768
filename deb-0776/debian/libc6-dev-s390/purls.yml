@@ -1,0 +1,4 @@
+- pkg:deb/debian/libc6-dev-s390@2.36-9%2Bdeb12u13?arch=s390x
+- pkg:deb/debian/libc6-dev-s390@2.41-12?arch=s390x
+- pkg:deb/debian/libc6-dev-s390@2.42-4?arch=s390x
+- pkg:deb/debian/libc6-dev-s390@2.42-5?arch=s390x

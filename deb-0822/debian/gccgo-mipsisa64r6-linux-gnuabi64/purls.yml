@@ -1,0 +1,13 @@
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@10.2.0-1?arch=amd64
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@10.2.0-1?arch=arm64
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@10.2.0-1?arch=i386
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@12.2.0-4?arch=amd64
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@12.2.0-4?arch=arm64
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@12.2.0-4?arch=i386
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@12.2.0-4?arch=mips64el
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@12.2.0-4?arch=mipsel
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@12.2.0-4?arch=ppc64el
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@14.2.0-1?arch=amd64
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@14.2.0-1?arch=arm64
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@14.2.0-1?arch=i386
+- pkg:deb/debian/gccgo-mipsisa64r6-linux-gnuabi64@14.2.0-1?arch=ppc64el

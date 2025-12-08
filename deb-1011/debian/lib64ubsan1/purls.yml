@@ -1,1 +1,6 @@
 - pkg:deb/debian/lib64ubsan1@10.2.1-6?arch=i386
+- pkg:deb/debian/lib64ubsan1@12.2.0-14%2Bdeb12u1?arch=i386
+- pkg:deb/debian/lib64ubsan1@14.2.0-19?arch=i386
+- pkg:deb/debian/lib64ubsan1@15.2.0-10?arch=i386
+- pkg:deb/debian/lib64ubsan1@15.2.0-9?arch=i386
+- pkg:deb/debian/lib64ubsan1@16-20251202-1?arch=i386

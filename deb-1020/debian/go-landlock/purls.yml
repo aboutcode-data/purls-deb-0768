@@ -1,0 +1,7 @@
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=amd64
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=arm64
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=armhf
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=i386
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=ppc64el
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=riscv64
+- pkg:deb/debian/go-landlock@0.0~git20250303.1544bcc-3%2Bb7?arch=s390x

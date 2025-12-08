@@ -1,0 +1,17 @@
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=amd64
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=arm64
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=armel
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=armhf
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=i386
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=mips64el
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=mipsel
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/gtypist@2.9.5-3%2Bb1?arch=s390x
+- pkg:deb/debian/gtypist@2.9.5-4%2Bb2?arch=arm64
+- pkg:deb/debian/gtypist@2.9.5-4?arch=amd64
+- pkg:deb/debian/gtypist@2.9.5-4?arch=armel
+- pkg:deb/debian/gtypist@2.9.5-4?arch=armhf
+- pkg:deb/debian/gtypist@2.9.5-4?arch=i386
+- pkg:deb/debian/gtypist@2.9.5-4?arch=ppc64el
+- pkg:deb/debian/gtypist@2.9.5-4?arch=riscv64
+- pkg:deb/debian/gtypist@2.9.5-4?arch=s390x

@@ -1,0 +1,13 @@
+- pkg:deb/debian/g%2B%2B-multilib@10.2.1-1?arch=amd64
+- pkg:deb/debian/g%2B%2B-multilib@10.2.1-1?arch=i386
+- pkg:deb/debian/g%2B%2B-multilib@12.2.0-3?arch=amd64
+- pkg:deb/debian/g%2B%2B-multilib@12.2.0-3?arch=i386
+- pkg:deb/debian/g%2B%2B-multilib@12.2.0-3?arch=mips64el
+- pkg:deb/debian/g%2B%2B-multilib@12.2.0-3?arch=mipsel
+- pkg:deb/debian/g%2B%2B-multilib@12.2.0-3?arch=s390x
+- pkg:deb/debian/g%2B%2B-multilib@14.2.0-1?arch=amd64
+- pkg:deb/debian/g%2B%2B-multilib@14.2.0-1?arch=i386
+- pkg:deb/debian/g%2B%2B-multilib@14.2.0-1?arch=s390x
+- pkg:deb/debian/g%2B%2B-multilib@15.2.0-4?arch=amd64
+- pkg:deb/debian/g%2B%2B-multilib@15.2.0-4?arch=i386
+- pkg:deb/debian/g%2B%2B-multilib@15.2.0-4?arch=s390x
