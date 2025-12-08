@@ -1,0 +1,5 @@
+- pkg:deb/debian/android-platform-system-core-headers@10.0.0%2Br36-7?arch=all
+- pkg:deb/debian/android-platform-system-core-headers@29.0.6-28?arch=all
+- pkg:deb/debian/android-platform-system-core-headers@34.0.5-12?arch=all
+- pkg:deb/debian/android-platform-system-core-headers@34.0.5-12~bpo12%2B1?arch=all
+- pkg:deb/debian/android-platform-system-core-headers@35.0.2-1~exp6?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=i386
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/libecl24.5@24.5.10.20250914.git294da20%2Bdfsg-3?arch=s390x

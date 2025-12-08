@@ -1,0 +1,17 @@
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.35.2-2cross2?arch=amd64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.35.2-2cross2?arch=arm64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.35.2-2cross2?arch=i386
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.40-2cross2?arch=amd64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.40-2cross2?arch=arm64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.40-2cross2?arch=i386
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.40-2cross2?arch=mips64el
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.40-2cross2?arch=mipsel
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.40-2cross2?arch=ppc64el
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.44-3cross1%2Bnmu1%2Bb1?arch=amd64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.44-3cross1%2Bnmu1%2Bb1?arch=arm64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.44-3cross1%2Bnmu1%2Bb1?arch=i386
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.44-3cross1%2Bnmu1%2Bb1?arch=ppc64el
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.45.50.20251125-1cross1%2Bnmu1%2Bb3?arch=amd64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.45.50.20251125-1cross1%2Bnmu1%2Bb3?arch=arm64
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.45.50.20251125-1cross1%2Bnmu1%2Bb3?arch=i386
+- pkg:deb/debian/binutils-mips64el-linux-gnuabin32@2.45.50.20251125-1cross1%2Bnmu1%2Bb3?arch=ppc64el

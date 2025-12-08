@@ -1,0 +1,4 @@
+- pkg:deb/debian/dictionaries-common@1.28.4?arch=all
+- pkg:deb/debian/dictionaries-common@1.29.5?arch=all
+- pkg:deb/debian/dictionaries-common@1.30.10?arch=all
+- pkg:deb/debian/dictionaries-common@1.30.11?arch=all

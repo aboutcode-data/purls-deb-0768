@@ -1,0 +1,15 @@
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=amd64
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=arm64
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=armel
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=armhf
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=i386
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=ppc64el
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=riscv64
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-4?arch=s390x
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=amd64
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=arm64
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=armhf
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=i386
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=ppc64el
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=riscv64
+- pkg:deb/debian/libcmark-gfm0.29.0.gfm.13@0.29.0.gfm.13-7?arch=s390x

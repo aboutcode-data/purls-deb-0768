@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-anymail@13.0-1?arch=all
+- pkg:deb/debian/python3-django-anymail@13.1-1?arch=all
+- pkg:deb/debian/python3-django-anymail@7.1.0-1?arch=all
+- pkg:deb/debian/python3-django-anymail@9.0-1?arch=all

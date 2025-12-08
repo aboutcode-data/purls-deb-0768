@@ -1,0 +1,2 @@
+- pkg:deb/debian/libamd-smi-dev@6.1.2%2Bds-2?arch=amd64
+- pkg:deb/debian/libamd-smi-dev@7.1.0-1?arch=amd64

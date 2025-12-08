@@ -1,0 +1,6 @@
+- pkg:deb/debian/dpdk-doc@20.11.10-1~deb11u1?arch=all
+- pkg:deb/debian/dpdk-doc@22.11.9-1~deb12u1?arch=all
+- pkg:deb/debian/dpdk-doc@24.11.3-1?arch=all
+- pkg:deb/debian/dpdk-doc@24.11.3-1~deb13u1?arch=all
+- pkg:deb/debian/dpdk-doc@24.11.3-2?arch=all
+- pkg:deb/debian/dpdk-doc@25.11-1?arch=all

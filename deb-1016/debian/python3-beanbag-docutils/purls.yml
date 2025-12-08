@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-beanbag-docutils@2.1-1?arch=all
+- pkg:deb/debian/python3-beanbag-docutils@2.4-3?arch=all

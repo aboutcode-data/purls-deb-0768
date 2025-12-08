@@ -1,0 +1,5 @@
+- pkg:deb/debian/boinc@7.16.16%2Bdfsg-1?arch=all
+- pkg:deb/debian/boinc@7.20.5%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/boinc@8.0.4%2Bdfsg-1?arch=all
+- pkg:deb/debian/boinc@8.2.6%2Bdfsg-1?arch=all
+- pkg:deb/debian/boinc@8.2.8%2Bdfsg-1?arch=all

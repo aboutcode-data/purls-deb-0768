@@ -1,0 +1,3 @@
+- pkg:deb/debian/chezscheme-doc@10.0.0%2Bdfsg-5?arch=all
+- pkg:deb/debian/chezscheme-doc@9.5.4%2Bdfsg-4?arch=all
+- pkg:deb/debian/chezscheme-doc@9.5.8%2Bdfsg-1?arch=all

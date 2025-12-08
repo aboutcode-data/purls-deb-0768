@@ -1,0 +1,4 @@
+- pkg:deb/debian/dynare-matlab@4.6.3-4?arch=all
+- pkg:deb/debian/dynare-matlab@5.3-1?arch=all
+- pkg:deb/debian/dynare-matlab@6.3-1?arch=all
+- pkg:deb/debian/dynare-matlab@6.4-4?arch=all

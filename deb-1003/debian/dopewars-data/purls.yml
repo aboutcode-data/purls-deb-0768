@@ -1,0 +1,4 @@
+- pkg:deb/debian/dopewars-data@1.5.12-19?arch=all
+- pkg:deb/debian/dopewars-data@1.6.1-1?arch=all
+- pkg:deb/debian/dopewars-data@1.6.2-1.1?arch=all
+- pkg:deb/debian/dopewars-data@1.6.2-1?arch=all

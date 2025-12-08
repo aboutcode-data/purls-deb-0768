@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-bleak-retry-connector@3.10.0-3?arch=all
+- pkg:deb/debian/python3-bleak-retry-connector@4.4.4-1?arch=all

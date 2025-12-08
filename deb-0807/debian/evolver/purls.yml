@@ -1,0 +1,2 @@
+- pkg:deb/debian/evolver@2.70%2Bds-10?arch=all
+- pkg:deb/debian/evolver@2.70%2Bds-8?arch=all

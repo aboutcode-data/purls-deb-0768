@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-eagerpy@0.29.0-3?arch=all
+- pkg:deb/debian/python3-eagerpy@0.30.0-3?arch=all

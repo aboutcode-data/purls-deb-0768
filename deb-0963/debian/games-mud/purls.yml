@@ -1,0 +1,2 @@
+- pkg:deb/debian/games-mud@4?arch=all
+- pkg:deb/debian/games-mud@5?arch=all

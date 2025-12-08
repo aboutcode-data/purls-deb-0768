@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-azure-datalake-store@0.0.51-1?arch=all
+- pkg:deb/debian/python3-azure-datalake-store@0.0.52-2?arch=all
+- pkg:deb/debian/python3-azure-datalake-store@0.0.53-1?arch=all
+- pkg:deb/debian/python3-azure-datalake-store@1.0.1-1?arch=all

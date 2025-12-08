@@ -1,0 +1,2 @@
+- pkg:deb/debian/cloud-enum@0.7-2?arch=all
+- pkg:deb/debian/cloud-enum@0.7-3?arch=all

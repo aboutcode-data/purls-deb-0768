@@ -1,0 +1,9 @@
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=amd64
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=arm64
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=armel
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=armhf
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=i386
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=mips64el
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=mipsel
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=ppc64el
+- pkg:deb/debian/libfmt9@9.1.0%2Bds1-2?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/adduser@3.118%2Bdeb11u1?arch=all
+- pkg:deb/debian/adduser@3.134?arch=all
+- pkg:deb/debian/adduser@3.152?arch=all
+- pkg:deb/debian/adduser@3.153?arch=all

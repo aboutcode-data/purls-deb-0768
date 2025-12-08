@@ -1,0 +1,13 @@
+- pkg:deb/debian/libck0@0.6.0-1.4?arch=amd64
+- pkg:deb/debian/libck0@0.6.0-1.4?arch=arm64
+- pkg:deb/debian/libck0@0.6.0-1.4?arch=armhf
+- pkg:deb/debian/libck0@0.6.0-1.4?arch=i386
+- pkg:deb/debian/libck0@0.7.1-10?arch=amd64
+- pkg:deb/debian/libck0@0.7.1-10?arch=arm64
+- pkg:deb/debian/libck0@0.7.1-10?arch=armel
+- pkg:deb/debian/libck0@0.7.1-10?arch=armhf
+- pkg:deb/debian/libck0@0.7.1-10?arch=i386
+- pkg:deb/debian/libck0@0.7.1-10?arch=mips64el
+- pkg:deb/debian/libck0@0.7.1-10?arch=mipsel
+- pkg:deb/debian/libck0@0.7.1-10?arch=ppc64el
+- pkg:deb/debian/libck0@0.7.1-10?arch=s390x

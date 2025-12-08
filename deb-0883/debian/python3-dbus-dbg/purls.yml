@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-dbus-dbg@1.2.16-5?arch=amd64
+- pkg:deb/debian/python3-dbus-dbg@1.2.16-5?arch=arm64
+- pkg:deb/debian/python3-dbus-dbg@1.2.16-5?arch=armhf
+- pkg:deb/debian/python3-dbus-dbg@1.2.16-5?arch=i386

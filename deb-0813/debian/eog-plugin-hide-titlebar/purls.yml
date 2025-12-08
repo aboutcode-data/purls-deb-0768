@@ -1,0 +1,4 @@
+- pkg:deb/debian/eog-plugin-hide-titlebar@3.26.5-1?arch=amd64
+- pkg:deb/debian/eog-plugin-hide-titlebar@3.26.5-1?arch=arm64
+- pkg:deb/debian/eog-plugin-hide-titlebar@3.26.5-1?arch=armhf
+- pkg:deb/debian/eog-plugin-hide-titlebar@3.26.5-1?arch=i386

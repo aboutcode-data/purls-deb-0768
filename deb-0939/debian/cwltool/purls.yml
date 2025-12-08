@@ -1,0 +1,4 @@
+- pkg:deb/debian/cwltool@3.0.20210124104916-3%2Bdeb11u1?arch=all
+- pkg:deb/debian/cwltool@3.1.20230209161050-1?arch=all
+- pkg:deb/debian/cwltool@3.1.20250110105449-3?arch=all
+- pkg:deb/debian/cwltool@3.1.20250925164626-1?arch=all

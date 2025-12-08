@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-cyborg@14.0.0-3?arch=all
+- pkg:deb/debian/python3-cyborg@15.0.0-1?arch=all

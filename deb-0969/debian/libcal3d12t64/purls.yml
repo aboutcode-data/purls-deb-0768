@@ -1,0 +1,8 @@
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=amd64
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=arm64
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=armel
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=armhf
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=i386
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=ppc64el
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=riscv64
+- pkg:deb/debian/libcal3d12t64@0.11.0-10?arch=s390x

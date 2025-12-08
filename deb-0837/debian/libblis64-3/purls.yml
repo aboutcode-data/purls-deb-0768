@@ -1,0 +1,2 @@
+- pkg:deb/debian/libblis64-3@0.8.0-1?arch=amd64
+- pkg:deb/debian/libblis64-3@0.8.0-1?arch=arm64

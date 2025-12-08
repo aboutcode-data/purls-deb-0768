@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-ivy-hydra@0.13.0-1?arch=all
+- pkg:deb/debian/elpa-ivy-hydra@0.13.4%2B78.gb8be491-1?arch=all
+- pkg:deb/debian/elpa-ivy-hydra@0.15.1-3?arch=all

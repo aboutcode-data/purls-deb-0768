@@ -1,0 +1,9 @@
+- pkg:deb/debian/libcompel1@4.1.1-1?arch=amd64
+- pkg:deb/debian/libcompel1@4.1.1-1?arch=arm64
+- pkg:deb/debian/libcompel1@4.1.1-1?arch=ppc64el
+- pkg:deb/debian/libcompel1@4.1.1-1?arch=s390x
+- pkg:deb/debian/libcompel1@4.2-1?arch=amd64
+- pkg:deb/debian/libcompel1@4.2-1?arch=arm64
+- pkg:deb/debian/libcompel1@4.2-1?arch=ppc64el
+- pkg:deb/debian/libcompel1@4.2-1?arch=riscv64
+- pkg:deb/debian/libcompel1@4.2-1?arch=s390x

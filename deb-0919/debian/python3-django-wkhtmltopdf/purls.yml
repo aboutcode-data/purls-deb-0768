@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-wkhtmltopdf@3.3.0-1?arch=all
+- pkg:deb/debian/python3-django-wkhtmltopdf@3.4.0-1?arch=all

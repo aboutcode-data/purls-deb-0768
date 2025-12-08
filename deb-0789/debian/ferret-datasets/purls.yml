@@ -1,0 +1,4 @@
+- pkg:deb/debian/ferret-datasets@7.6.0-2?arch=all
+- pkg:deb/debian/ferret-datasets@7.6.0-5?arch=all
+- pkg:deb/debian/ferret-datasets@7.6.0-8?arch=all
+- pkg:deb/debian/ferret-datasets@7.6.0-9?arch=all

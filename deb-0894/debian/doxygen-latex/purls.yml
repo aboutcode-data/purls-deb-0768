@@ -1,0 +1,4 @@
+- pkg:deb/debian/doxygen-latex@1.15.0%2Bds1-1?arch=all
+- pkg:deb/debian/doxygen-latex@1.9.1-1?arch=all
+- pkg:deb/debian/doxygen-latex@1.9.4-4?arch=all
+- pkg:deb/debian/doxygen-latex@1.9.8%2Bds-2.1?arch=all

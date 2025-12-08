@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-debmutate@0.20?arch=all
+- pkg:deb/debian/python3-debmutate@0.65?arch=all
+- pkg:deb/debian/python3-debmutate@0.73?arch=all
+- pkg:deb/debian/python3-debmutate@0.78?arch=all

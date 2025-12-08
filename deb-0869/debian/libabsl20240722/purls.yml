@@ -1,0 +1,8 @@
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=amd64
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=arm64
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=armel
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=armhf
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=i386
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=ppc64el
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=riscv64
+- pkg:deb/debian/libabsl20240722@20240722.0-4?arch=s390x

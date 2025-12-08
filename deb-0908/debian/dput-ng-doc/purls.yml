@@ -1,0 +1,5 @@
+- pkg:deb/debian/dput-ng-doc@1.33?arch=all
+- pkg:deb/debian/dput-ng-doc@1.35%2Bdeb12u1?arch=all
+- pkg:deb/debian/dput-ng-doc@1.43?arch=all
+- pkg:deb/debian/dput-ng-doc@1.43~bpo12%2B1?arch=all
+- pkg:deb/debian/dput-ng-doc@1.44?arch=all

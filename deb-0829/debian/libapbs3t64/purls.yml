@@ -1,0 +1,15 @@
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=amd64
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=arm64
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=armel
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=armhf
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=i386
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=riscv64
+- pkg:deb/debian/libapbs3t64@3.4.1-6%2Bb3?arch=s390x
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=amd64
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=arm64
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=armhf
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=i386
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=ppc64el
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=riscv64
+- pkg:deb/debian/libapbs3t64@3.4.1-7?arch=s390x

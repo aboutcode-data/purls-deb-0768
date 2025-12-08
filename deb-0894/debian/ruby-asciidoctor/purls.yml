@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-asciidoctor@2.0.12-2?arch=all
+- pkg:deb/debian/ruby-asciidoctor@2.0.18-2?arch=all
+- pkg:deb/debian/ruby-asciidoctor@2.0.23-1?arch=all
+- pkg:deb/debian/ruby-asciidoctor@2.0.26-2?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/cowdancer@0.89?arch=amd64
+- pkg:deb/debian/cowdancer@0.89?arch=arm64
+- pkg:deb/debian/cowdancer@0.89?arch=armel
+- pkg:deb/debian/cowdancer@0.89?arch=armhf
+- pkg:deb/debian/cowdancer@0.89?arch=i386
+- pkg:deb/debian/cowdancer@0.89?arch=mips64el
+- pkg:deb/debian/cowdancer@0.89?arch=mipsel
+- pkg:deb/debian/cowdancer@0.89?arch=ppc64el
+- pkg:deb/debian/cowdancer@0.89?arch=s390x
+- pkg:deb/debian/cowdancer@0.90%2Bb1?arch=arm64
+- pkg:deb/debian/cowdancer@0.90?arch=amd64
+- pkg:deb/debian/cowdancer@0.90?arch=armel
+- pkg:deb/debian/cowdancer@0.90?arch=armhf
+- pkg:deb/debian/cowdancer@0.90?arch=i386
+- pkg:deb/debian/cowdancer@0.90?arch=ppc64el
+- pkg:deb/debian/cowdancer@0.90?arch=riscv64
+- pkg:deb/debian/cowdancer@0.90?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/code2html@0.9.1-4.1?arch=all
+- pkg:deb/debian/code2html@0.9.1-4.2?arch=all
+- pkg:deb/debian/code2html@0.9.1-6?arch=all
+- pkg:deb/debian/code2html@0.9.1-8?arch=all

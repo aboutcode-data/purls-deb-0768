@@ -1,0 +1,2 @@
+- pkg:deb/debian/games-card@4?arch=all
+- pkg:deb/debian/games-card@5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/filetraq@0.3%2Bnmu1?arch=all
+- pkg:deb/debian/filetraq@0.4?arch=all

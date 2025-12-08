@@ -1,0 +1,3 @@
+- pkg:deb/debian/firefox-l10n-bs@143.0.3-1?arch=all
+- pkg:deb/debian/firefox-l10n-bs@144.0-1?arch=all
+- pkg:deb/debian/firefox-l10n-bs@145.0.1-1?arch=all

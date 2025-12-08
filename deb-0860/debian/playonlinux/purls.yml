@@ -1,0 +1,3 @@
+- pkg:deb/debian/playonlinux@4.3.4-2?arch=all
+- pkg:deb/debian/playonlinux@4.3.4-3?arch=all
+- pkg:deb/debian/playonlinux@4.3.4-5?arch=all

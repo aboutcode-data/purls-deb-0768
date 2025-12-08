@@ -1,0 +1,7 @@
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=i386
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/openjk-common@0~20251009.d1cb662%2Bdfsg-1?arch=s390x

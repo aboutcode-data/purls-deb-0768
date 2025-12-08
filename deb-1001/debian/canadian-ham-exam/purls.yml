@@ -1,0 +1,3 @@
+- pkg:deb/debian/canadian-ham-exam@1.0.0-3?arch=all
+- pkg:deb/debian/canadian-ham-exam@1.0.0-5?arch=all
+- pkg:deb/debian/canadian-ham-exam@1.0.1-3?arch=all

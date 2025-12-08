@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgomp1@10.2.1-6?arch=amd64
+- pkg:deb/debian/libgomp1@10.2.1-6?arch=arm64
+- pkg:deb/debian/libgomp1@10.2.1-6?arch=armhf
+- pkg:deb/debian/libgomp1@10.2.1-6?arch=i386

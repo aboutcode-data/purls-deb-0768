@@ -1,0 +1,12 @@
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13?arch=amd64
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13?arch=arm64
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13?arch=armhf
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13?arch=i386
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13?arch=ppc64el
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13?arch=s390x
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=amd64
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=arm64
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=armhf
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=i386
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=ppc64el
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=s390x

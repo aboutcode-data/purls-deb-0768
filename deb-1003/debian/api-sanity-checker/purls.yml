@@ -1,0 +1,3 @@
+- pkg:deb/debian/api-sanity-checker@1.98.7-2.1?arch=all
+- pkg:deb/debian/api-sanity-checker@1.98.7-2.2?arch=all
+- pkg:deb/debian/api-sanity-checker@1.98.7-2?arch=all

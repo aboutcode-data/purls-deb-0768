@@ -1,0 +1,3 @@
+- pkg:deb/debian/cewl@5.4.9-2?arch=all
+- pkg:deb/debian/cewl@5.5.2-2?arch=all
+- pkg:deb/debian/cewl@6.2.1-1?arch=all

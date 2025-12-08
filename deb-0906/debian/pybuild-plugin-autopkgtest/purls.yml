@@ -1,0 +1,4 @@
+- pkg:deb/debian/pybuild-plugin-autopkgtest@5.20230130%2Bdeb12u1?arch=all
+- pkg:deb/debian/pybuild-plugin-autopkgtest@6.20250414?arch=all
+- pkg:deb/debian/pybuild-plugin-autopkgtest@6.20251201?arch=all
+- pkg:deb/debian/pybuild-plugin-autopkgtest@6.20251204.1?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=amd64
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=arm64
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=armel
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=armhf
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=i386
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=ppc64el
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=riscv64
+- pkg:deb/debian/libcsmith0t64@2.3.0-8?arch=s390x

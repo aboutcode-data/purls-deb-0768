@@ -1,0 +1,4 @@
+- pkg:deb/debian/daemontools-run@0.76-14?arch=all
+- pkg:deb/debian/daemontools-run@0.76-15?arch=all
+- pkg:deb/debian/daemontools-run@0.76-7?arch=all
+- pkg:deb/debian/daemontools-run@0.76-8.1?arch=all

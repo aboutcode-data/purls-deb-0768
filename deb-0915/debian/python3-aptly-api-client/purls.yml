@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-aptly-api-client@0.2.4-2?arch=all
+- pkg:deb/debian/python3-aptly-api-client@0.2.4-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/atomix-data@3.34.0-2?arch=all
+- pkg:deb/debian/atomix-data@3.34.0-3?arch=all
+- pkg:deb/debian/atomix-data@44.0-4?arch=all
+- pkg:deb/debian/atomix-data@44.0-5?arch=all

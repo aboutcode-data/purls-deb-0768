@@ -1,0 +1,13 @@
+- pkg:deb/debian/cockpit-pcp@239-1?arch=amd64
+- pkg:deb/debian/cockpit-pcp@239-1?arch=arm64
+- pkg:deb/debian/cockpit-pcp@239-1?arch=armhf
+- pkg:deb/debian/cockpit-pcp@239-1?arch=i386
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=amd64
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=arm64
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=armel
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=armhf
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=i386
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=mips64el
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=mipsel
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=ppc64el
+- pkg:deb/debian/cockpit-pcp@287.1-0%2Bdeb12u3?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/ant@1.10.13-1?arch=all
+- pkg:deb/debian/ant@1.10.15-1?arch=all
+- pkg:deb/debian/ant@1.10.15-1~bpo12%2B1?arch=all
+- pkg:deb/debian/ant@1.10.9-4?arch=all

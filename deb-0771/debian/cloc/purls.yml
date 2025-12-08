@@ -1,0 +1,4 @@
+- pkg:deb/debian/cloc@1.86-1?arch=all
+- pkg:deb/debian/cloc@1.96-1?arch=all
+- pkg:deb/debian/cloc@2.04-1?arch=all
+- pkg:deb/debian/cloc@2.06-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-dnf@4.14.0-3%2Bdeb12u1?arch=all
+- pkg:deb/debian/python3-dnf@4.23.0-1?arch=all
+- pkg:deb/debian/python3-dnf@4.24.0-1?arch=all
+- pkg:deb/debian/python3-dnf@4.5.2-6?arch=all

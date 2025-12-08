@@ -1,0 +1,4 @@
+- pkg:deb/debian/designate-central@11.0.0-2?arch=all
+- pkg:deb/debian/designate-central@15.0.0-4?arch=all
+- pkg:deb/debian/designate-central@20.0.0-2?arch=all
+- pkg:deb/debian/designate-central@21.0.0-1?arch=all

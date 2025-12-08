@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-extra-window-functions@1.0-7?arch=amd64
+- pkg:deb/debian/postgresql-18-extra-window-functions@1.0-7?arch=arm64
+- pkg:deb/debian/postgresql-18-extra-window-functions@1.0-7?arch=ppc64el
+- pkg:deb/debian/postgresql-18-extra-window-functions@1.0-7?arch=riscv64
+- pkg:deb/debian/postgresql-18-extra-window-functions@1.0-7?arch=s390x

@@ -1,0 +1,13 @@
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20201207.b495043-5?arch=amd64
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20201207.b495043-5?arch=arm64
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20201207.b495043-5?arch=armhf
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20201207.b495043-5?arch=i386
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=amd64
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=arm64
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=armel
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=armhf
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=i386
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=mips64el
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=mipsel
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=ppc64el
+- pkg:deb/debian/libdolfin2019.2@2019.2.0~git20230116.bd54183-2?arch=s390x

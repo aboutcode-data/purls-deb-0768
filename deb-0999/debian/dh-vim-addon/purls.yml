@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-vim-addon@0.4?arch=all
+- pkg:deb/debian/dh-vim-addon@0.5?arch=all

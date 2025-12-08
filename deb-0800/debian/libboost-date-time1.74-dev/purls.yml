@@ -1,0 +1,13 @@
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=amd64
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=arm64
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=armel
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=armhf
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=i386
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=mips64el
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=mipsel
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=ppc64el
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0%2Bds1-21?arch=s390x
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0-9?arch=amd64
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0-9?arch=arm64
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0-9?arch=armhf
+- pkg:deb/debian/libboost-date-time1.74-dev@1.74.0-9?arch=i386

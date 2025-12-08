@@ -1,0 +1,2 @@
+- pkg:deb/debian/libx32objc4@10.2.1-6?arch=amd64
+- pkg:deb/debian/libx32objc4@10.2.1-6?arch=i386

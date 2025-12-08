@@ -1,0 +1,13 @@
+- pkg:deb/debian/ccls@0.20210330-1?arch=amd64
+- pkg:deb/debian/ccls@0.20210330-1?arch=arm64
+- pkg:deb/debian/ccls@0.20220729-2?arch=amd64
+- pkg:deb/debian/ccls@0.20220729-2?arch=arm64
+- pkg:deb/debian/ccls@0.20220729-2?arch=mips64el
+- pkg:deb/debian/ccls@0.20220729-2?arch=ppc64el
+- pkg:deb/debian/ccls@0.20220729-2?arch=s390x
+- pkg:deb/debian/ccls@0.20241108-1?arch=amd64
+- pkg:deb/debian/ccls@0.20241108-1?arch=arm64
+- pkg:deb/debian/ccls@0.20241108-1?arch=armhf
+- pkg:deb/debian/ccls@0.20241108-1?arch=ppc64el
+- pkg:deb/debian/ccls@0.20241108-1?arch=riscv64
+- pkg:deb/debian/ccls@0.20241108-1?arch=s390x

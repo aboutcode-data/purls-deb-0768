@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-apispec-doc@5.2.2-3?arch=all
+- pkg:deb/debian/python-apispec-doc@6.8.1-1?arch=all
+- pkg:deb/debian/python-apispec-doc@6.8.4-1?arch=all

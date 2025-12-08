@@ -1,0 +1,4 @@
+- pkg:deb/debian/libc6-dev-s390x-cross@2.31-9cross4?arch=all
+- pkg:deb/debian/libc6-dev-s390x-cross@2.36-8cross1?arch=all
+- pkg:deb/debian/libc6-dev-s390x-cross@2.41-11cross1?arch=all
+- pkg:deb/debian/libc6-dev-s390x-cross@2.42-4cross1?arch=all

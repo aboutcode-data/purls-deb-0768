@@ -1,0 +1,4 @@
+- pkg:deb/debian/bisonc%2B%2B-doc@6.04.01-1?arch=all
+- pkg:deb/debian/bisonc%2B%2B-doc@6.04.04-1?arch=all
+- pkg:deb/debian/bisonc%2B%2B-doc@6.09.01-1?arch=all
+- pkg:deb/debian/bisonc%2B%2B-doc@6.09.02-1?arch=all

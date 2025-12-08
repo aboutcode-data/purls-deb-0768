@@ -1,0 +1,3 @@
+- pkg:deb/debian/fonts-spleen@1.8.2-1?arch=all
+- pkg:deb/debian/fonts-spleen@1.9.1-1?arch=all
+- pkg:deb/debian/fonts-spleen@2.1.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-di@10?arch=all
+- pkg:deb/debian/dh-di@11?arch=all

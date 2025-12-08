@@ -1,0 +1,4 @@
+- pkg:deb/debian/etckeeper@1.18.16-1?arch=all
+- pkg:deb/debian/etckeeper@1.18.20-1?arch=all
+- pkg:deb/debian/etckeeper@1.18.22-2?arch=all
+- pkg:deb/debian/etckeeper@1.18.23-2?arch=all

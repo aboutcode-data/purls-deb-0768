@@ -1,0 +1,4 @@
+- pkg:deb/debian/elastix@4.9.0-2?arch=amd64
+- pkg:deb/debian/elastix@4.9.0-2?arch=i386
+- pkg:deb/debian/elastix@5.0.1-4?arch=amd64
+- pkg:deb/debian/elastix@5.2.0-2?arch=amd64

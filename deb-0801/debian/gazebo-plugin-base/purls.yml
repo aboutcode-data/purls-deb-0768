@@ -1,0 +1,2 @@
+- pkg:deb/debian/gazebo-plugin-base@11.1.0%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/gazebo-plugin-base@11.1.0%2Bdfsg-6?arch=i386

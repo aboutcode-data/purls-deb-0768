@@ -1,0 +1,17 @@
+- pkg:deb/debian/libbbhash-dev@1.0.0-3?arch=amd64
+- pkg:deb/debian/libbbhash-dev@1.0.0-3?arch=arm64
+- pkg:deb/debian/libbbhash-dev@1.0.0-5?arch=amd64
+- pkg:deb/debian/libbbhash-dev@1.0.0-5?arch=arm64
+- pkg:deb/debian/libbbhash-dev@1.0.0-5?arch=mips64el
+- pkg:deb/debian/libbbhash-dev@1.0.0-5?arch=ppc64el
+- pkg:deb/debian/libbbhash-dev@1.0.0-5?arch=s390x
+- pkg:deb/debian/libbbhash-dev@1.0.0-6%2Bb3?arch=amd64
+- pkg:deb/debian/libbbhash-dev@1.0.0-6%2Bb3?arch=arm64
+- pkg:deb/debian/libbbhash-dev@1.0.0-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/libbbhash-dev@1.0.0-6%2Bb3?arch=riscv64
+- pkg:deb/debian/libbbhash-dev@1.0.0-6%2Bb3?arch=s390x
+- pkg:deb/debian/libbbhash-dev@1.0.0-7?arch=amd64
+- pkg:deb/debian/libbbhash-dev@1.0.0-7?arch=arm64
+- pkg:deb/debian/libbbhash-dev@1.0.0-7?arch=ppc64el
+- pkg:deb/debian/libbbhash-dev@1.0.0-7?arch=riscv64
+- pkg:deb/debian/libbbhash-dev@1.0.0-7?arch=s390x

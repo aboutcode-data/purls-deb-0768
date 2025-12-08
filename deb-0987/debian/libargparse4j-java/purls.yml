@@ -1,0 +1,2 @@
+- pkg:deb/debian/libargparse4j-java@0.4.4-1.1?arch=all
+- pkg:deb/debian/libargparse4j-java@0.9.0-1?arch=all

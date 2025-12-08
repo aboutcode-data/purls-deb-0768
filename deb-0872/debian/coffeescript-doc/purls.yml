@@ -1,0 +1,4 @@
+- pkg:deb/debian/coffeescript-doc@1.12.8~dfsg-5?arch=all
+- pkg:deb/debian/coffeescript-doc@2.7.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/coffeescript-doc@2.7.0%2Bdfsg1-4?arch=all
+- pkg:deb/debian/coffeescript-doc@2.7.0-4?arch=all

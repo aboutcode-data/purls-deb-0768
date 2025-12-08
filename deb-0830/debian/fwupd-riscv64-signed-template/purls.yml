@@ -1,0 +1,2 @@
+- pkg:deb/debian/fwupd-riscv64-signed-template@1.7-1?arch=riscv64
+- pkg:deb/debian/fwupd-riscv64-signed-template@1.8-1?arch=riscv64

@@ -1,0 +1,6 @@
+- pkg:deb/debian/cockpit-networkmanager@239-1?arch=all
+- pkg:deb/debian/cockpit-networkmanager@287.1-0%2Bdeb12u3?arch=all
+- pkg:deb/debian/cockpit-networkmanager@337-1?arch=all
+- pkg:deb/debian/cockpit-networkmanager@337-1~bpo12%2B1?arch=all
+- pkg:deb/debian/cockpit-networkmanager@352-1?arch=all
+- pkg:deb/debian/cockpit-networkmanager@352-1~bpo13%2B1?arch=all

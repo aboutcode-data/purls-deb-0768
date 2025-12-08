@@ -1,0 +1,2 @@
+- pkg:deb/debian/cmake-fedora@2.7.2-1?arch=all
+- pkg:deb/debian/cmake-fedora@2.9.3-0.1?arch=all

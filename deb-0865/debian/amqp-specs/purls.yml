@@ -1,0 +1,2 @@
+- pkg:deb/debian/amqp-specs@1-0r0-3.1?arch=all
+- pkg:deb/debian/amqp-specs@1-0r0-4?arch=all

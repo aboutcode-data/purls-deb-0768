@@ -1,0 +1,3 @@
+- pkg:deb/debian/console-cyrillic@0.9-17.1?arch=all
+- pkg:deb/debian/console-cyrillic@0.9-17.2?arch=all
+- pkg:deb/debian/console-cyrillic@0.9-18?arch=all

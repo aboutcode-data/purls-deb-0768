@@ -1,0 +1,8 @@
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=amd64
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=arm64
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=armel
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=armhf
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=i386
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=ppc64el
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=riscv64
+- pkg:deb/debian/libdbus-c%2B%2B-ecore-1-0@0.9.0-15?arch=s390x

@@ -1,0 +1,6 @@
+- pkg:deb/debian/librte-raw-ifpga25@24.11.3-1~deb13u1?arch=amd64
+- pkg:deb/debian/librte-raw-ifpga25@24.11.3-1~deb13u1?arch=arm64
+- pkg:deb/debian/librte-raw-ifpga25@24.11.3-1~deb13u1?arch=ppc64el
+- pkg:deb/debian/librte-raw-ifpga25@24.11.3-2?arch=amd64
+- pkg:deb/debian/librte-raw-ifpga25@24.11.3-2?arch=arm64
+- pkg:deb/debian/librte-raw-ifpga25@24.11.3-2?arch=ppc64el

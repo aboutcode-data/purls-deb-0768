@@ -1,0 +1,4 @@
+- pkg:deb/debian/asterisk-voicemail@16.28.0~dfsg-0%2Bdeb11u4?arch=amd64
+- pkg:deb/debian/asterisk-voicemail@16.28.0~dfsg-0%2Bdeb11u4?arch=arm64
+- pkg:deb/debian/asterisk-voicemail@16.28.0~dfsg-0%2Bdeb11u4?arch=armhf
+- pkg:deb/debian/asterisk-voicemail@16.28.0~dfsg-0%2Bdeb11u4?arch=i386

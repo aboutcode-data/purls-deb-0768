@@ -1,0 +1,16 @@
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=amd64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=arm64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=i386
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=mips64el
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=mipsel
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=ppc64el
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-11?arch=s390x
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-6%2Bb3?arch=amd64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-6%2Bb3?arch=arm64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20180813.37fc53c-6%2Bb3?arch=i386
+- pkg:deb/debian/ballview@1.5.0%2Bgit20220524.d85d2dd-2?arch=amd64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20220524.d85d2dd-2?arch=arm64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20220524.d85d2dd-2?arch=i386
+- pkg:deb/debian/ballview@1.5.0%2Bgit20220524.d85d2dd-2?arch=ppc64el
+- pkg:deb/debian/ballview@1.5.0%2Bgit20220524.d85d2dd-2?arch=riscv64
+- pkg:deb/debian/ballview@1.5.0%2Bgit20220524.d85d2dd-2?arch=s390x

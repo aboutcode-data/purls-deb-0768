@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-impersonate@1.5-1?arch=all
+- pkg:deb/debian/python3-django-impersonate@1.9.1-1?arch=all
+- pkg:deb/debian/python3-django-impersonate@1.9.2-2?arch=all
+- pkg:deb/debian/python3-django-impersonate@1.9.2-3?arch=all

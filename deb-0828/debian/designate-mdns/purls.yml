@@ -1,0 +1,4 @@
+- pkg:deb/debian/designate-mdns@11.0.0-2?arch=all
+- pkg:deb/debian/designate-mdns@15.0.0-4?arch=all
+- pkg:deb/debian/designate-mdns@20.0.0-2?arch=all
+- pkg:deb/debian/designate-mdns@21.0.0-1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/openrct2-title-sequences@0.4.0-2?arch=all
+- pkg:deb/debian/openrct2-title-sequences@0.4.14-1?arch=all
+- pkg:deb/debian/openrct2-title-sequences@0.4.14-1~bpo12%2B1?arch=all
+- pkg:deb/debian/openrct2-title-sequences@0.4.26-1?arch=all
+- pkg:deb/debian/openrct2-title-sequences@0.4.26-1~bpo13%2B1?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=amd64
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=arm64
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=armel
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=armhf
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=i386
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=mips64el
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=mipsel
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=ppc64el
+- pkg:deb/debian/libetsf-io-dev@1.0.4-5?arch=s390x
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=amd64
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=arm64
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=armel
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=armhf
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=i386
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=ppc64el
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=riscv64
+- pkg:deb/debian/libetsf-io-dev@1.0.4-6?arch=s390x

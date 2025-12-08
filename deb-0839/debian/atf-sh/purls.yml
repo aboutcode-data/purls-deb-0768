@@ -1,0 +1,17 @@
+- pkg:deb/debian/atf-sh@0.21-6?arch=amd64
+- pkg:deb/debian/atf-sh@0.21-6?arch=arm64
+- pkg:deb/debian/atf-sh@0.21-6?arch=armel
+- pkg:deb/debian/atf-sh@0.21-6?arch=armhf
+- pkg:deb/debian/atf-sh@0.21-6?arch=i386
+- pkg:deb/debian/atf-sh@0.21-6?arch=mips64el
+- pkg:deb/debian/atf-sh@0.21-6?arch=mipsel
+- pkg:deb/debian/atf-sh@0.21-6?arch=ppc64el
+- pkg:deb/debian/atf-sh@0.21-6?arch=s390x
+- pkg:deb/debian/atf-sh@0.22-3?arch=amd64
+- pkg:deb/debian/atf-sh@0.22-3?arch=arm64
+- pkg:deb/debian/atf-sh@0.22-3?arch=armel
+- pkg:deb/debian/atf-sh@0.22-3?arch=armhf
+- pkg:deb/debian/atf-sh@0.22-3?arch=i386
+- pkg:deb/debian/atf-sh@0.22-3?arch=ppc64el
+- pkg:deb/debian/atf-sh@0.22-3?arch=riscv64
+- pkg:deb/debian/atf-sh@0.22-3?arch=s390x

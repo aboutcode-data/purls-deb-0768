@@ -1,0 +1,5 @@
+- pkg:deb/debian/libfolks-dummy-doc@0.14.0-1?arch=all
+- pkg:deb/debian/libfolks-dummy-doc@0.15.5-2?arch=all
+- pkg:deb/debian/libfolks-dummy-doc@0.15.9-5?arch=all
+- pkg:deb/debian/libfolks-dummy-doc@0.15.9-7?arch=all
+- pkg:deb/debian/libfolks-dummy-doc@0.15.9-8?arch=all

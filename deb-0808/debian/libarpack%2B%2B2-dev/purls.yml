@@ -1,0 +1,17 @@
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=amd64
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=arm64
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=armel
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=armhf
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=i386
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=ppc64el
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=riscv64
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10%2Bb4?arch=s390x
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=amd64
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=arm64
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=armel
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=armhf
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=i386
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=mips64el
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=mipsel
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=ppc64el
+- pkg:deb/debian/libarpack%2B%2B2-dev@2.3-10?arch=s390x

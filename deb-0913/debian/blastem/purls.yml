@@ -1,0 +1,6 @@
+- pkg:deb/debian/blastem@0.6.3.3-3?arch=amd64
+- pkg:deb/debian/blastem@0.6.3.3-3?arch=i386
+- pkg:deb/debian/blastem@0.6.3.4-1%2Bb2?arch=amd64
+- pkg:deb/debian/blastem@0.6.3.4-1%2Bb2?arch=i386
+- pkg:deb/debian/blastem@0.6.3.4-3?arch=amd64
+- pkg:deb/debian/blastem@0.6.3.4-3?arch=i386

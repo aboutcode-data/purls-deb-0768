@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-cairocffi-doc@1.2.0-1?arch=all
+- pkg:deb/debian/python-cairocffi-doc@1.4.0-1?arch=all
+- pkg:deb/debian/python-cairocffi-doc@1.7.1-3?arch=all
+- pkg:deb/debian/python-cairocffi-doc@1.7.1-4?arch=all

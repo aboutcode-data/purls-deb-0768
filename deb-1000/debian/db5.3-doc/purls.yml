@@ -1,0 +1,5 @@
+- pkg:deb/debian/db5.3-doc@5.3.28%2Bdfsg1-0.8?arch=all
+- pkg:deb/debian/db5.3-doc@5.3.28%2Bdfsg2-10?arch=all
+- pkg:deb/debian/db5.3-doc@5.3.28%2Bdfsg2-11?arch=all
+- pkg:deb/debian/db5.3-doc@5.3.28%2Bdfsg2-1?arch=all
+- pkg:deb/debian/db5.3-doc@5.3.28%2Bdfsg2-9?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/ganglia-webfrontend@3.7.5%2Bdebian-3?arch=all
+- pkg:deb/debian/ganglia-webfrontend@3.7.5%2Bdebian-4?arch=all
+- pkg:deb/debian/ganglia-webfrontend@3.7.6%2Bdebian-1.1?arch=all
+- pkg:deb/debian/ganglia-webfrontend@3.7.6%2Bdebian-1~bpo12%2B1?arch=all

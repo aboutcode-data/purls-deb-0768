@@ -1,0 +1,2 @@
+- pkg:deb/debian/librte-dma-hisilicon23@22.11.9-1~deb12u1?arch=amd64
+- pkg:deb/debian/librte-dma-hisilicon23@22.11.9-1~deb12u1?arch=arm64

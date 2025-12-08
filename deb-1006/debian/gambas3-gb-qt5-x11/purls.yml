@@ -1,0 +1,9 @@
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=amd64
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=arm64
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=armel
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=armhf
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=i386
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=mips64el
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=mipsel
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=ppc64el
+- pkg:deb/debian/gambas3-gb-qt5-x11@3.18.0-4?arch=s390x

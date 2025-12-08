@@ -1,0 +1,2 @@
+- pkg:deb/debian/libbiojava1.9-java@1.9.5%2Bdfsg-3?arch=all
+- pkg:deb/debian/libbiojava1.9-java@1.9.7%2Bdfsg-2?arch=all

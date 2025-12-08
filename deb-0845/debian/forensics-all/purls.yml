@@ -1,0 +1,4 @@
+- pkg:deb/debian/forensics-all@3.30?arch=all
+- pkg:deb/debian/forensics-all@3.44?arch=all
+- pkg:deb/debian/forensics-all@3.61?arch=all
+- pkg:deb/debian/forensics-all@3.62?arch=all

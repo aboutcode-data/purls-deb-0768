@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-flask-paginate@2022.1.8-2?arch=all
+- pkg:deb/debian/python3-flask-paginate@2024.4.12-3?arch=all

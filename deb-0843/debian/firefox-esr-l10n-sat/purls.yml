@@ -1,0 +1,5 @@
+- pkg:deb/debian/firefox-esr-l10n-sat@128.14.0esr-1~deb12u1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-sat@140.4.0esr-1~deb13u1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-sat@140.5.0esr-1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-sat@140.5.0esr-1~deb12u1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-sat@140.5.0esr-1~deb13u1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdnsjava-java@2.1.8-2?arch=all
+- pkg:deb/debian/libdnsjava-java@3.6.2-2?arch=all

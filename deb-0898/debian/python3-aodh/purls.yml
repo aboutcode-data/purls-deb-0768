@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-aodh@11.0.0-2?arch=all
+- pkg:deb/debian/python3-aodh@15.0.0-3?arch=all
+- pkg:deb/debian/python3-aodh@20.0.0-2?arch=all
+- pkg:deb/debian/python3-aodh@21.0.0-3?arch=all
+- pkg:deb/debian/python3-aodh@21.0.0-4?arch=all

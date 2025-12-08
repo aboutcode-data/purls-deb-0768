@@ -1,0 +1,15 @@
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=amd64
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=arm64
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=armel
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=armhf
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=i386
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=riscv64
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb2?arch=s390x
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=amd64
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=arm64
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=armhf
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=i386
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=ppc64el
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=riscv64
+- pkg:deb/debian/python3-aoflagger@3.4.0-3%2Bb3?arch=s390x

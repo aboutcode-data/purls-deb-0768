@@ -1,0 +1,8 @@
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=amd64
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=arm64
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=armel
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=armhf
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=i386
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=ppc64el
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=riscv64
+- pkg:deb/debian/libfuse2t64@2.9.9-9?arch=s390x

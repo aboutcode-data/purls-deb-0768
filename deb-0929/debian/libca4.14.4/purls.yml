@@ -1,0 +1,7 @@
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-7?arch=amd64
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-7?arch=arm64
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-7?arch=armel
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-7?arch=armhf
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-8?arch=amd64
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-8?arch=arm64
+- pkg:deb/debian/libca4.14.4@7.0.8.1%2Bdfsg1-8?arch=armhf

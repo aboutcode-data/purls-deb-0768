@@ -1,0 +1,13 @@
+- pkg:deb/debian/aces3@3.0.8-7?arch=amd64
+- pkg:deb/debian/aces3@3.0.8-7?arch=arm64
+- pkg:deb/debian/aces3@3.0.8-7?arch=armhf
+- pkg:deb/debian/aces3@3.0.8-7?arch=i386
+- pkg:deb/debian/aces3@3.0.8-9?arch=amd64
+- pkg:deb/debian/aces3@3.0.8-9?arch=arm64
+- pkg:deb/debian/aces3@3.0.8-9?arch=armel
+- pkg:deb/debian/aces3@3.0.8-9?arch=armhf
+- pkg:deb/debian/aces3@3.0.8-9?arch=i386
+- pkg:deb/debian/aces3@3.0.8-9?arch=mips64el
+- pkg:deb/debian/aces3@3.0.8-9?arch=mipsel
+- pkg:deb/debian/aces3@3.0.8-9?arch=ppc64el
+- pkg:deb/debian/aces3@3.0.8-9?arch=s390x

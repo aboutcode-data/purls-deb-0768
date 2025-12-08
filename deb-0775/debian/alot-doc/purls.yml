@@ -1,0 +1,4 @@
+- pkg:deb/debian/alot-doc@0.10-1?arch=all
+- pkg:deb/debian/alot-doc@0.11-2?arch=all
+- pkg:deb/debian/alot-doc@0.11-3?arch=all
+- pkg:deb/debian/alot-doc@0.9.1-2?arch=all

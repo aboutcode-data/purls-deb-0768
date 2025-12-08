@@ -1,0 +1,4 @@
+- pkg:deb/debian/acl2-doc@8.3dfsg-2?arch=all
+- pkg:deb/debian/acl2-doc@8.5dfsg-5?arch=all
+- pkg:deb/debian/acl2-doc@8.6%2Bdfsg-2?arch=all
+- pkg:deb/debian/acl2-doc@8.6%2Bdfsg-3?arch=all

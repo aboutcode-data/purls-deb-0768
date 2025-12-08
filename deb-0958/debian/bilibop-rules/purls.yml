@@ -1,0 +1,10 @@
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=amd64
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=arm64
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=armel
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=armhf
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=i386
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=mips64el
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=mipsel
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=ppc64el
+- pkg:deb/debian/bilibop-rules@0.6.3?arch=s390x
+- pkg:deb/debian/bilibop-rules@0.6.5?arch=all

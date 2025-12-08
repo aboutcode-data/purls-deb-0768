@@ -1,0 +1,3 @@
+- pkg:deb/debian/covtobed-examples@1.2.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/covtobed-examples@1.3.5%2Bdfsg-1?arch=all
+- pkg:deb/debian/covtobed-examples@1.3.5%2Bdfsg-2?arch=all

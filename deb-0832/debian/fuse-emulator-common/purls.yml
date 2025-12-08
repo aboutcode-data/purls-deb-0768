@@ -1,0 +1,2 @@
+- pkg:deb/debian/fuse-emulator-common@1.5.7%2Bdfsg1-4?arch=all
+- pkg:deb/debian/fuse-emulator-common@1.6.0%2Bdfsg1-2?arch=all

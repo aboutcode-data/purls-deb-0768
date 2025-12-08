@@ -1,0 +1,8 @@
+- pkg:deb/debian/chromium-l10n@120.0.6099.224-1~deb11u1?arch=all
+- pkg:deb/debian/chromium-l10n@139.0.7258.154-1~deb12u1?arch=all
+- pkg:deb/debian/chromium-l10n@142.0.7444.134-1~deb13u1?arch=all
+- pkg:deb/debian/chromium-l10n@142.0.7444.175-1?arch=all
+- pkg:deb/debian/chromium-l10n@142.0.7444.175-1~deb12u1?arch=all
+- pkg:deb/debian/chromium-l10n@142.0.7444.175-1~deb13u1?arch=all
+- pkg:deb/debian/chromium-l10n@143.0.7499.40-1?arch=all
+- pkg:deb/debian/chromium-l10n@143.0.7499.40-1~deb13u1?arch=all

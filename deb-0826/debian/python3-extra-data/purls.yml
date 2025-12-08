@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-extra-data@1.20.0-1?arch=all
+- pkg:deb/debian/python3-extra-data@1.7.0-5?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/blends-dev@0.7.10?arch=all
+- pkg:deb/debian/blends-dev@0.7.11?arch=all
+- pkg:deb/debian/blends-dev@0.7.2?arch=all
+- pkg:deb/debian/blends-dev@0.7.5?arch=all

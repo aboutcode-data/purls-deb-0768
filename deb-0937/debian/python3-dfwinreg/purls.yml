@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-dfwinreg@20201006-1.1?arch=all
+- pkg:deb/debian/python3-dfwinreg@20240316-1?arch=all

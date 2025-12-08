@@ -1,0 +1,4 @@
+- pkg:deb/debian/autodep8@0.24?arch=all
+- pkg:deb/debian/autodep8@0.28?arch=all
+- pkg:deb/debian/autodep8@0.29?arch=all
+- pkg:deb/debian/autodep8@0.30?arch=all

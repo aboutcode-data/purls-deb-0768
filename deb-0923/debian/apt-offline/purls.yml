@@ -1,0 +1,3 @@
+- pkg:deb/debian/apt-offline@1.8.2-2?arch=all
+- pkg:deb/debian/apt-offline@1.8.5-1?arch=all
+- pkg:deb/debian/apt-offline@1.8.6-1?arch=all

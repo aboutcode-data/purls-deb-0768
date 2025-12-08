@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-django-memoize-doc@2.2.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-django-memoize-doc@2.2.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/python-django-memoize-doc@2.2.0%2Bdfsg-6?arch=all

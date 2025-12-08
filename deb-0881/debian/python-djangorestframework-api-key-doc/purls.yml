@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-djangorestframework-api-key-doc@2.0.0-2?arch=all
+- pkg:deb/debian/python-djangorestframework-api-key-doc@2.0.0-4?arch=all
+- pkg:deb/debian/python-djangorestframework-api-key-doc@3.1.0-1?arch=all

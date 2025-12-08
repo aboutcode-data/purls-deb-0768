@@ -1,0 +1,2 @@
+- pkg:deb/debian/asncounter@0.5.0?arch=all
+- pkg:deb/debian/asncounter@0.5.0~bpo13%2B1?arch=all

@@ -1,0 +1,13 @@
+- pkg:deb/debian/afl%2B%2B-clang@2.68c-1%2Bb1?arch=amd64
+- pkg:deb/debian/afl%2B%2B-clang@2.68c-1%2Bb1?arch=arm64
+- pkg:deb/debian/afl%2B%2B-clang@2.68c-1%2Bb1?arch=armhf
+- pkg:deb/debian/afl%2B%2B-clang@2.68c-1%2Bb1?arch=i386
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=amd64
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=arm64
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=armel
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=armhf
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=i386
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=mips64el
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=mipsel
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=ppc64el
+- pkg:deb/debian/afl%2B%2B-clang@4.04c-4?arch=s390x

@@ -1,0 +1,16 @@
+- pkg:deb/debian/fdb5@5.10.8-2?arch=amd64
+- pkg:deb/debian/fdb5@5.10.8-2?arch=arm64
+- pkg:deb/debian/fdb5@5.10.8-2?arch=mips64el
+- pkg:deb/debian/fdb5@5.10.8-2?arch=ppc64el
+- pkg:deb/debian/fdb5@5.10.8-2?arch=s390x
+- pkg:deb/debian/fdb5@5.15.12-1?arch=amd64
+- pkg:deb/debian/fdb5@5.15.12-1?arch=arm64
+- pkg:deb/debian/fdb5@5.15.12-1?arch=ppc64el
+- pkg:deb/debian/fdb5@5.15.12-1?arch=riscv64
+- pkg:deb/debian/fdb5@5.18.3-1?arch=amd64
+- pkg:deb/debian/fdb5@5.18.3-1?arch=arm64
+- pkg:deb/debian/fdb5@5.18.3-1?arch=ppc64el
+- pkg:deb/debian/fdb5@5.18.3-1?arch=riscv64
+- pkg:deb/debian/fdb5@5.18.3-1?arch=s390x
+- pkg:deb/debian/fdb5@5.7.0-5?arch=amd64
+- pkg:deb/debian/fdb5@5.7.0-5?arch=arm64

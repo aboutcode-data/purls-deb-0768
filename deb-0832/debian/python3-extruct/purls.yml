@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-extruct@0.14.0-2?arch=all
+- pkg:deb/debian/python3-extruct@0.18.0-1?arch=all

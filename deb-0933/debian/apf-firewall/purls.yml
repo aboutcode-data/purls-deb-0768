@@ -1,0 +1,2 @@
+- pkg:deb/debian/apf-firewall@9.7%2Brev1-5.1?arch=all
+- pkg:deb/debian/apf-firewall@9.7%2Brev1-7?arch=all

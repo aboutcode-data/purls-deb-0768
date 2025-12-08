@@ -1,0 +1,13 @@
+- pkg:deb/debian/libatlas-test@3.10.3-10?arch=amd64
+- pkg:deb/debian/libatlas-test@3.10.3-10?arch=arm64
+- pkg:deb/debian/libatlas-test@3.10.3-10?arch=armhf
+- pkg:deb/debian/libatlas-test@3.10.3-10?arch=i386
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=amd64
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=arm64
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=armel
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=armhf
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=i386
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=mips64el
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=mipsel
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=ppc64el
+- pkg:deb/debian/libatlas-test@3.10.3-13?arch=s390x

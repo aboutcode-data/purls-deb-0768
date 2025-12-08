@@ -1,0 +1,5 @@
+- pkg:deb/debian/bacula-director-pgsql@15.0.3-3?arch=all
+- pkg:deb/debian/bacula-director-pgsql@15.0.3-3~bpo12%2B1?arch=all
+- pkg:deb/debian/bacula-director-pgsql@15.0.3-5?arch=all
+- pkg:deb/debian/bacula-director-pgsql@9.6.7-3?arch=all
+- pkg:deb/debian/bacula-director-pgsql@9.6.7-7?arch=all

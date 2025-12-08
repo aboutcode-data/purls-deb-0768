@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-folding@0%2B20200825.748-1?arch=all
+- pkg:deb/debian/elpa-folding@0.0~git20220110.1ce338b-1?arch=all
+- pkg:deb/debian/elpa-folding@0.0~git20240308.b27c4a1-2?arch=all
+- pkg:deb/debian/elpa-folding@0.0~git20250120.b82696b-1?arch=all

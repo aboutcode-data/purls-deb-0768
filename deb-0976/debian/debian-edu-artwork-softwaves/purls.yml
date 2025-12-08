@@ -1,0 +1,4 @@
+- pkg:deb/debian/debian-edu-artwork-softwaves@2.11.6-1?arch=all
+- pkg:deb/debian/debian-edu-artwork-softwaves@2.12.4-1~deb12u1?arch=all
+- pkg:deb/debian/debian-edu-artwork-softwaves@2.13.0-1?arch=all
+- pkg:deb/debian/debian-edu-artwork-softwaves@2.13.1-1?arch=all

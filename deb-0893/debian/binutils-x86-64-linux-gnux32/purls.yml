@@ -1,0 +1,15 @@
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.35.2-2?arch=amd64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.35.2-2?arch=arm64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.35.2-2?arch=i386
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.40-2?arch=amd64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.40-2?arch=arm64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.40-2?arch=i386
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.40-2?arch=ppc64el
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.44-3?arch=amd64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.44-3?arch=arm64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.44-3?arch=i386
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.44-3?arch=ppc64el
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.45.50.20251201-1?arch=amd64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.45.50.20251201-1?arch=arm64
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.45.50.20251201-1?arch=i386
+- pkg:deb/debian/binutils-x86-64-linux-gnux32@2.45.50.20251201-1?arch=ppc64el

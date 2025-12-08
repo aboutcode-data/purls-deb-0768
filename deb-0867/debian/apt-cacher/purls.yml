@@ -1,0 +1,4 @@
+- pkg:deb/debian/apt-cacher@1.7.22?arch=all
+- pkg:deb/debian/apt-cacher@1.7.29?arch=all
+- pkg:deb/debian/apt-cacher@1.7.31?arch=all
+- pkg:deb/debian/apt-cacher@1.7.32?arch=all

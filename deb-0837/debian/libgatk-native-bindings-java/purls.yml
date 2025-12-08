@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgatk-native-bindings-java@1.0.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/libgatk-native-bindings-java@1.0.0-2.1?arch=all
+- pkg:deb/debian/libgatk-native-bindings-java@1.1.0%2Bdfsg-1?arch=all

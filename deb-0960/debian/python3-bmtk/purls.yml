@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-bmtk@0.0%2Bgit20210109.8572664%2Bds-1?arch=amd64
+- pkg:deb/debian/python3-bmtk@1.0.6%2Bds-1?arch=amd64
+- pkg:deb/debian/python3-bmtk@1.1.1%2Bds-4?arch=amd64

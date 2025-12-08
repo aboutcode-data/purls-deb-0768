@@ -1,0 +1,2 @@
+- pkg:deb/debian/protontricks@1.10.2-1?arch=all
+- pkg:deb/debian/protontricks@1.13.1%2Bds-1?arch=all

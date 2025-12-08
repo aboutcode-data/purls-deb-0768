@@ -1,0 +1,9 @@
+- pkg:deb/debian/libcriterion3@2.3.3git1-1%2Bb3?arch=amd64
+- pkg:deb/debian/libcriterion3@2.3.3git1-1%2Bb3?arch=arm64
+- pkg:deb/debian/libcriterion3@2.3.3git1-1%2Bb3?arch=i386
+- pkg:deb/debian/libcriterion3@2.4.1-2%2Bb3?arch=amd64
+- pkg:deb/debian/libcriterion3@2.4.1-2%2Bb3?arch=arm64
+- pkg:deb/debian/libcriterion3@2.4.1-2%2Bb3?arch=i386
+- pkg:deb/debian/libcriterion3@2.4.1-2?arch=amd64
+- pkg:deb/debian/libcriterion3@2.4.1-2?arch=arm64
+- pkg:deb/debian/libcriterion3@2.4.1-2?arch=i386

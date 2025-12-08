@@ -1,0 +1,7 @@
+- pkg:deb/debian/borgbackup-doc@1.1.16-3?arch=all
+- pkg:deb/debian/borgbackup-doc@1.2.4-1?arch=all
+- pkg:deb/debian/borgbackup-doc@1.4.0-4~bpo12%2B1?arch=all
+- pkg:deb/debian/borgbackup-doc@1.4.0-5?arch=all
+- pkg:deb/debian/borgbackup-doc@1.4.1-4?arch=all
+- pkg:deb/debian/borgbackup-doc@1.4.2-2?arch=all
+- pkg:deb/debian/borgbackup-doc@1.4.3-1?arch=all

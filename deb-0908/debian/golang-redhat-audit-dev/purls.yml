@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-redhat-audit-dev@3.0-2?arch=all
+- pkg:deb/debian/golang-redhat-audit-dev@3.0.9-1?arch=all
+- pkg:deb/debian/golang-redhat-audit-dev@4.0.2-2?arch=all
+- pkg:deb/debian/golang-redhat-audit-dev@4.1.2-1?arch=all

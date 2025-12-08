@@ -1,0 +1,3 @@
+- pkg:deb/debian/multimedia-djing@0.10?arch=all
+- pkg:deb/debian/multimedia-djing@0.12?arch=all
+- pkg:deb/debian/multimedia-djing@0.13?arch=all

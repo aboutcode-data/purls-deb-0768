@@ -1,0 +1,2 @@
+- pkg:deb/debian/libbuild-helper-maven-plugin-java@3.0.0-1?arch=all
+- pkg:deb/debian/libbuild-helper-maven-plugin-java@3.3.0-1?arch=all

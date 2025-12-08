@@ -1,0 +1,3 @@
+- pkg:deb/debian/fcitx5-table-amharic@5.0.10-1?arch=all
+- pkg:deb/debian/fcitx5-table-amharic@5.1.4-1?arch=all
+- pkg:deb/debian/fcitx5-table-amharic@5.1.5-2?arch=all

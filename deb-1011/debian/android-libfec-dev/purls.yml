@@ -1,0 +1,2 @@
+- pkg:deb/debian/android-libfec-dev@10.0.0%2Br36%2Bds-2.1?arch=all
+- pkg:deb/debian/android-libfec-dev@10.0.0%2Br36%2Bds-2?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.35.2-2?arch=amd64
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.35.2-2?arch=i386
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.40-2?arch=amd64
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.40-2?arch=i386
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.44-3?arch=amd64
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.44-3?arch=i386
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.45.50.20251201-1?arch=amd64
+- pkg:deb/debian/binutils-i686-gnu-dbg@2.45.50.20251201-1?arch=i386

@@ -1,0 +1,13 @@
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=amd64
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=arm64
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=armel
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=armhf
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=i386
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=mips64el
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=mipsel
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=ppc64el
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-12?arch=s390x
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-8%2Bb1?arch=amd64
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-8?arch=arm64
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-8?arch=armhf
+- pkg:deb/debian/libdmraid1.0.0.rc16@1.0.0.rc16-8?arch=i386

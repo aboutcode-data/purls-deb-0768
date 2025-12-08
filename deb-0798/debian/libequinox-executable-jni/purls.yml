@@ -1,0 +1,13 @@
+- pkg:deb/debian/libequinox-executable-jni@3.8.1000%2Beclipse4.18-1?arch=amd64
+- pkg:deb/debian/libequinox-executable-jni@3.8.1000%2Beclipse4.18-1?arch=arm64
+- pkg:deb/debian/libequinox-executable-jni@3.8.1000%2Beclipse4.18-1?arch=armhf
+- pkg:deb/debian/libequinox-executable-jni@3.8.1000%2Beclipse4.18-1?arch=i386
+- pkg:deb/debian/libequinox-executable-jni@3.8.1900%2Beclipse4.26-4?arch=amd64
+- pkg:deb/debian/libequinox-executable-jni@3.8.1900%2Beclipse4.26-4?arch=arm64
+- pkg:deb/debian/libequinox-executable-jni@3.8.1900%2Beclipse4.26-4?arch=mips64el
+- pkg:deb/debian/libequinox-executable-jni@3.8.1900%2Beclipse4.26-4?arch=ppc64el
+- pkg:deb/debian/libequinox-executable-jni@3.8.2200%2Beclipse4.29-2%2Bb1?arch=riscv64
+- pkg:deb/debian/libequinox-executable-jni@3.8.2200%2Beclipse4.29-2?arch=amd64
+- pkg:deb/debian/libequinox-executable-jni@3.8.2200%2Beclipse4.29-2?arch=arm64
+- pkg:deb/debian/libequinox-executable-jni@3.8.2200%2Beclipse4.29-2?arch=ppc64el
+- pkg:deb/debian/libequinox-executable-jni@3.8.2200%2Beclipse4.29-2?arch=riscv64

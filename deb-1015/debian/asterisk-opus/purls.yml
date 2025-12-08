@@ -1,0 +1,4 @@
+- pkg:deb/debian/asterisk-opus@13.7%2B20171009-2?arch=amd64
+- pkg:deb/debian/asterisk-opus@13.7%2B20171009-2?arch=arm64
+- pkg:deb/debian/asterisk-opus@13.7%2B20171009-2?arch=armhf
+- pkg:deb/debian/asterisk-opus@13.7%2B20171009-2?arch=i386

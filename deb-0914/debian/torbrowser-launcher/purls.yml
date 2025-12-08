@@ -1,0 +1,6 @@
+- pkg:deb/debian/torbrowser-launcher@0.3.3-6?arch=amd64
+- pkg:deb/debian/torbrowser-launcher@0.3.3-6?arch=i386
+- pkg:deb/debian/torbrowser-launcher@0.3.6-2?arch=amd64
+- pkg:deb/debian/torbrowser-launcher@0.3.6-2?arch=i386
+- pkg:deb/debian/torbrowser-launcher@0.3.7-3?arch=amd64
+- pkg:deb/debian/torbrowser-launcher@0.3.7-3?arch=i386

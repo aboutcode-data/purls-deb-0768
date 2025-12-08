@@ -1,0 +1,3 @@
+- pkg:deb/debian/debuerreotype@0.10-2?arch=all
+- pkg:deb/debian/debuerreotype@0.15-1.1?arch=all
+- pkg:deb/debian/debuerreotype@0.16-1?arch=all

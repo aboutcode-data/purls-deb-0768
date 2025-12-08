@@ -1,0 +1,13 @@
+- pkg:deb/debian/deborphan@1.7.33?arch=amd64
+- pkg:deb/debian/deborphan@1.7.33?arch=arm64
+- pkg:deb/debian/deborphan@1.7.33?arch=armhf
+- pkg:deb/debian/deborphan@1.7.33?arch=i386
+- pkg:deb/debian/deborphan@1.7.35?arch=amd64
+- pkg:deb/debian/deborphan@1.7.35?arch=arm64
+- pkg:deb/debian/deborphan@1.7.35?arch=armel
+- pkg:deb/debian/deborphan@1.7.35?arch=armhf
+- pkg:deb/debian/deborphan@1.7.35?arch=i386
+- pkg:deb/debian/deborphan@1.7.35?arch=mips64el
+- pkg:deb/debian/deborphan@1.7.35?arch=mipsel
+- pkg:deb/debian/deborphan@1.7.35?arch=ppc64el
+- pkg:deb/debian/deborphan@1.7.35?arch=s390x

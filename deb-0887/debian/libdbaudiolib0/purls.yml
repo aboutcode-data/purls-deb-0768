@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdbaudiolib0@0.9.8-8?arch=amd64
+- pkg:deb/debian/libdbaudiolib0@0.9.8-8?arch=arm64
+- pkg:deb/debian/libdbaudiolib0@0.9.8-8?arch=armhf
+- pkg:deb/debian/libdbaudiolib0@0.9.8-8?arch=i386

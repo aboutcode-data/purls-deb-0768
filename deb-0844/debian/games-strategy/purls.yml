@@ -1,0 +1,2 @@
+- pkg:deb/debian/games-strategy@4?arch=all
+- pkg:deb/debian/games-strategy@5?arch=all

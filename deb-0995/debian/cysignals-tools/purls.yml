@@ -1,0 +1,4 @@
+- pkg:deb/debian/cysignals-tools@1.10.2%2Bds-6?arch=all
+- pkg:deb/debian/cysignals-tools@1.11.2%2Bds-2?arch=all
+- pkg:deb/debian/cysignals-tools@1.12.3%2Bds-1?arch=all
+- pkg:deb/debian/cysignals-tools@1.12.4%2Bds-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/awstats@7.8-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/awstats@7.8-3%2Bdeb12u1?arch=all
+- pkg:deb/debian/awstats@7.9-1?arch=all
+- pkg:deb/debian/awstats@8.0-3?arch=all

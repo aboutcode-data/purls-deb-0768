@@ -1,0 +1,5 @@
+- pkg:deb/debian/assimp-testmodels@5.0.1~ds0-2?arch=all
+- pkg:deb/debian/assimp-testmodels@5.2.5~ds0-1?arch=all
+- pkg:deb/debian/assimp-testmodels@5.4.3%2Bds-2?arch=all
+- pkg:deb/debian/assimp-testmodels@5.4.3%2Bds-3?arch=all
+- pkg:deb/debian/assimp-testmodels@6.0.2%2Bds-1?arch=all

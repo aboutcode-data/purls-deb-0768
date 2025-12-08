@@ -1,0 +1,2 @@
+- pkg:deb/debian/gcc-10-aarch64-linux-gnu-base@10.2.1-6cross1?arch=amd64
+- pkg:deb/debian/gcc-10-aarch64-linux-gnu-base@10.2.1-6cross1?arch=i386

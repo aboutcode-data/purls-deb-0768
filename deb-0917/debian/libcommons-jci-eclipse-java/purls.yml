@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcommons-jci-eclipse-java@1.1-6?arch=all
+- pkg:deb/debian/libcommons-jci-eclipse-java@1.1-7?arch=all
+- pkg:deb/debian/libcommons-jci-eclipse-java@1.1-9?arch=all

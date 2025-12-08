@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-async-upnp-client@0.44.0-1?arch=all
+- pkg:deb/debian/python3-async-upnp-client@0.46.0-1?arch=all

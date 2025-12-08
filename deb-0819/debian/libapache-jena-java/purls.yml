@@ -1,0 +1,2 @@
+- pkg:deb/debian/libapache-jena-java@4.5.0-2?arch=all
+- pkg:deb/debian/libapache-jena-java@4.9.0-1?arch=all

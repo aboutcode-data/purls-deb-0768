@@ -1,0 +1,2 @@
+- pkg:deb/debian/signtos@10.0.0%2Br36-1.1?arch=all
+- pkg:deb/debian/signtos@10.0.0%2Br36-1?arch=all

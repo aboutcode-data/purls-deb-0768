@@ -1,0 +1,3 @@
+- pkg:deb/debian/sb16ctrl-bochs@2.6.11%2Bdfsg-4?arch=i386
+- pkg:deb/debian/sb16ctrl-bochs@2.7%2Bdfsg-4%2Bdeb12u1?arch=i386
+- pkg:deb/debian/sb16ctrl-bochs@3.0%2Bdfsg-1?arch=i386

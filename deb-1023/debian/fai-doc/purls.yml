@@ -1,0 +1,5 @@
+- pkg:deb/debian/fai-doc@5.10.3?arch=all
+- pkg:deb/debian/fai-doc@6.0.3%2Bdeb12u1?arch=all
+- pkg:deb/debian/fai-doc@6.4.3?arch=all
+- pkg:deb/debian/fai-doc@6.5.1?arch=all
+- pkg:deb/debian/fai-doc@6.5?arch=all

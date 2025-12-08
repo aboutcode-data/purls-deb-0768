@@ -1,0 +1,8 @@
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=amd64
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=arm64
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=armel
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=armhf
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=i386
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=ppc64el
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=riscv64
+- pkg:deb/debian/libapophenia2t64@1.0%2Bds-10?arch=s390x

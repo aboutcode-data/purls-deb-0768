@@ -1,0 +1,2 @@
+- pkg:deb/debian/debram-data@2.3.0%2Bnmu1?arch=all
+- pkg:deb/debian/debram-data@2.3.0?arch=all

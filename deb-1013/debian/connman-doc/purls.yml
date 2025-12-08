@@ -1,0 +1,4 @@
+- pkg:deb/debian/connman-doc@1.36-2.2%2Bdeb11u2?arch=all
+- pkg:deb/debian/connman-doc@1.41-3?arch=all
+- pkg:deb/debian/connman-doc@1.44-3?arch=all
+- pkg:deb/debian/connman-doc@1.45-2?arch=all

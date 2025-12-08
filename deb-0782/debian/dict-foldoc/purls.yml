@@ -1,0 +1,3 @@
+- pkg:deb/debian/dict-foldoc@20201018-1?arch=all
+- pkg:deb/debian/dict-foldoc@20230119-1?arch=all
+- pkg:deb/debian/dict-foldoc@20250211-1?arch=all

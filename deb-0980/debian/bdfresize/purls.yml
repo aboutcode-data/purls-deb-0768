@@ -1,0 +1,11 @@
+- pkg:deb/debian/bdfresize@1.5-12%2Bb1?arch=arm64
+- pkg:deb/debian/bdfresize@1.5-12%2Bb2?arch=riscv64
+- pkg:deb/debian/bdfresize@1.5-12?arch=amd64
+- pkg:deb/debian/bdfresize@1.5-12?arch=arm64
+- pkg:deb/debian/bdfresize@1.5-12?arch=armel
+- pkg:deb/debian/bdfresize@1.5-12?arch=armhf
+- pkg:deb/debian/bdfresize@1.5-12?arch=i386
+- pkg:deb/debian/bdfresize@1.5-12?arch=mips64el
+- pkg:deb/debian/bdfresize@1.5-12?arch=mipsel
+- pkg:deb/debian/bdfresize@1.5-12?arch=ppc64el
+- pkg:deb/debian/bdfresize@1.5-12?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/games-board@4?arch=all
+- pkg:deb/debian/games-board@5?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/distro-info-data@0.51%2Bdeb11u6?arch=all
+- pkg:deb/debian/distro-info-data@0.58%2Bdeb12u5?arch=all
+- pkg:deb/debian/distro-info-data@0.58%2Bdeb12u6?arch=all
+- pkg:deb/debian/distro-info-data@0.66%2Bdeb13u1?arch=all
+- pkg:deb/debian/distro-info-data@0.68?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/dkms@2.8.4-3?arch=all
+- pkg:deb/debian/dkms@3.0.10-8%2Bdeb12u1?arch=all
+- pkg:deb/debian/dkms@3.2.2-1?arch=all
+- pkg:deb/debian/dkms@3.2.2-1~deb13u1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/dlocate@1.07%2Bnmu1?arch=all
+- pkg:deb/debian/dlocate@1.12?arch=all
+- pkg:deb/debian/dlocate@1.17?arch=all
+- pkg:deb/debian/dlocate@1.18?arch=all

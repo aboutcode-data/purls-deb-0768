@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-dgraph-io-badger-dev@2.2007.2-2?arch=all
+- pkg:deb/debian/golang-github-dgraph-io-badger-dev@2.2007.2-3?arch=all
+- pkg:deb/debian/golang-github-dgraph-io-badger-dev@2.2007.2-4?arch=all
+- pkg:deb/debian/golang-github-dgraph-io-badger-dev@4.8.0-2?arch=all

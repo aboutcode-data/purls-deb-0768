@@ -1,0 +1,4 @@
+- pkg:deb/debian/bpython@0.21-3?arch=all
+- pkg:deb/debian/bpython@0.24-1?arch=all
+- pkg:deb/debian/bpython@0.25-2?arch=all
+- pkg:deb/debian/bpython@0.26-1?arch=all

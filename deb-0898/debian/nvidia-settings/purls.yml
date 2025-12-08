@@ -1,0 +1,7 @@
+- pkg:deb/debian/nvidia-settings@470.239.06-1?arch=amd64
+- pkg:deb/debian/nvidia-settings@470.239.06-1?arch=arm64
+- pkg:deb/debian/nvidia-settings@535.247.01-1~deb12u1?arch=amd64
+- pkg:deb/debian/nvidia-settings@535.247.01-1~deb12u1?arch=arm64
+- pkg:deb/debian/nvidia-settings@535.247.01-1~deb12u1?arch=ppc64el
+- pkg:deb/debian/nvidia-settings@550.163.01-1?arch=amd64
+- pkg:deb/debian/nvidia-settings@550.163.01-1?arch=arm64

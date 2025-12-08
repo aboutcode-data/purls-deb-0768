@@ -1,0 +1,4 @@
+- pkg:deb/debian/libddsc-dev@0.7.0-7?arch=amd64
+- pkg:deb/debian/libddsc-dev@0.7.0-7?arch=arm64
+- pkg:deb/debian/libddsc-dev@0.7.0-7?arch=armhf
+- pkg:deb/debian/libddsc-dev@0.7.0-7?arch=i386

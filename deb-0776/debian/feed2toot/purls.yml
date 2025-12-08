@@ -1,0 +1,4 @@
+- pkg:deb/debian/feed2toot@0.16-1?arch=all
+- pkg:deb/debian/feed2toot@0.17-1?arch=all
+- pkg:deb/debian/feed2toot@0.17-2?arch=all
+- pkg:deb/debian/feed2toot@0.17-3?arch=all

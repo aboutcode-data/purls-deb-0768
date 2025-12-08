@@ -1,0 +1,2 @@
+- pkg:deb/debian/gcc-10-hppa64-linux-gnu@10.2.1-6?arch=amd64
+- pkg:deb/debian/gcc-10-hppa64-linux-gnu@10.2.1-6?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/linux-libc-dev-sh4-cross@5.10.13-1cross4?arch=all
+- pkg:deb/debian/linux-libc-dev-sh4-cross@6.1.4-1cross1?arch=all
+- pkg:deb/debian/linux-libc-dev-sh4-cross@6.12.38-1cross1?arch=all
+- pkg:deb/debian/linux-libc-dev-sh4-cross@6.17.10-1cross1?arch=all

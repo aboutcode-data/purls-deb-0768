@@ -1,0 +1,4 @@
+- pkg:deb/debian/cl-asdf@3.3.4-2?arch=all
+- pkg:deb/debian/cl-asdf@3.3.6-1?arch=all
+- pkg:deb/debian/cl-asdf@3.3.7.3-2?arch=all
+- pkg:deb/debian/cl-asdf@3.3.7.4-1?arch=all

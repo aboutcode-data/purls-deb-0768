@@ -1,0 +1,2 @@
+- pkg:deb/debian/calc-common@2.12.7.2-4?arch=all
+- pkg:deb/debian/calc-common@2.15.1.0-1?arch=all

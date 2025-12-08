@@ -1,0 +1,6 @@
+- pkg:deb/debian/fenix-plugins-system@0.0.20070803-8?arch=armhf
+- pkg:deb/debian/fenix-plugins-system@0.0.20070803-8?arch=i386
+- pkg:deb/debian/fenix-plugins-system@0.0.20070803-9?arch=armel
+- pkg:deb/debian/fenix-plugins-system@0.0.20070803-9?arch=armhf
+- pkg:deb/debian/fenix-plugins-system@0.0.20070803-9?arch=i386
+- pkg:deb/debian/fenix-plugins-system@0.0.20070803-9?arch=mipsel

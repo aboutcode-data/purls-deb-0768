@@ -1,0 +1,4 @@
+- pkg:deb/debian/eric@21.1%2Bds1-1?arch=all
+- pkg:deb/debian/eric@23.2%2Bds1-1?arch=all
+- pkg:deb/debian/eric@24.3%2Bds1-1?arch=all
+- pkg:deb/debian/eric@24.8%2Bds1-1?arch=all

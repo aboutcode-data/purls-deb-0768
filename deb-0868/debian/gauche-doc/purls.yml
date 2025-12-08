@@ -1,0 +1,2 @@
+- pkg:deb/debian/gauche-doc@0.9.10-3?arch=all
+- pkg:deb/debian/gauche-doc@0.9.15-p2%2B20241205-4?arch=all

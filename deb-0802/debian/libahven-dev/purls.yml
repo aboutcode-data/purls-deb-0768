@@ -1,0 +1,8 @@
+- pkg:deb/debian/libahven-dev@2.8-11?arch=amd64
+- pkg:deb/debian/libahven-dev@2.8-11?arch=arm64
+- pkg:deb/debian/libahven-dev@2.8-11?arch=armel
+- pkg:deb/debian/libahven-dev@2.8-11?arch=armhf
+- pkg:deb/debian/libahven-dev@2.8-11?arch=i386
+- pkg:deb/debian/libahven-dev@2.8-11?arch=ppc64el
+- pkg:deb/debian/libahven-dev@2.8-11?arch=riscv64
+- pkg:deb/debian/libahven-dev@2.8-11?arch=s390x

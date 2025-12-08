@@ -1,0 +1,8 @@
+- pkg:deb/debian/libatk1.0-doc@2.36.0-2?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.46.0-5?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.56.2-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.56.2-1%2Bdeb13u1~bpo12%2B1?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.56.2-1?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.56.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.58.2-1?arch=all
+- pkg:deb/debian/libatk1.0-doc@2.58.2-1~bpo13%2B1?arch=all

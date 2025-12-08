@@ -1,0 +1,14 @@
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=amd64
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=arm64
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=armhf
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=i386
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=ppc64el
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=riscv64
+- pkg:deb/debian/libg2o0t64@0~20230806-4.1%2Bb2?arch=s390x
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=amd64
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=arm64
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=armhf
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=i386
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=ppc64el
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=riscv64
+- pkg:deb/debian/libg2o0t64@0~20230806-5?arch=s390x

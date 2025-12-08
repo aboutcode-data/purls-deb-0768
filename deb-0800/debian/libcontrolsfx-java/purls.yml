@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcontrolsfx-java@11.0.0-1?arch=all
+- pkg:deb/debian/libcontrolsfx-java@9.0.0%2Bhg20181001-1?arch=all

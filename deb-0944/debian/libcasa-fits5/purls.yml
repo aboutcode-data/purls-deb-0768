@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcasa-fits5@3.3.0-4%2Bb3?arch=amd64
+- pkg:deb/debian/libcasa-fits5@3.3.0-4%2Bb3?arch=arm64
+- pkg:deb/debian/libcasa-fits5@3.3.0-4%2Bb3?arch=armhf
+- pkg:deb/debian/libcasa-fits5@3.3.0-4%2Bb3?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libx32stdc%2B%2B6@10.2.1-6?arch=amd64
+- pkg:deb/debian/libx32stdc%2B%2B6@10.2.1-6?arch=i386

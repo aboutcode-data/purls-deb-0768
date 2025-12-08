@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-make-raku@0.5?arch=all
+- pkg:deb/debian/dh-make-raku@0.8?arch=all

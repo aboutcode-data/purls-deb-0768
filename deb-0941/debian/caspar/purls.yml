@@ -1,0 +1,3 @@
+- pkg:deb/debian/caspar@20200611-2?arch=all
+- pkg:deb/debian/caspar@20220907-1?arch=all
+- pkg:deb/debian/caspar@20240818-2?arch=all

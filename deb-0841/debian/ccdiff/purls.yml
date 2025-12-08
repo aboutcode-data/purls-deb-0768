@@ -1,0 +1,3 @@
+- pkg:deb/debian/ccdiff@0.30-1?arch=all
+- pkg:deb/debian/ccdiff@0.32-1?arch=all
+- pkg:deb/debian/ccdiff@0.34-1?arch=all

@@ -1,0 +1,12 @@
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4.1?arch=amd64
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4.1?arch=arm64
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4.1?arch=armel
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4.1?arch=armhf
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4.1?arch=i386
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=amd64
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=arm64
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=armel
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=armhf
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=i386
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=mips64el
+- pkg:deb/debian/android-libunwind-dev@10.0.0%2Br36-4?arch=mipsel

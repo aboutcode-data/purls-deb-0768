@@ -1,0 +1,2 @@
+- pkg:deb/debian/console-setup-freebsd@1.205?arch=all
+- pkg:deb/debian/console-setup-freebsd@1.221?arch=all

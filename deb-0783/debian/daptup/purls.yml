@@ -1,0 +1,2 @@
+- pkg:deb/debian/daptup@0.12.7%2Bnmu1?arch=all
+- pkg:deb/debian/daptup@0.12.7%2Breally0.12.7-0.1?arch=all

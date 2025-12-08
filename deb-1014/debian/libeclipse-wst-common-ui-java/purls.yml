@@ -1,0 +1,3 @@
+- pkg:deb/debian/libeclipse-wst-common-ui-java@1.1.700%2Beclipse3.18-5?arch=all
+- pkg:deb/debian/libeclipse-wst-common-ui-java@1.1.700%2Beclipse3.18-6?arch=all
+- pkg:deb/debian/libeclipse-wst-common-ui-java@1.2.401%2Beclipse3.35-1?arch=all

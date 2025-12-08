@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-cloudkitty-dashboard@11.0.0-2?arch=all
+- pkg:deb/debian/python3-cloudkitty-dashboard@15.0.0-1?arch=all
+- pkg:deb/debian/python3-cloudkitty-dashboard@20.0.0-1?arch=all
+- pkg:deb/debian/python3-cloudkitty-dashboard@21.0.0-1?arch=all

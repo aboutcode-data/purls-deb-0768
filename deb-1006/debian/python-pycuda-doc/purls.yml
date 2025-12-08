@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-pycuda-doc@2020.1~dfsg1-1?arch=all
+- pkg:deb/debian/python-pycuda-doc@2022.2.2~dfsg-2?arch=all
+- pkg:deb/debian/python-pycuda-doc@2025.1.1~dfsg-1?arch=all

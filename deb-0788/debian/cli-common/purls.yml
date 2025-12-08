@@ -1,0 +1,4 @@
+- pkg:deb/debian/cli-common@0.10%2Bnmu1?arch=all
+- pkg:deb/debian/cli-common@0.10%2Bnmu2?arch=all
+- pkg:deb/debian/cli-common@0.10?arch=all
+- pkg:deb/debian/cli-common@0.11?arch=all

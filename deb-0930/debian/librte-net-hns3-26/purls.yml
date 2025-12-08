@@ -1,0 +1,2 @@
+- pkg:deb/debian/librte-net-hns3-26@25.11-1?arch=amd64
+- pkg:deb/debian/librte-net-hns3-26@25.11-1?arch=arm64

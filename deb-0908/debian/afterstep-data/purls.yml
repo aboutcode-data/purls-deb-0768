@@ -1,0 +1,3 @@
+- pkg:deb/debian/afterstep-data@2.2.12-15?arch=all
+- pkg:deb/debian/afterstep-data@2.2.12-18.1?arch=all
+- pkg:deb/debian/afterstep-data@2.2.12-18?arch=all

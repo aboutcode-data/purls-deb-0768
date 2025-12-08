@@ -1,0 +1,13 @@
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=amd64
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=arm64
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=armel
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=armhf
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=i386
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=mips64el
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=mipsel
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=ppc64el
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-11?arch=s390x
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-9?arch=amd64
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-9?arch=arm64
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-9?arch=armhf
+- pkg:deb/debian/lib%2B%2Bdfb-1.7-7@1.7.7-9?arch=i386

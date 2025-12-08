@@ -1,0 +1,5 @@
+- pkg:deb/debian/nvidia-settings-tesla-450@450.119.03-1?arch=amd64
+- pkg:deb/debian/nvidia-settings-tesla-450@450.119.03-1?arch=arm64
+- pkg:deb/debian/nvidia-settings-tesla-450@450.119.03-4%2Bb1?arch=amd64
+- pkg:deb/debian/nvidia-settings-tesla-450@450.119.03-4%2Bb1?arch=arm64
+- pkg:deb/debian/nvidia-settings-tesla-450@450.119.03-4%2Bb1?arch=ppc64el

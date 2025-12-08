@@ -1,0 +1,2 @@
+- pkg:deb/debian/fakeroot-ng@0.18-4.1?arch=amd64
+- pkg:deb/debian/fakeroot-ng@0.18-4.1?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcsound64-doc@6.14.0~dfsg-6?arch=all
+- pkg:deb/debian/libcsound64-doc@6.18.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/libcsound64-doc@6.18.1%2Bdfsg-4?arch=all
+- pkg:deb/debian/libcsound64-doc@6.18.1%2Bdfsg-6?arch=all

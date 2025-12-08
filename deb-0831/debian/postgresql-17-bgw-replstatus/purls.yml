@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-bgw-replstatus@1.0.8-1?arch=amd64
+- pkg:deb/debian/postgresql-17-bgw-replstatus@1.0.8-1?arch=arm64
+- pkg:deb/debian/postgresql-17-bgw-replstatus@1.0.8-1?arch=ppc64el
+- pkg:deb/debian/postgresql-17-bgw-replstatus@1.0.8-1?arch=riscv64
+- pkg:deb/debian/postgresql-17-bgw-replstatus@1.0.8-1?arch=s390x

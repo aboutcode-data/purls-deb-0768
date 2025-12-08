@@ -1,0 +1,2 @@
+- pkg:deb/debian/cloud-utils@0.31-2?arch=all
+- pkg:deb/debian/cloud-utils@0.33-1?arch=all

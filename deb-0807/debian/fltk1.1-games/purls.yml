@@ -1,0 +1,13 @@
+- pkg:deb/debian/fltk1.1-games@1.1.10-29?arch=amd64
+- pkg:deb/debian/fltk1.1-games@1.1.10-29?arch=arm64
+- pkg:deb/debian/fltk1.1-games@1.1.10-29?arch=armhf
+- pkg:deb/debian/fltk1.1-games@1.1.10-29?arch=i386
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=amd64
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=arm64
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=armel
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=armhf
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=i386
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=mips64el
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=mipsel
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=ppc64el
+- pkg:deb/debian/fltk1.1-games@1.1.10-30?arch=s390x

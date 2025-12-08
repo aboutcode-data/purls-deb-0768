@@ -1,0 +1,13 @@
+- pkg:deb/debian/libanjuta-3-0@3.34.0-3%2Bb4?arch=amd64
+- pkg:deb/debian/libanjuta-3-0@3.34.0-3%2Bb4?arch=arm64
+- pkg:deb/debian/libanjuta-3-0@3.34.0-3%2Bb4?arch=armhf
+- pkg:deb/debian/libanjuta-3-0@3.34.0-3%2Bb4?arch=i386
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=amd64
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=arm64
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=armel
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=armhf
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=i386
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=mips64el
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=mipsel
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=ppc64el
+- pkg:deb/debian/libanjuta-3-0@3.34.0-8?arch=s390x

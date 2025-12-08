@@ -1,0 +1,13 @@
+- pkg:deb/debian/deepin-boot-maker@5.10.0%2Bdfsg2-2?arch=amd64
+- pkg:deb/debian/deepin-boot-maker@5.10.0%2Bdfsg2-2?arch=arm64
+- pkg:deb/debian/deepin-boot-maker@5.10.0%2Bdfsg2-2?arch=armel
+- pkg:deb/debian/deepin-boot-maker@5.10.0%2Bdfsg2-2?arch=armhf
+- pkg:deb/debian/deepin-boot-maker@5.10.0%2Bdfsg2-2?arch=i386
+- pkg:deb/debian/deepin-boot-maker@5.10.0%2Bdfsg2-2?arch=riscv64
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=armel
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=i386
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=mips64el
+- pkg:deb/debian/deepin-boot-maker@5.7.8%2Bdfsg-2?arch=mipsel

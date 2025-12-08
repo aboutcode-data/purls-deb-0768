@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-sass-processor@0.8.2-1?arch=all
+- pkg:deb/debian/python3-django-sass-processor@1.2.2%2Brepack-1?arch=all
+- pkg:deb/debian/python3-django-sass-processor@1.4.1-1?arch=all
+- pkg:deb/debian/python3-django-sass-processor@1.4.2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/ceilometer-agent-central@15.0.0-3?arch=all
+- pkg:deb/debian/ceilometer-agent-central@19.0.0-3?arch=all
+- pkg:deb/debian/ceilometer-agent-central@24.0.0-2?arch=all
+- pkg:deb/debian/ceilometer-agent-central@25.0.0-3?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2%2Bb1?arch=amd64
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=i386
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=riscv64
+- pkg:deb/debian/libace-xml-utils-8.0.5@8.0.5%2Bdfsg-2?arch=s390x

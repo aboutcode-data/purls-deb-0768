@@ -1,0 +1,5 @@
+- pkg:deb/debian/doublecmd-common@0.9.10-1?arch=all
+- pkg:deb/debian/doublecmd-common@1.0.10-1?arch=all
+- pkg:deb/debian/doublecmd-common@1.1.22-1?arch=all
+- pkg:deb/debian/doublecmd-common@1.1.28-1?arch=all
+- pkg:deb/debian/doublecmd-common@1.1.30-1?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-2%2Bb1?arch=amd64
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-2%2Bb1?arch=arm64
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-2%2Bb1?arch=armhf
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-2%2Bb1?arch=i386
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=amd64
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=arm64
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=armel
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=armhf
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=i386
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=mips64el
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=mipsel
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=riscv64
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb1?arch=s390x
+- pkg:deb/debian/fbpager@0.1.5~git20090221.1.8e0927e6-3%2Bb2?arch=arm64

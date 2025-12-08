@@ -1,0 +1,4 @@
+- pkg:deb/debian/dicomscope@3.6.0-22?arch=all
+- pkg:deb/debian/dicomscope@3.6.0-25?arch=all
+- pkg:deb/debian/dicomscope@3.6.0-27?arch=all
+- pkg:deb/debian/dicomscope@3.6.0-28?arch=all

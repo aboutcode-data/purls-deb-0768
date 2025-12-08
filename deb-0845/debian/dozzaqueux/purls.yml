@@ -1,0 +1,13 @@
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=amd64
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=arm64
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=armel
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=armhf
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=i386
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=mipsel
+- pkg:deb/debian/dozzaqueux@3.51-2.1?arch=ppc64el
+- pkg:deb/debian/dozzaqueux@3.51-4?arch=amd64
+- pkg:deb/debian/dozzaqueux@3.51-4?arch=arm64
+- pkg:deb/debian/dozzaqueux@3.51-4?arch=armel
+- pkg:deb/debian/dozzaqueux@3.51-4?arch=armhf
+- pkg:deb/debian/dozzaqueux@3.51-4?arch=i386
+- pkg:deb/debian/dozzaqueux@3.51-4?arch=ppc64el

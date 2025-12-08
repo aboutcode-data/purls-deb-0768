@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-ligature@1%2B60%2Bg5eb950a-1?arch=all
+- pkg:deb/debian/elpa-ligature@1.0~git20231203.6ac1634-2?arch=all
+- pkg:deb/debian/elpa-ligature@1.0~git20231203.6ac1634-3?arch=all

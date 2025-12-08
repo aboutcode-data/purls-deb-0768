@@ -1,0 +1,2 @@
+- pkg:deb/debian/crossbuild-essential-s390x@12.12?arch=all
+- pkg:deb/debian/crossbuild-essential-s390x@12.9?arch=all

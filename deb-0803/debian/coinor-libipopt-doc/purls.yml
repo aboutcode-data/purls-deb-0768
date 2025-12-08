@@ -1,0 +1,4 @@
+- pkg:deb/debian/coinor-libipopt-doc@3.11.9-2.2?arch=all
+- pkg:deb/debian/coinor-libipopt-doc@3.11.9-2.3?arch=all
+- pkg:deb/debian/coinor-libipopt-doc@3.14.17-3?arch=all
+- pkg:deb/debian/coinor-libipopt-doc@3.14.19-1?arch=all

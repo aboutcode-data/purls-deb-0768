@@ -1,0 +1,4 @@
+- pkg:deb/debian/bwctl-server@1.5.4%2Bdfsg1-1%2Bb1?arch=amd64
+- pkg:deb/debian/bwctl-server@1.5.4%2Bdfsg1-1%2Bb1?arch=arm64
+- pkg:deb/debian/bwctl-server@1.5.4%2Bdfsg1-1%2Bb1?arch=armhf
+- pkg:deb/debian/bwctl-server@1.5.4%2Bdfsg1-1%2Bb1?arch=i386

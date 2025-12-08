@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdb-sql-dev@5.3.1%2Bnmu1?arch=amd64
+- pkg:deb/debian/libdb-sql-dev@5.3.1%2Bnmu1?arch=arm64
+- pkg:deb/debian/libdb-sql-dev@5.3.1%2Bnmu1?arch=armhf
+- pkg:deb/debian/libdb-sql-dev@5.3.1%2Bnmu1?arch=i386

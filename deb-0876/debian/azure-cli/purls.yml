@@ -1,0 +1,5 @@
+- pkg:deb/debian/azure-cli@2.18.0-2?arch=all
+- pkg:deb/debian/azure-cli@2.45.0-1?arch=all
+- pkg:deb/debian/azure-cli@2.74.0-1?arch=all
+- pkg:deb/debian/azure-cli@2.80.0-1?arch=all
+- pkg:deb/debian/azure-cli@2.81.0-1?arch=all

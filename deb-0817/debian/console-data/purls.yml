@@ -1,0 +1,2 @@
+- pkg:deb/debian/console-data@1.12-8?arch=all
+- pkg:deb/debian/console-data@1.12-9?arch=all

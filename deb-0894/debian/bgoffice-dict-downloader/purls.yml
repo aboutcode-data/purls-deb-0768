@@ -1,0 +1,2 @@
+- pkg:deb/debian/bgoffice-dict-downloader@0.10%2Bnmu1?arch=all
+- pkg:deb/debian/bgoffice-dict-downloader@0.10?arch=all

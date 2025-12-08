@@ -1,0 +1,16 @@
+- pkg:deb/debian/fraqtive@0.4.8-13?arch=amd64
+- pkg:deb/debian/fraqtive@0.4.8-13?arch=arm64
+- pkg:deb/debian/fraqtive@0.4.8-13?arch=i386
+- pkg:deb/debian/fraqtive@0.4.8.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/fraqtive@0.4.8.1-1%2Bb1?arch=i386
+- pkg:deb/debian/fraqtive@0.4.8.1-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/fraqtive@0.4.8.1-1%2Bb1?arch=s390x
+- pkg:deb/debian/fraqtive@0.4.8.1-1%2Bb2?arch=arm64
+- pkg:deb/debian/fraqtive@0.4.8.1-1%2Bb3?arch=riscv64
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=amd64
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=arm64
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=i386
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=mips64el
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=mipsel
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=ppc64el
+- pkg:deb/debian/fraqtive@0.4.8.1-1?arch=s390x

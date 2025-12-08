@@ -1,0 +1,6 @@
+- pkg:deb/debian/debusine-signing@0.11.3?arch=all
+- pkg:deb/debian/debusine-signing@0.11.3~bpo12%2B1?arch=all
+- pkg:deb/debian/debusine-signing@0.13.1~bpo12%2B1?arch=all
+- pkg:deb/debian/debusine-signing@0.13.1~bpo13%2B1?arch=all
+- pkg:deb/debian/debusine-signing@0.14.0?arch=all
+- pkg:deb/debian/debusine-signing@0.14.0~bpo13%2B1?arch=all

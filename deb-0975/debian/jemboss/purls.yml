@@ -1,0 +1,4 @@
+- pkg:deb/debian/jemboss@6.6.0%2Bdfsg-12?arch=all
+- pkg:deb/debian/jemboss@6.6.0%2Bdfsg-15?arch=all
+- pkg:deb/debian/jemboss@6.6.0%2Bdfsg-18?arch=all
+- pkg:deb/debian/jemboss@6.6.0%2Bdfsg-9?arch=all

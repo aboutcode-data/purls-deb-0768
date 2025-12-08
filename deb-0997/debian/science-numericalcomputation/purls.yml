@@ -1,0 +1,3 @@
+- pkg:deb/debian/science-numericalcomputation@1.14.2?arch=all
+- pkg:deb/debian/science-numericalcomputation@1.14.5?arch=all
+- pkg:deb/debian/science-numericalcomputation@1.15?arch=all

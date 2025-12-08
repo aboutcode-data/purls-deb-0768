@@ -1,0 +1,4 @@
+- pkg:deb/debian/ardour-video-timeline@6.5.0%2Bds0-1?arch=all
+- pkg:deb/debian/ardour-video-timeline@7.3.0%2Bds0-1?arch=all
+- pkg:deb/debian/ardour-video-timeline@8.12.0%2Bds-1?arch=all
+- pkg:deb/debian/ardour-video-timeline@8.12.0%2Bds-2?arch=all

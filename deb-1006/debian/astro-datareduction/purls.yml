@@ -1,0 +1,3 @@
+- pkg:deb/debian/astro-datareduction@3.0?arch=all
+- pkg:deb/debian/astro-datareduction@4.0?arch=all
+- pkg:deb/debian/astro-datareduction@5.0?arch=all

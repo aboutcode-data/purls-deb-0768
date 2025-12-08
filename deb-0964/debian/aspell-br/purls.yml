@@ -1,0 +1,4 @@
+- pkg:deb/debian/aspell-br@0.50-2-10?arch=all
+- pkg:deb/debian/aspell-br@0.50-2-11?arch=all
+- pkg:deb/debian/aspell-br@0.50-2-12?arch=all
+- pkg:deb/debian/aspell-br@0.50-2-9?arch=all

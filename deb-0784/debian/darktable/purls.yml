@@ -1,0 +1,12 @@
+- pkg:deb/debian/darktable@3.4.1-5?arch=amd64
+- pkg:deb/debian/darktable@3.4.1-5?arch=arm64
+- pkg:deb/debian/darktable@4.2.1-4?arch=amd64
+- pkg:deb/debian/darktable@4.2.1-4?arch=arm64
+- pkg:deb/debian/darktable@5.0.1-2?arch=amd64
+- pkg:deb/debian/darktable@5.0.1-2?arch=arm64
+- pkg:deb/debian/darktable@5.0.1-2?arch=ppc64el
+- pkg:deb/debian/darktable@5.0.1-2?arch=riscv64
+- pkg:deb/debian/darktable@5.2.1-1?arch=amd64
+- pkg:deb/debian/darktable@5.2.1-1?arch=arm64
+- pkg:deb/debian/darktable@5.2.1-1?arch=ppc64el
+- pkg:deb/debian/darktable@5.2.1-1?arch=riscv64

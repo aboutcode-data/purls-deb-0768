@@ -1,0 +1,4 @@
+- pkg:deb/debian/libavogadro-doc@1.100.0-1?arch=all
+- pkg:deb/debian/libavogadro-doc@1.101.0-3?arch=all
+- pkg:deb/debian/libavogadro-doc@1.93.1-3?arch=all
+- pkg:deb/debian/libavogadro-doc@1.97.0-3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/fdflush@1.0.1.3%2Bb2?arch=i386
+- pkg:deb/debian/fdflush@1.0.1.3?arch=amd64

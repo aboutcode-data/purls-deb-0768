@@ -1,0 +1,4 @@
+- pkg:deb/debian/ario-common@1.6-1.1?arch=all
+- pkg:deb/debian/ario-common@1.6-1.2?arch=all
+- pkg:deb/debian/ario-common@1.6-1.4?arch=all
+- pkg:deb/debian/ario-common@1.6-1.5?arch=all

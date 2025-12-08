@@ -1,0 +1,4 @@
+- pkg:deb/debian/libffms2-4@2.23-4?arch=amd64
+- pkg:deb/debian/libffms2-4@2.23-4?arch=arm64
+- pkg:deb/debian/libffms2-4@2.23-4?arch=armhf
+- pkg:deb/debian/libffms2-4@2.23-4?arch=i386

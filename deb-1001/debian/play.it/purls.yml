@@ -1,0 +1,4 @@
+- pkg:deb/debian/play.it@2.12.1-1?arch=all
+- pkg:deb/debian/play.it@2.15.1-1?arch=all
+- pkg:deb/debian/play.it@2.32.4-1?arch=all
+- pkg:deb/debian/play.it@2.34.0-1?arch=all

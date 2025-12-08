@@ -1,0 +1,4 @@
+- pkg:deb/debian/firefox-esr-mobile-config@3.2.0-1?arch=all
+- pkg:deb/debian/firefox-esr-mobile-config@4.4.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/firefox-esr-mobile-config@4.6.0-3?arch=all
+- pkg:deb/debian/firefox-esr-mobile-config@4.6.1-1?arch=all

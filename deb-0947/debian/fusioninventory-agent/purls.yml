@@ -1,0 +1,4 @@
+- pkg:deb/debian/fusioninventory-agent@2.6-2?arch=all
+- pkg:deb/debian/fusioninventory-agent@2.6-3?arch=all
+- pkg:deb/debian/fusioninventory-agent@2.6-4?arch=all
+- pkg:deb/debian/fusioninventory-agent@2.6-5?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/debootstrap@1.0.123%2Bdeb11u2?arch=all
+- pkg:deb/debian/debootstrap@1.0.128%2Bnmu2%2Bdeb12u2?arch=all
+- pkg:deb/debian/debootstrap@1.0.141?arch=all
+- pkg:deb/debian/debootstrap@1.0.141~bpo12%2B1?arch=all
+- pkg:deb/debian/debootstrap@1.0.142?arch=all

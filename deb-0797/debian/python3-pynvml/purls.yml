@@ -1,0 +1,11 @@
+- pkg:deb/debian/python3-pynvml@11.525.112-1?arch=amd64
+- pkg:deb/debian/python3-pynvml@11.525.112-1?arch=arm64
+- pkg:deb/debian/python3-pynvml@11.525.112-1?arch=i386
+- pkg:deb/debian/python3-pynvml@11.525.112-1?arch=ppc64el
+- pkg:deb/debian/python3-pynvml@12.550.89-3?arch=amd64
+- pkg:deb/debian/python3-pynvml@12.550.89-3?arch=arm64
+- pkg:deb/debian/python3-pynvml@12.550.89-3?arch=i386
+- pkg:deb/debian/python3-pynvml@7.352.0-7?arch=amd64
+- pkg:deb/debian/python3-pynvml@7.352.0-7?arch=arm64
+- pkg:deb/debian/python3-pynvml@7.352.0-7?arch=armhf
+- pkg:deb/debian/python3-pynvml@7.352.0-7?arch=i386

@@ -1,0 +1,9 @@
+- pkg:deb/debian/bbswitch-source@0.8-10?arch=amd64
+- pkg:deb/debian/bbswitch-source@0.8-10?arch=arm64
+- pkg:deb/debian/bbswitch-source@0.8-10?arch=armhf
+- pkg:deb/debian/bbswitch-source@0.8-10?arch=i386
+- pkg:deb/debian/bbswitch-source@0.8-15?arch=amd64
+- pkg:deb/debian/bbswitch-source@0.8-15?arch=arm64
+- pkg:deb/debian/bbswitch-source@0.8-15?arch=i386
+- pkg:deb/debian/bbswitch-source@0.8-17?arch=amd64
+- pkg:deb/debian/bbswitch-source@0.8-17?arch=arm64

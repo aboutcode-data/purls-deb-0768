@@ -1,0 +1,16 @@
+- pkg:deb/debian/cat-bat@5.2.2-1?arch=amd64
+- pkg:deb/debian/cat-bat@5.2.2-1?arch=arm64
+- pkg:deb/debian/cat-bat@5.2.3-2?arch=amd64
+- pkg:deb/debian/cat-bat@5.2.3-2?arch=arm64
+- pkg:deb/debian/cat-bat@5.2.3-2?arch=ppc64el
+- pkg:deb/debian/cat-bat@5.2.3-2?arch=s390x
+- pkg:deb/debian/cat-bat@5.3-2?arch=amd64
+- pkg:deb/debian/cat-bat@5.3-2?arch=arm64
+- pkg:deb/debian/cat-bat@5.3-2?arch=ppc64el
+- pkg:deb/debian/cat-bat@5.3-2?arch=riscv64
+- pkg:deb/debian/cat-bat@5.3-2?arch=s390x
+- pkg:deb/debian/cat-bat@6.0.1-1?arch=amd64
+- pkg:deb/debian/cat-bat@6.0.1-1?arch=arm64
+- pkg:deb/debian/cat-bat@6.0.1-1?arch=ppc64el
+- pkg:deb/debian/cat-bat@6.0.1-1?arch=riscv64
+- pkg:deb/debian/cat-bat@6.0.1-1?arch=s390x

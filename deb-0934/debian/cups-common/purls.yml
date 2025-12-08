@@ -1,0 +1,5 @@
+- pkg:deb/debian/cups-common@2.3.3op2-3%2Bdeb11u8?arch=all
+- pkg:deb/debian/cups-common@2.4.10-3%2Bdeb13u2?arch=all
+- pkg:deb/debian/cups-common@2.4.16-1?arch=all
+- pkg:deb/debian/cups-common@2.4.2-3%2Bdeb12u8?arch=all
+- pkg:deb/debian/cups-common@2.4.2-3%2Bdeb12u9?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/discosnp@2.6.2-2?arch=amd64
+- pkg:deb/debian/discosnp@2.6.2-2?arch=arm64
+- pkg:deb/debian/discosnp@2.6.2-2?arch=mips64el
+- pkg:deb/debian/discosnp@2.6.2-2?arch=ppc64el
+- pkg:deb/debian/discosnp@2.6.2-4%2Bb1?arch=ppc64el
+- pkg:deb/debian/discosnp@2.6.2-4%2Bb1?arch=riscv64
+- pkg:deb/debian/discosnp@2.6.2-4%2Bb2?arch=amd64
+- pkg:deb/debian/discosnp@2.6.2-4%2Bb2?arch=arm64
+- pkg:deb/debian/discosnp@2.6.2-5?arch=amd64
+- pkg:deb/debian/discosnp@2.6.2-5?arch=arm64
+- pkg:deb/debian/discosnp@2.6.2-5?arch=ppc64el
+- pkg:deb/debian/discosnp@2.6.2-5?arch=riscv64
+- pkg:deb/debian/discosnp@4.4.4-1?arch=amd64
+- pkg:deb/debian/discosnp@4.4.4-1?arch=arm64
+- pkg:deb/debian/discosnp@4.4.4-1?arch=i386

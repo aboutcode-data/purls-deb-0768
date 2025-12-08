@@ -1,0 +1,14 @@
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=arm64
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=armel
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=armhf
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=i386
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=mips64el
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=mipsel
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=ppc64el
+- pkg:deb/debian/rbd-fuse-dbg@16.2.15%2Bds-0%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/rbd-fuse-dbg@18.2.7%2Bds-1?arch=amd64
+- pkg:deb/debian/rbd-fuse-dbg@18.2.7%2Bds-1?arch=arm64
+- pkg:deb/debian/rbd-fuse-dbg@18.2.7%2Bds-1?arch=ppc64el
+- pkg:deb/debian/rbd-fuse-dbg@18.2.7%2Bds-1?arch=riscv64
+- pkg:deb/debian/rbd-fuse-dbg@18.2.7%2Bds-1?arch=s390x

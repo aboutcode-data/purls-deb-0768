@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-iconify@0.3-3?arch=all
+- pkg:deb/debian/python3-django-iconify@0.4.1-1?arch=all

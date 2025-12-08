@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdbusada6-dev@0.6.0-3?arch=amd64
+- pkg:deb/debian/libdbusada6-dev@0.6.0-3?arch=arm64
+- pkg:deb/debian/libdbusada6-dev@0.6.0-3?arch=armhf
+- pkg:deb/debian/libdbusada6-dev@0.6.0-3?arch=i386

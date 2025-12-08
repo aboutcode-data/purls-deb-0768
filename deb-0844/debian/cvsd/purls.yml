@@ -1,0 +1,17 @@
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=amd64
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=arm64
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=armel
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=armhf
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=i386
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=mips64el
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=mipsel
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=ppc64el
+- pkg:deb/debian/cvsd@1.0.24%2Bb1?arch=s390x
+- pkg:deb/debian/cvsd@1.0.25?arch=amd64
+- pkg:deb/debian/cvsd@1.0.25?arch=arm64
+- pkg:deb/debian/cvsd@1.0.25?arch=armel
+- pkg:deb/debian/cvsd@1.0.25?arch=armhf
+- pkg:deb/debian/cvsd@1.0.25?arch=i386
+- pkg:deb/debian/cvsd@1.0.25?arch=ppc64el
+- pkg:deb/debian/cvsd@1.0.25?arch=riscv64
+- pkg:deb/debian/cvsd@1.0.25?arch=s390x

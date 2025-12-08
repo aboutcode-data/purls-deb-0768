@@ -1,0 +1,15 @@
+- pkg:deb/debian/calendar@12.1.7%2Bnmu3?arch=amd64
+- pkg:deb/debian/calendar@12.1.7%2Bnmu3?arch=arm64
+- pkg:deb/debian/calendar@12.1.7%2Bnmu3?arch=armhf
+- pkg:deb/debian/calendar@12.1.7%2Bnmu3?arch=i386
+- pkg:deb/debian/calendar@12.1.8%2Bb1?arch=arm64
+- pkg:deb/debian/calendar@12.1.8%2Bb2?arch=riscv64
+- pkg:deb/debian/calendar@12.1.8?arch=amd64
+- pkg:deb/debian/calendar@12.1.8?arch=arm64
+- pkg:deb/debian/calendar@12.1.8?arch=armel
+- pkg:deb/debian/calendar@12.1.8?arch=armhf
+- pkg:deb/debian/calendar@12.1.8?arch=i386
+- pkg:deb/debian/calendar@12.1.8?arch=mips64el
+- pkg:deb/debian/calendar@12.1.8?arch=mipsel
+- pkg:deb/debian/calendar@12.1.8?arch=ppc64el
+- pkg:deb/debian/calendar@12.1.8?arch=s390x

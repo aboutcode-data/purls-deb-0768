@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-gitconfig-mode@1.2.8-4?arch=all
+- pkg:deb/debian/elpa-gitconfig-mode@1.4.0-1?arch=all
+- pkg:deb/debian/elpa-gitconfig-mode@1.4.4-1?arch=all
+- pkg:deb/debian/elpa-gitconfig-mode@1.4.6-1?arch=all

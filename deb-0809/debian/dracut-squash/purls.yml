@@ -1,0 +1,5 @@
+- pkg:deb/debian/dracut-squash@051-1?arch=all
+- pkg:deb/debian/dracut-squash@059-4?arch=all
+- pkg:deb/debian/dracut-squash@106-5~bpo12%2B1?arch=all
+- pkg:deb/debian/dracut-squash@106-6?arch=all
+- pkg:deb/debian/dracut-squash@109-5?arch=all

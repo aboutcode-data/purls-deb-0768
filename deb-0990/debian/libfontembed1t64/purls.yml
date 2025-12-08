@@ -1,0 +1,15 @@
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=amd64
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=arm64
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=armel
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=armhf
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=i386
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=ppc64el
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=riscv64
+- pkg:deb/debian/libfontembed1t64@1.28.17-6?arch=s390x
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=amd64
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=arm64
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=armhf
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=i386
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=ppc64el
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=riscv64
+- pkg:deb/debian/libfontembed1t64@1.28.17-7?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libatinject-jsr330-api-java@1.0%2Bds1-5?arch=all
+- pkg:deb/debian/libatinject-jsr330-api-java@1.0%2Bds1-6?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=amd64
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=arm64
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=armhf
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=i386
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=ppc64el
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=riscv64
+- pkg:deb/debian/libkwnn0t64@1.1.1~a021%2Bcvs20130302-8?arch=s390x

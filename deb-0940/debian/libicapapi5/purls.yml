@@ -1,0 +1,13 @@
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=amd64
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=arm64
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=armel
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=armhf
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=i386
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=mips64el
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=mipsel
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=ppc64el
+- pkg:deb/debian/libicapapi5@0.5.10-4?arch=s390x
+- pkg:deb/debian/libicapapi5@0.5.6-2?arch=amd64
+- pkg:deb/debian/libicapapi5@0.5.6-2?arch=arm64
+- pkg:deb/debian/libicapapi5@0.5.6-2?arch=armhf
+- pkg:deb/debian/libicapapi5@0.5.6-2?arch=i386

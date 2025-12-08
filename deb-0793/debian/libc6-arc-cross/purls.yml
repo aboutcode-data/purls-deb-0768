@@ -1,0 +1,3 @@
+- pkg:deb/debian/libc6-arc-cross@2.36-8cross1?arch=all
+- pkg:deb/debian/libc6-arc-cross@2.41-11cross1?arch=all
+- pkg:deb/debian/libc6-arc-cross@2.42-4cross1?arch=all

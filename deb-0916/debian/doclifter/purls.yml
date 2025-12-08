@@ -1,0 +1,4 @@
+- pkg:deb/debian/doclifter@2.19-2?arch=all
+- pkg:deb/debian/doclifter@2.20-2?arch=all
+- pkg:deb/debian/doclifter@2.21-3?arch=all
+- pkg:deb/debian/doclifter@2.21-4?arch=all

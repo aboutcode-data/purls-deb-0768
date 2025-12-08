@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-azure-cosmosdb-table@1.0.5%2Bgit20191025-5?arch=all
+- pkg:deb/debian/python3-azure-cosmosdb-table@1.0.5%2Bgit20191025-6?arch=all

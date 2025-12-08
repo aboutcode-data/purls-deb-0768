@@ -1,0 +1,4 @@
+- pkg:deb/debian/libavifile-0.7-common@0.7.48~20090503.ds-21?arch=all
+- pkg:deb/debian/libavifile-0.7-common@0.7.48~20090503.ds-25?arch=all
+- pkg:deb/debian/libavifile-0.7-common@0.7.48~20090503.ds-29?arch=all
+- pkg:deb/debian/libavifile-0.7-common@0.7.48~20090503.ds-30?arch=all

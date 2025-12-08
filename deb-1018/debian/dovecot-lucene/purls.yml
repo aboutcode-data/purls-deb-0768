@@ -1,0 +1,13 @@
+- pkg:deb/debian/dovecot-lucene@2.3.13%2Bdfsg1-2%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/dovecot-lucene@2.3.13%2Bdfsg1-2%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/dovecot-lucene@2.3.13%2Bdfsg1-2%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/dovecot-lucene@2.3.13%2Bdfsg1-2%2Bdeb11u1?arch=i386
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=arm64
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=armel
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=armhf
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=i386
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=mips64el
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=mipsel
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=ppc64el
+- pkg:deb/debian/dovecot-lucene@2.3.19.1%2Bdfsg1-2.1%2Bdeb12u1?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjs-codemirror@5.59.2%2B~cs0.23.109-1?arch=all
+- pkg:deb/debian/libjs-codemirror@5.65.0%2B~cs5.83.9-2?arch=all
+- pkg:deb/debian/libjs-codemirror@5.65.0%2B~cs5.83.9-3?arch=all
+- pkg:deb/debian/libjs-codemirror@5.65.20%2B~cs5.83.25-1?arch=all

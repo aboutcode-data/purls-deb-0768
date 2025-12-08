@@ -1,0 +1,6 @@
+- pkg:deb/debian/libdbd-oracle-perl@1.80-2?arch=amd64
+- pkg:deb/debian/libdbd-oracle-perl@1.80-2?arch=i386
+- pkg:deb/debian/libdbd-oracle-perl@1.83-1?arch=amd64
+- pkg:deb/debian/libdbd-oracle-perl@1.83-1?arch=i386
+- pkg:deb/debian/libdbd-oracle-perl@1.83-3?arch=amd64
+- pkg:deb/debian/libdbd-oracle-perl@1.83-3?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/junior-games-arcade@1.29?arch=all
+- pkg:deb/debian/junior-games-arcade@1.30?arch=all
+- pkg:deb/debian/junior-games-arcade@1.32?arch=all

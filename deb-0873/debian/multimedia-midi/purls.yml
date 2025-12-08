@@ -1,0 +1,3 @@
+- pkg:deb/debian/multimedia-midi@0.10?arch=all
+- pkg:deb/debian/multimedia-midi@0.12?arch=all
+- pkg:deb/debian/multimedia-midi@0.13?arch=all

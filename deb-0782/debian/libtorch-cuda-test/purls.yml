@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtorch-cuda-test@2.6.0%2Bdfsg-7%2Bb1?arch=amd64
+- pkg:deb/debian/libtorch-cuda-test@2.6.0%2Bdfsg-7%2Bb1?arch=arm64

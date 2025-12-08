@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-embark@0.21-1?arch=all
+- pkg:deb/debian/elpa-embark@1.1-2?arch=all
+- pkg:deb/debian/elpa-embark@1.1-3?arch=all

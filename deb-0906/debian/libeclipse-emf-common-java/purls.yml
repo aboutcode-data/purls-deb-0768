@@ -1,0 +1,3 @@
+- pkg:deb/debian/libeclipse-emf-common-java@2.21.0%2Beclipse2.24.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libeclipse-emf-common-java@2.27.0%2Beclipse2.32.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libeclipse-emf-common-java@2.42.0%2Beclipse2.42.0%2Bdfsg-1?arch=all

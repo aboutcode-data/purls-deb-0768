@@ -1,0 +1,2 @@
+- pkg:deb/debian/erlang-manpages@23.2.6%2Bdfsg-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/erlang-manpages@25.2.3%2Bdfsg-1%2Bdeb12u3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/cookiecutter@1.7.3-3?arch=all
+- pkg:deb/debian/cookiecutter@2.6.0-2?arch=all

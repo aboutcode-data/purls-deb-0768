@@ -1,0 +1,16 @@
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=amd64
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=arm64
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=armhf
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=i386
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=ppc64el
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=riscv64
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9%2Bb1?arch=s390x
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=amd64
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=arm64
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=armel
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=armhf
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=i386
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=mips64el
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=mipsel
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=ppc64el
+- pkg:deb/debian/libdewalls-dev@1.0.0%2Bds1-9?arch=s390x

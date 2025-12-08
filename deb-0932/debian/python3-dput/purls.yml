@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-dput@1.33?arch=all
+- pkg:deb/debian/python3-dput@1.35%2Bdeb12u1?arch=all
+- pkg:deb/debian/python3-dput@1.43?arch=all
+- pkg:deb/debian/python3-dput@1.43~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-dput@1.44?arch=all

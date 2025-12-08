@@ -1,0 +1,4 @@
+- pkg:deb/debian/c%2B%2B-annotations-pdf@11.5.0-1?arch=all
+- pkg:deb/debian/c%2B%2B-annotations-pdf@12.2.0-2?arch=all
+- pkg:deb/debian/c%2B%2B-annotations-pdf@13.02.01-1?arch=all
+- pkg:deb/debian/c%2B%2B-annotations-pdf@13.02.02-1?arch=all

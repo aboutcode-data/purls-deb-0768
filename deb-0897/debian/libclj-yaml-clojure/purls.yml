@@ -1,0 +1,4 @@
+- pkg:deb/debian/libclj-yaml-clojure@0.7.0-1?arch=all
+- pkg:deb/debian/libclj-yaml-clojure@0.7.2-1?arch=all
+- pkg:deb/debian/libclj-yaml-clojure@0.7.2-2.1?arch=all
+- pkg:deb/debian/libclj-yaml-clojure@0.7.2-2?arch=all

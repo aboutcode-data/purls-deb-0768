@@ -1,0 +1,4 @@
+- pkg:deb/debian/libanet5-dev@0.4.2-4?arch=amd64
+- pkg:deb/debian/libanet5-dev@0.4.2-4?arch=arm64
+- pkg:deb/debian/libanet5-dev@0.4.2-4?arch=armhf
+- pkg:deb/debian/libanet5-dev@0.4.2-4?arch=i386

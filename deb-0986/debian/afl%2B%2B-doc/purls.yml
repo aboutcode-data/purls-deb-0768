@@ -1,0 +1,4 @@
+- pkg:deb/debian/afl%2B%2B-doc@2.68c-1?arch=all
+- pkg:deb/debian/afl%2B%2B-doc@4.04c-4?arch=all
+- pkg:deb/debian/afl%2B%2B-doc@4.21c-5?arch=all
+- pkg:deb/debian/afl%2B%2B-doc@4.33c-0.2?arch=all

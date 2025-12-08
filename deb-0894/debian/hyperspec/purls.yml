@@ -1,0 +1,3 @@
+- pkg:deb/debian/hyperspec@1.32?arch=all
+- pkg:deb/debian/hyperspec@1.33?arch=all
+- pkg:deb/debian/hyperspec@1.34?arch=all

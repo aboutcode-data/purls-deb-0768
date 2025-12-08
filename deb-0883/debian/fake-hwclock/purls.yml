@@ -1,0 +1,3 @@
+- pkg:deb/debian/fake-hwclock@0.12%2Bnmu1?arch=all
+- pkg:deb/debian/fake-hwclock@0.12?arch=all
+- pkg:deb/debian/fake-hwclock@0.14?arch=all

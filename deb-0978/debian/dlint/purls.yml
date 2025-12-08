@@ -1,0 +1,2 @@
+- pkg:deb/debian/dlint@1.4.0-8.2?arch=all
+- pkg:deb/debian/dlint@1.4.0-8?arch=all

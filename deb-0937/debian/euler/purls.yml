@@ -1,0 +1,17 @@
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=amd64
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=arm64
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=armel
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=armhf
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=i386
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=ppc64el
+- pkg:deb/debian/euler@1.61.0-12%2Bb1?arch=s390x
+- pkg:deb/debian/euler@1.61.0-12%2Bb2?arch=riscv64
+- pkg:deb/debian/euler@1.61.0-12?arch=amd64
+- pkg:deb/debian/euler@1.61.0-12?arch=arm64
+- pkg:deb/debian/euler@1.61.0-12?arch=armel
+- pkg:deb/debian/euler@1.61.0-12?arch=armhf
+- pkg:deb/debian/euler@1.61.0-12?arch=i386
+- pkg:deb/debian/euler@1.61.0-12?arch=mips64el
+- pkg:deb/debian/euler@1.61.0-12?arch=mipsel
+- pkg:deb/debian/euler@1.61.0-12?arch=ppc64el
+- pkg:deb/debian/euler@1.61.0-12?arch=s390x

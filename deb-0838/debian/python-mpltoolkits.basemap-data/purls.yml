@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-mpltoolkits.basemap-data@1.2.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-mpltoolkits.basemap-data@1.4.1-1?arch=all
+- pkg:deb/debian/python-mpltoolkits.basemap-data@2.0.0-1?arch=all

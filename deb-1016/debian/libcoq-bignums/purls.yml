@@ -1,0 +1,12 @@
+- pkg:deb/debian/libcoq-bignums@8.17.0-2%2Bb1?arch=amd64
+- pkg:deb/debian/libcoq-bignums@8.17.0-2%2Bb1?arch=arm64
+- pkg:deb/debian/libcoq-bignums@8.17.0-2%2Bb1?arch=armhf
+- pkg:deb/debian/libcoq-bignums@8.17.0-2%2Bb1?arch=i386
+- pkg:deb/debian/libcoq-bignums@8.17.0-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/libcoq-bignums@8.17.0-2%2Bb1?arch=s390x
+- pkg:deb/debian/libcoq-bignums@9.0.0%2Bcoq8.20-1%2Bb8?arch=arm64
+- pkg:deb/debian/libcoq-bignums@9.0.0%2Bcoq8.20-1%2Bb8?arch=riscv64
+- pkg:deb/debian/libcoq-bignums@9.0.0%2Bcoq8.20-1%2Bb9?arch=amd64
+- pkg:deb/debian/libcoq-bignums@9.0.0%2Bcoq8.20-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/libcoq-bignums@9.0.0%2Bcoq8.20-1%2Bb9?arch=s390x
+- pkg:deb/debian/libcoq-bignums@9.0.0%2Brocq9.1-2?arch=amd64

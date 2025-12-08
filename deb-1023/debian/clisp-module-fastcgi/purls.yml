@@ -1,0 +1,9 @@
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=amd64
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=arm64
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=armel
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=armhf
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=i386
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=mips64el
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=mipsel
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=ppc64el
+- pkg:deb/debian/clisp-module-fastcgi@2.49.20210628.gitde01f0f-3?arch=s390x

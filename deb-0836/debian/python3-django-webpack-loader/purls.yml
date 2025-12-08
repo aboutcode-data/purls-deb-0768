@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-django-webpack-loader@0.6.0-2?arch=all
+- pkg:deb/debian/python3-django-webpack-loader@0.6.0-4?arch=all
+- pkg:deb/debian/python3-django-webpack-loader@0.6.0-5?arch=all

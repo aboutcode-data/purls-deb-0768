@@ -1,0 +1,2 @@
+- pkg:deb/debian/firmware-microbit-micropython@1.0.1-2?arch=all
+- pkg:deb/debian/firmware-microbit-micropython@1.0.1-4?arch=all

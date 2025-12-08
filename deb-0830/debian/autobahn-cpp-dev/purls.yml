@@ -1,0 +1,4 @@
+- pkg:deb/debian/autobahn-cpp-dev@17.5.1%2Bgit7cc5d37-2.1?arch=all
+- pkg:deb/debian/autobahn-cpp-dev@17.5.1%2Bgit7cc5d37-2.2?arch=all
+- pkg:deb/debian/autobahn-cpp-dev@17.5.1%2Bgit7cc5d37-4?arch=all
+- pkg:deb/debian/autobahn-cpp-dev@17.5.1%2Bgit7cc5d37-5?arch=all

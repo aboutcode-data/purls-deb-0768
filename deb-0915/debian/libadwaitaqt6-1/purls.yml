@@ -1,0 +1,17 @@
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=amd64
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=arm64
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=armel
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=armhf
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=i386
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=ppc64el
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=riscv64
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3%2Bb4?arch=s390x
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=amd64
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=arm64
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=armel
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=armhf
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=i386
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=mips64el
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=mipsel
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=ppc64el
+- pkg:deb/debian/libadwaitaqt6-1@1.4.2-3?arch=s390x

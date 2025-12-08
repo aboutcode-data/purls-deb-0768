@@ -1,0 +1,2 @@
+- pkg:deb/debian/libbotan-3-doc@3.10.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/libbotan-3-doc@3.7.1%2Bdfsg-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/b4@0.12.0-2?arch=all
+- pkg:deb/debian/b4@0.14.2-2?arch=all
+- pkg:deb/debian/b4@0.14.3-1?arch=all
+- pkg:deb/debian/b4@0.6.2-1?arch=all

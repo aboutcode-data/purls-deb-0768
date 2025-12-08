@@ -1,0 +1,3 @@
+- pkg:deb/debian/libequinox-console-java@1.4.200%2Beclipse4.18-1?arch=all
+- pkg:deb/debian/libequinox-console-java@1.4.500%2Beclipse4.26-4?arch=all
+- pkg:deb/debian/libequinox-console-java@1.4.500%2Beclipse4.29-2?arch=all

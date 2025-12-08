@@ -1,0 +1,4 @@
+- pkg:deb/debian/flowblade@2.20-1?arch=all
+- pkg:deb/debian/flowblade@2.22.1.1-1?arch=all
+- pkg:deb/debian/flowblade@2.6-3?arch=all
+- pkg:deb/debian/flowblade@2.8.0.3-3?arch=all

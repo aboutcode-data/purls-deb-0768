@@ -1,0 +1,5 @@
+- pkg:deb/debian/apt-config-icons-large@0.14.4-1?arch=all
+- pkg:deb/debian/apt-config-icons-large@0.16.1-2?arch=all
+- pkg:deb/debian/apt-config-icons-large@1.0.5-1?arch=all
+- pkg:deb/debian/apt-config-icons-large@1.1.0-1?arch=all
+- pkg:deb/debian/apt-config-icons-large@1.1.1-1?arch=all

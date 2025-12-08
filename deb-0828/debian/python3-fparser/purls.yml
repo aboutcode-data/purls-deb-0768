@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-fparser@0.0.11-2?arch=all
+- pkg:deb/debian/python3-fparser@0.0.16-2?arch=all
+- pkg:deb/debian/python3-fparser@0.1.4-3?arch=all
+- pkg:deb/debian/python3-fparser@0.2.1-1?arch=all

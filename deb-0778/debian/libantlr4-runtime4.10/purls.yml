@@ -1,0 +1,7 @@
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1%2Bb1?arch=riscv64
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1?arch=i386
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/libantlr4-runtime4.10@4.10%2Bdfsg-1?arch=s390x

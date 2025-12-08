@@ -1,0 +1,8 @@
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=amd64
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=arm64
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=armel
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=armhf
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=i386
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=ppc64el
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=riscv64
+- pkg:deb/debian/libadacgi-dev@1.6-36?arch=s390x

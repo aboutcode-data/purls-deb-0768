@@ -1,0 +1,5 @@
+- pkg:deb/debian/copyq-doc@10.0.0-1?arch=all
+- pkg:deb/debian/copyq-doc@13.0.0-1?arch=all
+- pkg:deb/debian/copyq-doc@3.13.0-1?arch=all
+- pkg:deb/debian/copyq-doc@6.4.0-1?arch=all
+- pkg:deb/debian/copyq-doc@9.0.0-1~bpo12%2B1?arch=all

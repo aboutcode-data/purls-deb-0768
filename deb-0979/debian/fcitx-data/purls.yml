@@ -1,0 +1,4 @@
+- pkg:deb/debian/fcitx-data@4.2.9.8-3?arch=all
+- pkg:deb/debian/fcitx-data@4.2.9.9-1?arch=all
+- pkg:deb/debian/fcitx-data@4.2.9.9-2.1?arch=all
+- pkg:deb/debian/fcitx-data@4.2.9.9-2?arch=all

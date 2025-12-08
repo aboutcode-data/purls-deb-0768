@@ -1,0 +1,13 @@
+- pkg:deb/debian/doodled@0.7.0-10?arch=amd64
+- pkg:deb/debian/doodled@0.7.0-10?arch=arm64
+- pkg:deb/debian/doodled@0.7.0-10?arch=armhf
+- pkg:deb/debian/doodled@0.7.0-10?arch=i386
+- pkg:deb/debian/doodled@0.7.2-5?arch=amd64
+- pkg:deb/debian/doodled@0.7.2-5?arch=arm64
+- pkg:deb/debian/doodled@0.7.2-5?arch=armel
+- pkg:deb/debian/doodled@0.7.2-5?arch=armhf
+- pkg:deb/debian/doodled@0.7.2-5?arch=i386
+- pkg:deb/debian/doodled@0.7.2-5?arch=mips64el
+- pkg:deb/debian/doodled@0.7.2-5?arch=mipsel
+- pkg:deb/debian/doodled@0.7.2-5?arch=ppc64el
+- pkg:deb/debian/doodled@0.7.2-5?arch=s390x
