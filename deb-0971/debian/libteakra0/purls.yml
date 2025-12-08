@@ -1,0 +1,12 @@
+- pkg:deb/debian/libteakra0@0.0~git20250117.4dfebf8-2?arch=amd64
+- pkg:deb/debian/libteakra0@0.0~git20250117.4dfebf8-2?arch=arm64
+- pkg:deb/debian/libteakra0@0.0~git20250117.4dfebf8-2?arch=armhf
+- pkg:deb/debian/libteakra0@0.0~git20250117.4dfebf8-2?arch=ppc64el
+- pkg:deb/debian/libteakra0@0.0~git20250117.4dfebf8-2?arch=riscv64
+- pkg:deb/debian/libteakra0@0.0~git20250117.4dfebf8-2?arch=s390x
+- pkg:deb/debian/libteakra0@0.0~git20250805.a66efb9-1?arch=amd64
+- pkg:deb/debian/libteakra0@0.0~git20250805.a66efb9-1?arch=arm64
+- pkg:deb/debian/libteakra0@0.0~git20250805.a66efb9-1?arch=armhf
+- pkg:deb/debian/libteakra0@0.0~git20250805.a66efb9-1?arch=ppc64el
+- pkg:deb/debian/libteakra0@0.0~git20250805.a66efb9-1?arch=riscv64
+- pkg:deb/debian/libteakra0@0.0~git20250805.a66efb9-1?arch=s390x

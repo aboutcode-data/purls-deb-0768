@@ -1,0 +1,2 @@
+- pkg:deb/debian/smbldap-tools@0.9.11-2?arch=all
+- pkg:deb/debian/smbldap-tools@0.9.11-3?arch=all

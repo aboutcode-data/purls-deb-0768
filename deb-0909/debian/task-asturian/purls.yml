@@ -1,0 +1,4 @@
+- pkg:deb/debian/task-asturian@3.68%2Bdeb11u1?arch=all
+- pkg:deb/debian/task-asturian@3.73?arch=all
+- pkg:deb/debian/task-asturian@3.81?arch=all
+- pkg:deb/debian/task-asturian@3.85?arch=all

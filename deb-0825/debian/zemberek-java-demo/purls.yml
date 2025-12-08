@@ -1,0 +1,4 @@
+- pkg:deb/debian/zemberek-java-demo@2.1.1-10?arch=all
+- pkg:deb/debian/zemberek-java-demo@2.1.1-11?arch=all
+- pkg:deb/debian/zemberek-java-demo@2.1.1-8.3?arch=all
+- pkg:deb/debian/zemberek-java-demo@2.1.1-8.4?arch=all

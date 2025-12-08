@@ -1,0 +1,8 @@
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-15~deb12u1?arch=amd64
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-15~deb12u1?arch=arm64
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-15~deb12u1?arch=i386
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-15~deb12u1?arch=ppc64el
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-17?arch=amd64
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-17?arch=arm64
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-17?arch=i386
+- pkg:deb/debian/nvidia-tesla-alternative@525.147.05-17?arch=ppc64el

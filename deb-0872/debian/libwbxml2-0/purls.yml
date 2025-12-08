@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwbxml2-0@0.10.7-1%2Bb2?arch=amd64
+- pkg:deb/debian/libwbxml2-0@0.10.7-1%2Bb2?arch=arm64
+- pkg:deb/debian/libwbxml2-0@0.10.7-1%2Bb2?arch=armhf
+- pkg:deb/debian/libwbxml2-0@0.10.7-1%2Bb2?arch=i386

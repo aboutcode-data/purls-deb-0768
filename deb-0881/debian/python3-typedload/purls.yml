@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-typedload@2.22-1?arch=all
+- pkg:deb/debian/python3-typedload@2.37-1?arch=all
+- pkg:deb/debian/python3-typedload@2.39-1?arch=all
+- pkg:deb/debian/python3-typedload@2.8-1?arch=all

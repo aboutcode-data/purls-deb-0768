@@ -1,0 +1,4 @@
+- pkg:deb/debian/u-boot@2021.01%2Bdfsg-5?arch=armhf
+- pkg:deb/debian/u-boot@2023.01%2Bdfsg-2%2Bdeb12u1?arch=armel
+- pkg:deb/debian/u-boot@2023.01%2Bdfsg-2%2Bdeb12u2?arch=armel
+- pkg:deb/debian/u-boot@2025.01-3?arch=armel

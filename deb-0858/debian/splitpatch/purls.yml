@@ -1,0 +1,3 @@
+- pkg:deb/debian/splitpatch@1.0%2B20190128%2Bgit3b2edf2-3?arch=all
+- pkg:deb/debian/splitpatch@1.0%2B20190128%2Bgit3b2edf2-4?arch=all
+- pkg:deb/debian/splitpatch@2025.0226-1?arch=all

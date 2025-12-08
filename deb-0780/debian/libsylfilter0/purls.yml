@@ -1,0 +1,17 @@
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=amd64
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=arm64
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=armel
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=armhf
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=i386
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=ppc64el
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=riscv64
+- pkg:deb/debian/libsylfilter0@0.8-7%2Bb4?arch=s390x
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=amd64
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=arm64
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=armel
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=armhf
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=i386
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=mips64el
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=mipsel
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=ppc64el
+- pkg:deb/debian/libsylfilter0@0.8-7?arch=s390x

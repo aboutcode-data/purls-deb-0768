@@ -1,0 +1,4 @@
+- pkg:deb/debian/skrooge-common@2.24.6-1?arch=all
+- pkg:deb/debian/skrooge-common@2.29.0-1?arch=all
+- pkg:deb/debian/skrooge-common@25.10.0-1?arch=all
+- pkg:deb/debian/skrooge-common@25.4.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/snakemake@5.24.1-2?arch=all
+- pkg:deb/debian/snakemake@7.21.0-1?arch=all
+- pkg:deb/debian/snakemake@7.32.4-7?arch=all
+- pkg:deb/debian/snakemake@7.32.4-8?arch=all

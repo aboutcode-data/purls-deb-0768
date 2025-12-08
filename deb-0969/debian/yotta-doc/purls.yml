@@ -1,0 +1,3 @@
+- pkg:deb/debian/yotta-doc@0.20.5-4?arch=all
+- pkg:deb/debian/yotta-doc@0.20.5-5?arch=all
+- pkg:deb/debian/yotta-doc@0.20.5-8?arch=all

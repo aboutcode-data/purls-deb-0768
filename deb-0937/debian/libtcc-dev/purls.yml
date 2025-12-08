@@ -1,0 +1,10 @@
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-1?arch=amd64
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-1?arch=arm64
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-1?arch=armel
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-1?arch=armhf
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-1?arch=i386
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-2?arch=amd64
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-2?arch=arm64
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-2?arch=armel
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-2?arch=armhf
+- pkg:deb/debian/libtcc-dev@0.9.27%2Bgit20200814.62c30a4a-2?arch=i386

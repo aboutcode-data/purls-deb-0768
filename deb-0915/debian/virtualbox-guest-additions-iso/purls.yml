@@ -1,0 +1,4 @@
+- pkg:deb/debian/virtualbox-guest-additions-iso@6.1.22-1?arch=all
+- pkg:deb/debian/virtualbox-guest-additions-iso@7.0.20-1?arch=all
+- pkg:deb/debian/virtualbox-guest-additions-iso@7.0.6-1?arch=all
+- pkg:deb/debian/virtualbox-guest-additions-iso@7.2.4-1?arch=all

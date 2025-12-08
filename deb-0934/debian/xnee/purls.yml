@@ -1,0 +1,4 @@
+- pkg:deb/debian/xnee@3.19-6?arch=all
+- pkg:deb/debian/xnee@3.19-9.2?arch=all
+- pkg:deb/debian/xnee@3.19-9.4?arch=all
+- pkg:deb/debian/xnee@3.19-9?arch=all

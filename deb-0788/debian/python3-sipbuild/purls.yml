@@ -1,0 +1,16 @@
+- pkg:deb/debian/python3-sipbuild@5.5.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/python3-sipbuild@5.5.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/python3-sipbuild@5.5.0%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/python3-sipbuild@5.5.0%2Bdfsg-3?arch=i386
+- pkg:deb/debian/python3-sipbuild@6.10.0-2?arch=all
+- pkg:deb/debian/python3-sipbuild@6.14.0-1?arch=all
+- pkg:deb/debian/python3-sipbuild@6.15.0-1?arch=all
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=armel
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=i386
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=mips64el
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=mipsel
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/python3-sipbuild@6.7.7%2Bdfsg-1?arch=s390x

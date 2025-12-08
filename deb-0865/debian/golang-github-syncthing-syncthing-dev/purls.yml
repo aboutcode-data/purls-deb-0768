@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-syncthing-syncthing-dev@1.12.1~ds1-4?arch=all
+- pkg:deb/debian/golang-github-syncthing-syncthing-dev@1.19.2~ds1-1?arch=all
+- pkg:deb/debian/golang-github-syncthing-syncthing-dev@1.29.5~ds1-2?arch=all
+- pkg:deb/debian/golang-github-syncthing-syncthing-dev@1.29.5~ds1-3?arch=all

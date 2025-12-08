@@ -1,0 +1,2 @@
+- pkg:deb/debian/trim-galore@0.6.10-1?arch=all
+- pkg:deb/debian/trim-galore@0.6.6-1?arch=all

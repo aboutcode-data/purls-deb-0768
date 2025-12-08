@@ -1,0 +1,17 @@
+- pkg:deb/debian/tua@4.3-14?arch=amd64
+- pkg:deb/debian/tua@4.3-14?arch=arm64
+- pkg:deb/debian/tua@4.3-14?arch=armel
+- pkg:deb/debian/tua@4.3-14?arch=armhf
+- pkg:deb/debian/tua@4.3-14?arch=i386
+- pkg:deb/debian/tua@4.3-14?arch=mips64el
+- pkg:deb/debian/tua@4.3-14?arch=mipsel
+- pkg:deb/debian/tua@4.3-14?arch=ppc64el
+- pkg:deb/debian/tua@4.3-14?arch=s390x
+- pkg:deb/debian/tua@4.3-17?arch=amd64
+- pkg:deb/debian/tua@4.3-17?arch=arm64
+- pkg:deb/debian/tua@4.3-17?arch=armel
+- pkg:deb/debian/tua@4.3-17?arch=armhf
+- pkg:deb/debian/tua@4.3-17?arch=i386
+- pkg:deb/debian/tua@4.3-17?arch=ppc64el
+- pkg:deb/debian/tua@4.3-17?arch=riscv64
+- pkg:deb/debian/tua@4.3-17?arch=s390x

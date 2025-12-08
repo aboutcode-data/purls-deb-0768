@@ -1,0 +1,2 @@
+- pkg:deb/debian/u-boot-sifive@2025.01-3%2Bb1?arch=riscv64
+- pkg:deb/debian/u-boot-sifive@2025.01-3?arch=riscv64

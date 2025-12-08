@@ -1,0 +1,4 @@
+- pkg:deb/debian/vdr-plugin-vcd@0.9-28?arch=amd64
+- pkg:deb/debian/vdr-plugin-vcd@0.9-28?arch=arm64
+- pkg:deb/debian/vdr-plugin-vcd@0.9-28?arch=armhf
+- pkg:deb/debian/vdr-plugin-vcd@0.9-28?arch=i386

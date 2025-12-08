@@ -1,3 +1,16 @@
+- pkg:deb/debian/libtalloc2@2.3.1-2%2Bb1?arch=amd64
+- pkg:deb/debian/libtalloc2@2.3.1-2%2Bb1?arch=arm64
+- pkg:deb/debian/libtalloc2@2.3.1-2%2Bb1?arch=armhf
+- pkg:deb/debian/libtalloc2@2.3.1-2%2Bb1?arch=i386
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=amd64
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=arm64
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=armel
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=armhf
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=i386
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=mips64el
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=mipsel
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=ppc64el
+- pkg:deb/debian/libtalloc2@2.4.0-f2?arch=s390x
 - pkg:deb/debian/libtalloc2@2.4.3%2Bsamba4.22.6%2Bdfsg-0%2Bdeb13u1?arch=amd64
 - pkg:deb/debian/libtalloc2@2.4.3%2Bsamba4.22.6%2Bdfsg-0%2Bdeb13u1?arch=arm64
 - pkg:deb/debian/libtalloc2@2.4.3%2Bsamba4.22.6%2Bdfsg-0%2Bdeb13u1?arch=armel

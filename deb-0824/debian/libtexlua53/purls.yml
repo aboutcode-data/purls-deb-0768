@@ -1,0 +1,7 @@
+- pkg:deb/debian/libtexlua53@2020.20200327.54578-7%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/libtexlua53@2020.20200327.54578-7%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/libtexlua53@2020.20200327.54578-7%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/libtexlua53@2020.20200327.54578-7%2Bdeb11u1?arch=i386
+- pkg:deb/debian/libtexlua53@2022.20220321.62855-5.1%2Bdeb12u2?arch=all
+- pkg:deb/debian/libtexlua53@2024.20240313.70630%2Bds-6?arch=all
+- pkg:deb/debian/libtexlua53@2025.20250727.75242%2Bds-4?arch=all

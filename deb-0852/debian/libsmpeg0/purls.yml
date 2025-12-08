@@ -1,0 +1,9 @@
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=amd64
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=arm64
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=armel
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=armhf
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=i386
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=mips64el
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=mipsel
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=ppc64el
+- pkg:deb/debian/libsmpeg0@0.4.5%2Bcvs20030824-9?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-strophe@1.2.14%2Bdfsg-8?arch=all
+- pkg:deb/debian/libjs-strophe@3.1.0-2?arch=all

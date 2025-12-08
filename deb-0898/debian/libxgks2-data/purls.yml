@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxgks2-data@2.6.1%2Bdfsg.2-10?arch=all
+- pkg:deb/debian/libxgks2-data@2.6.1%2Bdfsg.2-12?arch=all
+- pkg:deb/debian/libxgks2-data@2.6.1%2Bdfsg.2-17?arch=all
+- pkg:deb/debian/libxgks2-data@2.6.1%2Bdfsg.2-19?arch=all

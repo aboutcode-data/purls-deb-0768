@@ -1,0 +1,9 @@
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=amd64
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=arm64
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=armel
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=armhf
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=i386
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=mips64el
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=mipsel
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=ppc64el
+- pkg:deb/debian/libslurm38@22.05.8-4%2Bdeb12u3?arch=s390x

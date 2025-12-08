@@ -1,0 +1,5 @@
+- pkg:deb/debian/nvidia-nonglvnd-vulkan-common@470.256.02-2?arch=amd64
+- pkg:deb/debian/nvidia-nonglvnd-vulkan-common@470.256.02-2?arch=i386
+- pkg:deb/debian/nvidia-nonglvnd-vulkan-common@515.%2B~418.226.00-20?arch=amd64
+- pkg:deb/debian/nvidia-nonglvnd-vulkan-common@515.%2B~418.226.00-20?arch=i386
+- pkg:deb/debian/nvidia-nonglvnd-vulkan-common@515.%2B~418.226.00-20?arch=ppc64el

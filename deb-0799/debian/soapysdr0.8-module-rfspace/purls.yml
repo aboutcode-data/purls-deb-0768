@@ -1,0 +1,17 @@
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=amd64
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=arm64
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=armel
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=armhf
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=i386
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=ppc64el
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=riscv64
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8%2Bb5?arch=s390x
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=amd64
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=arm64
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=armel
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=armhf
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=i386
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=mips64el
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=mipsel
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=ppc64el
+- pkg:deb/debian/soapysdr0.8-module-rfspace@0.2.5-8?arch=s390x

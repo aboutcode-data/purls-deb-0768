@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-taurus-pyqtgraph@0.4.6-1?arch=all
+- pkg:deb/debian/python3-taurus-pyqtgraph@0.5.9-2?arch=all
+- pkg:deb/debian/python3-taurus-pyqtgraph@0.8.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-taurus-pyqtgraph@0.9.6-1?arch=all

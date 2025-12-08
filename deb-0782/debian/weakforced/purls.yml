@@ -1,0 +1,5 @@
+- pkg:deb/debian/weakforced@3.0.0-3?arch=amd64
+- pkg:deb/debian/weakforced@3.0.0-3?arch=arm64
+- pkg:deb/debian/weakforced@3.0.0-3?arch=armhf
+- pkg:deb/debian/weakforced@3.0.0-3?arch=i386
+- pkg:deb/debian/weakforced@3.0.0-3?arch=riscv64

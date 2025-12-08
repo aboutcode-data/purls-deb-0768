@@ -1,0 +1,15 @@
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=amd64
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=arm64
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=armel
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=armhf
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=i386
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=ppc64el
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=riscv64
+- pkg:deb/debian/uwsgi-plugin-java@2.0.28%2B8%2B0.0.5?arch=s390x
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=amd64
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=arm64
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=armhf
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=i386
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=ppc64el
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=riscv64
+- pkg:deb/debian/uwsgi-plugin-java@2.0.29%2B1%2B0.0.6?arch=s390x

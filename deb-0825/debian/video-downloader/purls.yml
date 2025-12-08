@@ -1,0 +1,2 @@
+- pkg:deb/debian/video-downloader@0.12.24-1?arch=all
+- pkg:deb/debian/video-downloader@0.12.26-1?arch=all

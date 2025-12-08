@@ -1,0 +1,5 @@
+- pkg:deb/debian/sumo-tools@1.15.0%2Bdfsg-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/sumo-tools@1.18.0%2Bdfsg-4?arch=all
+- pkg:deb/debian/sumo-tools@1.25.0%2Bdfsg1-1?arch=all
+- pkg:deb/debian/sumo-tools@1.25.0%2Bdfsg1-1~bpo13%2B1?arch=all
+- pkg:deb/debian/sumo-tools@1.8.0%2Bdfsg2-5?arch=all

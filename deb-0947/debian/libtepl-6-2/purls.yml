@@ -1,0 +1,9 @@
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=amd64
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=arm64
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=armel
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=armhf
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=i386
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=mips64el
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=mipsel
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=ppc64el
+- pkg:deb/debian/libtepl-6-2@6.4.0-7?arch=s390x

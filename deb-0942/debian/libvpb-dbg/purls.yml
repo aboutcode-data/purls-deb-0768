@@ -1,0 +1,13 @@
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.2?arch=amd64
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.2?arch=arm64
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.2?arch=armhf
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.2?arch=i386
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=amd64
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=arm64
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=armel
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=armhf
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=i386
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=mips64el
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=mipsel
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=ppc64el
+- pkg:deb/debian/libvpb-dbg@4.2.61-1.4?arch=s390x

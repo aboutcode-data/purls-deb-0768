@@ -1,0 +1,13 @@
+- pkg:deb/debian/nsight-systems-target@2020.4.3.7~11.2.2-3%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/nsight-systems-target@2020.4.3.7~11.2.2-3%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/nsight-systems-target@2022.4.2.1~11.8.0-5~deb12u1?arch=amd64
+- pkg:deb/debian/nsight-systems-target@2022.4.2.1~11.8.0-5~deb12u1?arch=arm64
+- pkg:deb/debian/nsight-systems-target@2022.4.2.1~11.8.0-5~deb12u1?arch=ppc64el
+- pkg:deb/debian/nsight-systems-target@2023.4.4.54~12.4.1-2?arch=amd64
+- pkg:deb/debian/nsight-systems-target@2023.4.4.54~12.4.1-2?arch=arm64
+- pkg:deb/debian/nsight-systems-target@2023.4.4.54~12.4.1-2?arch=ppc64el
+- pkg:deb/debian/nsight-systems-target@2023.4.4.54~12.4.1-4%2Bb1?arch=amd64
+- pkg:deb/debian/nsight-systems-target@2023.4.4.54~12.4.1-4%2Bb1?arch=arm64
+- pkg:deb/debian/nsight-systems-target@2023.4.4.54~12.4.1-4%2Bb1?arch=ppc64el
+- pkg:deb/debian/nsight-systems-target@2024.2.3.38~12.5.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/nsight-systems-target@2024.2.3.38~12.5.0-1%2Bb1?arch=arm64

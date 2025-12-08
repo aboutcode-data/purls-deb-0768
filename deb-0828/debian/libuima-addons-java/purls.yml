@@ -1,0 +1,3 @@
+- pkg:deb/debian/libuima-addons-java@2.3.1-10?arch=all
+- pkg:deb/debian/libuima-addons-java@2.3.1-8?arch=all
+- pkg:deb/debian/libuima-addons-java@2.3.1-9?arch=all

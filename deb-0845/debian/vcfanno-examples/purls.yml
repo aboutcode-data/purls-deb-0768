@@ -1,0 +1,4 @@
+- pkg:deb/debian/vcfanno-examples@0.3.2%2Bds-2?arch=all
+- pkg:deb/debian/vcfanno-examples@0.3.5%2Bds-1?arch=all
+- pkg:deb/debian/vcfanno-examples@0.3.5%2Bds-2?arch=all
+- pkg:deb/debian/vcfanno-examples@0.3.7%2Bds-1?arch=all

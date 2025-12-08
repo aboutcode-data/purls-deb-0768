@@ -1,0 +1,3 @@
+- pkg:deb/debian/wdiff-doc@1.2.2-2?arch=all
+- pkg:deb/debian/wdiff-doc@1.2.2-5?arch=all
+- pkg:deb/debian/wdiff-doc@1.2.2-9?arch=all

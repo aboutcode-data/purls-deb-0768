@@ -1,0 +1,2 @@
+- pkg:deb/debian/usbutils-py@018-2?arch=all
+- pkg:deb/debian/usbutils-py@019-1?arch=all

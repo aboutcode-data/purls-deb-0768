@@ -1,0 +1,4 @@
+- pkg:deb/debian/toilet-fonts@0.3-1.3?arch=all
+- pkg:deb/debian/toilet-fonts@0.3-1.4?arch=all
+- pkg:deb/debian/toilet-fonts@0.3-3?arch=all
+- pkg:deb/debian/toilet-fonts@0.3-5?arch=all

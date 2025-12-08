@@ -1,0 +1,2 @@
+- pkg:deb/debian/yacas-doc@1.3.6-2.1?arch=all
+- pkg:deb/debian/yacas-doc@1.9.1%2Bdfsg-1?arch=all

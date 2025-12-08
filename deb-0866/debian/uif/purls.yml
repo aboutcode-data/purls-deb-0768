@@ -1,0 +1,4 @@
+- pkg:deb/debian/uif@1.1.9-5?arch=all
+- pkg:deb/debian/uif@1.99.0-4.1%2Bdeb12u1?arch=all
+- pkg:deb/debian/uif@1.99.0-7?arch=all
+- pkg:deb/debian/uif@1.99.0-8?arch=all

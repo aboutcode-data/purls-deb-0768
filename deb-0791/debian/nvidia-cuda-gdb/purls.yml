@@ -1,0 +1,13 @@
+- pkg:deb/debian/nvidia-cuda-gdb@11.2.152~11.2.2-3%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/nvidia-cuda-gdb@11.2.152~11.2.2-3%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/nvidia-cuda-gdb@11.8.86~11.8.0-5~deb12u1?arch=amd64
+- pkg:deb/debian/nvidia-cuda-gdb@11.8.86~11.8.0-5~deb12u1?arch=arm64
+- pkg:deb/debian/nvidia-cuda-gdb@11.8.86~11.8.0-5~deb12u1?arch=ppc64el
+- pkg:deb/debian/nvidia-cuda-gdb@12.4.127~12.4.1-2?arch=amd64
+- pkg:deb/debian/nvidia-cuda-gdb@12.4.127~12.4.1-2?arch=arm64
+- pkg:deb/debian/nvidia-cuda-gdb@12.4.127~12.4.1-2?arch=ppc64el
+- pkg:deb/debian/nvidia-cuda-gdb@12.4.127~12.4.1-4%2Bb1?arch=amd64
+- pkg:deb/debian/nvidia-cuda-gdb@12.4.127~12.4.1-4%2Bb1?arch=arm64
+- pkg:deb/debian/nvidia-cuda-gdb@12.4.127~12.4.1-4%2Bb1?arch=ppc64el
+- pkg:deb/debian/nvidia-cuda-gdb@12.5.39~12.5.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/nvidia-cuda-gdb@12.5.39~12.5.0-1%2Bb1?arch=arm64

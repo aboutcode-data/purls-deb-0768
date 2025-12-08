@@ -1,0 +1,7 @@
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=amd64
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=arm64
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=armhf
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=i386
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=ppc64el
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=riscv64
+- pkg:deb/debian/libxerces-c3.3t64@3.3.0-1~exp1?arch=s390x

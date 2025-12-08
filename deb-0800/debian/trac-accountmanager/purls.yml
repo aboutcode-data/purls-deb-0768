@@ -1,0 +1,2 @@
+- pkg:deb/debian/trac-accountmanager@0.6.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/trac-accountmanager@0.6.1%2Bsvn18669-1?arch=all

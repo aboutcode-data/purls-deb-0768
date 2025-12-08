@@ -1,0 +1,5 @@
+- pkg:deb/debian/wireshark-doc@3.4.10-0%2Bdeb11u1?arch=all
+- pkg:deb/debian/wireshark-doc@4.0.17-0%2Bdeb12u1?arch=all
+- pkg:deb/debian/wireshark-doc@4.4.7-1?arch=all
+- pkg:deb/debian/wireshark-doc@4.6.1-2?arch=all
+- pkg:deb/debian/wireshark-doc@4.6.2-3?arch=all

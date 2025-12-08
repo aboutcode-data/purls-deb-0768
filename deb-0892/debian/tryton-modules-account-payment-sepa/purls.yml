@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-modules-account-payment-sepa@5.0.5-1?arch=all
+- pkg:deb/debian/tryton-modules-account-payment-sepa@6.0.4-2?arch=all
+- pkg:deb/debian/tryton-modules-account-payment-sepa@7.0.4%2Bdfsg1-1?arch=all
+- pkg:deb/debian/tryton-modules-account-payment-sepa@7.0.5%2Bdfsg1-1?arch=all

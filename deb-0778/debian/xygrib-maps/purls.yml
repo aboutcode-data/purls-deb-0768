@@ -1,0 +1,4 @@
+- pkg:deb/debian/xygrib-maps@1.2.6-2?arch=all
+- pkg:deb/debian/xygrib-maps@1.2.6.1-2?arch=all
+- pkg:deb/debian/xygrib-maps@1.2.6.1-4?arch=all
+- pkg:deb/debian/xygrib-maps@1.2.6.1-5?arch=all

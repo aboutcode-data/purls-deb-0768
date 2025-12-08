@@ -1,0 +1,17 @@
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=amd64
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=arm64
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=armel
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=armhf
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=i386
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=mips64el
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=mipsel
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=ppc64el
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9%2Bb2?arch=s390x
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=amd64
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=arm64
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=armel
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=armhf
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=i386
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=riscv64
+- pkg:deb/debian/libwxsqlite3-3.2-dev@3.4.1~dfsg-9.1%2Bb4?arch=s390x

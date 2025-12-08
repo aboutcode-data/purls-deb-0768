@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-twodict@1.2-2?arch=all
+- pkg:deb/debian/python3-twodict@1.2-4?arch=all
+- pkg:deb/debian/python3-twodict@1.2-5?arch=all

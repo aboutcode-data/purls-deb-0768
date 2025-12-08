@@ -1,0 +1,15 @@
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=arm64
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=armel
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=armhf
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=i386
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=ppc64el
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=riscv64
+- pkg:deb/debian/libwtmpdb-dev@0.73.0-3%2Bdeb13u1?arch=s390x
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=amd64
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=arm64
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=armhf
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=i386
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=ppc64el
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=riscv64
+- pkg:deb/debian/libwtmpdb-dev@0.75.0-5?arch=s390x

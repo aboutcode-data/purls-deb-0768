@@ -1,0 +1,13 @@
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=amd64
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=arm64
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=armel
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=armhf
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=i386
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=mips64el
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=mipsel
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3%2Bb1?arch=s390x
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3?arch=amd64
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3?arch=arm64
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3?arch=armhf
+- pkg:deb/debian/tagua@1.0~alpha2-16-g618c6a0-3?arch=i386

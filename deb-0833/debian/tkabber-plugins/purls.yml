@@ -1,0 +1,3 @@
+- pkg:deb/debian/tkabber-plugins@1.1.2%2B20170328-2?arch=all
+- pkg:deb/debian/tkabber-plugins@1.1.2%2B20250424-1?arch=all
+- pkg:deb/debian/tkabber-plugins@1.1.2%2B20250521-1?arch=all

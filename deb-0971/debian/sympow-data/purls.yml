@@ -1,0 +1,3 @@
+- pkg:deb/debian/sympow-data@2.023.6-1.1?arch=all
+- pkg:deb/debian/sympow-data@2.023.6-1?arch=all
+- pkg:deb/debian/sympow-data@2.023.7-1?arch=all

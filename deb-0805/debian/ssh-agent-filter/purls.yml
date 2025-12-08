@@ -1,0 +1,17 @@
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb2?arch=riscv64
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=amd64
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=arm64
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=armel
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=armhf
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=i386
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=mips64el
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=mipsel
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb4?arch=s390x
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb6?arch=amd64
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb6?arch=armel
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb6?arch=armhf
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb6?arch=i386
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb6?arch=ppc64el
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb6?arch=s390x
+- pkg:deb/debian/ssh-agent-filter@0.5.2-1%2Bb7?arch=arm64

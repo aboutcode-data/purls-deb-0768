@@ -1,0 +1,5 @@
+- pkg:deb/debian/texlive-lang-portuguese@2020.20210202-2?arch=all
+- pkg:deb/debian/texlive-lang-portuguese@2022.20230122-1?arch=all
+- pkg:deb/debian/texlive-lang-portuguese@2024.20250309-1?arch=all
+- pkg:deb/debian/texlive-lang-portuguese@2025.20250927-1?arch=all
+- pkg:deb/debian/texlive-lang-portuguese@2025.20251127-1?arch=all

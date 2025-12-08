@@ -1,0 +1,4 @@
+- pkg:deb/debian/steam-devices@1.0.0.68-1?arch=all
+- pkg:deb/debian/steam-devices@1.0.0.75%2Bds-6?arch=all
+- pkg:deb/debian/steam-devices@1.0.0.83~ds-3?arch=all
+- pkg:deb/debian/steam-devices@1.0.0.85~ds-2?arch=all

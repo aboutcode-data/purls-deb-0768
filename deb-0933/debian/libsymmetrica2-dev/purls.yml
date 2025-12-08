@@ -1,0 +1,6 @@
+- pkg:deb/debian/libsymmetrica2-dev@2.0%2Bds-6?arch=amd64
+- pkg:deb/debian/libsymmetrica2-dev@2.0%2Bds-6?arch=arm64
+- pkg:deb/debian/libsymmetrica2-dev@2.0%2Bds-6?arch=armhf
+- pkg:deb/debian/libsymmetrica2-dev@2.0%2Bds-6?arch=i386
+- pkg:deb/debian/libsymmetrica2-dev@3.0.1%2Bds-2?arch=all
+- pkg:deb/debian/libsymmetrica2-dev@3.0.1%2Bds-3?arch=all

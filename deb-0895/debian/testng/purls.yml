@@ -1,0 +1,2 @@
+- pkg:deb/debian/testng@6.9.12-4?arch=all
+- pkg:deb/debian/testng@6.9.12-5?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/strongswan@5.9.1-1%2Bdeb11u4?arch=all
+- pkg:deb/debian/strongswan@5.9.8-5%2Bdeb12u1?arch=all
+- pkg:deb/debian/strongswan@5.9.8-5%2Bdeb12u2?arch=all
+- pkg:deb/debian/strongswan@6.0.1-6%2Bdeb13u1?arch=all
+- pkg:deb/debian/strongswan@6.0.1-6%2Bdeb13u2?arch=all
+- pkg:deb/debian/strongswan@6.0.3-1?arch=all

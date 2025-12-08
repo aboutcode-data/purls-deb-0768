@@ -1,0 +1,5 @@
+- pkg:deb/debian/libcupti-doc@11.2.152~11.2.2-3%2Bdeb11u3?arch=all
+- pkg:deb/debian/libcupti-doc@11.8.87~11.8.0-5~deb12u1?arch=all
+- pkg:deb/debian/libcupti-doc@12.4.127~12.4.1-2?arch=all
+- pkg:deb/debian/libcupti-doc@12.4.127~12.4.1-4?arch=all
+- pkg:deb/debian/libcupti-doc@12.5.39~12.5.0-1?arch=all

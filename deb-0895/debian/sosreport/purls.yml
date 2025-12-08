@@ -1,0 +1,13 @@
+- pkg:deb/debian/sosreport@4.0-2?arch=amd64
+- pkg:deb/debian/sosreport@4.0-2?arch=arm64
+- pkg:deb/debian/sosreport@4.0-2?arch=armel
+- pkg:deb/debian/sosreport@4.0-2?arch=armhf
+- pkg:deb/debian/sosreport@4.0-2?arch=i386
+- pkg:deb/debian/sosreport@4.0-2?arch=mips64el
+- pkg:deb/debian/sosreport@4.0-2?arch=mipsel
+- pkg:deb/debian/sosreport@4.0-2?arch=ppc64el
+- pkg:deb/debian/sosreport@4.0-2?arch=s390x
+- pkg:deb/debian/sosreport@4.10.1-1?arch=all
+- pkg:deb/debian/sosreport@4.10.1-1~bpo12%2B1?arch=all
+- pkg:deb/debian/sosreport@4.10.1-1~bpo13%2B1?arch=all
+- pkg:deb/debian/sosreport@4.9.1-1?arch=all

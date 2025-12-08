@@ -1,0 +1,6 @@
+- pkg:deb/debian/google-android-cmdline-tools-3.0-installer@3.0%2B1675172738?arch=amd64
+- pkg:deb/debian/google-android-cmdline-tools-3.0-installer@3.0%2B1675172738?arch=i386
+- pkg:deb/debian/google-android-cmdline-tools-3.0-installer@3.0%2B1743526702-1?arch=amd64
+- pkg:deb/debian/google-android-cmdline-tools-3.0-installer@3.0%2B1743526702-1?arch=i386
+- pkg:deb/debian/google-android-cmdline-tools-3.0-installer@3.0%2B1755725555-1?arch=amd64
+- pkg:deb/debian/google-android-cmdline-tools-3.0-installer@3.0%2B1755725555-1?arch=i386

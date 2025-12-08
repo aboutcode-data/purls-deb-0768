@@ -1,0 +1,10 @@
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=amd64
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=arm64
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=i386
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=mips64el
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=mipsel
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=ppc64el
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3%2Bb3?arch=s390x
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libtulip-ogl-5.4@5.4.0%2Bdfsg-3?arch=i386

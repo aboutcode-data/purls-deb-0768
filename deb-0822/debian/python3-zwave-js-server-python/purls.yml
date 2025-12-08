@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-zwave-js-server-python@0.64.0-1?arch=all
+- pkg:deb/debian/python3-zwave-js-server-python@0.67.1-1?arch=all

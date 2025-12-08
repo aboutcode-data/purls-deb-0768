@@ -1,0 +1,13 @@
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb6?arch=amd64
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb6?arch=arm64
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb6?arch=armhf
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb6?arch=i386
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=amd64
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=arm64
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=armel
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=armhf
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=i386
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=mips64el
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=mipsel
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=ppc64el
+- pkg:deb/debian/systempreferences.app-dbg@1.2.0-2%2Bb8?arch=s390x

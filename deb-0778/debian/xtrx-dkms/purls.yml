@@ -1,0 +1,3 @@
+- pkg:deb/debian/xtrx-dkms@0.0.1%2Bgit20190320.5ae3a3e-2?arch=all
+- pkg:deb/debian/xtrx-dkms@0.0.1%2Bgit20190320.5ae3a3e-3.2?arch=all
+- pkg:deb/debian/xtrx-dkms@0.0.1%2Bgit20190320.5ae3a3e-3.7?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-validators@0.14.2-2?arch=all
+- pkg:deb/debian/python3-validators@0.20.0-2?arch=all

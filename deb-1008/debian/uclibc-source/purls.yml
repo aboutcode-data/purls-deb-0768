@@ -1,0 +1,2 @@
+- pkg:deb/debian/uclibc-source@1.0.35-1?arch=all
+- pkg:deb/debian/uclibc-source@1.0.54-1?arch=all

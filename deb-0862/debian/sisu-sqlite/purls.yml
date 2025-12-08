@@ -1,0 +1,3 @@
+- pkg:deb/debian/sisu-sqlite@7.2.0-1?arch=all
+- pkg:deb/debian/sisu-sqlite@7.2.1-2?arch=all
+- pkg:deb/debian/sisu-sqlite@7.3.0-1?arch=all

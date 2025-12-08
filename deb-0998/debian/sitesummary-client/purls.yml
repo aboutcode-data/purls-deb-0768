@@ -1,0 +1,3 @@
+- pkg:deb/debian/sitesummary-client@0.1.46?arch=all
+- pkg:deb/debian/sitesummary-client@0.1.56~deb12u2?arch=all
+- pkg:deb/debian/sitesummary-client@0.1.60?arch=all

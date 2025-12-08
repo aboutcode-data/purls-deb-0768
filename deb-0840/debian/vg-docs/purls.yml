@@ -1,0 +1,2 @@
+- pkg:deb/debian/vg-docs@1.30.0%2Bds-1?arch=all
+- pkg:deb/debian/vg-docs@1.59.0%2Bds-0.1?arch=all

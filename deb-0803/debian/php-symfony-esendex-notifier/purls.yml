@@ -1,0 +1,5 @@
+- pkg:deb/debian/php-symfony-esendex-notifier@5.4.23%2Bdfsg-1%2Bdeb12u4?arch=all
+- pkg:deb/debian/php-symfony-esendex-notifier@6.4.21%2Bdfsg-2?arch=all
+- pkg:deb/debian/php-symfony-esendex-notifier@7.4.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/php-symfony-esendex-notifier@7.4.0~rc2%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-symfony-esendex-notifier@8.0.0%2Bdfsg-1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/libnppitc11@11.3.2.152~11.2.2-3%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/libnppitc11@11.3.2.152~11.2.2-3%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/libnppitc11@11.8.0.86~11.8.0-5~deb12u1?arch=amd64
+- pkg:deb/debian/libnppitc11@11.8.0.86~11.8.0-5~deb12u1?arch=arm64
+- pkg:deb/debian/libnppitc11@11.8.0.86~11.8.0-5~deb12u1?arch=ppc64el

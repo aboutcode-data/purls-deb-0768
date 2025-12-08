@@ -1,0 +1,5 @@
+- pkg:deb/debian/wine@10.0~repack-11?arch=all
+- pkg:deb/debian/wine@10.0~repack-12?arch=all
+- pkg:deb/debian/wine@10.0~repack-6?arch=all
+- pkg:deb/debian/wine@5.0.3-3?arch=all
+- pkg:deb/debian/wine@8.0~repack-4?arch=all

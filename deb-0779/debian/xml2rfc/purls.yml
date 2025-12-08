@@ -1,0 +1,4 @@
+- pkg:deb/debian/xml2rfc@2.47.0-1?arch=all
+- pkg:deb/debian/xml2rfc@3.16.0-1?arch=all
+- pkg:deb/debian/xml2rfc@3.23.0-1?arch=all
+- pkg:deb/debian/xml2rfc@3.30.2-1?arch=all

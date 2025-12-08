@@ -1,0 +1,4 @@
+- pkg:deb/debian/uwsgi-plugin-jvm-openjdk-11@2.0.19.1-7.1?arch=amd64
+- pkg:deb/debian/uwsgi-plugin-jvm-openjdk-11@2.0.19.1-7.1?arch=arm64
+- pkg:deb/debian/uwsgi-plugin-jvm-openjdk-11@2.0.19.1-7.1?arch=armhf
+- pkg:deb/debian/uwsgi-plugin-jvm-openjdk-11@2.0.19.1-7.1?arch=i386

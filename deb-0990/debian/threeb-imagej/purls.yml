@@ -1,0 +1,10 @@
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-5?arch=amd64
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-5?arch=i386
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-5?arch=mipsel
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-5?arch=s390x
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-6%2Bb1?arch=amd64
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-6%2Bb1?arch=s390x
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-6%2Bb2?arch=i386
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-6%2Bb2?arch=riscv64
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-6?arch=armel
+- pkg:deb/debian/threeb-imagej@0.0~git20220106110332.a3144e0-6?arch=armhf

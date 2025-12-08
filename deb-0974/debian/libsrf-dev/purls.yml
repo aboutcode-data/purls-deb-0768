@@ -1,0 +1,10 @@
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7%2Bb1?arch=riscv64
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=armel
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=armhf
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=i386
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=mips64el
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=mipsel
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=ppc64el
+- pkg:deb/debian/libsrf-dev@0.1%2Bdfsg-7?arch=s390x

@@ -1,0 +1,13 @@
+- pkg:deb/debian/xen-utils-common@4.14.6-1?arch=amd64
+- pkg:deb/debian/xen-utils-common@4.14.6-1?arch=arm64
+- pkg:deb/debian/xen-utils-common@4.14.6-1?arch=armhf
+- pkg:deb/debian/xen-utils-common@4.14.6-1?arch=i386
+- pkg:deb/debian/xen-utils-common@4.17.5%2B23-ga4e5191dc0-1%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/xen-utils-common@4.17.5%2B23-ga4e5191dc0-1%2Bdeb12u1?arch=arm64
+- pkg:deb/debian/xen-utils-common@4.17.5%2B23-ga4e5191dc0-1%2Bdeb12u1?arch=armhf
+- pkg:deb/debian/xen-utils-common@4.17.5%2B72-g01140da4e8-1?arch=amd64
+- pkg:deb/debian/xen-utils-common@4.17.5%2B72-g01140da4e8-1?arch=arm64
+- pkg:deb/debian/xen-utils-common@4.17.5%2B72-g01140da4e8-1?arch=armhf
+- pkg:deb/debian/xen-utils-common@4.20.0%2B68-g35cb38b222-1?arch=amd64
+- pkg:deb/debian/xen-utils-common@4.20.0%2B68-g35cb38b222-1?arch=arm64
+- pkg:deb/debian/xen-utils-common@4.20.2%2B7-g1badcf5035-1?arch=amd64

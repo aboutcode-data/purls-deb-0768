@@ -1,0 +1,4 @@
+- pkg:deb/debian/wesnoth-music@1.14.15-1?arch=all
+- pkg:deb/debian/wesnoth-music@1.16.9-1?arch=all
+- pkg:deb/debian/wesnoth-music@1.18.5-1?arch=all
+- pkg:deb/debian/wesnoth-music@1.18.5-1~bpo12%2B1?arch=all

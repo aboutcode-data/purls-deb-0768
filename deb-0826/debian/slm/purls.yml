@@ -1,0 +1,2 @@
+- pkg:deb/debian/slm@1.32-3?arch=all
+- pkg:deb/debian/slm@2.11-1?arch=all

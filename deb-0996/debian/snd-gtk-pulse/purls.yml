@@ -1,0 +1,2 @@
+- pkg:deb/debian/snd-gtk-pulse@21.1-1?arch=all
+- pkg:deb/debian/snd-gtk-pulse@23.1-1?arch=all

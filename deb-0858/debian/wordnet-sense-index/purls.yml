@@ -1,0 +1,4 @@
+- pkg:deb/debian/wordnet-sense-index@3.0-36?arch=all
+- pkg:deb/debian/wordnet-sense-index@3.0-37?arch=all
+- pkg:deb/debian/wordnet-sense-index@3.0-39?arch=all
+- pkg:deb/debian/wordnet-sense-index@3.0-41?arch=all

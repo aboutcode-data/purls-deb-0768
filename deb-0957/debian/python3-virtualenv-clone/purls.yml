@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-virtualenv-clone@0.3.0-2?arch=all
+- pkg:deb/debian/python3-virtualenv-clone@0.5.7-1?arch=all

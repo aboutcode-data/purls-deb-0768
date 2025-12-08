@@ -1,0 +1,5 @@
+- pkg:deb/debian/libvotca-2022@2022.1-1?arch=amd64
+- pkg:deb/debian/libvotca-2022@2022.1-1?arch=arm64
+- pkg:deb/debian/libvotca-2022@2022.1-1?arch=mips64el
+- pkg:deb/debian/libvotca-2022@2022.1-1?arch=ppc64el
+- pkg:deb/debian/libvotca-2022@2022.1-1?arch=s390x

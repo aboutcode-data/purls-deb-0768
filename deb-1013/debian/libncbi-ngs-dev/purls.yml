@@ -1,0 +1,6 @@
+- pkg:deb/debian/libncbi-ngs-dev@3.0.3%2Bdfsg-6~deb12u1?arch=amd64
+- pkg:deb/debian/libncbi-ngs-dev@3.0.3%2Bdfsg-6~deb12u1?arch=arm64
+- pkg:deb/debian/libncbi-ngs-dev@3.2.1%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libncbi-ngs-dev@3.2.1%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libncbi-ngs-dev@3.2.1%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libncbi-ngs-dev@3.2.1%2Bdfsg-5?arch=arm64

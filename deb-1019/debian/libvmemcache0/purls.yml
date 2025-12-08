@@ -1,0 +1,2 @@
+- pkg:deb/debian/libvmemcache0@0.8.1-4?arch=amd64
+- pkg:deb/debian/libvmemcache0@0.8.1-4?arch=arm64

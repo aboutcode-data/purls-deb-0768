@@ -1,0 +1,4 @@
+- pkg:deb/debian/pycsw-wsgi@2.6.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/pycsw-wsgi@2.6.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/pycsw-wsgi@2.6.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/pycsw-wsgi@2.6.2%2Bdfsg-3?arch=all

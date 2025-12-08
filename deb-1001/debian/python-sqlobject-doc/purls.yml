@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-sqlobject-doc@3.10.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/python-sqlobject-doc@3.12.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/python-sqlobject-doc@3.13.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-sqlobject-doc@3.9.0%2Bdfsg-1?arch=all

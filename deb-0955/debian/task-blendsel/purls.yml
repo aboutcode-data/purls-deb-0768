@@ -1,0 +1,2 @@
+- pkg:deb/debian/task-blendsel@3.81?arch=all
+- pkg:deb/debian/task-blendsel@3.85?arch=all

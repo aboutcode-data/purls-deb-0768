@@ -1,0 +1,15 @@
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=amd64
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=arm64
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=armhf
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=i386
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=ppc64el
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=riscv64
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10.1?arch=s390x
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=amd64
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=arm64
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=armel
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=armhf
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=i386
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=ppc64el
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=riscv64
+- pkg:deb/debian/libxmlrpc-core-c3t64@1.59.03-10?arch=s390x

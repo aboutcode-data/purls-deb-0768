@@ -1,0 +1,12 @@
+- pkg:deb/debian/theme-d-intr@0.19.0-1?arch=all
+- pkg:deb/debian/theme-d-intr@0.20.3-1?arch=amd64
+- pkg:deb/debian/theme-d-intr@0.20.3-1?arch=arm64
+- pkg:deb/debian/theme-d-intr@0.20.3-1?arch=armhf
+- pkg:deb/debian/theme-d-intr@0.20.3-1?arch=ppc64el
+- pkg:deb/debian/theme-d-intr@0.20.3-1?arch=riscv64
+- pkg:deb/debian/theme-d-intr@0.20.3-1?arch=s390x
+- pkg:deb/debian/theme-d-intr@0.20.4-1?arch=amd64
+- pkg:deb/debian/theme-d-intr@0.20.4-1?arch=arm64
+- pkg:deb/debian/theme-d-intr@0.20.4-1?arch=armhf
+- pkg:deb/debian/theme-d-intr@0.20.4-1?arch=ppc64el
+- pkg:deb/debian/theme-d-intr@0.20.4-1?arch=s390x

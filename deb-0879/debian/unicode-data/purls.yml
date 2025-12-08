@@ -1,0 +1,5 @@
+- pkg:deb/debian/unicode-data@13.0.0-2?arch=all
+- pkg:deb/debian/unicode-data@15.0.0-1?arch=all
+- pkg:deb/debian/unicode-data@15.1.0-1?arch=all
+- pkg:deb/debian/unicode-data@16.0.0-1?arch=all
+- pkg:deb/debian/unicode-data@17.0.0-1?arch=all

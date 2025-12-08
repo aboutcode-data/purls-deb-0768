@@ -1,0 +1,2 @@
+- pkg:deb/debian/yq@3.1.0-3?arch=all
+- pkg:deb/debian/yq@3.4.3-2?arch=all

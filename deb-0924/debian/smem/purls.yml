@@ -1,0 +1,4 @@
+- pkg:deb/debian/smem@1.5-1.1?arch=all
+- pkg:deb/debian/smem@1.5-2?arch=all
+- pkg:deb/debian/smem@1.5-3?arch=all
+- pkg:deb/debian/smem@1.5-5?arch=all

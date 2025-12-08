@@ -1,0 +1,4 @@
+- pkg:deb/debian/strace64@5.10-1?arch=i386
+- pkg:deb/debian/strace64@6.1-0.1?arch=i386
+- pkg:deb/debian/strace64@6.13%2Bds-1?arch=i386
+- pkg:deb/debian/strace64@6.16%2Bds-2?arch=i386

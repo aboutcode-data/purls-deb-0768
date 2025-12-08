@@ -1,0 +1,13 @@
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb1?arch=amd64
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb1?arch=arm64
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb1?arch=i386
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb2?arch=armel
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb2?arch=armhf
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=amd64
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=arm64
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=i386
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=mips64el
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=mipsel
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=ppc64el
+- pkg:deb/debian/yabause-gtk@0.9.14-4%2Bb3?arch=s390x
+- pkg:deb/debian/yabause-gtk@0.9.14-4?arch=armhf

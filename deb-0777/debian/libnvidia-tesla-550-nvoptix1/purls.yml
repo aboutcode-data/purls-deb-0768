@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnvidia-tesla-550-nvoptix1@550.54.15-3?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-550-nvoptix1@550.54.15-3?arch=arm64

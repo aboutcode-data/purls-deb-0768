@@ -1,0 +1,4 @@
+- pkg:deb/debian/xsane-common@0.999-10?arch=all
+- pkg:deb/debian/xsane-common@0.999-12.1~deb12u1?arch=all
+- pkg:deb/debian/xsane-common@0.999-12.2?arch=all
+- pkg:deb/debian/xsane-common@0.999-13?arch=all

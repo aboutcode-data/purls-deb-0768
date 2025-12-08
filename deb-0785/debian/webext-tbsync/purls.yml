@@ -1,0 +1,4 @@
+- pkg:deb/debian/webext-tbsync@2.19-1?arch=all
+- pkg:deb/debian/webext-tbsync@4.12-1~deb12u1?arch=all
+- pkg:deb/debian/webext-tbsync@4.16-1~deb13u2?arch=all
+- pkg:deb/debian/webext-tbsync@4.16-2?arch=all

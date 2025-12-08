@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwebkit2-sharp-4.0-cil@2.10.9%2Bgit20160917-1.1?arch=amd64
+- pkg:deb/debian/libwebkit2-sharp-4.0-cil@2.10.9%2Bgit20160917-1.1?arch=arm64
+- pkg:deb/debian/libwebkit2-sharp-4.0-cil@2.10.9%2Bgit20160917-1.1?arch=armhf
+- pkg:deb/debian/libwebkit2-sharp-4.0-cil@2.10.9%2Bgit20160917-1.1?arch=i386

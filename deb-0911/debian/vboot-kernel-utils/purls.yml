@@ -1,0 +1,14 @@
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B%2Bdfsg-0.1?arch=amd64
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B%2Bdfsg-0.1?arch=arm64
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B%2Bdfsg-0.1?arch=armel
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B%2Bdfsg-0.1?arch=armhf
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B%2Bdfsg-0.1?arch=i386
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B-1?arch=amd64
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B-1?arch=arm64
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B-1?arch=armel
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B-1?arch=armhf
+- pkg:deb/debian/vboot-kernel-utils@0~R106-15054.B-1?arch=i386
+- pkg:deb/debian/vboot-kernel-utils@0~R88-13597.B-1?arch=amd64
+- pkg:deb/debian/vboot-kernel-utils@0~R88-13597.B-1?arch=arm64
+- pkg:deb/debian/vboot-kernel-utils@0~R88-13597.B-1?arch=armhf
+- pkg:deb/debian/vboot-kernel-utils@0~R88-13597.B-1?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-stock-supply-day@5.0.2-1?arch=all
+- pkg:deb/debian/tryton-modules-stock-supply-day@6.0.0-3?arch=all
+- pkg:deb/debian/tryton-modules-stock-supply-day@7.0.0-3?arch=all

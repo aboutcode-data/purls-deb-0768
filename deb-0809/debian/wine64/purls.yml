@@ -1,0 +1,10 @@
+- pkg:deb/debian/wine64@10.0~repack-11?arch=amd64
+- pkg:deb/debian/wine64@10.0~repack-11?arch=arm64
+- pkg:deb/debian/wine64@10.0~repack-12?arch=amd64
+- pkg:deb/debian/wine64@10.0~repack-12?arch=arm64
+- pkg:deb/debian/wine64@10.0~repack-6?arch=amd64
+- pkg:deb/debian/wine64@10.0~repack-6?arch=arm64
+- pkg:deb/debian/wine64@5.0.3-3?arch=amd64
+- pkg:deb/debian/wine64@5.0.3-3?arch=arm64
+- pkg:deb/debian/wine64@8.0~repack-4?arch=amd64
+- pkg:deb/debian/wine64@8.0~repack-4?arch=arm64

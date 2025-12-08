@@ -1,0 +1,12 @@
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-3?arch=amd64
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-3?arch=arm64
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-3?arch=armhf
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-3?arch=i386
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4%2Bb1?arch=arm64
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=amd64
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=armel
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=armhf
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=i386
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=ppc64el
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=riscv64
+- pkg:deb/debian/wmxmms2@0.6%2Brepack-4?arch=s390x

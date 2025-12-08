@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-wcwidth@0.1.9%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python3-wcwidth@0.2.13%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python3-wcwidth@0.2.14%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python3-wcwidth@0.2.5%2Bdfsg1-1.1?arch=all

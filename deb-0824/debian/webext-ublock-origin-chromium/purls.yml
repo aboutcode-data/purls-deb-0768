@@ -1,0 +1,5 @@
+- pkg:deb/debian/webext-ublock-origin-chromium@1.42.0%2Bdfsg-1~deb11u1?arch=all
+- pkg:deb/debian/webext-ublock-origin-chromium@1.46.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/webext-ublock-origin-chromium@1.67.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/webext-ublock-origin-chromium@1.67.0%2Bdfsg-1~deb12u1?arch=all
+- pkg:deb/debian/webext-ublock-origin-chromium@1.67.0%2Bdfsg-1~deb13u1?arch=all

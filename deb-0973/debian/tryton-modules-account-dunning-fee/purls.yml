@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-account-dunning-fee@5.0.2-1?arch=all
+- pkg:deb/debian/tryton-modules-account-dunning-fee@6.0.1-1?arch=all
+- pkg:deb/debian/tryton-modules-account-dunning-fee@7.0.0-3?arch=all

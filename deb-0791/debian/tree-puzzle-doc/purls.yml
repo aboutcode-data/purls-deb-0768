@@ -1,0 +1,4 @@
+- pkg:deb/debian/tree-puzzle-doc@5.3~rc16%2Bdfsg-12?arch=all
+- pkg:deb/debian/tree-puzzle-doc@5.3~rc16%2Bdfsg-13?arch=all
+- pkg:deb/debian/tree-puzzle-doc@5.3~rc16%2Bdfsg-8?arch=all
+- pkg:deb/debian/tree-puzzle-doc@5.3~rc16%2Bdfsg-9?arch=all

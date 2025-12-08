@@ -1,0 +1,2 @@
+- pkg:deb/debian/mame-extra@0.206-1?arch=all
+- pkg:deb/debian/mame-extra@0.250-1?arch=all

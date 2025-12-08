@@ -1,0 +1,6 @@
+- pkg:deb/debian/libvectorscan-dev@5.4.11-2%2Bb1?arch=amd64
+- pkg:deb/debian/libvectorscan-dev@5.4.11-2%2Bb1?arch=arm64
+- pkg:deb/debian/libvectorscan-dev@5.4.11-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/libvectorscan-dev@5.4.9-1?arch=amd64
+- pkg:deb/debian/libvectorscan-dev@5.4.9-1?arch=arm64
+- pkg:deb/debian/libvectorscan-dev@5.4.9-1?arch=ppc64el

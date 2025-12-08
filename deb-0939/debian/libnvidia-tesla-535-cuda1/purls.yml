@@ -1,0 +1,8 @@
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.216.03-3~deb12u1?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.216.03-3~deb12u1?arch=ppc64el
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.274.02-1?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.274.02-1?arch=arm64
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.274.02-1?arch=i386
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.274.02-1~deb13u1?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.274.02-1~deb13u1?arch=arm64
+- pkg:deb/debian/libnvidia-tesla-535-cuda1@535.274.02-1~deb13u1?arch=i386

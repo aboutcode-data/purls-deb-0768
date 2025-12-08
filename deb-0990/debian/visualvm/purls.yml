@@ -1,0 +1,4 @@
+- pkg:deb/debian/visualvm@2.0.6%2Bdfsg-1?arch=all
+- pkg:deb/debian/visualvm@2.1.10-1?arch=all
+- pkg:deb/debian/visualvm@2.1.5-1?arch=all
+- pkg:deb/debian/visualvm@2.2-1?arch=all

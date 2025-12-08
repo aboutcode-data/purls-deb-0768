@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnss-sudo@1.9.13p3-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/libnss-sudo@1.9.16p2-3?arch=all
+- pkg:deb/debian/libnss-sudo@1.9.17p2-1?arch=all

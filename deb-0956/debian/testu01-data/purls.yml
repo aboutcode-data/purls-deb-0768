@@ -1,0 +1,3 @@
+- pkg:deb/debian/testu01-data@1.2.3%2Bds1-1?arch=all
+- pkg:deb/debian/testu01-data@1.2.3%2Bds1-2?arch=all
+- pkg:deb/debian/testu01-data@1.2.3%2Bds1-3?arch=all

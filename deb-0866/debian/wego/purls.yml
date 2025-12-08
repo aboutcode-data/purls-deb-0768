@@ -1,0 +1,15 @@
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=amd64
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=arm64
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=armel
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=armhf
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=i386
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=ppc64el
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=riscv64
+- pkg:deb/debian/wego@2.3-2%2Bb6?arch=s390x
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=amd64
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=arm64
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=armhf
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=i386
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=ppc64el
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=riscv64
+- pkg:deb/debian/wego@2.3-2%2Bb7?arch=s390x

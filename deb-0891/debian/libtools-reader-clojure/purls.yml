@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtools-reader-clojure@1.3.4-1?arch=all
+- pkg:deb/debian/libtools-reader-clojure@1.3.6-1?arch=all
+- pkg:deb/debian/libtools-reader-clojure@1.3.6-2?arch=all

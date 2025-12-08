@@ -1,0 +1,4 @@
+- pkg:deb/debian/texstudio-l10n@3.0.4%2Bds-1?arch=all
+- pkg:deb/debian/texstudio-l10n@4.3.1%2Bds-2?arch=all
+- pkg:deb/debian/texstudio-l10n@4.8.7%2Bds-1?arch=all
+- pkg:deb/debian/texstudio-l10n@4.8.9%2Bds-1?arch=all

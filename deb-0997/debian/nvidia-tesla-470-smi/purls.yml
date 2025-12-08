@@ -1,0 +1,11 @@
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-1~deb11u2?arch=amd64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-1~deb11u2?arch=arm64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-1~deb12u1?arch=amd64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-1~deb12u1?arch=arm64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-1~deb12u1?arch=ppc64el
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-5~bpo12%2B1?arch=amd64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-5~bpo12%2B1?arch=arm64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-5~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-8?arch=amd64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-8?arch=arm64
+- pkg:deb/debian/nvidia-tesla-470-smi@470.256.02-8?arch=ppc64el

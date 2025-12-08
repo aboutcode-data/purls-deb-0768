@@ -1,0 +1,3 @@
+- pkg:deb/debian/ufo-core-doc@0.16.0.52.gbd831ab-1?arch=all
+- pkg:deb/debian/ufo-core-doc@0.17.0.22.gc831aec-1?arch=all
+- pkg:deb/debian/ufo-core-doc@0.17.0.22.gc831aec-1~bpo12%2B1?arch=all

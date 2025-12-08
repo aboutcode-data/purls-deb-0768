@@ -1,0 +1,3 @@
+- pkg:deb/debian/uranium-tools@4.13.0-1?arch=all
+- pkg:deb/debian/uranium-tools@4.8-1?arch=all
+- pkg:deb/debian/uranium-tools@5.0.0-7?arch=all

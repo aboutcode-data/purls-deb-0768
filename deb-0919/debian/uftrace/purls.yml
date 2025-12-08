@@ -1,0 +1,14 @@
+- pkg:deb/debian/uftrace@0.13-1?arch=amd64
+- pkg:deb/debian/uftrace@0.13-1?arch=arm64
+- pkg:deb/debian/uftrace@0.13-1?arch=i386
+- pkg:deb/debian/uftrace@0.17-1?arch=amd64
+- pkg:deb/debian/uftrace@0.17-1?arch=arm64
+- pkg:deb/debian/uftrace@0.17-1?arch=armel
+- pkg:deb/debian/uftrace@0.17-1?arch=armhf
+- pkg:deb/debian/uftrace@0.17-1?arch=i386
+- pkg:deb/debian/uftrace@0.17-1?arch=riscv64
+- pkg:deb/debian/uftrace@0.18.1-1?arch=amd64
+- pkg:deb/debian/uftrace@0.18.1-1?arch=arm64
+- pkg:deb/debian/uftrace@0.18.1-1?arch=armhf
+- pkg:deb/debian/uftrace@0.18.1-1?arch=i386
+- pkg:deb/debian/uftrace@0.18.1-1?arch=riscv64

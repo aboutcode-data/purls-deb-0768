@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-timesheet@5.0.5-1?arch=all
+- pkg:deb/debian/tryton-modules-timesheet@6.0.2-2?arch=all
+- pkg:deb/debian/tryton-modules-timesheet@7.0.1-3?arch=all

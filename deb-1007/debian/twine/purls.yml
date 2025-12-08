@@ -1,0 +1,4 @@
+- pkg:deb/debian/twine@3.3.0-1?arch=all
+- pkg:deb/debian/twine@4.0.2-1?arch=all
+- pkg:deb/debian/twine@6.1.0-1?arch=all
+- pkg:deb/debian/twine@6.2.0-2?arch=all

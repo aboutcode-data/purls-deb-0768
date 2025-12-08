@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwebauth12@4.7.0-8?arch=amd64
+- pkg:deb/debian/libwebauth12@4.7.0-8?arch=arm64
+- pkg:deb/debian/libwebauth12@4.7.0-8?arch=armhf
+- pkg:deb/debian/libwebauth12@4.7.0-8?arch=i386

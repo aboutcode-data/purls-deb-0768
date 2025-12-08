@@ -1,0 +1,7 @@
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-12?arch=amd64
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-12?arch=arm64
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-12?arch=i386
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-12?arch=ppc64el
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-7~deb11u1?arch=amd64
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-7~deb11u1?arch=arm64
+- pkg:deb/debian/libgles-nvidia-tesla-450-1@450.248.02-7~deb11u1?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/xml-core@0.18%2Bnmu1?arch=all
+- pkg:deb/debian/xml-core@0.19?arch=all

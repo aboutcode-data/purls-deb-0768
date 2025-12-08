@@ -1,0 +1,4 @@
+- pkg:deb/debian/xapps-doc@2.0.7-1?arch=all
+- pkg:deb/debian/xapps-doc@2.4.2-3?arch=all
+- pkg:deb/debian/xapps-doc@2.8.13-1?arch=all
+- pkg:deb/debian/xapps-doc@2.8.8-1?arch=all

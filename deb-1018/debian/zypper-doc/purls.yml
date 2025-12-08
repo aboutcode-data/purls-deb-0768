@@ -1,0 +1,4 @@
+- pkg:deb/debian/zypper-doc@1.14.42-1?arch=all
+- pkg:deb/debian/zypper-doc@1.14.42-2?arch=all
+- pkg:deb/debian/zypper-doc@1.14.89-1?arch=all
+- pkg:deb/debian/zypper-doc@1.14.93-1?arch=all

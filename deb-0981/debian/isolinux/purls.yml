@@ -1,0 +1,3 @@
+- pkg:deb/debian/isolinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3.1?arch=all
+- pkg:deb/debian/isolinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3.2?arch=all
+- pkg:deb/debian/isolinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3?arch=all

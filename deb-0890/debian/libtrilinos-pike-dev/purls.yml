@@ -1,0 +1,11 @@
+- pkg:deb/debian/libtrilinos-pike-dev@12.18.1-2?arch=amd64
+- pkg:deb/debian/libtrilinos-pike-dev@12.18.1-2?arch=arm64
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-4?arch=amd64
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-4?arch=arm64
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-4?arch=ppc64el
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-4?arch=s390x
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-6%2Bb4?arch=amd64
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-6%2Bb4?arch=arm64
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-6%2Bb4?arch=ppc64el
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-6%2Bb4?arch=riscv64
+- pkg:deb/debian/libtrilinos-pike-dev@13.2.0-6%2Bb4?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/udiskie@2.3.2-2?arch=all
+- pkg:deb/debian/udiskie@2.4.2-1?arch=all
+- pkg:deb/debian/udiskie@2.5.7-2?arch=all
+- pkg:deb/debian/udiskie@2.5.8-1?arch=all

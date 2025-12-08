@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-skimage@0.18.1-2?arch=all
+- pkg:deb/debian/python3-skimage@0.19.3-8?arch=all
+- pkg:deb/debian/python3-skimage@0.25.2-2?arch=all
+- pkg:deb/debian/python3-skimage@0.25.2-3?arch=all

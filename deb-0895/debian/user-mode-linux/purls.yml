@@ -1,0 +1,10 @@
+- pkg:deb/debian/user-mode-linux@5.10um3%2Bb1?arch=amd64
+- pkg:deb/debian/user-mode-linux@5.10um3%2Bb1?arch=i386
+- pkg:deb/debian/user-mode-linux@6.12um1%2Bb9?arch=amd64
+- pkg:deb/debian/user-mode-linux@6.12um1%2Bb9?arch=i386
+- pkg:deb/debian/user-mode-linux@6.16um1?arch=amd64
+- pkg:deb/debian/user-mode-linux@6.16um1?arch=i386
+- pkg:deb/debian/user-mode-linux@6.1um4%2Bb5?arch=amd64
+- pkg:deb/debian/user-mode-linux@6.1um4%2Bb5?arch=i386
+- pkg:deb/debian/user-mode-linux@6.1um4%2Bb6?arch=amd64
+- pkg:deb/debian/user-mode-linux@6.1um4%2Bb6?arch=i386

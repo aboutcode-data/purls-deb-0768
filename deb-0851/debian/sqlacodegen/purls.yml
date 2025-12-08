@@ -1,0 +1,2 @@
+- pkg:deb/debian/sqlacodegen@1.1.6-3?arch=all
+- pkg:deb/debian/sqlacodegen@3.0.0~rc5-1?arch=all

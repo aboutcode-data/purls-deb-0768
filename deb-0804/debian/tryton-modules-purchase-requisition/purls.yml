@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-modules-purchase-requisition@6.0.0-3?arch=all
+- pkg:deb/debian/tryton-modules-purchase-requisition@7.0.4-1?arch=all

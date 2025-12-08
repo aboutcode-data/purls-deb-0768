@@ -1,0 +1,3 @@
+- pkg:deb/debian/zaqar-server@15.0.0-1?arch=all
+- pkg:deb/debian/zaqar-server@20.0.0-2?arch=all
+- pkg:deb/debian/zaqar-server@21.0.0-1?arch=all

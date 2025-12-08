@@ -1,0 +1,13 @@
+- pkg:deb/debian/structure-synth@1.5.0-7.3?arch=amd64
+- pkg:deb/debian/structure-synth@1.5.0-7.3?arch=arm64
+- pkg:deb/debian/structure-synth@1.5.0-7.3?arch=i386
+- pkg:deb/debian/structure-synth@1.5.0-7.3?arch=ppc64el
+- pkg:deb/debian/structure-synth@1.5.0-7.3?arch=riscv64
+- pkg:deb/debian/structure-synth@1.5.0-7.3?arch=s390x
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=amd64
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=arm64
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=i386
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=mips64el
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=mipsel
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=ppc64el
+- pkg:deb/debian/structure-synth@1.5.0-7?arch=s390x

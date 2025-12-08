@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-okasha@0.2.4-4?arch=all
+- pkg:deb/debian/python3-okasha@0.3.0-1?arch=all
+- pkg:deb/debian/python3-okasha@0.3.0-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libzxing-core-java@3.4.1%2Bds-1?arch=all
+- pkg:deb/debian/libzxing-core-java@3.5.3%2Bds-1?arch=all

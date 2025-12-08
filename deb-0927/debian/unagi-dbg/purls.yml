@@ -1,0 +1,17 @@
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb2?arch=riscv64
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=amd64
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=arm64
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=armel
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=armhf
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=i386
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=mips64el
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=mipsel
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb3?arch=s390x
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb4?arch=amd64
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb4?arch=armel
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb4?arch=armhf
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb4?arch=i386
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb4?arch=s390x
+- pkg:deb/debian/unagi-dbg@0.3.4-1%2Bb5?arch=arm64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/firmware-intel-misc@20250410-2?arch=all
+- pkg:deb/debian/firmware-intel-misc@20250410-2~bpo12%2B1?arch=all
+- pkg:deb/debian/firmware-intel-misc@20251021-1~bpo13%2B1?arch=all
+- pkg:deb/debian/firmware-intel-misc@20251111-1?arch=all

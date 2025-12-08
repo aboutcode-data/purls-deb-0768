@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstockpile-clojure@0.0.4-1.1?arch=all
+- pkg:deb/debian/libstockpile-clojure@0.0.4-2?arch=all

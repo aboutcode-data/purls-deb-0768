@@ -1,0 +1,4 @@
+- pkg:deb/debian/xdmx@1.20.11-1%2Bdeb11u13?arch=amd64
+- pkg:deb/debian/xdmx@1.20.11-1%2Bdeb11u13?arch=arm64
+- pkg:deb/debian/xdmx@1.20.11-1%2Bdeb11u13?arch=armhf
+- pkg:deb/debian/xdmx@1.20.11-1%2Bdeb11u13?arch=i386

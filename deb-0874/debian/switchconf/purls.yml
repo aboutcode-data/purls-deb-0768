@@ -1,0 +1,3 @@
+- pkg:deb/debian/switchconf@0.0.17-1.1?arch=all
+- pkg:deb/debian/switchconf@0.0.17-1.2?arch=all
+- pkg:deb/debian/switchconf@0.0.17-1?arch=all

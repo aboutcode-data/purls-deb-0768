@@ -1,0 +1,8 @@
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2%2Bb1?arch=arm64
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2%2Bb1?arch=armel
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2%2Bb1?arch=armhf
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2?arch=amd64
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2?arch=i386
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2?arch=ppc64el
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2?arch=riscv64
+- pkg:deb/debian/libtpm-unseal1t64@1.3.9.2-0.2?arch=s390x

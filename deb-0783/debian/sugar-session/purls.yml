@@ -1,0 +1,4 @@
+- pkg:deb/debian/sugar-session@0.118-2?arch=all
+- pkg:deb/debian/sugar-session@0.120-1?arch=all
+- pkg:deb/debian/sugar-session@0.121-1?arch=all
+- pkg:deb/debian/sugar-session@0.121-3?arch=all

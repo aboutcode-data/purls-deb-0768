@@ -1,0 +1,3 @@
+- pkg:deb/debian/west-chamber-dkms@20100405%2Bsvn20111107.r124-13?arch=all
+- pkg:deb/debian/west-chamber-dkms@20100405%2Bsvn20111107.r124-14.1?arch=all
+- pkg:deb/debian/west-chamber-dkms@20100405%2Bsvn20111107.r124-14.3?arch=all

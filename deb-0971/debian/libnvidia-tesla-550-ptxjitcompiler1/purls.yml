@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnvidia-tesla-550-ptxjitcompiler1@550.54.15-3?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-550-ptxjitcompiler1@550.54.15-3?arch=arm64
+- pkg:deb/debian/libnvidia-tesla-550-ptxjitcompiler1@550.54.15-3?arch=i386
+- pkg:deb/debian/libnvidia-tesla-550-ptxjitcompiler1@550.54.15-3?arch=ppc64el

@@ -1,0 +1,4 @@
+- pkg:deb/debian/util-linux-locales@2.36.1-8%2Bdeb11u2?arch=all
+- pkg:deb/debian/util-linux-locales@2.38.1-5%2Bdeb12u3?arch=all
+- pkg:deb/debian/util-linux-locales@2.41-5?arch=all
+- pkg:deb/debian/util-linux-locales@2.41.2-4?arch=all

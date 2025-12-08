@@ -1,0 +1,4 @@
+- pkg:deb/debian/wifite@2.5.8-1?arch=all
+- pkg:deb/debian/wifite@2.6.6-1?arch=all
+- pkg:deb/debian/wifite@2.7.0-3?arch=all
+- pkg:deb/debian/wifite@2.8.2-1?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/xtermcontrol@3.6-1%2Bb1?arch=amd64
+- pkg:deb/debian/xtermcontrol@3.6-1?arch=arm64
+- pkg:deb/debian/xtermcontrol@3.6-1?arch=armhf
+- pkg:deb/debian/xtermcontrol@3.6-1?arch=i386
+- pkg:deb/debian/xtermcontrol@3.8-6%2Bb1?arch=arm64
+- pkg:deb/debian/xtermcontrol@3.8-6%2Bb1?arch=riscv64
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=amd64
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=arm64
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=armel
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=armhf
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=i386
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=mips64el
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=mipsel
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=ppc64el
+- pkg:deb/debian/xtermcontrol@3.8-6?arch=s390x

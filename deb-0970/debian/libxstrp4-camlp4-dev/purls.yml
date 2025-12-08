@@ -1,0 +1,10 @@
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-3?arch=all
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-5?arch=all
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=arm64
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=armel
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=armhf
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=i386
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=ppc64el
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=s390x
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb4?arch=amd64
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb4?arch=riscv64

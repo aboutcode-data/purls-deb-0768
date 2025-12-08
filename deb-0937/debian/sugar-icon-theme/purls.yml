@@ -1,0 +1,4 @@
+- pkg:deb/debian/sugar-icon-theme@0.118-1?arch=all
+- pkg:deb/debian/sugar-icon-theme@0.120-1?arch=all
+- pkg:deb/debian/sugar-icon-theme@0.121-1?arch=all
+- pkg:deb/debian/sugar-icon-theme@0.121-2?arch=all

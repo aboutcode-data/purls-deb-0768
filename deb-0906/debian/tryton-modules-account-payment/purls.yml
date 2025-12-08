@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-account-payment@5.0.5-1?arch=all
+- pkg:deb/debian/tryton-modules-account-payment@6.0.3-2?arch=all
+- pkg:deb/debian/tryton-modules-account-payment@7.0.4-1?arch=all

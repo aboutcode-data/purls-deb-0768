@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-modules-user-role@6.0.0-3?arch=all
+- pkg:deb/debian/tryton-modules-user-role@7.0.0-3?arch=all

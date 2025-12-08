@@ -1,0 +1,2 @@
+- pkg:deb/debian/tzdata-legacy@2025b-4%2Bdeb13u1?arch=all
+- pkg:deb/debian/tzdata-legacy@2025b-5?arch=all

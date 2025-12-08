@@ -1,0 +1,4 @@
+- pkg:deb/debian/voltron@0.1.7%2Bgit20200109-1.1?arch=all
+- pkg:deb/debian/voltron@0.1.7%2Bgit20200109-3?arch=all
+- pkg:deb/debian/voltron@0.1.7%2Bgit20200109-4?arch=all
+- pkg:deb/debian/voltron@0.1.8-1?arch=all

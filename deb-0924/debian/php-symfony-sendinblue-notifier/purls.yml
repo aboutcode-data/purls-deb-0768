@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-symfony-sendinblue-notifier@5.4.23%2Bdfsg-1%2Bdeb12u4?arch=all
+- pkg:deb/debian/php-symfony-sendinblue-notifier@6.4.21%2Bdfsg-2?arch=all

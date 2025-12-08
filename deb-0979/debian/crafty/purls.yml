@@ -1,0 +1,17 @@
+- pkg:deb/debian/crafty@23.4-7?arch=amd64
+- pkg:deb/debian/crafty@23.4-7?arch=arm64
+- pkg:deb/debian/crafty@23.4-7?arch=armel
+- pkg:deb/debian/crafty@23.4-7?arch=armhf
+- pkg:deb/debian/crafty@23.4-7?arch=i386
+- pkg:deb/debian/crafty@23.4-7?arch=mips64el
+- pkg:deb/debian/crafty@23.4-7?arch=mipsel
+- pkg:deb/debian/crafty@23.4-7?arch=ppc64el
+- pkg:deb/debian/crafty@23.4-7?arch=s390x
+- pkg:deb/debian/crafty@23.4-9?arch=amd64
+- pkg:deb/debian/crafty@23.4-9?arch=arm64
+- pkg:deb/debian/crafty@23.4-9?arch=armel
+- pkg:deb/debian/crafty@23.4-9?arch=armhf
+- pkg:deb/debian/crafty@23.4-9?arch=i386
+- pkg:deb/debian/crafty@23.4-9?arch=ppc64el
+- pkg:deb/debian/crafty@23.4-9?arch=riscv64
+- pkg:deb/debian/crafty@23.4-9?arch=s390x

@@ -1,0 +1,6 @@
+- pkg:deb/debian/syslinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3%2Bb1?arch=amd64
+- pkg:deb/debian/syslinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3%2Bb1?arch=i386
+- pkg:deb/debian/syslinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3.1?arch=amd64
+- pkg:deb/debian/syslinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3.1?arch=i386
+- pkg:deb/debian/syslinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3.2?arch=amd64
+- pkg:deb/debian/syslinux@6.04~git20190206.bf6db5b4%2Bdfsg1-3.2?arch=i386

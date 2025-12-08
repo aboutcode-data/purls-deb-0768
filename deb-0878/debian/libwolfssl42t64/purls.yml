@@ -1,0 +1,8 @@
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=arm64
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=armel
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=armhf
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=i386
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=ppc64el
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=riscv64
+- pkg:deb/debian/libwolfssl42t64@5.7.2-0.1%2Bdeb13u1?arch=s390x

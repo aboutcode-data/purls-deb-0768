@@ -1,0 +1,15 @@
+- pkg:deb/debian/vtprint@2.0.2-14?arch=amd64
+- pkg:deb/debian/vtprint@2.0.2-14?arch=arm64
+- pkg:deb/debian/vtprint@2.0.2-14?arch=armhf
+- pkg:deb/debian/vtprint@2.0.2-14?arch=i386
+- pkg:deb/debian/vtprint@2.0.2-15%2Bb2?arch=arm64
+- pkg:deb/debian/vtprint@2.0.2-15%2Bb2?arch=riscv64
+- pkg:deb/debian/vtprint@2.0.2-15?arch=amd64
+- pkg:deb/debian/vtprint@2.0.2-15?arch=arm64
+- pkg:deb/debian/vtprint@2.0.2-15?arch=armel
+- pkg:deb/debian/vtprint@2.0.2-15?arch=armhf
+- pkg:deb/debian/vtprint@2.0.2-15?arch=i386
+- pkg:deb/debian/vtprint@2.0.2-15?arch=mips64el
+- pkg:deb/debian/vtprint@2.0.2-15?arch=mipsel
+- pkg:deb/debian/vtprint@2.0.2-15?arch=ppc64el
+- pkg:deb/debian/vtprint@2.0.2-15?arch=s390x

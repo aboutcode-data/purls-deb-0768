@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnvidia-tesla-460-cbl@460.106.00-17~deb11u1?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-460-cbl@460.106.00-17~deb11u1?arch=arm64
+- pkg:deb/debian/libnvidia-tesla-460-cbl@460.106.00-22?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-460-cbl@460.106.00-22?arch=arm64

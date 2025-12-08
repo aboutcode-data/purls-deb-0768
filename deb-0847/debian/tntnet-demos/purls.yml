@@ -1,0 +1,12 @@
+- pkg:deb/debian/tntnet-demos@2.2.1-4?arch=amd64
+- pkg:deb/debian/tntnet-demos@2.2.1-4?arch=arm64
+- pkg:deb/debian/tntnet-demos@2.2.1-4?arch=armhf
+- pkg:deb/debian/tntnet-demos@2.2.1-4?arch=i386
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=amd64
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=arm64
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=armel
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=armhf
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=i386
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=ppc64el
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=riscv64
+- pkg:deb/debian/tntnet-demos@3.0-4?arch=s390x

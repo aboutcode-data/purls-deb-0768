@@ -1,0 +1,5 @@
+- pkg:deb/debian/ui-auto@1.2.14-1?arch=all
+- pkg:deb/debian/ui-auto@1.2.15-1?arch=all
+- pkg:deb/debian/ui-auto@1.2.16-1?arch=all
+- pkg:deb/debian/ui-auto@1.2.17-1?arch=all
+- pkg:deb/debian/ui-auto@1.2.17-1~bpo13%2B1?arch=all

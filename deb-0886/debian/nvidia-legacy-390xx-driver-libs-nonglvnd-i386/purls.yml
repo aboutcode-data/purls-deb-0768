@@ -1,0 +1,2 @@
+- pkg:deb/debian/nvidia-legacy-390xx-driver-libs-nonglvnd-i386@390.157-14?arch=i386
+- pkg:deb/debian/nvidia-legacy-390xx-driver-libs-nonglvnd-i386@390.157-1~deb11u1?arch=i386

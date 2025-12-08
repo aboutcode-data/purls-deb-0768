@@ -1,0 +1,7 @@
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=amd64
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=arm64
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=armhf
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=i386
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=ppc64el
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=riscv64
+- pkg:deb/debian/libtet1.6@1.6.0%2Bdfsg1-3?arch=s390x

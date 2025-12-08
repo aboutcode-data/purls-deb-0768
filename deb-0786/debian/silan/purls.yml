@@ -1,0 +1,4 @@
+- pkg:deb/debian/silan@0.4.0-2?arch=amd64
+- pkg:deb/debian/silan@0.4.0-2?arch=arm64
+- pkg:deb/debian/silan@0.4.0-2?arch=armhf
+- pkg:deb/debian/silan@0.4.0-2?arch=i386

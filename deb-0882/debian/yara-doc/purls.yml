@@ -1,0 +1,5 @@
+- pkg:deb/debian/yara-doc@4.0.5-1?arch=all
+- pkg:deb/debian/yara-doc@4.2.3-4?arch=all
+- pkg:deb/debian/yara-doc@4.5.2-1?arch=all
+- pkg:deb/debian/yara-doc@4.5.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/yara-doc@4.5.4-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnvidia-cbl@470.256.02-2?arch=amd64
+- pkg:deb/debian/libnvidia-cbl@470.256.02-2?arch=arm64

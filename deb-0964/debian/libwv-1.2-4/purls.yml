@@ -1,0 +1,13 @@
+- pkg:deb/debian/libwv-1.2-4@1.2.9-4.2%2Bb2?arch=amd64
+- pkg:deb/debian/libwv-1.2-4@1.2.9-4.2%2Bb2?arch=arm64
+- pkg:deb/debian/libwv-1.2-4@1.2.9-4.2%2Bb2?arch=armhf
+- pkg:deb/debian/libwv-1.2-4@1.2.9-4.2%2Bb2?arch=i386
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=amd64
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=arm64
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=armel
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=armhf
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=i386
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=mips64el
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=mipsel
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=ppc64el
+- pkg:deb/debian/libwv-1.2-4@1.2.9-5?arch=s390x

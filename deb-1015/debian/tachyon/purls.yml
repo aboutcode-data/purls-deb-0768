@@ -1,0 +1,4 @@
+- pkg:deb/debian/tachyon@0.99~b6%2Bdsx-10?arch=all
+- pkg:deb/debian/tachyon@0.99~b6%2Bdsx-14?arch=all
+- pkg:deb/debian/tachyon@0.99~b6%2Bdsx-16?arch=all
+- pkg:deb/debian/tachyon@0.99~b6%2Bdsx-9?arch=all

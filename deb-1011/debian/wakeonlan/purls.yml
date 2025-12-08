@@ -1,0 +1,2 @@
+- pkg:deb/debian/wakeonlan@0.41-12.1?arch=all
+- pkg:deb/debian/wakeonlan@0.41-14?arch=all

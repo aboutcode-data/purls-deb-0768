@@ -1,0 +1,2 @@
+- pkg:deb/debian/virt-install@5.0.0-5%2Bdeb13u1?arch=all
+- pkg:deb/debian/virt-install@5.1.0-1?arch=all

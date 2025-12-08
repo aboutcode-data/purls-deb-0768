@@ -1,0 +1,4 @@
+- pkg:deb/debian/xfe-i18n@1.43.2-3?arch=all
+- pkg:deb/debian/xfe-i18n@1.45-2?arch=all
+- pkg:deb/debian/xfe-i18n@2.0.1-2?arch=all
+- pkg:deb/debian/xfe-i18n@2.1.1-1?arch=all

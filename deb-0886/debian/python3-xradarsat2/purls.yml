@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-xradarsat2@2024.11.12%2Bds-1?arch=all
+- pkg:deb/debian/python3-xradarsat2@2025.10.15%2Bds-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-sphinx-toolbox@3.9.0-1?arch=all
+- pkg:deb/debian/python3-sphinx-toolbox@4.0.0-2?arch=all

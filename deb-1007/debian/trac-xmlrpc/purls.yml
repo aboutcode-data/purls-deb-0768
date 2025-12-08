@@ -1,0 +1,2 @@
+- pkg:deb/debian/trac-xmlrpc@1.2.0%2Bsvn18521-2~bpo12%2B1?arch=all
+- pkg:deb/debian/trac-xmlrpc@1.2.0%2Bsvn18657-1?arch=all

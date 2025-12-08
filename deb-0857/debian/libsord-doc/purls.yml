@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsord-doc@0.16.14%2Bgit221008-1?arch=all
+- pkg:deb/debian/libsord-doc@0.16.18-1?arch=all
+- pkg:deb/debian/libsord-doc@0.16.20-1?arch=all
+- pkg:deb/debian/libsord-doc@0.16.8-2?arch=all

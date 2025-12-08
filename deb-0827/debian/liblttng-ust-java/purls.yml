@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblttng-ust-java@2.12.1-1?arch=all
+- pkg:deb/debian/liblttng-ust-java@2.13.5-1?arch=all
+- pkg:deb/debian/liblttng-ust-java@2.13.9-1?arch=all
+- pkg:deb/debian/liblttng-ust-java@2.14.0-1.1?arch=all

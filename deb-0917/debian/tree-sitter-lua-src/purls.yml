@@ -1,0 +1,2 @@
+- pkg:deb/debian/tree-sitter-lua-src@0.1.0-3?arch=all
+- pkg:deb/debian/tree-sitter-lua-src@0.4.0-3?arch=all

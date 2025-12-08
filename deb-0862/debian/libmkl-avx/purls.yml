@@ -1,0 +1,6 @@
+- pkg:deb/debian/libmkl-avx@2020.4.304-2?arch=amd64
+- pkg:deb/debian/libmkl-avx@2020.4.304-2?arch=i386
+- pkg:deb/debian/libmkl-avx@2020.4.304-4?arch=amd64
+- pkg:deb/debian/libmkl-avx@2020.4.304-4?arch=i386
+- pkg:deb/debian/libmkl-avx@2020.4.304-6?arch=amd64
+- pkg:deb/debian/libmkl-avx@2020.4.304-6?arch=i386

@@ -1,0 +1,17 @@
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=amd64
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=arm64
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=armel
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=armhf
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=i386
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=riscv64
+- pkg:deb/debian/libucl1@1.03%2Brepack-6%2Bb3?arch=s390x
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=amd64
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=arm64
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=armel
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=armhf
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=i386
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=mips64el
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=mipsel
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=ppc64el
+- pkg:deb/debian/libucl1@1.03%2Brepack-6?arch=s390x

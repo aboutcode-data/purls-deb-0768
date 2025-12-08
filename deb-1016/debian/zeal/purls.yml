@@ -1,0 +1,14 @@
+- pkg:deb/debian/zeal@0.6.1%2Bgit20220714%2B6fee23-2?arch=amd64
+- pkg:deb/debian/zeal@0.6.1%2Bgit20220714%2B6fee23-2?arch=arm64
+- pkg:deb/debian/zeal@0.6.1%2Bgit20220714%2B6fee23-2?arch=armhf
+- pkg:deb/debian/zeal@0.6.1%2Bgit20220714%2B6fee23-2?arch=i386
+- pkg:deb/debian/zeal@0.6.1%2Bgit20220714%2B6fee23-2?arch=mips64el
+- pkg:deb/debian/zeal@0.6.1%2Bgit20220714%2B6fee23-2?arch=mipsel
+- pkg:deb/debian/zeal@0.7.2-1.1%2Bb1?arch=amd64
+- pkg:deb/debian/zeal@0.7.2-1.1%2Bb1?arch=arm64
+- pkg:deb/debian/zeal@0.7.2-1.1%2Bb1?arch=armhf
+- pkg:deb/debian/zeal@0.7.2-1.1%2Bb1?arch=i386
+- pkg:deb/debian/zeal@0.7.2-1.1?arch=amd64
+- pkg:deb/debian/zeal@0.7.2-1.1?arch=arm64
+- pkg:deb/debian/zeal@0.7.2-1.1?arch=armhf
+- pkg:deb/debian/zeal@0.7.2-1.1?arch=i386

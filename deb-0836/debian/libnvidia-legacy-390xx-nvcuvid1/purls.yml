@@ -1,0 +1,6 @@
+- pkg:deb/debian/libnvidia-legacy-390xx-nvcuvid1@390.157-14?arch=amd64
+- pkg:deb/debian/libnvidia-legacy-390xx-nvcuvid1@390.157-14?arch=armhf
+- pkg:deb/debian/libnvidia-legacy-390xx-nvcuvid1@390.157-14?arch=i386
+- pkg:deb/debian/libnvidia-legacy-390xx-nvcuvid1@390.157-1~deb11u1?arch=amd64
+- pkg:deb/debian/libnvidia-legacy-390xx-nvcuvid1@390.157-1~deb11u1?arch=armhf
+- pkg:deb/debian/libnvidia-legacy-390xx-nvcuvid1@390.157-1~deb11u1?arch=i386

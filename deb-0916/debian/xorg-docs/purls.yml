@@ -1,0 +1,2 @@
+- pkg:deb/debian/xorg-docs@1.7.1-1.2?arch=all
+- pkg:deb/debian/xorg-docs@1.7.3-1?arch=all

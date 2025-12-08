@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-zope.exceptions@4.4-1?arch=all
+- pkg:deb/debian/python3-zope.exceptions@4.6-1?arch=all
+- pkg:deb/debian/python3-zope.exceptions@5.2-1?arch=all
+- pkg:deb/debian/python3-zope.exceptions@6.0-2?arch=all

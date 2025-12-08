@@ -1,0 +1,6 @@
+- pkg:deb/debian/firmware-netronome@20210315-3?arch=all
+- pkg:deb/debian/firmware-netronome@20230210-5?arch=all
+- pkg:deb/debian/firmware-netronome@20250410-2?arch=all
+- pkg:deb/debian/firmware-netronome@20250410-2~bpo12%2B1?arch=all
+- pkg:deb/debian/firmware-netronome@20251021-1~bpo13%2B1?arch=all
+- pkg:deb/debian/firmware-netronome@20251111-1?arch=all

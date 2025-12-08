@@ -1,0 +1,5 @@
+- pkg:deb/debian/wsjtx-data@2.3.0%2Brepack-2?arch=all
+- pkg:deb/debian/wsjtx-data@2.6.1%2Brepack-1?arch=all
+- pkg:deb/debian/wsjtx-data@2.7.0%2Brepack-1?arch=all
+- pkg:deb/debian/wsjtx-data@2.7.0~rc6%2Bdfsg-1~bpo12%2B1?arch=all
+- pkg:deb/debian/wsjtx-data@3.0.0~rc1%2Brepack-2?arch=all

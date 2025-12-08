@@ -1,0 +1,5 @@
+- pkg:deb/debian/libxnnpack0.20241108@0.0~git20241108.4ea82e5-2?arch=amd64
+- pkg:deb/debian/libxnnpack0.20241108@0.0~git20241108.4ea82e5-2?arch=arm64
+- pkg:deb/debian/libxnnpack0.20241108@0.0~git20241108.4ea82e5-2?arch=armhf
+- pkg:deb/debian/libxnnpack0.20241108@0.0~git20241108.4ea82e5-2?arch=i386
+- pkg:deb/debian/libxnnpack0.20241108@0.0~git20241108.4ea82e5-2?arch=riscv64

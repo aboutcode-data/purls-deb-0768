@@ -1,0 +1,4 @@
+- pkg:deb/debian/whereami@0.3.34-0.4?arch=all
+- pkg:deb/debian/whereami@0.3.34-0.5?arch=all
+- pkg:deb/debian/whereami@0.3.35?arch=all
+- pkg:deb/debian/whereami@0.3.36?arch=all

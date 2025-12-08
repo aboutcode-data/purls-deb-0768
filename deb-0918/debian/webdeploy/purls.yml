@@ -1,0 +1,2 @@
+- pkg:deb/debian/webdeploy@1.0-2.1?arch=all
+- pkg:deb/debian/webdeploy@1.0-2?arch=all

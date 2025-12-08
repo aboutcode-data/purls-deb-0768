@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-traitlets@5.0.5-1?arch=all
+- pkg:deb/debian/python3-traitlets@5.14.3%2Breally5.14.3-1?arch=all
+- pkg:deb/debian/python3-traitlets@5.14.3%2Breally5.14.3-2?arch=all
+- pkg:deb/debian/python3-traitlets@5.5.0-1?arch=all

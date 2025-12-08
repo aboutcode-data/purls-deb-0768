@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-modules-web-shop-vue-storefront-stripe@6.0.1-4?arch=all
+- pkg:deb/debian/tryton-modules-web-shop-vue-storefront-stripe@7.0.0-3?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/php-symfony-cache@4.4.19%2Bdfsg-2%2Bdeb11u6?arch=all
+- pkg:deb/debian/php-symfony-cache@5.4.23%2Bdfsg-1%2Bdeb12u4?arch=all
+- pkg:deb/debian/php-symfony-cache@6.4.21%2Bdfsg-2?arch=all
+- pkg:deb/debian/php-symfony-cache@7.4.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/php-symfony-cache@7.4.0~rc2%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-symfony-cache@8.0.0%2Bdfsg-1?arch=all
