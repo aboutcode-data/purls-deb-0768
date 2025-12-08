@@ -1,0 +1,16 @@
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=amd64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=arm64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=i386
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=mips64el
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=mipsel
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=ppc64el
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3%2Bb4?arch=s390x
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3?arch=amd64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3?arch=arm64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-3?arch=i386
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-4%2Bb5?arch=amd64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-4%2Bb5?arch=arm64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-4%2Bb5?arch=i386
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-4%2Bb5?arch=ppc64el
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-4%2Bb5?arch=riscv64
+- pkg:deb/debian/topp@2.6.0%2Bcleaned1-4%2Bb5?arch=s390x

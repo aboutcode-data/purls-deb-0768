@@ -1,0 +1,2 @@
+- pkg:deb/debian/miniramfs@1.0.1?arch=all
+- pkg:deb/debian/miniramfs@1.0.6?arch=all

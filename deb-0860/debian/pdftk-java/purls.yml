@@ -1,0 +1,3 @@
+- pkg:deb/debian/pdftk-java@3.2.2-1?arch=all
+- pkg:deb/debian/pdftk-java@3.3.2-1?arch=all
+- pkg:deb/debian/pdftk-java@3.3.3-2?arch=all

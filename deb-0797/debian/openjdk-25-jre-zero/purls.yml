@@ -1,0 +1,10 @@
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1?arch=amd64
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1?arch=arm64
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1?arch=ppc64el
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1?arch=riscv64
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1?arch=s390x
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1~deb13u1?arch=amd64
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1~deb13u1?arch=arm64
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1~deb13u1?arch=ppc64el
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1~deb13u1?arch=riscv64
+- pkg:deb/debian/openjdk-25-jre-zero@25.0.1%2B8-1~deb13u1?arch=s390x

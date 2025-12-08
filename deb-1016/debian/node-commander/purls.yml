@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-commander@14.0.0-1?arch=all
+- pkg:deb/debian/node-commander@6.2.1-2?arch=all
+- pkg:deb/debian/node-commander@9.4.1-1?arch=all

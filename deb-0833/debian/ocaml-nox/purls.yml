@@ -1,0 +1,7 @@
+- pkg:deb/debian/ocaml-nox@4.11.1-4?arch=amd64
+- pkg:deb/debian/ocaml-nox@4.11.1-4?arch=arm64
+- pkg:deb/debian/ocaml-nox@4.11.1-4?arch=armhf
+- pkg:deb/debian/ocaml-nox@4.11.1-4?arch=i386
+- pkg:deb/debian/ocaml-nox@4.13.1-4?arch=all
+- pkg:deb/debian/ocaml-nox@5.3.0-3?arch=all
+- pkg:deb/debian/ocaml-nox@5.4.0-1~exp1?arch=all

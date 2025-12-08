@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-crc@3.8.0%2Bds-3?arch=all
+- pkg:deb/debian/node-crc@4.1.1-3?arch=all
+- pkg:deb/debian/node-crc@4.3.2-1?arch=all

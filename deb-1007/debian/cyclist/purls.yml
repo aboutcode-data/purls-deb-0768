@@ -1,0 +1,4 @@
+- pkg:deb/debian/cyclist@0.2~beta3-5?arch=amd64
+- pkg:deb/debian/cyclist@0.2~beta3-5?arch=arm64
+- pkg:deb/debian/cyclist@0.2~beta3-5?arch=armhf
+- pkg:deb/debian/cyclist@0.2~beta3-5?arch=i386

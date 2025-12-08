@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-redis-all-dev@5.3.7%2B4.3.0-3?arch=all
+- pkg:deb/debian/php-redis-all-dev@6.2.0-1?arch=all

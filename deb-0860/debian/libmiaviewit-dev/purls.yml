@@ -1,0 +1,9 @@
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=amd64
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=arm64
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=armel
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=armhf
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=i386
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=mips64el
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=mipsel
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=ppc64el
+- pkg:deb/debian/libmiaviewit-dev@1.0.5-3?arch=s390x

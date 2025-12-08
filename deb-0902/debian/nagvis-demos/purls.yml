@@ -1,0 +1,4 @@
+- pkg:deb/debian/nagvis-demos@1.9.25-2?arch=all
+- pkg:deb/debian/nagvis-demos@1.9.34-1?arch=all
+- pkg:deb/debian/nagvis-demos@1.9.47-1?arch=all
+- pkg:deb/debian/nagvis-demos@1.9.48-1?arch=all

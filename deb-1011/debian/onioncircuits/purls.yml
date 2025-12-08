@@ -1,0 +1,3 @@
+- pkg:deb/debian/onioncircuits@0.7-2?arch=all
+- pkg:deb/debian/onioncircuits@0.7-3?arch=all
+- pkg:deb/debian/onioncircuits@0.8.2-1?arch=all

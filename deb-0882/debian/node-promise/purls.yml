@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-promise@8.1.0-2?arch=all
+- pkg:deb/debian/node-promise@8.3.0-2?arch=all

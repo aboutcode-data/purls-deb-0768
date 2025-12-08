@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-end-of-stream@1.4.4%2B~1.4.1-1?arch=all
+- pkg:deb/debian/node-end-of-stream@1.4.4-1?arch=all

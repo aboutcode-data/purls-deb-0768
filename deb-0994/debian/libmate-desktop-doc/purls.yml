@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmate-desktop-doc@1.24.1-2?arch=all
+- pkg:deb/debian/libmate-desktop-doc@1.26.0-2?arch=all
+- pkg:deb/debian/libmate-desktop-doc@1.26.2-1.2?arch=all
+- pkg:deb/debian/libmate-desktop-doc@1.28.2-1?arch=all

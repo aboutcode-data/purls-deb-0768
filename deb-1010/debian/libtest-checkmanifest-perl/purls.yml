@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtest-checkmanifest-perl@1.42-1?arch=all
+- pkg:deb/debian/libtest-checkmanifest-perl@1.43-1?arch=all
+- pkg:deb/debian/libtest-checkmanifest-perl@1.43-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwnck-3-common@3.36.0-1?arch=all
+- pkg:deb/debian/libwnck-3-common@43.0-3?arch=all
+- pkg:deb/debian/libwnck-3-common@43.2-1?arch=all
+- pkg:deb/debian/libwnck-3-common@43.3-1?arch=all

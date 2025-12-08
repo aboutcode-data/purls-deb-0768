@@ -1,0 +1,14 @@
+- pkg:deb/debian/php-memcached@3.1.5%2B2.2.0-5%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/php-memcached@3.1.5%2B2.2.0-5%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/php-memcached@3.1.5%2B2.2.0-5%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/php-memcached@3.1.5%2B2.2.0-5%2Bdeb11u1?arch=i386
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=amd64
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=arm64
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=armel
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=armhf
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=i386
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=mips64el
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=mipsel
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=ppc64el
+- pkg:deb/debian/php-memcached@3.2.0%2B2.2.0-4?arch=s390x
+- pkg:deb/debian/php-memcached@3.3.0-3?arch=all

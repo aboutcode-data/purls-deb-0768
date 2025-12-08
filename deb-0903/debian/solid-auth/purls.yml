@@ -1,0 +1,2 @@
+- pkg:deb/debian/solid-auth@0.91-1?arch=all
+- pkg:deb/debian/solid-auth@0.91-2?arch=all

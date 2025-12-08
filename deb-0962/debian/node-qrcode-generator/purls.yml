@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-qrcode-generator@1.4.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/node-qrcode-generator@1.4.4%2Bdfsg-3?arch=all

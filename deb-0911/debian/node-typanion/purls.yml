@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-typanion@3.14.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/node-typanion@3.8.0%2Bdfsg-3?arch=all

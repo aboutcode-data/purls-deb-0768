@@ -1,0 +1,15 @@
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=amd64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=arm64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=armel
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=armhf
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=i386
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=ppc64el
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=riscv64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=s390x
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=amd64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=arm64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=armhf
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=i386
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=riscv64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb9?arch=s390x

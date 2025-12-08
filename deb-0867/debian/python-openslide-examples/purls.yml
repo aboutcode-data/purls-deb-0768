@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-openslide-examples@1.1.2-1?arch=all
+- pkg:deb/debian/python-openslide-examples@1.2.0-1?arch=all
+- pkg:deb/debian/python-openslide-examples@1.4.1-1?arch=all
+- pkg:deb/debian/python-openslide-examples@1.4.2-1?arch=all

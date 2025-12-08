@@ -1,0 +1,6 @@
+- pkg:deb/debian/openqa-worker@4.6.1674490999.b00c12673-2?arch=all
+- pkg:deb/debian/openqa-worker@4.6.1732034221.ae34b08ff-2?arch=all
+- pkg:deb/debian/openqa-worker@4.6.1732034221.ae34b08ff-2~bpo12%2B1?arch=all
+- pkg:deb/debian/openqa-worker@5.1754383059.0426baa1d-3?arch=all
+- pkg:deb/debian/openqa-worker@5.1764349525.ffb594867-1?arch=all
+- pkg:deb/debian/openqa-worker@5.1764349525.ffb594867-1~bpo13%2B1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/proguard-gui@6.2.0-1?arch=all
+- pkg:deb/debian/proguard-gui@6.2.2-3?arch=all

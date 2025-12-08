@@ -1,0 +1,4 @@
+- pkg:deb/debian/poezio@0.13.1-1?arch=all
+- pkg:deb/debian/poezio@0.14-2?arch=all
+- pkg:deb/debian/poezio@0.15.1-1?arch=all
+- pkg:deb/debian/poezio@0.15.1-2?arch=all

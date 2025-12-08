@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxsettings-client-doc@0.17-10?arch=all
+- pkg:deb/debian/libxsettings-client-doc@0.17-11?arch=all
+- pkg:deb/debian/libxsettings-client-doc@0.17-12?arch=all
+- pkg:deb/debian/libxsettings-client-doc@0.17-14?arch=all

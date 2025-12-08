@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-applause@1.2.2-3?arch=all
+- pkg:deb/debian/node-applause@2.0.4%2B~cs2.1.13-2?arch=all

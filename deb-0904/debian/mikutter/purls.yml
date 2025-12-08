@@ -1,0 +1,3 @@
+- pkg:deb/debian/mikutter@4.1.3%2Bdfsg1-1?arch=all
+- pkg:deb/debian/mikutter@5.0.4%2Bdfsg1-2?arch=all
+- pkg:deb/debian/mikutter@5.1.0%2Bdfsg-1?arch=all

@@ -1,0 +1,14 @@
+- pkg:deb/debian/php-uopz@6.1.2-4?arch=amd64
+- pkg:deb/debian/php-uopz@6.1.2-4?arch=arm64
+- pkg:deb/debian/php-uopz@6.1.2-4?arch=armhf
+- pkg:deb/debian/php-uopz@6.1.2-4?arch=i386
+- pkg:deb/debian/php-uopz@7.1.1%2B%2B-4?arch=all
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=amd64
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=arm64
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=armel
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=armhf
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=i386
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=mips64el
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=mipsel
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=ppc64el
+- pkg:deb/debian/php-uopz@7.1.1%2B6.1.2-7?arch=s390x

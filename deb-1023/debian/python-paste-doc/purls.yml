@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-paste-doc@3.10.1-1?arch=all
+- pkg:deb/debian/python-paste-doc@3.5.0%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python-paste-doc@3.5.2%2Brepack-1?arch=all

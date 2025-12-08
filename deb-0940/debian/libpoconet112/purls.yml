@@ -1,0 +1,7 @@
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=amd64
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=arm64
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=armhf
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=i386
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=ppc64el
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=riscv64
+- pkg:deb/debian/libpoconet112@1.14.2-3?arch=s390x

@@ -1,0 +1,11 @@
+- pkg:deb/debian/prove6@0.0.12-10?arch=all
+- pkg:deb/debian/prove6@0.0.12-3?arch=all
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=amd64
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=arm64
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=armel
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=armhf
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=i386
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=mips64el
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=mipsel
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=ppc64el
+- pkg:deb/debian/prove6@0.0.12-7%2Bb2?arch=s390x

@@ -1,0 +1,16 @@
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=amd64
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=arm64
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=armel
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=armhf
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=i386
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=mips64el
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=mipsel
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=ppc64el
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.0-4?arch=s390x
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=amd64
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=arm64
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=armhf
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=i386
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=ppc64el
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=riscv64
+- pkg:deb/debian/libopencl-clang-14-dev@14.0.2-3?arch=s390x

@@ -1,0 +1,13 @@
+- pkg:deb/debian/libncap44@1.9.2-7?arch=amd64
+- pkg:deb/debian/libncap44@1.9.2-7?arch=arm64
+- pkg:deb/debian/libncap44@1.9.2-7?arch=armhf
+- pkg:deb/debian/libncap44@1.9.2-7?arch=i386
+- pkg:deb/debian/libncap44@1.9.2-8?arch=amd64
+- pkg:deb/debian/libncap44@1.9.2-8?arch=arm64
+- pkg:deb/debian/libncap44@1.9.2-8?arch=armel
+- pkg:deb/debian/libncap44@1.9.2-8?arch=armhf
+- pkg:deb/debian/libncap44@1.9.2-8?arch=i386
+- pkg:deb/debian/libncap44@1.9.2-8?arch=mips64el
+- pkg:deb/debian/libncap44@1.9.2-8?arch=mipsel
+- pkg:deb/debian/libncap44@1.9.2-8?arch=ppc64el
+- pkg:deb/debian/libncap44@1.9.2-8?arch=s390x

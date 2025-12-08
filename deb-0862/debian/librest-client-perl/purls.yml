@@ -1,0 +1,2 @@
+- pkg:deb/debian/librest-client-perl@273-1.1?arch=all
+- pkg:deb/debian/librest-client-perl@281-1?arch=all

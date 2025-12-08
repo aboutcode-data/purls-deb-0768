@@ -1,0 +1,2 @@
+- pkg:deb/debian/obs-worker@2.9.4-10?arch=all
+- pkg:deb/debian/obs-worker@2.9.4-9?arch=all

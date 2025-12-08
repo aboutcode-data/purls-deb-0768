@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsnmp-mib-compiler-perl@0.06-3?arch=all
+- pkg:deb/debian/libsnmp-mib-compiler-perl@0.06-4?arch=all

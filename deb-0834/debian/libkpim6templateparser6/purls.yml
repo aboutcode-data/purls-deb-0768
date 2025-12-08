@@ -1,0 +1,12 @@
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-4?arch=amd64
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-4?arch=arm64
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-4?arch=armhf
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-4?arch=i386
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-5%2Bb1?arch=amd64
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-5%2Bb1?arch=arm64
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-5%2Bb1?arch=armhf
+- pkg:deb/debian/libkpim6templateparser6@24.12.3-5%2Bb1?arch=i386
+- pkg:deb/debian/libkpim6templateparser6@25.08.3-2?arch=amd64
+- pkg:deb/debian/libkpim6templateparser6@25.08.3-2?arch=arm64
+- pkg:deb/debian/libkpim6templateparser6@25.08.3-2?arch=armhf
+- pkg:deb/debian/libkpim6templateparser6@25.08.3-2?arch=i386

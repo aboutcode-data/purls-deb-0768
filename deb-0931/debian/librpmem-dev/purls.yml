@@ -1,0 +1,2 @@
+- pkg:deb/debian/librpmem-dev@1.10-2%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/librpmem-dev@1.10-2%2Bdeb11u1?arch=arm64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/nova-compute-lxc@22.0.1-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/nova-compute-lxc@26.2.2-1~deb12u3?arch=all
+- pkg:deb/debian/nova-compute-lxc@31.0.0-6%2Bdeb13u1?arch=all
+- pkg:deb/debian/nova-compute-lxc@32.1.0-4?arch=all

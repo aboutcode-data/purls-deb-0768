@@ -1,0 +1,15 @@
+- pkg:deb/debian/poc-streamer@0.4.2-5?arch=amd64
+- pkg:deb/debian/poc-streamer@0.4.2-5?arch=arm64
+- pkg:deb/debian/poc-streamer@0.4.2-5?arch=armhf
+- pkg:deb/debian/poc-streamer@0.4.2-5?arch=i386
+- pkg:deb/debian/poc-streamer@0.4.2-7%2Bb1?arch=arm64
+- pkg:deb/debian/poc-streamer@0.4.2-7%2Bb1?arch=riscv64
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=amd64
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=arm64
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=armel
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=armhf
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=i386
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=mips64el
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=mipsel
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=ppc64el
+- pkg:deb/debian/poc-streamer@0.4.2-7?arch=s390x

@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-preprepare@0.9-10?arch=amd64
+- pkg:deb/debian/postgresql-18-preprepare@0.9-10?arch=arm64
+- pkg:deb/debian/postgresql-18-preprepare@0.9-10?arch=ppc64el
+- pkg:deb/debian/postgresql-18-preprepare@0.9-10?arch=riscv64
+- pkg:deb/debian/postgresql-18-preprepare@0.9-10?arch=s390x

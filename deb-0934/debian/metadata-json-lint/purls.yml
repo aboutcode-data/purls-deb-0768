@@ -1,0 +1,2 @@
+- pkg:deb/debian/metadata-json-lint@3.0.0-2?arch=all
+- pkg:deb/debian/metadata-json-lint@5.0.0-1?arch=all

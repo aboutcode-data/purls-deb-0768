@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxxf86dga1-dbg@1.1.4-1%2Bb3?arch=amd64
+- pkg:deb/debian/libxxf86dga1-dbg@1.1.4-1%2Bb3?arch=arm64
+- pkg:deb/debian/libxxf86dga1-dbg@1.1.4-1%2Bb3?arch=armhf
+- pkg:deb/debian/libxxf86dga1-dbg@1.1.4-1%2Bb3?arch=i386

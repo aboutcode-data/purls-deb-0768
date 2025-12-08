@@ -1,0 +1,3 @@
+- pkg:deb/debian/opentelemetry-proto@1.5.0-1?arch=all
+- pkg:deb/debian/opentelemetry-proto@1.5.0-1~bpo12%2B1~1?arch=all
+- pkg:deb/debian/opentelemetry-proto@1.8.0-1?arch=all

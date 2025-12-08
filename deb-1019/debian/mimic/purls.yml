@@ -1,0 +1,5 @@
+- pkg:deb/debian/mimic@0.7.0%2Bds-2?arch=amd64
+- pkg:deb/debian/mimic@0.7.0%2Bds-2?arch=arm64
+- pkg:deb/debian/mimic@0.7.0%2Bds-2?arch=ppc64el
+- pkg:deb/debian/mimic@0.7.0%2Bds-2?arch=riscv64
+- pkg:deb/debian/mimic@0.7.0%2Bds-2?arch=s390x

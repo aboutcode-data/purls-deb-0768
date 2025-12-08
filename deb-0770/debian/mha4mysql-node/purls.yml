@@ -1,0 +1,3 @@
+- pkg:deb/debian/mha4mysql-node@0.58-1.1?arch=all
+- pkg:deb/debian/mha4mysql-node@0.58-2?arch=all
+- pkg:deb/debian/mha4mysql-node@0.58-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libzypp-config@17.25.7-1?arch=all
+- pkg:deb/debian/libzypp-config@17.25.7-2.4?arch=all
+- pkg:deb/debian/libzypp-config@17.36.7-1?arch=all
+- pkg:deb/debian/libzypp-config@17.37.17-1?arch=all

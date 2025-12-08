@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-pg-hint-plan@1.8.0-2?arch=amd64
+- pkg:deb/debian/postgresql-18-pg-hint-plan@1.8.0-2?arch=arm64
+- pkg:deb/debian/postgresql-18-pg-hint-plan@1.8.0-2?arch=ppc64el
+- pkg:deb/debian/postgresql-18-pg-hint-plan@1.8.0-2?arch=riscv64
+- pkg:deb/debian/postgresql-18-pg-hint-plan@1.8.0-2?arch=s390x

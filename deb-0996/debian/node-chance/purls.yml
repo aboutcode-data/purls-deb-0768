@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-chance@2.2.6%2Bdfsg-1?arch=all
+- pkg:deb/debian/node-chance@2.2.6%2Bdfsg-6?arch=all

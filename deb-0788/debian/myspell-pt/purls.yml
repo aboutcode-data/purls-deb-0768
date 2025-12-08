@@ -1,0 +1,3 @@
+- pkg:deb/debian/myspell-pt@20091013-17?arch=all
+- pkg:deb/debian/myspell-pt@20091013-18?arch=all
+- pkg:deb/debian/myspell-pt@20091013-19?arch=all

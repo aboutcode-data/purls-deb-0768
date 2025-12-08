@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-busboy@1.6.0%2B~cs2.6.0-2?arch=all
+- pkg:deb/debian/node-busboy@1.6.0%2B~cs2.6.4-1?arch=all

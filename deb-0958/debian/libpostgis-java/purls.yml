@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpostgis-java@2.4.0-2?arch=all
+- pkg:deb/debian/libpostgis-java@2021.1.0-1?arch=all
+- pkg:deb/debian/libpostgis-java@2024.1.0-1?arch=all
+- pkg:deb/debian/libpostgis-java@2025.1.0-1?arch=all

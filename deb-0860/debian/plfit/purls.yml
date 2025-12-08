@@ -1,0 +1,16 @@
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=amd64
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=arm64
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=armel
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=armhf
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=i386
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=mips64el
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=mipsel
+- pkg:deb/debian/plfit@0.9.4%2Bds-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=amd64
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=arm64
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=armel
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=armhf
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=i386
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=riscv64
+- pkg:deb/debian/plfit@0.9.6%2Bds-2%2Bb1?arch=s390x

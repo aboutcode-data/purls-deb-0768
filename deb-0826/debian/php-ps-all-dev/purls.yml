@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-ps-all-dev@1.4.4%2B%2B-4?arch=all
+- pkg:deb/debian/php-ps-all-dev@1.4.4%2B1.3.7-7?arch=all

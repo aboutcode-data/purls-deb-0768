@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmediastreamer11@4.4.21-3?arch=amd64
+- pkg:deb/debian/libmediastreamer11@4.4.21-3?arch=arm64
+- pkg:deb/debian/libmediastreamer11@4.4.21-3?arch=armhf
+- pkg:deb/debian/libmediastreamer11@4.4.21-3?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-zmq-all-dev@1.1.3-24?arch=all
+- pkg:deb/debian/php-zmq-all-dev@1.1.3-30?arch=all

@@ -1,0 +1,9 @@
+- pkg:deb/debian/igblast@1.19.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/igblast@1.19.0-1%2Bb1?arch=arm64
+- pkg:deb/debian/igblast@1.19.0-1%2Bb1?arch=mips64el
+- pkg:deb/debian/igblast@1.19.0-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/igblast@1.19.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/igblast@1.20.0-2?arch=amd64
+- pkg:deb/debian/igblast@1.20.0-2?arch=arm64
+- pkg:deb/debian/igblast@1.20.0-3?arch=amd64
+- pkg:deb/debian/igblast@1.20.0-3?arch=arm64

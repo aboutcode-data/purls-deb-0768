@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-sinon-chai@3.5.0-2?arch=all
+- pkg:deb/debian/node-sinon-chai@3.7.0%2B~cs3.2.5-1?arch=all

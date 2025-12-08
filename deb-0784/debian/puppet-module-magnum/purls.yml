@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-magnum@17.4.0-2?arch=all
+- pkg:deb/debian/puppet-module-magnum@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-magnum@25.0.0-2?arch=all
+- pkg:deb/debian/puppet-module-magnum@27.0.0-1?arch=all

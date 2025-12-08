@@ -1,0 +1,2 @@
+- pkg:deb/debian/libspelling-common@0.4.8-1?arch=all
+- pkg:deb/debian/libspelling-common@0.4.9-1?arch=all

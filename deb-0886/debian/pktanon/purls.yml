@@ -1,0 +1,15 @@
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-10?arch=amd64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-10?arch=arm64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-10?arch=i386
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-10?arch=mips64el
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-10?arch=mipsel
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-10?arch=ppc64el
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-12%2Bb1?arch=amd64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-12%2Bb1?arch=i386
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-12%2Bb1?arch=ppc64el
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-12%2Bb2?arch=arm64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-12%2Bb2?arch=riscv64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-7%2Bb1?arch=amd64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-7%2Bb1?arch=arm64
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-7%2Bb1?arch=armhf
+- pkg:deb/debian/pktanon@2~git20160407.0.2bde4f2%2Bdfsg-7%2Bb1?arch=i386

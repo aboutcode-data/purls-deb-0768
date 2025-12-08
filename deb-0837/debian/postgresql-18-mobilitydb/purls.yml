@@ -1,0 +1,4 @@
+- pkg:deb/debian/postgresql-18-mobilitydb@1.3.0~alpha-3?arch=amd64
+- pkg:deb/debian/postgresql-18-mobilitydb@1.3.0~alpha-3?arch=arm64
+- pkg:deb/debian/postgresql-18-mobilitydb@1.3.0~alpha-3?arch=ppc64el
+- pkg:deb/debian/postgresql-18-mobilitydb@1.3.0~alpha-3?arch=riscv64

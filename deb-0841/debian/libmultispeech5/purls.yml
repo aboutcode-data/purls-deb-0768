@@ -1,0 +1,15 @@
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=amd64
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=arm64
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=armel
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=armhf
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=i386
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=ppc64el
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=riscv64
+- pkg:deb/debian/libmultispeech5@4.6.2-2?arch=s390x
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=amd64
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=arm64
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=armhf
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=i386
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=ppc64el
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=riscv64
+- pkg:deb/debian/libmultispeech5@4.6.2-3?arch=s390x

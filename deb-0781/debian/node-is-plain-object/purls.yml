@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-is-plain-object@2.0.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/node-is-plain-object@5.0.0-7?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/mcollective@2.12.5%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/mcollective@2.12.5%2Bdfsg-1?arch=all

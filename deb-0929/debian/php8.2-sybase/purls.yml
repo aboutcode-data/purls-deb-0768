@@ -1,0 +1,9 @@
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=amd64
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=arm64
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=armel
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=armhf
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=i386
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=mips64el
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=mipsel
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=ppc64el
+- pkg:deb/debian/php8.2-sybase@8.2.29-1~deb12u1?arch=s390x

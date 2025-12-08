@@ -1,0 +1,16 @@
+- pkg:deb/debian/libmetview0d@5.10.2-1?arch=amd64
+- pkg:deb/debian/libmetview0d@5.10.2-1?arch=arm64
+- pkg:deb/debian/libmetview0d@5.10.2-1?arch=armhf
+- pkg:deb/debian/libmetview0d@5.10.2-1?arch=i386
+- pkg:deb/debian/libmetview0d@5.17.4-1?arch=amd64
+- pkg:deb/debian/libmetview0d@5.17.4-1?arch=arm64
+- pkg:deb/debian/libmetview0d@5.17.4-1?arch=mips64el
+- pkg:deb/debian/libmetview0d@5.17.4-1?arch=ppc64el
+- pkg:deb/debian/libmetview0d@5.17.4-1?arch=s390x
+- pkg:deb/debian/libmetview0d@5.23.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/libmetview0d@5.23.1-1%2Bb1?arch=arm64
+- pkg:deb/debian/libmetview0d@5.23.1-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libmetview0d@5.26.1-1?arch=amd64
+- pkg:deb/debian/libmetview0d@5.26.1-1?arch=arm64
+- pkg:deb/debian/libmetview0d@5.26.1-1?arch=ppc64el
+- pkg:deb/debian/libmetview0d@5.26.1-1?arch=s390x

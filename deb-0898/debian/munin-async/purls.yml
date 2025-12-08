@@ -1,0 +1,5 @@
+- pkg:deb/debian/munin-async@2.0.67-3?arch=all
+- pkg:deb/debian/munin-async@2.0.73-1?arch=all
+- pkg:deb/debian/munin-async@2.0.76-1~bpo12%2B1?arch=all
+- pkg:deb/debian/munin-async@2.0.76-5?arch=all
+- pkg:deb/debian/munin-async@2.999.16-1?arch=all

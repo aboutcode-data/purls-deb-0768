@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsam-extract3@3.0.2%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libsam-extract3@3.0.2%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libsam-extract3@3.2.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libsam-extract3@3.2.1%2Bdfsg-2?arch=arm64

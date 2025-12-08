@@ -1,0 +1,4 @@
+- pkg:deb/debian/musescore3-common@3.2.3%2Bdfsg2-11?arch=all
+- pkg:deb/debian/musescore3-common@3.2.3%2Bdfsg2-16?arch=all
+- pkg:deb/debian/musescore3-common@3.2.3%2Bdfsg2-19?arch=all
+- pkg:deb/debian/musescore3-common@3.2.3%2Bdfsg2-21?arch=all

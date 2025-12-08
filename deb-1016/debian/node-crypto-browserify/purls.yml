@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-crypto-browserify@3.12.0-3?arch=all
+- pkg:deb/debian/node-crypto-browserify@3.12.0-6?arch=all
+- pkg:deb/debian/node-crypto-browserify@3.12.0-7?arch=all

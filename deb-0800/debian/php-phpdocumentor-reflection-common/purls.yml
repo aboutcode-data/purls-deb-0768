@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-phpdocumentor-reflection-common@2.2.0-1?arch=all
+- pkg:deb/debian/php-phpdocumentor-reflection-common@2.2.0-2?arch=all
+- pkg:deb/debian/php-phpdocumentor-reflection-common@2.2.0-4?arch=all

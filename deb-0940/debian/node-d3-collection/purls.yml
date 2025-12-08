@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-d3-collection@1.0.7%2B~1.0.10-1?arch=all
+- pkg:deb/debian/node-d3-collection@1.0.7-3?arch=all
+- pkg:deb/debian/node-d3-collection@1.0.7-5?arch=all

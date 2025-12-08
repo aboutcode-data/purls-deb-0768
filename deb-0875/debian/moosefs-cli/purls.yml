@@ -1,0 +1,6 @@
+- pkg:deb/debian/moosefs-cli@3.0.115-1?arch=all
+- pkg:deb/debian/moosefs-cli@3.0.117-1?arch=all
+- pkg:deb/debian/moosefs-cli@4.56.6-1~bpo12%2B1?arch=all
+- pkg:deb/debian/moosefs-cli@4.57.5-1?arch=all
+- pkg:deb/debian/moosefs-cli@4.58.1-1?arch=all
+- pkg:deb/debian/moosefs-cli@4.58.1-1~bpo13%2B1?arch=all

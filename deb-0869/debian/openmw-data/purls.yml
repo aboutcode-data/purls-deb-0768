@@ -1,0 +1,3 @@
+- pkg:deb/debian/openmw-data@0.46.0-3?arch=all
+- pkg:deb/debian/openmw-data@0.47.0-3?arch=all
+- pkg:deb/debian/openmw-data@0.49.0-1?arch=all

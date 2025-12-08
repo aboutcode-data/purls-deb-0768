@@ -1,0 +1,4 @@
+- pkg:deb/debian/mailman3-web@0%2B20200530-2.1?arch=all
+- pkg:deb/debian/mailman3-web@0%2B20200530-2?arch=all
+- pkg:deb/debian/mailman3-web@0%2B20240312-1?arch=all
+- pkg:deb/debian/mailman3-web@0%2B20240312-2?arch=all

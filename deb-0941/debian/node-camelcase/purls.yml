@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-camelcase@6.2.0-2?arch=all
+- pkg:deb/debian/node-camelcase@7.0.0-3?arch=all

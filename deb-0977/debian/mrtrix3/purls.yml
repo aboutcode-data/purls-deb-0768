@@ -1,0 +1,6 @@
+- pkg:deb/debian/mrtrix3@3.0.3-3%2Bb1?arch=amd64
+- pkg:deb/debian/mrtrix3@3.0.3-3%2Bb1?arch=arm64
+- pkg:deb/debian/mrtrix3@3.0.4-1%2Bb1?arch=amd64
+- pkg:deb/debian/mrtrix3@3.0.4-1%2Bb3?arch=arm64
+- pkg:deb/debian/mrtrix3@3.0~rc3%2Bgit135-g2b8e7d0c2-5?arch=amd64
+- pkg:deb/debian/mrtrix3@3.0~rc3%2Bgit135-g2b8e7d0c2-5?arch=arm64

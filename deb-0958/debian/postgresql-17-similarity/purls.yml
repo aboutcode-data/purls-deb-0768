@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-similarity@1.0-8%2Bb1?arch=amd64
+- pkg:deb/debian/postgresql-17-similarity@1.0-8?arch=arm64
+- pkg:deb/debian/postgresql-17-similarity@1.0-8?arch=ppc64el
+- pkg:deb/debian/postgresql-17-similarity@1.0-8?arch=riscv64
+- pkg:deb/debian/postgresql-17-similarity@1.0-8?arch=s390x

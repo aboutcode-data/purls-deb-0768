@@ -1,0 +1,7 @@
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=amd64
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=arm64
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=armhf
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=i386
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=ppc64el
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=riscv64
+- pkg:deb/debian/liboss4-salsa2@4.2-build2020-6?arch=s390x

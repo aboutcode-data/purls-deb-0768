@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstring-tagged-terminal-perl@0.06-1?arch=all
+- pkg:deb/debian/libstring-tagged-terminal-perl@0.08-1?arch=all

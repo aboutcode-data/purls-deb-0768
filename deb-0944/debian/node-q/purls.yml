@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-q@1.5.1-3?arch=all
+- pkg:deb/debian/node-q@1.5.1-4?arch=all

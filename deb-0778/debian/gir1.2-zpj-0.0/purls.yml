@@ -1,0 +1,4 @@
+- pkg:deb/debian/gir1.2-zpj-0.0@0.0.3-5?arch=amd64
+- pkg:deb/debian/gir1.2-zpj-0.0@0.0.3-5?arch=arm64
+- pkg:deb/debian/gir1.2-zpj-0.0@0.0.3-5?arch=armhf
+- pkg:deb/debian/gir1.2-zpj-0.0@0.0.3-5?arch=i386

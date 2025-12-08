@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxxx-perl@0.35-1?arch=all
+- pkg:deb/debian/libxxx-perl@0.38-1?arch=all

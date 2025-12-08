@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmaven-script-interpreter-java@1.2-1?arch=all
+- pkg:deb/debian/libmaven-script-interpreter-java@1.4-1?arch=all

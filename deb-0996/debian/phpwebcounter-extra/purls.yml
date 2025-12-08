@@ -1,0 +1,3 @@
+- pkg:deb/debian/phpwebcounter-extra@20071108-4.1?arch=all
+- pkg:deb/debian/phpwebcounter-extra@20071108-4?arch=all
+- pkg:deb/debian/phpwebcounter-extra@20071108-5?arch=all

@@ -1,0 +1,13 @@
+- pkg:deb/debian/node-node-expat@2.3.18%2Bds-3?arch=amd64
+- pkg:deb/debian/node-node-expat@2.3.18%2Bds-3?arch=arm64
+- pkg:deb/debian/node-node-expat@2.3.18%2Bds-3?arch=armhf
+- pkg:deb/debian/node-node-expat@2.3.18%2Bds-3?arch=i386
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=amd64
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=arm64
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=armel
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=armhf
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=i386
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=mips64el
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=mipsel
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=ppc64el
+- pkg:deb/debian/node-node-expat@2.4.0%2Bds-2?arch=s390x

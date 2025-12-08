@@ -1,0 +1,5 @@
+- pkg:deb/debian/libp4est-2.2@2.2-3?arch=amd64
+- pkg:deb/debian/libp4est-2.2@2.2-3?arch=arm64
+- pkg:deb/debian/libp4est-2.2@2.2-3?arch=mips64el
+- pkg:deb/debian/libp4est-2.2@2.2-3?arch=ppc64el
+- pkg:deb/debian/libp4est-2.2@2.2-3?arch=s390x

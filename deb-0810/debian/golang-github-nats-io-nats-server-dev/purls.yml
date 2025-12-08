@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-nats-io-nats-server-dev@2.10.27-1?arch=all
+- pkg:deb/debian/golang-github-nats-io-nats-server-dev@2.9.10-1?arch=all

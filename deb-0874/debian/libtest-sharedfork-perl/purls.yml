@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-sharedfork-perl@0.35-1?arch=all
+- pkg:deb/debian/libtest-sharedfork-perl@0.35-3?arch=all

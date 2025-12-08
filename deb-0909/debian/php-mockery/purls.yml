@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-mockery@1.4.2-1?arch=all
+- pkg:deb/debian/php-mockery@1.5.1-2?arch=all
+- pkg:deb/debian/php-mockery@1.6.12-4?arch=all
+- pkg:deb/debian/php-mockery@1.6.12-5?arch=all

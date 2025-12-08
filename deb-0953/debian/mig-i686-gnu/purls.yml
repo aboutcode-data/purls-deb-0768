@@ -1,0 +1,2 @@
+- pkg:deb/debian/mig-i686-gnu@1.8%2Bgit20221221-3?arch=i386
+- pkg:deb/debian/mig-i686-gnu@1.8%2Bgit20231217-8?arch=i386

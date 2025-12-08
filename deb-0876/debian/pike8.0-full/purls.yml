@@ -1,0 +1,4 @@
+- pkg:deb/debian/pike8.0-full@8.0.1116-1?arch=all
+- pkg:deb/debian/pike8.0-full@8.0.1738-1?arch=all
+- pkg:deb/debian/pike8.0-full@8.0.1956-1?arch=all
+- pkg:deb/debian/pike8.0-full@8.0.1956-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/openresolv@3.12.0-1?arch=all
+- pkg:deb/debian/openresolv@3.12.0-3?arch=all
+- pkg:deb/debian/openresolv@3.13.2-3?arch=all
+- pkg:deb/debian/openresolv@3.16.4-1?arch=all

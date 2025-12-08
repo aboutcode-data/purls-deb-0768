@@ -1,0 +1,2 @@
+- pkg:deb/debian/ocamlmakefile@6.39.2-1?arch=all
+- pkg:deb/debian/ocamlmakefile@6.39.2-2?arch=all

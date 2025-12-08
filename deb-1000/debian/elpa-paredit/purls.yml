@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-paredit@24-5?arch=all
+- pkg:deb/debian/elpa-paredit@26-1?arch=all
+- pkg:deb/debian/elpa-paredit@27~git20241103.1.af07577-1?arch=all

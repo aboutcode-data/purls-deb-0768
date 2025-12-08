@@ -1,0 +1,5 @@
+- pkg:deb/debian/papirus-icon-theme@20210201-1?arch=all
+- pkg:deb/debian/papirus-icon-theme@20230104-2?arch=all
+- pkg:deb/debian/papirus-icon-theme@20250501%2Bgit20250828-1?arch=all
+- pkg:deb/debian/papirus-icon-theme@20250501-1?arch=all
+- pkg:deb/debian/papirus-icon-theme@20250501-1~bpo12%2B1?arch=all

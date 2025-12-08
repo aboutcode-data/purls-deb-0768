@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-vswitch@13.4.0-2?arch=all
+- pkg:deb/debian/puppet-module-vswitch@17.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-vswitch@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-vswitch@23.0.0-1?arch=all

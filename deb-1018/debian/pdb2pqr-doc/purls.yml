@@ -1,0 +1,4 @@
+- pkg:deb/debian/pdb2pqr-doc@2.1.1%2Bdfsg-7%2Bdeb11u1?arch=all
+- pkg:deb/debian/pdb2pqr-doc@3.5.2%2Bdfsg-3?arch=all
+- pkg:deb/debian/pdb2pqr-doc@3.6.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/pdb2pqr-doc@3.6.1%2Bdfsg-2?arch=all

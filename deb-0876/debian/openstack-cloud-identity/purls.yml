@@ -1,0 +1,4 @@
+- pkg:deb/debian/openstack-cloud-identity@0.31?arch=all
+- pkg:deb/debian/openstack-cloud-identity@0.34?arch=all
+- pkg:deb/debian/openstack-cloud-identity@0.39?arch=all
+- pkg:deb/debian/openstack-cloud-identity@0.41?arch=all

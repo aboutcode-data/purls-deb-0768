@@ -1,0 +1,2 @@
+- pkg:deb/debian/mkelfimage@2.7-7%2Bb1?arch=amd64
+- pkg:deb/debian/mkelfimage@2.7-7%2Bb1?arch=i386

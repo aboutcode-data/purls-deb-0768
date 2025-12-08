@@ -1,0 +1,9 @@
+- pkg:deb/debian/libosmo-ranap7@1.6.0%2Bdfsg1-1?arch=s390x
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-1?arch=arm64
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-1?arch=ppc64el
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-1?arch=riscv64
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=amd64
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=arm64
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=ppc64el
+- pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=riscv64

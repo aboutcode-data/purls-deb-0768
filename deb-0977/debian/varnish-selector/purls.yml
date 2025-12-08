@@ -1,0 +1,15 @@
+- pkg:deb/debian/varnish-selector@2.6.0%2B20250506-3?arch=amd64
+- pkg:deb/debian/varnish-selector@2.6.0%2B20250506-3?arch=arm64
+- pkg:deb/debian/varnish-selector@2.6.0%2B20250506-3?arch=ppc64el
+- pkg:deb/debian/varnish-selector@2.6.0%2B20250506-3?arch=riscv64
+- pkg:deb/debian/varnish-selector@2.6.0%2B20250506-3?arch=s390x
+- pkg:deb/debian/varnish-selector@2.6.0-3?arch=amd64
+- pkg:deb/debian/varnish-selector@2.6.0-3?arch=arm64
+- pkg:deb/debian/varnish-selector@2.6.0-3?arch=mips64el
+- pkg:deb/debian/varnish-selector@2.6.0-3?arch=ppc64el
+- pkg:deb/debian/varnish-selector@2.6.0-3?arch=s390x
+- pkg:deb/debian/varnish-selector@2.6.0-5.1?arch=amd64
+- pkg:deb/debian/varnish-selector@2.6.0-5.1?arch=arm64
+- pkg:deb/debian/varnish-selector@2.6.0-5.1?arch=ppc64el
+- pkg:deb/debian/varnish-selector@2.6.0-5.1?arch=riscv64
+- pkg:deb/debian/varnish-selector@2.6.0-5.1?arch=s390x

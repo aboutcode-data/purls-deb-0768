@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-secret@2.0.6-10?arch=all
+- pkg:deb/debian/php-horde-secret@2.0.6-9?arch=all

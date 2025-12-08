@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsoftware-license-perl@0.103014-2?arch=all
+- pkg:deb/debian/libsoftware-license-perl@0.104002-1?arch=all
+- pkg:deb/debian/libsoftware-license-perl@0.104006-1?arch=all
+- pkg:deb/debian/libsoftware-license-perl@0.104007-1?arch=all

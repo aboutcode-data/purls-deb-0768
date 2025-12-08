@@ -1,0 +1,2 @@
+- pkg:deb/debian/postgresql-17-postgis-3-scripts@3.5.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/postgresql-17-postgis-3-scripts@3.6.0%2Bdfsg-1?arch=all

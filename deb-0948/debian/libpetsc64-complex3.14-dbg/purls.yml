@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpetsc64-complex3.14-dbg@3.14.5%2Bdfsg1-4?arch=amd64
+- pkg:deb/debian/libpetsc64-complex3.14-dbg@3.14.5%2Bdfsg1-4?arch=arm64
+- pkg:deb/debian/libpetsc64-complex3.14-dbg@3.14.5%2Bdfsg1-4?arch=armhf
+- pkg:deb/debian/libpetsc64-complex3.14-dbg@3.14.5%2Bdfsg1-4?arch=i386

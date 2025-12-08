@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-mail@2.6.5-5?arch=all
+- pkg:deb/debian/php-horde-mail@2.6.6-5?arch=all

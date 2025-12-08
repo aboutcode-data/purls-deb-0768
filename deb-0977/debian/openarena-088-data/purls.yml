@@ -1,0 +1,4 @@
+- pkg:deb/debian/openarena-088-data@0.8.8-10?arch=all
+- pkg:deb/debian/openarena-088-data@0.8.8-12?arch=all
+- pkg:deb/debian/openarena-088-data@0.8.8-14?arch=all
+- pkg:deb/debian/openarena-088-data@0.8.8-17?arch=all

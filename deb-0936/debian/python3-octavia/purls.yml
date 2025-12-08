@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-octavia@11.0.0-2?arch=all
+- pkg:deb/debian/python3-octavia@16.0.0-2?arch=all
+- pkg:deb/debian/python3-octavia@17.0.0-1?arch=all
+- pkg:deb/debian/python3-octavia@7.1.0-2?arch=all

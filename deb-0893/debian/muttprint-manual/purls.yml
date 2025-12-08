@@ -1,0 +1,4 @@
+- pkg:deb/debian/muttprint-manual@0.73-10?arch=all
+- pkg:deb/debian/muttprint-manual@0.73-11?arch=all
+- pkg:deb/debian/muttprint-manual@0.73-12?arch=all
+- pkg:deb/debian/muttprint-manual@0.73-14?arch=all

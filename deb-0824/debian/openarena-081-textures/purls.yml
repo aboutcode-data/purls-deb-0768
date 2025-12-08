@@ -1,0 +1,4 @@
+- pkg:deb/debian/openarena-081-textures@0.8.5split-12?arch=all
+- pkg:deb/debian/openarena-081-textures@0.8.5split-14?arch=all
+- pkg:deb/debian/openarena-081-textures@0.8.5split-15?arch=all
+- pkg:deb/debian/openarena-081-textures@0.8.5split-17?arch=all

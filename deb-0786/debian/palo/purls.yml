@@ -1,0 +1,8 @@
+- pkg:deb/debian/palo@2.15?arch=amd64
+- pkg:deb/debian/palo@2.15?arch=i386
+- pkg:deb/debian/palo@2.22?arch=amd64
+- pkg:deb/debian/palo@2.22?arch=i386
+- pkg:deb/debian/palo@2.27?arch=amd64
+- pkg:deb/debian/palo@2.27?arch=i386
+- pkg:deb/debian/palo@2.28?arch=amd64
+- pkg:deb/debian/palo@2.28?arch=i386

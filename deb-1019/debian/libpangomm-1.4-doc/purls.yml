@@ -1,0 +1,3 @@
+- pkg:deb/debian/libpangomm-1.4-doc@2.42.1-1?arch=all
+- pkg:deb/debian/libpangomm-1.4-doc@2.46.3-1?arch=all
+- pkg:deb/debian/libpangomm-1.4-doc@2.46.4-1?arch=all

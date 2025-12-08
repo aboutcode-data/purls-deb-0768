@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-prompts@2.4.0%2B~cs7.5.8-1?arch=all
+- pkg:deb/debian/node-prompts@2.4.2%2B~cs7.5.11-1?arch=all

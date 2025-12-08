@@ -1,0 +1,14 @@
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-1?arch=mips64el
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-4?arch=riscv64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-4?arch=s390x
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-5?arch=ppc64el
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-5?arch=riscv64
+- pkg:deb/debian/nthash@2.3.0%2Bdfsg-5?arch=s390x

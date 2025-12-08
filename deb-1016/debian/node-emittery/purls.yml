@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-emittery@0.7.2-2?arch=all
+- pkg:deb/debian/node-emittery@1.0.1-1?arch=all

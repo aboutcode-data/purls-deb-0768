@@ -1,0 +1,10 @@
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=amd64
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=arm64
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=armel
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=armhf
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=i386
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=mipsel
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/open3d-gui@0.16.1%2Bds-2%2Bb4?arch=s390x
+- pkg:deb/debian/open3d-gui@0.19.0-3?arch=all
+- pkg:deb/debian/open3d-gui@0.19.0-5?arch=all

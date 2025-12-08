@@ -1,0 +1,2 @@
+- pkg:deb/debian/libswitch-perl@2.17-2.1?arch=all
+- pkg:deb/debian/libswitch-perl@2.17-3?arch=all

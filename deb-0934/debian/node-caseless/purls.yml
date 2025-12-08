@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-caseless@0.12.1-1?arch=all
+- pkg:deb/debian/node-caseless@0.12.1-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libokteta-l10n@0.26.10-1?arch=all
+- pkg:deb/debian/libokteta-l10n@0.26.21-1?arch=all
+- pkg:deb/debian/libokteta-l10n@0.26.24-1?arch=all
+- pkg:deb/debian/libokteta-l10n@0.26.5-2?arch=all

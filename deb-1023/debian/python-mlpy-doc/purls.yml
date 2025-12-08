@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-mlpy-doc@3.5.0%2Bds-1.2?arch=all
+- pkg:deb/debian/python-mlpy-doc@3.5.0%2Bds-2?arch=all

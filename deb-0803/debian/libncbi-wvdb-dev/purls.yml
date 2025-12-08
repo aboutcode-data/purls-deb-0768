@@ -1,0 +1,6 @@
+- pkg:deb/debian/libncbi-wvdb-dev@2.10.9%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libncbi-wvdb-dev@2.10.9%2Bdfsg-2?arch=i386
+- pkg:deb/debian/libncbi-wvdb-dev@3.0.2%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libncbi-wvdb-dev@3.0.2%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libncbi-wvdb-dev@3.2.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libncbi-wvdb-dev@3.2.1%2Bdfsg-2?arch=arm64

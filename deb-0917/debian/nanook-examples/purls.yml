@@ -1,0 +1,3 @@
+- pkg:deb/debian/nanook-examples@1.33%2Bdfsg-2.1?arch=all
+- pkg:deb/debian/nanook-examples@1.33%2Bdfsg-5?arch=all
+- pkg:deb/debian/nanook-examples@1.33%2Bdfsg-6?arch=all

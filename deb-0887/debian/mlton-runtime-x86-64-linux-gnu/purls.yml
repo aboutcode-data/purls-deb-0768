@@ -1,0 +1,2 @@
+- pkg:deb/debian/mlton-runtime-x86-64-linux-gnu@20241230%2Bgit20251029%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/mlton-runtime-x86-64-linux-gnu@20241230%2Bgit20251029%2Bdfsg-2?arch=amd64

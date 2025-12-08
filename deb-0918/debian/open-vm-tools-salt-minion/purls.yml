@@ -1,0 +1,7 @@
+- pkg:deb/debian/open-vm-tools-salt-minion@12.2.0-1%2Bdeb12u3?arch=amd64
+- pkg:deb/debian/open-vm-tools-salt-minion@12.2.0-1%2Bdeb12u4?arch=amd64
+- pkg:deb/debian/open-vm-tools-salt-minion@12.5.0-2%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/open-vm-tools-salt-minion@12.5.0-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/open-vm-tools-salt-minion@13.0.5-1?arch=amd64
+- pkg:deb/debian/open-vm-tools-salt-minion@13.0.5-1~bpo12%2B1?arch=amd64
+- pkg:deb/debian/open-vm-tools-salt-minion@13.0.5-1~bpo13%2B1?arch=amd64

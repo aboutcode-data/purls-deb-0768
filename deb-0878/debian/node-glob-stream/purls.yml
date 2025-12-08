@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-glob-stream@6.1.0%2B~6.1.0-1?arch=all
+- pkg:deb/debian/node-glob-stream@7.0.0%2B~6.1.1-2?arch=all
+- pkg:deb/debian/node-glob-stream@7.0.0%2B~6.1.1-4?arch=all

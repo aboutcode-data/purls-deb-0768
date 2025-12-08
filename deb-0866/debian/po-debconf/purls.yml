@@ -1,0 +1,2 @@
+- pkg:deb/debian/po-debconf@1.0.21%2Bnmu1?arch=all
+- pkg:deb/debian/po-debconf@1.0.22?arch=all

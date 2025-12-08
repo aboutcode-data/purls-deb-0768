@@ -1,0 +1,17 @@
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=amd64
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=arm64
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=armel
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=armhf
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=i386
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=mips64el
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=mipsel
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=ppc64el
+- pkg:deb/debian/pinball-dev@0.3.20201218-4?arch=s390x
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=amd64
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=arm64
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=armel
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=armhf
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=i386
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=ppc64el
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=riscv64
+- pkg:deb/debian/pinball-dev@0.3.20230219-3?arch=s390x

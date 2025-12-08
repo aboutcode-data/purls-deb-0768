@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-mdtraj-doc@1.10.3-2?arch=all
+- pkg:deb/debian/python-mdtraj-doc@1.11.0-2?arch=all
+- pkg:deb/debian/python-mdtraj-doc@1.9.5-1?arch=all
+- pkg:deb/debian/python-mdtraj-doc@1.9.7-6?arch=all

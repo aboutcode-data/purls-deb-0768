@@ -1,0 +1,17 @@
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-3?arch=mips64el
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-3?arch=s390x
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-5?arch=ppc64el
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-5?arch=riscv64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-5?arch=s390x
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-6?arch=arm64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-6?arch=ppc64el
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-6?arch=riscv64
+- pkg:deb/debian/libsdsl-dev@2.1.1%2Bdfsg-6?arch=s390x

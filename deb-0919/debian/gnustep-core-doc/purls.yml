@@ -1,0 +1,3 @@
+- pkg:deb/debian/gnustep-core-doc@13?arch=all
+- pkg:deb/debian/gnustep-core-doc@14?arch=all
+- pkg:deb/debian/gnustep-core-doc@7.10?arch=all

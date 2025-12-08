@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-is-retry-allowed@1.2.0-1?arch=all
+- pkg:deb/debian/node-is-retry-allowed@2.2.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-progressbar2@4.3b.0-2?arch=all
+- pkg:deb/debian/python3-progressbar2@4.5.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/mistral-common@11.0.0-2?arch=all
+- pkg:deb/debian/mistral-common@15.0.0-1?arch=all
+- pkg:deb/debian/mistral-common@20.0.0-2?arch=all
+- pkg:deb/debian/mistral-common@21.0.0-5?arch=all

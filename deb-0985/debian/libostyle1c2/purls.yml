@@ -1,0 +1,9 @@
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=amd64
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=arm64
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=armel
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=armhf
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=i386
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=mips64el
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=mipsel
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=ppc64el
+- pkg:deb/debian/libostyle1c2@1.4devel1-22?arch=s390x

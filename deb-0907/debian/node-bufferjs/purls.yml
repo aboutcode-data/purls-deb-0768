@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-bufferjs@3.0.1-1?arch=all
+- pkg:deb/debian/node-bufferjs@3.1.0%2Bgit20160608.605b357%2B~cs0.6.2-2?arch=all

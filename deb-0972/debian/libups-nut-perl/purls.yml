@@ -1,0 +1,4 @@
+- pkg:deb/debian/libups-nut-perl@2.7.4-13?arch=all
+- pkg:deb/debian/libups-nut-perl@2.8.0-7?arch=all
+- pkg:deb/debian/libups-nut-perl@2.8.1-5?arch=all
+- pkg:deb/debian/libups-nut-perl@2.8.4%2Breally-2?arch=all

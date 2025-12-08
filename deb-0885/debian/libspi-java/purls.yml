@@ -1,0 +1,2 @@
+- pkg:deb/debian/libspi-java@0.2.4-3?arch=all
+- pkg:deb/debian/libspi-java@0.2.7-1?arch=all

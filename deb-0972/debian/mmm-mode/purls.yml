@@ -1,0 +1,4 @@
+- pkg:deb/debian/mmm-mode@0.5.10-1?arch=all
+- pkg:deb/debian/mmm-mode@0.5.11-1?arch=all
+- pkg:deb/debian/mmm-mode@0.5.8-1?arch=all
+- pkg:deb/debian/mmm-mode@0.5.8-4?arch=all

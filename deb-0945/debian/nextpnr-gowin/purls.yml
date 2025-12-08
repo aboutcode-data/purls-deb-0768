@@ -1,0 +1,6 @@
+- pkg:deb/debian/nextpnr-gowin@0.7-1%2Bb2?arch=amd64
+- pkg:deb/debian/nextpnr-gowin@0.7-1%2Bb2?arch=i386
+- pkg:deb/debian/nextpnr-gowin@0.7-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/nextpnr-gowin@0.7-1%2Bb2?arch=riscv64
+- pkg:deb/debian/nextpnr-gowin@0.7-1%2Bb2?arch=s390x
+- pkg:deb/debian/nextpnr-gowin@0.7-1%2Bb3?arch=arm64

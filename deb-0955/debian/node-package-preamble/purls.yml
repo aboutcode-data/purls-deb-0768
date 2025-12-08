@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-package-preamble@0.1.0-2?arch=all
+- pkg:deb/debian/node-package-preamble@0.1.0-5?arch=all

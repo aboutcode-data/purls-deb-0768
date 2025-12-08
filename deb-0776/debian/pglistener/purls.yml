@@ -1,0 +1,2 @@
+- pkg:deb/debian/pglistener@5.0-2?arch=all
+- pkg:deb/debian/pglistener@5.2-2?arch=all

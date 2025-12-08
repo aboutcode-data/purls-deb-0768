@@ -1,0 +1,12 @@
+- pkg:deb/debian/python3-mdtraj@1.10.3-2%2Bb1?arch=amd64
+- pkg:deb/debian/python3-mdtraj@1.10.3-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-mdtraj@1.10.3-2%2Bb1?arch=i386
+- pkg:deb/debian/python3-mdtraj@1.11.0-2?arch=amd64
+- pkg:deb/debian/python3-mdtraj@1.11.0-2?arch=arm64
+- pkg:deb/debian/python3-mdtraj@1.11.0-2?arch=i386
+- pkg:deb/debian/python3-mdtraj@1.9.5-1?arch=amd64
+- pkg:deb/debian/python3-mdtraj@1.9.5-1?arch=arm64
+- pkg:deb/debian/python3-mdtraj@1.9.5-1?arch=i386
+- pkg:deb/debian/python3-mdtraj@1.9.7-6?arch=amd64
+- pkg:deb/debian/python3-mdtraj@1.9.7-6?arch=arm64
+- pkg:deb/debian/python3-mdtraj@1.9.7-6?arch=i386

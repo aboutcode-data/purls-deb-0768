@@ -1,0 +1,8 @@
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=amd64
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=arm64
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=armel
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=armhf
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=i386
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=ppc64el
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=riscv64
+- pkg:deb/debian/php8.4-uopz@7.1.1%2B%2B-4?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/obs-build@20190710-1?arch=all
+- pkg:deb/debian/obs-build@20210120-4?arch=all

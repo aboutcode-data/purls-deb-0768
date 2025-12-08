@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-worker-loader@3.0.5-2?arch=all
+- pkg:deb/debian/node-worker-loader@3.0.8-5?arch=all

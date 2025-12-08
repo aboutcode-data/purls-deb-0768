@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3%2Bb1?arch=amd64
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3%2Bb1?arch=arm64
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3%2Bb1?arch=armhf
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3%2Bb1?arch=i386
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3%2Bb1?arch=s390x
+- pkg:deb/debian/python3-ml-dtypes@0.5.2-1~exp3?arch=riscv64

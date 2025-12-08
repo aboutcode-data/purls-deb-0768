@@ -1,0 +1,15 @@
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=amd64
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=arm64
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=armel
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=armhf
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=i386
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=ppc64el
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=riscv64
+- pkg:deb/debian/librust-mdbook-dev@0.4.48%2Bds-2?arch=s390x
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4%2Bb1?arch=amd64
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4%2Bb1?arch=arm64
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4%2Bb1?arch=armhf
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4%2Bb1?arch=i386
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4%2Bb1?arch=ppc64el
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4%2Bb1?arch=s390x
+- pkg:deb/debian/librust-mdbook-dev@0.4.52%2Bds-4?arch=riscv64

@@ -1,0 +1,9 @@
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=amd64
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=arm64
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=armel
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=armhf
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=i386
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=mips64el
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=mipsel
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=ppc64el
+- pkg:deb/debian/libopencv-stitching406@4.6.0%2Bdfsg-12?arch=s390x

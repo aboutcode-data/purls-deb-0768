@@ -1,0 +1,3 @@
+- pkg:deb/debian/libsixel-examples@1.10.3-3?arch=all
+- pkg:deb/debian/libsixel-examples@1.10.5-1?arch=all
+- pkg:deb/debian/libsixel-examples@1.8.6-2?arch=all

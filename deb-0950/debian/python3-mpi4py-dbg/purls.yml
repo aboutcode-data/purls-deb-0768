@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mpi4py-dbg@3.0.3-8?arch=amd64
+- pkg:deb/debian/python3-mpi4py-dbg@3.0.3-8?arch=arm64
+- pkg:deb/debian/python3-mpi4py-dbg@3.0.3-8?arch=armhf
+- pkg:deb/debian/python3-mpi4py-dbg@3.0.3-8?arch=i386

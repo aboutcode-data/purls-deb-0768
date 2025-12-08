@@ -1,0 +1,6 @@
+- pkg:deb/debian/libvirt-doc@11.10.0-1?arch=all
+- pkg:deb/debian/libvirt-doc@11.3.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/libvirt-doc@11.3.0-3%2Bdeb13u1?arch=all
+- pkg:deb/debian/libvirt-doc@11.9.0-2?arch=all
+- pkg:deb/debian/libvirt-doc@7.0.0-3%2Bdeb11u3?arch=all
+- pkg:deb/debian/libvirt-doc@9.0.0-4%2Bdeb12u2?arch=all

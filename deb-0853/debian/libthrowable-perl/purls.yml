@@ -1,0 +1,3 @@
+- pkg:deb/debian/libthrowable-perl@0.200013-1.1?arch=all
+- pkg:deb/debian/libthrowable-perl@1.001-1?arch=all
+- pkg:deb/debian/libthrowable-perl@1.001-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-vinyl@2.2.1%2B~2.0.4-1?arch=all
+- pkg:deb/debian/node-vinyl@2.2.1%2B~cs3.0.7-1?arch=all

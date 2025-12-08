@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-tweetnacl@1.0.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/node-tweetnacl@1.0.3%2Bdfsg-3?arch=all
+- pkg:deb/debian/node-tweetnacl@1.0.3%2Bdfsg-4?arch=all

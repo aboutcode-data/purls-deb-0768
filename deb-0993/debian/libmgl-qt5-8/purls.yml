@@ -1,0 +1,9 @@
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=amd64
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=arm64
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=armel
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=armhf
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=i386
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=mips64el
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=mipsel
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=ppc64el
+- pkg:deb/debian/libmgl-qt5-8@8.0.1-4%2Bb4?arch=s390x

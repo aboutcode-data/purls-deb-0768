@@ -1,0 +1,5 @@
+- pkg:deb/debian/pdfminer-data@20200726-1?arch=all
+- pkg:deb/debian/pdfminer-data@20221105%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/pdfminer-data@20221105%2Bdfsg-1.1~deb12u1?arch=all
+- pkg:deb/debian/pdfminer-data@20221105%2Bdfsg-1.1~deb13u1?arch=all
+- pkg:deb/debian/pdfminer-data@20221105%2Bdfsg-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-regjsparser@0.12.0%2Bds-1?arch=all
+- pkg:deb/debian/node-regjsparser@0.6.6%2Bds-1?arch=all
+- pkg:deb/debian/node-regjsparser@0.9.1%2Bds-2?arch=all

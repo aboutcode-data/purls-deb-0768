@@ -1,0 +1,4 @@
+- pkg:deb/debian/pastebinit@1.5.1-1?arch=all
+- pkg:deb/debian/pastebinit@1.6.2-1?arch=all
+- pkg:deb/debian/pastebinit@1.7.1-1?arch=all
+- pkg:deb/debian/pastebinit@1.8.0-1?arch=all

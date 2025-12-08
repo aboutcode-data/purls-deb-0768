@@ -1,0 +1,4 @@
+- pkg:deb/debian/mate-desktop-environment-core@1.24.0%2B4?arch=all
+- pkg:deb/debian/mate-desktop-environment-core@1.26.0%2B1?arch=all
+- pkg:deb/debian/mate-desktop-environment-core@1.26.0%2B2?arch=all
+- pkg:deb/debian/mate-desktop-environment-core@1.26.0%2B3?arch=all

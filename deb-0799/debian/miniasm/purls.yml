@@ -1,0 +1,15 @@
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-2?arch=i386
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4%2Bb1?arch=arm64
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4%2Bb1?arch=riscv64
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=armel
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=i386
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=mips64el
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=mipsel
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/miniasm@0.3%2Bdfsg-4?arch=s390x

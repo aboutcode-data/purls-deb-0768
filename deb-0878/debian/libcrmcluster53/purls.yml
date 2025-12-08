@@ -1,0 +1,15 @@
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=amd64
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=arm64
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=armel
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=armhf
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=i386
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=ppc64el
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=riscv64
+- pkg:deb/debian/libcrmcluster53@3.0.0-2?arch=s390x
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=amd64
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=arm64
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=armhf
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=i386
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=ppc64el
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=riscv64
+- pkg:deb/debian/libcrmcluster53@3.0.1-1?arch=s390x

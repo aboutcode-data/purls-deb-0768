@@ -1,0 +1,15 @@
+- pkg:deb/debian/mscompress@0.4-10%2Bb1?arch=arm64
+- pkg:deb/debian/mscompress@0.4-10%2Bb1?arch=riscv64
+- pkg:deb/debian/mscompress@0.4-10?arch=amd64
+- pkg:deb/debian/mscompress@0.4-10?arch=arm64
+- pkg:deb/debian/mscompress@0.4-10?arch=armel
+- pkg:deb/debian/mscompress@0.4-10?arch=armhf
+- pkg:deb/debian/mscompress@0.4-10?arch=i386
+- pkg:deb/debian/mscompress@0.4-10?arch=mips64el
+- pkg:deb/debian/mscompress@0.4-10?arch=mipsel
+- pkg:deb/debian/mscompress@0.4-10?arch=ppc64el
+- pkg:deb/debian/mscompress@0.4-10?arch=s390x
+- pkg:deb/debian/mscompress@0.4-8?arch=amd64
+- pkg:deb/debian/mscompress@0.4-8?arch=arm64
+- pkg:deb/debian/mscompress@0.4-8?arch=armhf
+- pkg:deb/debian/mscompress@0.4-8?arch=i386

@@ -1,0 +1,5 @@
+- pkg:deb/debian/varnish-re@0.0~git20250531-1?arch=amd64
+- pkg:deb/debian/varnish-re@0.0~git20250531-1?arch=arm64
+- pkg:deb/debian/varnish-re@0.0~git20250531-1?arch=ppc64el
+- pkg:deb/debian/varnish-re@0.0~git20250531-1?arch=riscv64
+- pkg:deb/debian/varnish-re@0.0~git20250531-1?arch=s390x

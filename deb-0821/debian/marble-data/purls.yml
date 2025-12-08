@@ -1,0 +1,4 @@
+- pkg:deb/debian/marble-data@20.12.3-1?arch=all
+- pkg:deb/debian/marble-data@22.12.3-1?arch=all
+- pkg:deb/debian/marble-data@25.04.0-1?arch=all
+- pkg:deb/debian/marble-data@25.08.1-2?arch=all

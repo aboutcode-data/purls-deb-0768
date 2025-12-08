@@ -1,0 +1,2 @@
+- pkg:deb/debian/mate-common@1.24.2-1?arch=all
+- pkg:deb/debian/mate-common@1.26.0-1?arch=all

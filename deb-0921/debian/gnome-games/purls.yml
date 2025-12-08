@@ -1,0 +1,8 @@
+- pkg:deb/debian/gnome-games@3.38%2B3?arch=all
+- pkg:deb/debian/gnome-games@43%2B1?arch=all
+- pkg:deb/debian/gnome-games@48%2B2?arch=all
+- pkg:deb/debian/gnome-games@49%2B3.1?arch=all
+- pkg:deb/debian/gnome-games@49%2B4?arch=all
+- pkg:deb/debian/gnome-games@49%2B6?arch=all
+- pkg:deb/debian/gnome-games@49%2B7?arch=all
+- pkg:deb/debian/gnome-games@49%2B8?arch=all

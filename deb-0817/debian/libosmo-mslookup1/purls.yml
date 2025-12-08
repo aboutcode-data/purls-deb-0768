@@ -1,0 +1,9 @@
+- pkg:deb/debian/libosmo-mslookup1@1.8.0%2Bdfsg1-1?arch=i386
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-1?arch=arm64
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-1?arch=ppc64el
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-1?arch=riscv64
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-2?arch=amd64
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-2?arch=arm64
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-2?arch=ppc64el
+- pkg:deb/debian/libosmo-mslookup1@1.9.0%2Bdfsg1-2?arch=riscv64

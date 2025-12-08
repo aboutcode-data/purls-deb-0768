@@ -1,0 +1,4 @@
+- pkg:deb/debian/muroar-bin@0.1.13-7?arch=amd64
+- pkg:deb/debian/muroar-bin@0.1.13-7?arch=arm64
+- pkg:deb/debian/muroar-bin@0.1.13-7?arch=armhf
+- pkg:deb/debian/muroar-bin@0.1.13-7?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtype-tiny-perl@1.012001-2?arch=all
+- pkg:deb/debian/libtype-tiny-perl@2.002001-1?arch=all
+- pkg:deb/debian/libtype-tiny-perl@2.004000-2?arch=all
+- pkg:deb/debian/libtype-tiny-perl@2.008006-1?arch=all

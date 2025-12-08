@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ns3@3.31%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/python3-ns3@3.31%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/python3-ns3@3.31%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/python3-ns3@3.31%2Bdfsg-3?arch=i386

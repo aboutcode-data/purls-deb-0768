@@ -1,0 +1,3 @@
+- pkg:deb/debian/masakari-monitors-common@14.0.0-1.1?arch=all
+- pkg:deb/debian/masakari-monitors-common@19.0.0-1?arch=all
+- pkg:deb/debian/masakari-monitors-common@20.0.0-1?arch=all

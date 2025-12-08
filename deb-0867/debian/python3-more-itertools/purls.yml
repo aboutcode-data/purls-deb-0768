@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-more-itertools@10.7.0-1?arch=all
+- pkg:deb/debian/python3-more-itertools@10.8.0-1?arch=all
+- pkg:deb/debian/python3-more-itertools@4.2.0-3?arch=all
+- pkg:deb/debian/python3-more-itertools@8.10.0-2?arch=all

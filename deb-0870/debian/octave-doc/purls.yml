@@ -1,0 +1,4 @@
+- pkg:deb/debian/octave-doc@10.3.0-3?arch=all
+- pkg:deb/debian/octave-doc@6.2.0-1?arch=all
+- pkg:deb/debian/octave-doc@7.3.0-2?arch=all
+- pkg:deb/debian/octave-doc@9.4.0-1?arch=all

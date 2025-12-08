@@ -1,0 +1,4 @@
+- pkg:deb/debian/libreoffice-avmedia-backend-gstreamer@7.0.4-4%2Bdeb11u10?arch=amd64
+- pkg:deb/debian/libreoffice-avmedia-backend-gstreamer@7.0.4-4%2Bdeb11u10?arch=arm64
+- pkg:deb/debian/libreoffice-avmedia-backend-gstreamer@7.0.4-4%2Bdeb11u10?arch=armhf
+- pkg:deb/debian/libreoffice-avmedia-backend-gstreamer@7.0.4-4%2Bdeb11u10?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-networking-generic-switch@7.5.0-2?arch=all
+- pkg:deb/debian/python3-networking-generic-switch@8.0.0-2?arch=all

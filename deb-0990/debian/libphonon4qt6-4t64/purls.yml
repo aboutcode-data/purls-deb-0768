@@ -1,0 +1,8 @@
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=amd64
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=arm64
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=armel
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=armhf
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=i386
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=ppc64el
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=riscv64
+- pkg:deb/debian/libphonon4qt6-4t64@4.12.0-5?arch=s390x

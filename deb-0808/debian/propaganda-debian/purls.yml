@@ -1,0 +1,2 @@
+- pkg:deb/debian/propaganda-debian@13.5.10%2Bnmu1?arch=all
+- pkg:deb/debian/propaganda-debian@13.5.11?arch=all

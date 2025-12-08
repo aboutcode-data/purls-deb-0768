@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsub-infix-perl@0.004-1.1?arch=all
+- pkg:deb/debian/libsub-infix-perl@0.004-3?arch=all
+- pkg:deb/debian/libsub-infix-perl@0.004-4?arch=all
+- pkg:deb/debian/libsub-infix-perl@0.004-5?arch=all

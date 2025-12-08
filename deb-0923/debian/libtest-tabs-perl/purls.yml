@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-tabs-perl@0.005-1.1?arch=all
+- pkg:deb/debian/libtest-tabs-perl@0.005-3?arch=all
+- pkg:deb/debian/libtest-tabs-perl@0.005-4?arch=all
+- pkg:deb/debian/libtest-tabs-perl@0.005-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-stream-filter@2.0.4-9?arch=all
+- pkg:deb/debian/php-horde-stream-filter@2.0.5-1?arch=all

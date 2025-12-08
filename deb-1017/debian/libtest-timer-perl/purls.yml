@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-timer-perl@2.11-1?arch=all
+- pkg:deb/debian/libtest-timer-perl@2.12-2?arch=all

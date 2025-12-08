@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-olefile@0.46-3?arch=all
+- pkg:deb/debian/python3-olefile@0.47-1?arch=all

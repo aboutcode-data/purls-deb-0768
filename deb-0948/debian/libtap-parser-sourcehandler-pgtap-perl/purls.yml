@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtap-parser-sourcehandler-pgtap-perl@3.35-2?arch=all
+- pkg:deb/debian/libtap-parser-sourcehandler-pgtap-perl@3.36-2?arch=all
+- pkg:deb/debian/libtap-parser-sourcehandler-pgtap-perl@3.37-1?arch=all

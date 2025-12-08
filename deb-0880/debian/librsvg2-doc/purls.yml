@@ -1,0 +1,4 @@
+- pkg:deb/debian/librsvg2-doc@2.50.3%2Bdfsg-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/librsvg2-doc@2.54.7%2Bdfsg-1~deb12u1?arch=all
+- pkg:deb/debian/librsvg2-doc@2.60.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/librsvg2-doc@2.61.3%2Bdfsg-2?arch=all

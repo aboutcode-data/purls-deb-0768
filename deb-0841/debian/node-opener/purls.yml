@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-opener@1.5.2%2B~1.4.0-1?arch=all
+- pkg:deb/debian/node-opener@1.5.2-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/optee-test-qemu@4.5.0-1?arch=arm64
+- pkg:deb/debian/optee-test-qemu@4.7.0-1?arch=arm64

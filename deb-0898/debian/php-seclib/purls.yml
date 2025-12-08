@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-seclib@1.0.19-3%2Bdeb11u2?arch=all
+- pkg:deb/debian/php-seclib@1.0.20-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/php-seclib@1.0.23-6?arch=all
+- pkg:deb/debian/php-seclib@1.0.24-1?arch=all

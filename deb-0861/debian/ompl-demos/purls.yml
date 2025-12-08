@@ -1,0 +1,2 @@
+- pkg:deb/debian/ompl-demos@1.5.2%2Bds1-1?arch=all
+- pkg:deb/debian/ompl-demos@1.6.0%2Bds1-5?arch=all

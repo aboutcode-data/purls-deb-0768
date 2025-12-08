@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmgba@0.8.4%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libmgba@0.8.4%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libmgba@0.8.4%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/libmgba@0.8.4%2Bdfsg-2?arch=i386

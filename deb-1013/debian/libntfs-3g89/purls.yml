@@ -1,0 +1,9 @@
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=amd64
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=arm64
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=armel
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=armhf
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=i386
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=mips64el
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=mipsel
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=ppc64el
+- pkg:deb/debian/libntfs-3g89@2022.10.3-1%2Bdeb12u2?arch=s390x

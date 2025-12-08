@@ -1,0 +1,4 @@
+- pkg:deb/debian/primus-vk@1.6.1-1?arch=all
+- pkg:deb/debian/primus-vk@1.6.2-2?arch=all
+- pkg:deb/debian/primus-vk@1.6.4-3?arch=all
+- pkg:deb/debian/primus-vk@1.6.4-4?arch=all

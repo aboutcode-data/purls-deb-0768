@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-columnify@1.5.4-3?arch=all
+- pkg:deb/debian/node-columnify@1.6.0%2B~1.5.1-1?arch=all

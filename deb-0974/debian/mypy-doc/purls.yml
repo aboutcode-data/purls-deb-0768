@@ -1,0 +1,4 @@
+- pkg:deb/debian/mypy-doc@0.812-1?arch=all
+- pkg:deb/debian/mypy-doc@1.0.1-1?arch=all
+- pkg:deb/debian/mypy-doc@1.15.0-5?arch=all
+- pkg:deb/debian/mypy-doc@1.19.0-1?arch=all

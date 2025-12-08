@@ -1,0 +1,4 @@
+- pkg:deb/debian/progress-linux@20210101-2?arch=all
+- pkg:deb/debian/progress-linux@20221212-3?arch=all
+- pkg:deb/debian/progress-linux@20250601-1?arch=all
+- pkg:deb/debian/progress-linux@20250601-3?arch=all

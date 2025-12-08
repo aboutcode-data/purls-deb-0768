@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-handlebars.runtime@4.7.6%2B~4.1.0-2?arch=all
+- pkg:deb/debian/libjs-handlebars.runtime@4.7.7%2B~4.1.0-1?arch=all

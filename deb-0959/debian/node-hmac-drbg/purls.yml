@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-hmac-drbg@1.0.1-3?arch=all
+- pkg:deb/debian/node-hmac-drbg@1.0.1-5?arch=all

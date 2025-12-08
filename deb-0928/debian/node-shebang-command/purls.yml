@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-shebang-command@1.2.0-1.1?arch=all
+- pkg:deb/debian/node-shebang-command@2.0.0-1?arch=all

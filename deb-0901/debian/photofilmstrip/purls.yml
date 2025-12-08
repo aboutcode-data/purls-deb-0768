@@ -1,0 +1,3 @@
+- pkg:deb/debian/photofilmstrip@3.7.3-2?arch=all
+- pkg:deb/debian/photofilmstrip@4.0.0-1?arch=all
+- pkg:deb/debian/photofilmstrip@4.1.0-1?arch=all

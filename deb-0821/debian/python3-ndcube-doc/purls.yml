@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ndcube-doc@1.4.2-1?arch=all
+- pkg:deb/debian/python3-ndcube-doc@2.0.3-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/python3-ndcube-doc@2.3.1-1?arch=all
+- pkg:deb/debian/python3-ndcube-doc@2.3.4-1?arch=all

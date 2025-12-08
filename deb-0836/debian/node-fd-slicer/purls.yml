@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-fd-slicer@1.1.0%2Brepack1-3?arch=all
+- pkg:deb/debian/node-fd-slicer@1.1.0-2?arch=all

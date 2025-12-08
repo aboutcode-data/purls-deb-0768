@@ -1,0 +1,5 @@
+- pkg:deb/debian/libmetkit-data@1.13.0-1?arch=all
+- pkg:deb/debian/libmetkit-data@1.15.3-2?arch=all
+- pkg:deb/debian/libmetkit-data@1.15.5-1?arch=all
+- pkg:deb/debian/libmetkit-data@1.6.4-2?arch=all
+- pkg:deb/debian/libmetkit-data@1.9.2-1?arch=all

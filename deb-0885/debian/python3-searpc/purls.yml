@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-searpc@3.2.0-7-g50ff08b-1?arch=all
+- pkg:deb/debian/python3-searpc@3.2.1-1%2Breally3.2%2Bgit20220902.15f6f0b-2?arch=all
+- pkg:deb/debian/python3-searpc@3.3.0%2Breally3.3%2Bgit20250303.6f06843-1?arch=all
+- pkg:deb/debian/python3-searpc@3.3.0%2Breally3.3%2Bgit20250524.d799dff-1?arch=all

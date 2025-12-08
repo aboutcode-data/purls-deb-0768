@@ -1,0 +1,6 @@
+- pkg:deb/debian/oarc-dsc@2.15.2-4?arch=amd64
+- pkg:deb/debian/oarc-dsc@2.15.2-4?arch=arm64
+- pkg:deb/debian/oarc-dsc@2.15.2-4?arch=armhf
+- pkg:deb/debian/oarc-dsc@2.15.2-4?arch=i386
+- pkg:deb/debian/oarc-dsc@2.15.2-4?arch=ppc64el
+- pkg:deb/debian/oarc-dsc@2.15.2-4?arch=riscv64

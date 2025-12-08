@@ -1,0 +1,5 @@
+- pkg:deb/debian/mame-doc@0.228%2Bdfsg.1-1?arch=all
+- pkg:deb/debian/mame-doc@0.251%2Bdfsg.1-1?arch=all
+- pkg:deb/debian/mame-doc@0.276%2Bdfsg.1-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/mame-doc@0.281%2Bdfsg1-1?arch=all
+- pkg:deb/debian/mame-doc@0.282%2Bdfsg1-1?arch=all

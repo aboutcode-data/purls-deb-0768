@@ -1,0 +1,15 @@
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=amd64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=arm64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=armhf
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=i386
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=ppc64el
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=riscv64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb14?arch=s390x
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=amd64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=arm64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=armel
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=armhf
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=i386
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=ppc64el
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=riscv64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=s390x

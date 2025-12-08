@@ -1,0 +1,2 @@
+- pkg:deb/debian/mma@20.12-1?arch=all
+- pkg:deb/debian/mma@21.09-1?arch=all

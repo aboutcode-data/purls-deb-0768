@@ -1,0 +1,4 @@
+- pkg:deb/debian/libparted-i18n@3.4-1?arch=all
+- pkg:deb/debian/libparted-i18n@3.5-3?arch=all
+- pkg:deb/debian/libparted-i18n@3.6-5?arch=all
+- pkg:deb/debian/libparted-i18n@3.6-6?arch=all

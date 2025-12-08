@@ -1,0 +1,13 @@
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb2?arch=arm64
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb2?arch=armhf
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb2?arch=i386
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb3?arch=amd64
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=arm64
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=armel
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=armhf
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=i386
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=mips64el
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=mipsel
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=ppc64el
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb4?arch=s390x
+- pkg:deb/debian/moonshot-gss-eap-dbg@1.0.1-6%2Bb5?arch=amd64

@@ -1,0 +1,3 @@
+- pkg:deb/debian/puppet-module-sahara@17.4.1-1?arch=all
+- pkg:deb/debian/puppet-module-sahara@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-sahara@23.0.0-1?arch=all

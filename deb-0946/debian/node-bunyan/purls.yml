@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-bunyan@2.0.5%2B~cs4.4.2-1?arch=all
+- pkg:deb/debian/node-bunyan@2.0.5%2B~cs4.4.3-2?arch=all

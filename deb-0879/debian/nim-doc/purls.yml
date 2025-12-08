@@ -1,0 +1,3 @@
+- pkg:deb/debian/nim-doc@1.4.6%2Breally1.4.2-2?arch=all
+- pkg:deb/debian/nim-doc@1.6.10-2?arch=all
+- pkg:deb/debian/nim-doc@2.2.4-1?arch=all

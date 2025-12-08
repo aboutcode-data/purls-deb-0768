@@ -1,0 +1,2 @@
+- pkg:deb/debian/netdata-plugins-python@1.29.3-4?arch=all
+- pkg:deb/debian/netdata-plugins-python@1.37.1-2?arch=all

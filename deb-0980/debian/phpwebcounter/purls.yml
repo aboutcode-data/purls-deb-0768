@@ -1,0 +1,4 @@
+- pkg:deb/debian/phpwebcounter@1.0-5.1?arch=all
+- pkg:deb/debian/phpwebcounter@1.0-5?arch=all
+- pkg:deb/debian/phpwebcounter@1.0-6?arch=all
+- pkg:deb/debian/phpwebcounter@1.1-1?arch=all

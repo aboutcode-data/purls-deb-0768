@@ -1,0 +1,5 @@
+- pkg:deb/debian/libnfft3-julia@3.5.3-5?arch=amd64
+- pkg:deb/debian/libnfft3-julia@3.5.3-5?arch=arm64
+- pkg:deb/debian/libnfft3-julia@3.5.3-5?arch=i386
+- pkg:deb/debian/libnfft3-julia@3.5.3-5?arch=ppc64el
+- pkg:deb/debian/libnfft3-julia@3.5.3-5?arch=s390x

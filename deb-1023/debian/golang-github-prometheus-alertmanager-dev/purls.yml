@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-prometheus-alertmanager-dev@0.21.0%2Bds-4?arch=all
+- pkg:deb/debian/golang-github-prometheus-alertmanager-dev@0.25.0-1?arch=all
+- pkg:deb/debian/golang-github-prometheus-alertmanager-dev@0.28.1%2Bds-1?arch=all
+- pkg:deb/debian/golang-github-prometheus-alertmanager-dev@0.28.1%2Bds-2?arch=all

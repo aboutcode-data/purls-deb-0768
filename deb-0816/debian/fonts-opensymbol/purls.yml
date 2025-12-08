@@ -1,0 +1,10 @@
+- pkg:deb/debian/fonts-opensymbol@102.11%2BLibO7.0.4-4%2Bdeb11u10?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO24.2.5-1~bpo12%2B1?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO25.2.3-2%2Bdeb13u2?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO25.2.3-2%2Bdeb13u2~bpo12%2B1?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO25.8.3-1?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO25.8.3-1~bpo13%2B1?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO26.2.0~alpha1-3?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO26.2.0~beta1-1?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO7.4.7-1%2Bdeb12u9?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.12%2BLibO7.5.9~rc1-1~bpo12%2B2?arch=all

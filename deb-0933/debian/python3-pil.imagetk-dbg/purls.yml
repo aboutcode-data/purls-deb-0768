@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pil.imagetk-dbg@8.1.2%2Bdfsg-0.3%2Bdeb11u2?arch=amd64
+- pkg:deb/debian/python3-pil.imagetk-dbg@8.1.2%2Bdfsg-0.3%2Bdeb11u2?arch=arm64
+- pkg:deb/debian/python3-pil.imagetk-dbg@8.1.2%2Bdfsg-0.3%2Bdeb11u2?arch=armhf
+- pkg:deb/debian/python3-pil.imagetk-dbg@8.1.2%2Bdfsg-0.3%2Bdeb11u2?arch=i386

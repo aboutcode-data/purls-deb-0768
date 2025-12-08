@@ -1,0 +1,2 @@
+- pkg:deb/debian/pg-statviz@0.7-3?arch=all
+- pkg:deb/debian/pg-statviz@0.8-1?arch=all

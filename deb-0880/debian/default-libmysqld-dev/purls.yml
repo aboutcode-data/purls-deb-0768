@@ -1,0 +1,13 @@
+- pkg:deb/debian/default-libmysqld-dev@1.0.7?arch=amd64
+- pkg:deb/debian/default-libmysqld-dev@1.0.7?arch=arm64
+- pkg:deb/debian/default-libmysqld-dev@1.0.7?arch=armhf
+- pkg:deb/debian/default-libmysqld-dev@1.0.7?arch=i386
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=amd64
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=arm64
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=armel
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=armhf
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=i386
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=mips64el
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=mipsel
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=ppc64el
+- pkg:deb/debian/default-libmysqld-dev@1.1.0?arch=s390x

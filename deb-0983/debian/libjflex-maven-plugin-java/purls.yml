@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjflex-maven-plugin-java@1.7.0-2?arch=all
+- pkg:deb/debian/libjflex-maven-plugin-java@1.8.2-1?arch=all

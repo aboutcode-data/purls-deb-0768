@@ -1,0 +1,7 @@
+- pkg:deb/debian/libpnetcdf0d@1.12.2-1?arch=amd64
+- pkg:deb/debian/libpnetcdf0d@1.12.2-1?arch=arm64
+- pkg:deb/debian/libpnetcdf0d@1.12.3-1?arch=amd64
+- pkg:deb/debian/libpnetcdf0d@1.12.3-1?arch=arm64
+- pkg:deb/debian/libpnetcdf0d@1.12.3-1?arch=mips64el
+- pkg:deb/debian/libpnetcdf0d@1.12.3-1?arch=ppc64el
+- pkg:deb/debian/libpnetcdf0d@1.12.3-1?arch=s390x

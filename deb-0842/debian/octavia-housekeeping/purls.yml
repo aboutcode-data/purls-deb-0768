@@ -1,0 +1,4 @@
+- pkg:deb/debian/octavia-housekeeping@11.0.0-2?arch=all
+- pkg:deb/debian/octavia-housekeeping@16.0.0-2?arch=all
+- pkg:deb/debian/octavia-housekeeping@17.0.0-1?arch=all
+- pkg:deb/debian/octavia-housekeeping@7.1.0-2?arch=all

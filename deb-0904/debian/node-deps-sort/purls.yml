@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-deps-sort@2.0.1-1?arch=all
+- pkg:deb/debian/node-deps-sort@2.0.1-3?arch=all

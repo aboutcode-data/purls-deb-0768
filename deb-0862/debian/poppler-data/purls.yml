@@ -1,0 +1,2 @@
+- pkg:deb/debian/poppler-data@0.4.10-1?arch=all
+- pkg:deb/debian/poppler-data@0.4.12-1?arch=all

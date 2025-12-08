@@ -1,0 +1,3 @@
+- pkg:deb/debian/wixl-data@0.101%2Brepack-1?arch=all
+- pkg:deb/debian/wixl-data@0.106%2Brepack-1?arch=all
+- pkg:deb/debian/wixl-data@0.106%2Brepack-2?arch=all

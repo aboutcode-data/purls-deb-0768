@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-phpstan-phpdoc-parser@1.16.1-1?arch=all
+- pkg:deb/debian/php-phpstan-phpdoc-parser@2.1.0-1?arch=all
+- pkg:deb/debian/php-phpstan-phpdoc-parser@2.3.0-1?arch=all

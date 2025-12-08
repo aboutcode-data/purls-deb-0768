@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-vasync@2.2.0-2?arch=all
+- pkg:deb/debian/node-vasync@2.2.1-2?arch=all

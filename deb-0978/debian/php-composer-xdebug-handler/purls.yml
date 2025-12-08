@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-composer-xdebug-handler@1.4.5-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/php-composer-xdebug-handler@3.0.3-2%2Bdeb12u1?arch=all
+- pkg:deb/debian/php-composer-xdebug-handler@3.0.5-4?arch=all

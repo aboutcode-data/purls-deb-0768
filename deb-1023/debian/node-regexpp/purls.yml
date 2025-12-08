@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-regexpp@3.1.0-4?arch=all
+- pkg:deb/debian/node-regexpp@3.2.0-4?arch=all
+- pkg:deb/debian/node-regexpp@3.2.0-5?arch=all
+- pkg:deb/debian/node-regexpp@3.2.0-6?arch=all

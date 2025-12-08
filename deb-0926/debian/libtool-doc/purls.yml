@@ -1,0 +1,5 @@
+- pkg:deb/debian/libtool-doc@2.4.6-15?arch=all
+- pkg:deb/debian/libtool-doc@2.4.7-7~deb12u1?arch=all
+- pkg:deb/debian/libtool-doc@2.5.4-4?arch=all
+- pkg:deb/debian/libtool-doc@2.5.4-7?arch=all
+- pkg:deb/debian/libtool-doc@2.5.4-8?arch=all

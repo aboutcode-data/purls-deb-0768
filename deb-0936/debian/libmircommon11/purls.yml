@@ -1,0 +1,8 @@
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=amd64
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=arm64
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=armel
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=armhf
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=i386
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=ppc64el
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=riscv64
+- pkg:deb/debian/libmircommon11@2.20.2-2?arch=s390x

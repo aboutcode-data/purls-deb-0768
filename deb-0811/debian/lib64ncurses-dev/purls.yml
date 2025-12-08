@@ -1,0 +1,4 @@
+- pkg:deb/debian/lib64ncurses-dev@6.2%2B20201114-2%2Bdeb11u2?arch=i386
+- pkg:deb/debian/lib64ncurses-dev@6.4-4?arch=i386
+- pkg:deb/debian/lib64ncurses-dev@6.5%2B20250216-2?arch=i386
+- pkg:deb/debian/lib64ncurses-dev@6.5%2B20251123-1?arch=i386

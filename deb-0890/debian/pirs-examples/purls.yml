@@ -1,0 +1,3 @@
+- pkg:deb/debian/pirs-examples@2.0.2%2Bdfsg-11?arch=all
+- pkg:deb/debian/pirs-examples@2.0.2%2Bdfsg-12?arch=all
+- pkg:deb/debian/pirs-examples@2.0.2%2Bdfsg-9?arch=all

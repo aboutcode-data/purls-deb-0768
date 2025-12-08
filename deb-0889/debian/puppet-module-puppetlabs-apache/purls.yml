@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-puppetlabs-apache@12.2.0-1?arch=all
+- pkg:deb/debian/puppet-module-puppetlabs-apache@5.5.0-2?arch=all

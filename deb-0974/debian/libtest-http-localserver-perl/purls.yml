@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtest-http-localserver-perl@0.71-1?arch=all
+- pkg:deb/debian/libtest-http-localserver-perl@0.74-1?arch=all
+- pkg:deb/debian/libtest-http-localserver-perl@0.76-1?arch=all

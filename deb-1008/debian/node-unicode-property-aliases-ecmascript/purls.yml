@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-unicode-property-aliases-ecmascript@1.1.0%2Bds-2?arch=all
+- pkg:deb/debian/node-unicode-property-aliases-ecmascript@2.1.0%2Bds-1?arch=all

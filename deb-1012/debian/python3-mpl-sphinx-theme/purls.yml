@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-mpl-sphinx-theme@3.5.0-1?arch=all
+- pkg:deb/debian/python3-mpl-sphinx-theme@3.9.0-1?arch=all

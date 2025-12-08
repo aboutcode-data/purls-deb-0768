@@ -1,0 +1,17 @@
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=amd64
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=arm64
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=armel
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=armhf
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=i386
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=mips64el
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=mipsel
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=ppc64el
+- pkg:deb/debian/members@20080128.1%2Bnmu1?arch=s390x
+- pkg:deb/debian/members@20080128.1%2Bnmu2%2Bb1?arch=arm64
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=amd64
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=armel
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=armhf
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=i386
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=ppc64el
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=riscv64
+- pkg:deb/debian/members@20080128.1%2Bnmu2?arch=s390x

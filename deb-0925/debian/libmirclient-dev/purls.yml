@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmirclient-dev@1.8.0%2Bdfsg1-18?arch=amd64
+- pkg:deb/debian/libmirclient-dev@1.8.0%2Bdfsg1-18?arch=arm64
+- pkg:deb/debian/libmirclient-dev@1.8.0%2Bdfsg1-18?arch=armhf
+- pkg:deb/debian/libmirclient-dev@1.8.0%2Bdfsg1-18?arch=i386

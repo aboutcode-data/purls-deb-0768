@@ -1,0 +1,3 @@
+- pkg:deb/debian/phploc@7.0.2-1?arch=all
+- pkg:deb/debian/phploc@7.0.2-2?arch=all
+- pkg:deb/debian/phploc@7.0.2-4?arch=all

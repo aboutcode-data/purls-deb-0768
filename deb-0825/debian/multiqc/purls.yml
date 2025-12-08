@@ -1,0 +1,4 @@
+- pkg:deb/debian/multiqc@1.14%2Bdfsg-1?arch=all
+- pkg:deb/debian/multiqc@1.21%2Bdfsg-2?arch=all
+- pkg:deb/debian/multiqc@1.21%2Bdfsg-3?arch=all
+- pkg:deb/debian/multiqc@1.9%2Bdfsg-3?arch=all

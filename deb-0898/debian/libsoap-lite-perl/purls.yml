@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsoap-lite-perl@1.27-1?arch=all
+- pkg:deb/debian/libsoap-lite-perl@1.27-3?arch=all

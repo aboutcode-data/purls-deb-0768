@@ -1,0 +1,4 @@
+- pkg:deb/debian/pkg-perl-tools@0.64?arch=all
+- pkg:deb/debian/pkg-perl-tools@0.75?arch=all
+- pkg:deb/debian/pkg-perl-tools@0.82?arch=all
+- pkg:deb/debian/pkg-perl-tools@0.84?arch=all

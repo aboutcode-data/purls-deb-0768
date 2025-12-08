@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-propro@2.1.0%2B1.0.2%2Bnophp8-3?arch=amd64
+- pkg:deb/debian/php-propro@2.1.0%2B1.0.2%2Bnophp8-3?arch=arm64
+- pkg:deb/debian/php-propro@2.1.0%2B1.0.2%2Bnophp8-3?arch=armhf
+- pkg:deb/debian/php-propro@2.1.0%2B1.0.2%2Bnophp8-3?arch=i386

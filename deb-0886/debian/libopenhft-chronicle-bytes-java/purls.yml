@@ -1,0 +1,3 @@
+- pkg:deb/debian/libopenhft-chronicle-bytes-java@1.1.15-2?arch=all
+- pkg:deb/debian/libopenhft-chronicle-bytes-java@1.1.15-3?arch=all
+- pkg:deb/debian/libopenhft-chronicle-bytes-java@1.16.25-1?arch=all

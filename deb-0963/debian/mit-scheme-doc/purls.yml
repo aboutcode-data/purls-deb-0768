@@ -1,0 +1,3 @@
+- pkg:deb/debian/mit-scheme-doc@10.1.11-2?arch=all
+- pkg:deb/debian/mit-scheme-doc@12.1-3?arch=all
+- pkg:deb/debian/mit-scheme-doc@12.1-4?arch=all

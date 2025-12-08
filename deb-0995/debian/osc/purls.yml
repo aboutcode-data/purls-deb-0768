@@ -1,0 +1,4 @@
+- pkg:deb/debian/osc@0.169.1-1?arch=all
+- pkg:deb/debian/osc@0.169.1-2?arch=all
+- pkg:deb/debian/osc@1.12.1-2?arch=all
+- pkg:deb/debian/osc@1.15.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxmlada-unicode10-dev@21.0.0-4?arch=amd64
+- pkg:deb/debian/libxmlada-unicode10-dev@21.0.0-4?arch=arm64
+- pkg:deb/debian/libxmlada-unicode10-dev@21.0.0-4?arch=armhf
+- pkg:deb/debian/libxmlada-unicode10-dev@21.0.0-4?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libuniversal-exports-perl@0.05-3.1?arch=all
+- pkg:deb/debian/libuniversal-exports-perl@0.05-4?arch=all
+- pkg:deb/debian/libuniversal-exports-perl@0.05-5?arch=all

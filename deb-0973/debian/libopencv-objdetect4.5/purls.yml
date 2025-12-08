@@ -1,0 +1,4 @@
+- pkg:deb/debian/libopencv-objdetect4.5@4.5.1%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libopencv-objdetect4.5@4.5.1%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libopencv-objdetect4.5@4.5.1%2Bdfsg-5?arch=armhf
+- pkg:deb/debian/libopencv-objdetect4.5@4.5.1%2Bdfsg-5?arch=i386

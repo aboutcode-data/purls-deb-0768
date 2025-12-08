@@ -1,0 +1,8 @@
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb4?arch=amd64
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb4?arch=armel
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb4?arch=i386
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb4?arch=s390x
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb5?arch=arm64
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb5?arch=armhf
+- pkg:deb/debian/python3-pytrellis@1.4-2%2Bb6?arch=riscv64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-autoprefixer@10.1.0.0%2Bdfsg1%2B~cs14.1.12-5?arch=all
+- pkg:deb/debian/node-autoprefixer@10.4.19.0%2Bdfsg1%2B~cs24.8.24-1?arch=all
+- pkg:deb/debian/node-autoprefixer@10.4.21.0%2Bdfsg1%2B~cs24.8.25-1?arch=all
+- pkg:deb/debian/node-autoprefixer@10.4.7.0%2Bdfsg1%2B~cs24.8.7-5?arch=all

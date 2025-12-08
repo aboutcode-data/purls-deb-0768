@@ -1,3 +1,7 @@
+- pkg:deb/debian/libnginx-mod-http-cache-purge@1.18.0-6.1%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/libnginx-mod-http-cache-purge@1.18.0-6.1%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/libnginx-mod-http-cache-purge@1.18.0-6.1%2Bdeb11u3?arch=armhf
+- pkg:deb/debian/libnginx-mod-http-cache-purge@1.18.0-6.1%2Bdeb11u3?arch=i386
 - pkg:deb/debian/libnginx-mod-http-cache-purge@2.3-4?arch=amd64
 - pkg:deb/debian/libnginx-mod-http-cache-purge@2.3-4?arch=arm64
 - pkg:deb/debian/libnginx-mod-http-cache-purge@2.3-4?arch=armel

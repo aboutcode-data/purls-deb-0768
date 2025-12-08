@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-uid-safe@2.1.5%2B~2.1.2-1?arch=all
+- pkg:deb/debian/node-uid-safe@2.1.5-1?arch=all

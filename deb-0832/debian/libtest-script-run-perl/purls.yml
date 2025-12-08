@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-script-run-perl@0.08-2?arch=all
+- pkg:deb/debian/libtest-script-run-perl@0.08-4?arch=all

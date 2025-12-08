@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-manila-ui@13.0.0-1?arch=all
+- pkg:deb/debian/python3-manila-ui@14.0.0-1?arch=all
+- pkg:deb/debian/python3-manila-ui@4.0.0-2?arch=all
+- pkg:deb/debian/python3-manila-ui@8.0.0-2?arch=all

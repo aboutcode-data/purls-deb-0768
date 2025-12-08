@@ -1,0 +1,14 @@
+- pkg:deb/debian/pente@2.2.5-10?arch=amd64
+- pkg:deb/debian/pente@2.2.5-10?arch=arm64
+- pkg:deb/debian/pente@2.2.5-10?arch=armhf
+- pkg:deb/debian/pente@2.2.5-10?arch=i386
+- pkg:deb/debian/pente@2.2.5-11%2Bb1?arch=riscv64
+- pkg:deb/debian/pente@2.2.5-11?arch=amd64
+- pkg:deb/debian/pente@2.2.5-11?arch=arm64
+- pkg:deb/debian/pente@2.2.5-11?arch=armel
+- pkg:deb/debian/pente@2.2.5-11?arch=armhf
+- pkg:deb/debian/pente@2.2.5-11?arch=i386
+- pkg:deb/debian/pente@2.2.5-11?arch=mips64el
+- pkg:deb/debian/pente@2.2.5-11?arch=mipsel
+- pkg:deb/debian/pente@2.2.5-11?arch=ppc64el
+- pkg:deb/debian/pente@2.2.5-11?arch=s390x

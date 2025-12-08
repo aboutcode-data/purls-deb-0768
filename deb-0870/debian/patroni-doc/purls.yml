@@ -1,0 +1,5 @@
+- pkg:deb/debian/patroni-doc@2.0.2-1?arch=all
+- pkg:deb/debian/patroni-doc@3.0.2-1?arch=all
+- pkg:deb/debian/patroni-doc@4.0.7-3?arch=all
+- pkg:deb/debian/patroni-doc@4.0.7-3~deb13u1?arch=all
+- pkg:deb/debian/patroni-doc@4.1.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtypes-datetime-perl@0.002-1?arch=all
+- pkg:deb/debian/libtypes-datetime-perl@0.002-2?arch=all
+- pkg:deb/debian/libtypes-datetime-perl@0.002-3?arch=all
+- pkg:deb/debian/libtypes-datetime-perl@0.002-4?arch=all

@@ -1,0 +1,10 @@
+- pkg:deb/debian/inorwegian@2.2-4%2Bb2?arch=riscv64
+- pkg:deb/debian/inorwegian@2.2-4?arch=amd64
+- pkg:deb/debian/inorwegian@2.2-4?arch=arm64
+- pkg:deb/debian/inorwegian@2.2-4?arch=armel
+- pkg:deb/debian/inorwegian@2.2-4?arch=armhf
+- pkg:deb/debian/inorwegian@2.2-4?arch=i386
+- pkg:deb/debian/inorwegian@2.2-4?arch=mips64el
+- pkg:deb/debian/inorwegian@2.2-4?arch=mipsel
+- pkg:deb/debian/inorwegian@2.2-4?arch=ppc64el
+- pkg:deb/debian/inorwegian@2.2-4?arch=s390x

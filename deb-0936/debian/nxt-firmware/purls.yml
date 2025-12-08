@@ -1,0 +1,3 @@
+- pkg:deb/debian/nxt-firmware@1.29.2-1?arch=all
+- pkg:deb/debian/nxt-firmware@1.29.7-2~bpo12%2B1?arch=all
+- pkg:deb/debian/nxt-firmware@1.29.7-6?arch=all

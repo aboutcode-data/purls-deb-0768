@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsql-abstract-more-perl@1.37-1?arch=all
+- pkg:deb/debian/libsql-abstract-more-perl@1.39-1?arch=all
+- pkg:deb/debian/libsql-abstract-more-perl@1.43-1?arch=all
+- pkg:deb/debian/libsql-abstract-more-perl@1.44-1?arch=all

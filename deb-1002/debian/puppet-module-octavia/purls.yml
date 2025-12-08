@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-octavia@17.4.0-2?arch=all
+- pkg:deb/debian/puppet-module-octavia@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-octavia@25.0.0-4?arch=all
+- pkg:deb/debian/puppet-module-octavia@27.0.0-1?arch=all

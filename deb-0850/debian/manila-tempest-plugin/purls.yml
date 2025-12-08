@@ -1,0 +1,4 @@
+- pkg:deb/debian/manila-tempest-plugin@1.10.0-1?arch=all
+- pkg:deb/debian/manila-tempest-plugin@1.2.0-2?arch=all
+- pkg:deb/debian/manila-tempest-plugin@2.7.0-2?arch=all
+- pkg:deb/debian/manila-tempest-plugin@2.9.0-2?arch=all

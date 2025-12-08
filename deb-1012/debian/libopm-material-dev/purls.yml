@@ -1,0 +1,9 @@
+- pkg:deb/debian/libopm-material-dev@2022.10%2Bds-4?arch=amd64
+- pkg:deb/debian/libopm-material-dev@2022.10%2Bds-4?arch=arm64
+- pkg:deb/debian/libopm-material-dev@2022.10%2Bds-4?arch=armel
+- pkg:deb/debian/libopm-material-dev@2022.10%2Bds-4?arch=mips64el
+- pkg:deb/debian/libopm-material-dev@2022.10%2Bds-4?arch=mipsel
+- pkg:deb/debian/libopm-material-dev@2022.10%2Bds-4?arch=ppc64el
+- pkg:deb/debian/libopm-material-dev@2024.10%2Bds-5?arch=all
+- pkg:deb/debian/libopm-material-dev@2025.04%2Bds-5?arch=all
+- pkg:deb/debian/libopm-material-dev@2025.10%2Bds-2?arch=all

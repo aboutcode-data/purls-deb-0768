@@ -1,0 +1,17 @@
+- pkg:deb/debian/pexec@1.0~rc8-4%2Bb1?arch=amd64
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=arm64
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=armel
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=armhf
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=i386
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=mips64el
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=mipsel
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=ppc64el
+- pkg:deb/debian/pexec@1.0~rc8-4?arch=s390x
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=amd64
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=arm64
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=armel
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=armhf
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=i386
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=ppc64el
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=riscv64
+- pkg:deb/debian/pexec@1.0~rc8-7?arch=s390x

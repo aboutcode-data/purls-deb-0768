@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsmbios-dev@2.4.3-1?arch=amd64
+- pkg:deb/debian/libsmbios-dev@2.4.3-1?arch=i386

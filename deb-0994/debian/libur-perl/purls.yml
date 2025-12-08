@@ -1,0 +1,3 @@
+- pkg:deb/debian/libur-perl@0.470%2Bds-1?arch=all
+- pkg:deb/debian/libur-perl@0.470%2Bds-2?arch=all
+- pkg:deb/debian/libur-perl@0.470%2Bds-3?arch=all

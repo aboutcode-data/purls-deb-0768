@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-no-littering@1.2.1-1?arch=all
+- pkg:deb/debian/elpa-no-littering@1.2.7-1?arch=all
+- pkg:deb/debian/elpa-no-littering@1.7.6-1?arch=all
+- pkg:deb/debian/elpa-no-littering@1.8.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/ovn-bgp-agent@4.0.0-1?arch=all
+- pkg:deb/debian/ovn-bgp-agent@5.0.0-1?arch=all

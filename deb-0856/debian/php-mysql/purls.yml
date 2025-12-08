@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-mysql@7.4%2B76?arch=all
+- pkg:deb/debian/php-mysql@8.2%2B93?arch=all
+- pkg:deb/debian/php-mysql@8.4%2B96?arch=all

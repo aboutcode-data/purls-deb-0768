@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-illuminate-events@10.48.29%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-illuminate-events@11.46.1%2Bdfsg-4?arch=all
+- pkg:deb/debian/php-illuminate-events@6.20.14%2Bdfsg-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/php-illuminate-events@8.83.26%2Bdfsg-2?arch=all

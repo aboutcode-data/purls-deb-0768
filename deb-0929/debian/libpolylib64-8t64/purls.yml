@@ -1,0 +1,8 @@
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg%2Bb1?arch=arm64
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=amd64
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=armel
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=armhf
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=i386
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=ppc64el
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=riscv64
+- pkg:deb/debian/libpolylib64-8t64@5.22.5-4.2%2Bdfsg?arch=s390x

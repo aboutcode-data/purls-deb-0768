@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-compression-webpack-plugin@10.0.0-2?arch=all
+- pkg:deb/debian/node-compression-webpack-plugin@6.1.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-nipype@1.6.0-2?arch=all
+- pkg:deb/debian/python3-nipype@1.8.5-3?arch=all
+- pkg:deb/debian/python3-nipype@1.9.2-2?arch=all
+- pkg:deb/debian/python3-nipype@1.9.2-4?arch=all

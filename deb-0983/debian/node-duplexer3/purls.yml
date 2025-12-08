@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-duplexer3@0.1.4-5?arch=all
+- pkg:deb/debian/node-duplexer3@1.0.0%2B~0.1.1-2?arch=all

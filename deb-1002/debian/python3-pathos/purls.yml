@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pathos@0.3.3-2?arch=all
+- pkg:deb/debian/python3-pathos@0.3.4-1?arch=all

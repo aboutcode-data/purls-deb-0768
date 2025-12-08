@@ -1,0 +1,14 @@
+- pkg:deb/debian/minizinc-ide@2.5.3-1?arch=amd64
+- pkg:deb/debian/minizinc-ide@2.5.3-1?arch=arm64
+- pkg:deb/debian/minizinc-ide@2.5.3-1?arch=armhf
+- pkg:deb/debian/minizinc-ide@2.5.3-1?arch=i386
+- pkg:deb/debian/minizinc-ide@2.6.3-1?arch=amd64
+- pkg:deb/debian/minizinc-ide@2.6.3-1?arch=arm64
+- pkg:deb/debian/minizinc-ide@2.6.3-1?arch=armhf
+- pkg:deb/debian/minizinc-ide@2.6.3-1?arch=i386
+- pkg:deb/debian/minizinc-ide@2.6.3-1?arch=mips64el
+- pkg:deb/debian/minizinc-ide@2.6.3-1?arch=mipsel
+- pkg:deb/debian/minizinc-ide@2.8.5-1?arch=amd64
+- pkg:deb/debian/minizinc-ide@2.8.5-1?arch=arm64
+- pkg:deb/debian/minizinc-ide@2.8.5-1?arch=armhf
+- pkg:deb/debian/minizinc-ide@2.8.5-1?arch=i386

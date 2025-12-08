@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-docker-notary-dev@0.6.1~ds2-6?arch=all
+- pkg:deb/debian/golang-github-docker-notary-dev@0.7.0%2Bds1-2?arch=all
+- pkg:deb/debian/golang-github-docker-notary-dev@0.7.0%2Bgit20240416.9d2b3b3%2Bds1-3?arch=all
+- pkg:deb/debian/golang-github-docker-notary-dev@0.7.0%2Bgit20240416.9d2b3b3%2Bds1-4?arch=all

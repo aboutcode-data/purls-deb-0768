@@ -1,0 +1,14 @@
+- pkg:deb/debian/pgloader@3.6.10-4?arch=amd64
+- pkg:deb/debian/pgloader@3.6.10-4?arch=arm64
+- pkg:deb/debian/pgloader@3.6.10-4?arch=ppc64el
+- pkg:deb/debian/pgloader@3.6.10-5?arch=amd64
+- pkg:deb/debian/pgloader@3.6.10-5?arch=arm64
+- pkg:deb/debian/pgloader@3.6.10-5?arch=ppc64el
+- pkg:deb/debian/pgloader@3.6.2-1?arch=amd64
+- pkg:deb/debian/pgloader@3.6.2-1?arch=arm64
+- pkg:deb/debian/pgloader@3.6.2-1?arch=armhf
+- pkg:deb/debian/pgloader@3.6.2-1?arch=i386
+- pkg:deb/debian/pgloader@3.6.9-1?arch=amd64
+- pkg:deb/debian/pgloader@3.6.9-1?arch=arm64
+- pkg:deb/debian/pgloader@3.6.9-1?arch=i386
+- pkg:deb/debian/pgloader@3.6.9-1?arch=ppc64el

@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-net-url2@2.2.1-0.2?arch=all
+- pkg:deb/debian/php-net-url2@2.2.3-1?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/abisip-find@1.13.0-2?arch=amd64
+- pkg:deb/debian/abisip-find@1.13.0-2?arch=arm64
+- pkg:deb/debian/abisip-find@1.13.0-2?arch=ppc64el
+- pkg:deb/debian/abisip-find@1.13.0-2?arch=riscv64
+- pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=amd64
+- pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=arm64
+- pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=armhf
+- pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=i386
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=amd64
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=arm64
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=armel
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=armhf
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=i386
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=mips64el
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=mipsel
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/abisip-find@1.9.0-3%2Bb1?arch=s390x

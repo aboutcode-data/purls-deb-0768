@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-nesbot-carbon@2.32.2-1?arch=all
+- pkg:deb/debian/php-nesbot-carbon@2.65.0-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/php-nesbot-carbon@2.73.0-2?arch=all
+- pkg:deb/debian/php-nesbot-carbon@3.10.3-2?arch=all

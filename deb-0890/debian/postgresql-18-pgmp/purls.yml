@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-pgmp@1.0.5-4?arch=amd64
+- pkg:deb/debian/postgresql-18-pgmp@1.0.5-4?arch=arm64
+- pkg:deb/debian/postgresql-18-pgmp@1.0.5-4?arch=ppc64el
+- pkg:deb/debian/postgresql-18-pgmp@1.0.5-4?arch=riscv64
+- pkg:deb/debian/postgresql-18-pgmp@1.0.5-4?arch=s390x

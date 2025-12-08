@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-plaso@20201007-2?arch=all
+- pkg:deb/debian/python3-plaso@20241006-3?arch=all
+- pkg:deb/debian/python3-plaso@20241006-4?arch=all

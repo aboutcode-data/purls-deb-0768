@@ -1,0 +1,4 @@
+- pkg:deb/debian/php7.4-sybase@7.4.33-1%2Bdeb11u5?arch=amd64
+- pkg:deb/debian/php7.4-sybase@7.4.33-1%2Bdeb11u5?arch=arm64
+- pkg:deb/debian/php7.4-sybase@7.4.33-1%2Bdeb11u5?arch=armhf
+- pkg:deb/debian/php7.4-sybase@7.4.33-1%2Bdeb11u5?arch=i386

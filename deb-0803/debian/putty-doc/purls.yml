@@ -1,0 +1,3 @@
+- pkg:deb/debian/putty-doc@0.74-1%2Bdeb11u2?arch=all
+- pkg:deb/debian/putty-doc@0.78-2%2Bdeb12u2?arch=all
+- pkg:deb/debian/putty-doc@0.83-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmgl-wx7.5.0@2.4.4-7?arch=amd64
+- pkg:deb/debian/libmgl-wx7.5.0@2.4.4-7?arch=arm64
+- pkg:deb/debian/libmgl-wx7.5.0@2.4.4-7?arch=armhf
+- pkg:deb/debian/libmgl-wx7.5.0@2.4.4-7?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxml-validate-perl@1.025-3?arch=all
+- pkg:deb/debian/libxml-validate-perl@1.025-4?arch=all

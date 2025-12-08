@@ -1,0 +1,3 @@
+- pkg:deb/debian/notmuch-doc@0.37-1?arch=all
+- pkg:deb/debian/notmuch-doc@0.38.1-1~bpo12%2B1?arch=all
+- pkg:deb/debian/notmuch-doc@0.39-1?arch=all

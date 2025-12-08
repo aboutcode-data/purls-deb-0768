@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtraceevent-doc@1.1.2-1?arch=all
+- pkg:deb/debian/libtraceevent-doc@1.7.1-1?arch=all
+- pkg:deb/debian/libtraceevent-doc@1.8.4-2?arch=all

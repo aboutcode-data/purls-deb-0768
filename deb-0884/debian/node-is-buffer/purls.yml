@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-is-buffer@2.0.5-1?arch=all
+- pkg:deb/debian/node-is-buffer@2.0.5-2?arch=all

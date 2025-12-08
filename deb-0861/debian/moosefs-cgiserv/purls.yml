@@ -1,0 +1,4 @@
+- pkg:deb/debian/moosefs-cgiserv@3.0.115-1?arch=all
+- pkg:deb/debian/moosefs-cgiserv@3.0.117-1?arch=all
+- pkg:deb/debian/moosefs-cgiserv@4.56.6-1~bpo12%2B1?arch=all
+- pkg:deb/debian/moosefs-cgiserv@4.57.5-1?arch=all

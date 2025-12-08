@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-is-windows@1.0.2%2B~cs1.0.0-1?arch=all
+- pkg:deb/debian/node-is-windows@1.0.2-2?arch=all

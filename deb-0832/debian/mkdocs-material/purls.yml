@@ -1,0 +1,2 @@
+- pkg:deb/debian/mkdocs-material@8.2.5-1?arch=all
+- pkg:deb/debian/mkdocs-material@9.6.4-1?arch=all

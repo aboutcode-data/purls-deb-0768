@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-http-server-simple-perl@0.11-1?arch=all
+- pkg:deb/debian/libtest-http-server-simple-perl@0.11-2?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=amd64
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=arm64
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=armel
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=armhf
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=i386
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=mipsel
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/libopen3d0.16@0.16.1%2Bds-2%2Bb4?arch=s390x

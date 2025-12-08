@@ -1,0 +1,2 @@
+- pkg:deb/debian/libosgi-core-java@7.0.0-2?arch=all
+- pkg:deb/debian/libosgi-core-java@8.0.0-2?arch=all

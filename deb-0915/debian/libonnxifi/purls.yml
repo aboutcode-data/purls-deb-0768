@@ -1,0 +1,13 @@
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=amd64
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=arm64
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=armel
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=armhf
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=i386
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=mips64el
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=mipsel
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/libonnxifi@1.12.0-2%2Bb4?arch=s390x
+- pkg:deb/debian/libonnxifi@1.7.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libonnxifi@1.7.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libonnxifi@1.7.0%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/libonnxifi@1.7.0%2Bdfsg-3?arch=i386

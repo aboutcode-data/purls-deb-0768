@@ -1,0 +1,5 @@
+- pkg:deb/debian/libmdds-dev@1.7.0-1?arch=all
+- pkg:deb/debian/libmdds-dev@2.0.3-1?arch=all
+- pkg:deb/debian/libmdds-dev@2.1.1-2?arch=all
+- pkg:deb/debian/libmdds-dev@3.1.0-3?arch=all
+- pkg:deb/debian/libmdds-dev@3.1.0-3~bpo13%2B1?arch=all

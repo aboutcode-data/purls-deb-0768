@@ -1,0 +1,13 @@
+- pkg:deb/debian/rsh-server@0.17-22?arch=amd64
+- pkg:deb/debian/rsh-server@0.17-22?arch=arm64
+- pkg:deb/debian/rsh-server@0.17-22?arch=armhf
+- pkg:deb/debian/rsh-server@0.17-22?arch=i386
+- pkg:deb/debian/rsh-server@0.17-24?arch=amd64
+- pkg:deb/debian/rsh-server@0.17-24?arch=arm64
+- pkg:deb/debian/rsh-server@0.17-24?arch=armel
+- pkg:deb/debian/rsh-server@0.17-24?arch=armhf
+- pkg:deb/debian/rsh-server@0.17-24?arch=i386
+- pkg:deb/debian/rsh-server@0.17-24?arch=mips64el
+- pkg:deb/debian/rsh-server@0.17-24?arch=mipsel
+- pkg:deb/debian/rsh-server@0.17-24?arch=ppc64el
+- pkg:deb/debian/rsh-server@0.17-24?arch=s390x

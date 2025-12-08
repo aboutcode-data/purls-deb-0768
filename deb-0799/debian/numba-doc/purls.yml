@@ -1,0 +1,4 @@
+- pkg:deb/debian/numba-doc@0.52.0-4?arch=all
+- pkg:deb/debian/numba-doc@0.56.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/numba-doc@0.61.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/numba-doc@0.61.2%2Bdfsg-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-pend@1.2.0-3?arch=all
+- pkg:deb/debian/node-pend@1.2.0-5?arch=all
+- pkg:deb/debian/node-pend@1.2.0-7?arch=all

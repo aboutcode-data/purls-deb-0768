@@ -1,0 +1,15 @@
+- pkg:deb/debian/mapdamage@2.2.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/mapdamage@2.2.1%2Bdfsg-3?arch=all
+- pkg:deb/debian/mapdamage@2.2.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-1?arch=i386
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=i386
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=riscv64

@@ -1,0 +1,11 @@
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=amd64
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=arm64
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=armel
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=armhf
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=i386
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=mips64el
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=mipsel
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=ppc64el
+- pkg:deb/debian/psutils@1.17.dfsg-4?arch=s390x
+- pkg:deb/debian/psutils@3.3.14-1?arch=all
+- pkg:deb/debian/psutils@3.3.8-1?arch=all

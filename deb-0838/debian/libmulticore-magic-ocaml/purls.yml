@@ -1,0 +1,12 @@
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb1?arch=amd64
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb1?arch=arm64
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb1?arch=i386
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb1?arch=riscv64
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb1?arch=s390x
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb3?arch=amd64
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb3?arch=arm64
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb3?arch=riscv64
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2%2Bb3?arch=s390x
+- pkg:deb/debian/libmulticore-magic-ocaml@2.3.1-2?arch=armhf

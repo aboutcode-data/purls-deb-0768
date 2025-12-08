@@ -1,0 +1,14 @@
+- pkg:deb/debian/libopm-simulators@2022.10%2Bds-2?arch=amd64
+- pkg:deb/debian/libopm-simulators@2022.10%2Bds-2?arch=arm64
+- pkg:deb/debian/libopm-simulators@2022.10%2Bds-2?arch=ppc64el
+- pkg:deb/debian/libopm-simulators@2024.10%2Bds-6?arch=amd64
+- pkg:deb/debian/libopm-simulators@2024.10%2Bds-6?arch=arm64
+- pkg:deb/debian/libopm-simulators@2024.10%2Bds-6?arch=ppc64el
+- pkg:deb/debian/libopm-simulators@2024.10%2Bds-6?arch=riscv64
+- pkg:deb/debian/libopm-simulators@2025.04%2Bds-2?arch=amd64
+- pkg:deb/debian/libopm-simulators@2025.04%2Bds-2?arch=arm64
+- pkg:deb/debian/libopm-simulators@2025.04%2Bds-2?arch=ppc64el
+- pkg:deb/debian/libopm-simulators@2025.04%2Bds-2?arch=riscv64
+- pkg:deb/debian/libopm-simulators@2025.10%2Bds-2%2Bb1?arch=amd64
+- pkg:deb/debian/libopm-simulators@2025.10%2Bds-2%2Bb1?arch=arm64
+- pkg:deb/debian/libopm-simulators@2025.10%2Bds-2%2Bb1?arch=ppc64el

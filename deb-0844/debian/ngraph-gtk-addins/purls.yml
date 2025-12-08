@@ -1,0 +1,4 @@
+- pkg:deb/debian/ngraph-gtk-addins@6.09.01-1?arch=all
+- pkg:deb/debian/ngraph-gtk-addins@6.09.07-1?arch=all
+- pkg:deb/debian/ngraph-gtk-addins@6.09.09-1?arch=all
+- pkg:deb/debian/ngraph-gtk-addins@6.09.10-1?arch=all

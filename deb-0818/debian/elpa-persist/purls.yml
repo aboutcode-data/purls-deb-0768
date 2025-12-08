@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-persist@0.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/elpa-persist@0.5%2Bdfsg-1?arch=all
+- pkg:deb/debian/elpa-persist@0.6.1%2Bdfsg-3?arch=all
+- pkg:deb/debian/elpa-persist@0.8%2Bdfsg-1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/libteeacl0.1.0t64@4.5.0-1?arch=arm64
+- pkg:deb/debian/libteeacl0.1.0t64@4.5.0-1?arch=armhf
+- pkg:deb/debian/libteeacl0.1.0t64@4.7.0-1?arch=arm64
+- pkg:deb/debian/libteeacl0.1.0t64@4.7.0-1?arch=armhf
+- pkg:deb/debian/libteeacl0.1.0t64@4.8.0-1?arch=arm64
+- pkg:deb/debian/libteeacl0.1.0t64@4.8.0-1?arch=armhf

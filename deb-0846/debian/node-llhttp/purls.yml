@@ -1,1 +1,3 @@
+- pkg:deb/debian/node-llhttp@8.1.0~5.15.0%2Bdfsg1%2B~cs20.10.9.3-1%2Bdeb12u4?arch=all
+- pkg:deb/debian/node-llhttp@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=all
 - pkg:deb/debian/node-llhttp@9.3.3~really9.3.0%2B~cs12.11.8-3?arch=all

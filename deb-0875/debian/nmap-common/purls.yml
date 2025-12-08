@@ -1,0 +1,6 @@
+- pkg:deb/debian/nmap-common@7.91%2Bdfsg1%2Breally7.80%2Bdfsg1-2?arch=all
+- pkg:deb/debian/nmap-common@7.93%2Bdfsg1-1?arch=all
+- pkg:deb/debian/nmap-common@7.94%2Bgit20230807.3be01efb1%2Bdfsg-4~bpo12%2B1?arch=all
+- pkg:deb/debian/nmap-common@7.95%2Bdfsg-3?arch=all
+- pkg:deb/debian/nmap-common@7.98%2Bdfsg-1?arch=all
+- pkg:deb/debian/nmap-common@7.98%2Bdfsg-1~bpo13%2B1?arch=all

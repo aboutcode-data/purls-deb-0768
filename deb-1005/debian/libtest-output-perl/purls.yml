@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtest-output-perl@1.033-1?arch=all
+- pkg:deb/debian/libtest-output-perl@1.033-2?arch=all
+- pkg:deb/debian/libtest-output-perl@1.036-1?arch=all

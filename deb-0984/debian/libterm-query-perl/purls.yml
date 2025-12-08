@@ -1,0 +1,2 @@
+- pkg:deb/debian/libterm-query-perl@2.0-10?arch=all
+- pkg:deb/debian/libterm-query-perl@2.0-11?arch=all

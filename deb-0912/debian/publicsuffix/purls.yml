@@ -1,0 +1,4 @@
+- pkg:deb/debian/publicsuffix@20220811.1734-0%2Bdeb11u1?arch=all
+- pkg:deb/debian/publicsuffix@20230209.2326-1?arch=all
+- pkg:deb/debian/publicsuffix@20250328.1952-0.1?arch=all
+- pkg:deb/debian/publicsuffix@20251016.1743-0.1?arch=all

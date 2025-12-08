@@ -1,0 +1,4 @@
+- pkg:deb/debian/nslcd-utils@0.9.11-1?arch=all
+- pkg:deb/debian/nslcd-utils@0.9.12-4?arch=all
+- pkg:deb/debian/nslcd-utils@0.9.13-1?arch=all
+- pkg:deb/debian/nslcd-utils@0.9.13-2?arch=all

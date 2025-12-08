@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtime-duration-perl@1.21-1?arch=all
+- pkg:deb/debian/libtime-duration-perl@1.21-2?arch=all

@@ -1,0 +1,12 @@
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb1?arch=armhf
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb1?arch=i386
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb3?arch=amd64
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb3?arch=arm64
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb3?arch=riscv64
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb4?arch=s390x
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb5?arch=amd64
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb5?arch=arm64
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb5?arch=ppc64el
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb5?arch=riscv64
+- pkg:deb/debian/libdscheck-ocaml-dev@0.5.0-2%2Bb6?arch=s390x

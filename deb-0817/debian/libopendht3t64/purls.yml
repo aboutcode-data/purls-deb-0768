@@ -1,0 +1,7 @@
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=amd64
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=arm64
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=armhf
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=i386
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=ppc64el
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=riscv64
+- pkg:deb/debian/libopendht3t64@3.0.1-1.1%2Bb6?arch=s390x

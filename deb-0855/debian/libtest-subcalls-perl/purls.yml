@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-subcalls-perl@1.10-1?arch=all
+- pkg:deb/debian/libtest-subcalls-perl@1.10-2?arch=all

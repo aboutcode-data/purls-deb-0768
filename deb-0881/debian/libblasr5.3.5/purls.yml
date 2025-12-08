@@ -1,0 +1,12 @@
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-10?arch=amd64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-10?arch=arm64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-10?arch=ppc64el
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-10?arch=riscv64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-11?arch=amd64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-11?arch=arm64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-11?arch=ppc64el
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-11?arch=riscv64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-4%2Bb2?arch=amd64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-4%2Bb2?arch=arm64
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-4%2Bb2?arch=mips64el
+- pkg:deb/debian/libblasr5.3.5@5.3.5%2Bdfsg-4%2Bb2?arch=ppc64el

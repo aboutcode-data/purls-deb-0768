@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-jsonselect@0.4.0%2Bdfsg3-2?arch=all
+- pkg:deb/debian/node-jsonselect@0.4.0%2Bdfsg3-3?arch=all

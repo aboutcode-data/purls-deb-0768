@@ -1,0 +1,4 @@
+- pkg:deb/debian/openvswitch-dev@2.15.0%2Bds1-2%2Bdeb11u5?arch=amd64
+- pkg:deb/debian/openvswitch-dev@2.15.0%2Bds1-2%2Bdeb11u5?arch=arm64
+- pkg:deb/debian/openvswitch-dev@2.15.0%2Bds1-2%2Bdeb11u5?arch=armhf
+- pkg:deb/debian/openvswitch-dev@2.15.0%2Bds1-2%2Bdeb11u5?arch=i386

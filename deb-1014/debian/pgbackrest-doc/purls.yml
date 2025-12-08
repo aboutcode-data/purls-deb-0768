@@ -1,0 +1,4 @@
+- pkg:deb/debian/pgbackrest-doc@2.33-1?arch=all
+- pkg:deb/debian/pgbackrest-doc@2.45-1?arch=all
+- pkg:deb/debian/pgbackrest-doc@2.55.1-1?arch=all
+- pkg:deb/debian/pgbackrest-doc@2.57.0-1?arch=all

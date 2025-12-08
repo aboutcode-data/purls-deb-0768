@@ -1,0 +1,4 @@
+- pkg:deb/debian/picolibc-aarch64-linux-gnu@1.5.1-2?arch=all
+- pkg:deb/debian/picolibc-aarch64-linux-gnu@1.8-1?arch=all
+- pkg:deb/debian/picolibc-aarch64-linux-gnu@1.8.10-2?arch=all
+- pkg:deb/debian/picolibc-aarch64-linux-gnu@1.8.10-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-mockmodule-perl@0.176.0-1?arch=all
+- pkg:deb/debian/libtest-mockmodule-perl@0.177.0-1?arch=all
+- pkg:deb/debian/libtest-mockmodule-perl@0.178.0-1?arch=all
+- pkg:deb/debian/libtest-mockmodule-perl@0.180.0-1?arch=all
