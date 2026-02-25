@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgloo-rocm-dev@0.0~git20250912.d97133a-2%2Brocm1?arch=amd64
+- pkg:deb/debian/libgloo-rocm-dev@0.0~git20250912.d97133a-2%2Brocm1?arch=arm64
+- pkg:deb/debian/libgloo-rocm-dev@0.0~git20250912.d97133a-2?arch=amd64
+- pkg:deb/debian/libgloo-rocm-dev@0.0~git20250912.d97133a-2?arch=arm64
+- pkg:deb/debian/libgloo-rocm-dev@0.0~git20250912.d97133a-2?arch=ppc64el

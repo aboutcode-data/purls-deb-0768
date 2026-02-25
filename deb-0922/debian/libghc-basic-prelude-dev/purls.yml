@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-basic-prelude-dev@0.7.0-7?arch=ppc64el
 - pkg:deb/debian/libghc-basic-prelude-dev@0.7.0-7?arch=riscv64
 - pkg:deb/debian/libghc-basic-prelude-dev@0.7.0-7?arch=s390x
+- pkg:deb/debian/libghc-basic-prelude-dev@0.7.0-8?arch=loong64

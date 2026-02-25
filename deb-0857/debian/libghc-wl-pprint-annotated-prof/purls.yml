@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-wl-pprint-annotated-prof@0.1.0.1-6?arch=ppc64el
 - pkg:deb/debian/libghc-wl-pprint-annotated-prof@0.1.0.1-6?arch=riscv64
 - pkg:deb/debian/libghc-wl-pprint-annotated-prof@0.1.0.1-6?arch=s390x
+- pkg:deb/debian/libghc-wl-pprint-annotated-prof@0.1.0.1-8?arch=loong64

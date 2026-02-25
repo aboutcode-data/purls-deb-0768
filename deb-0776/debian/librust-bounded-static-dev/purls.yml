@@ -1,1 +1,2 @@
 - pkg:deb/debian/librust-bounded-static-dev@0.8.0-6?arch=all
+- pkg:deb/debian/librust-bounded-static-dev@0.8.0-8?arch=all

@@ -13,3 +13,4 @@
 - pkg:deb/debian/tokodon@25.08.1-1?arch=ppc64el
 - pkg:deb/debian/tokodon@25.08.1-1?arch=riscv64
 - pkg:deb/debian/tokodon@25.08.1-1?arch=s390x
+- pkg:deb/debian/tokodon@25.12.2-1?arch=loong64

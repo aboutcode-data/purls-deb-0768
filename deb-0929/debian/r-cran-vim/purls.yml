@@ -9,6 +9,7 @@
 - pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=armel
 - pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=armhf
 - pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=i386
+- pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=loong64
 - pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=mips64el
 - pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=mipsel
 - pkg:deb/debian/r-cran-vim@6.2.2%2Bdfsg-1?arch=ppc64el

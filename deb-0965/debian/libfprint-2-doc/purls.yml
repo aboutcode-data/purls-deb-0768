@@ -1,3 +1,4 @@
 - pkg:deb/debian/libfprint-2-doc@1.90.7-2?arch=all
+- pkg:deb/debian/libfprint-2-doc@1.94.10-1?arch=all
 - pkg:deb/debian/libfprint-2-doc@1.94.5-1?arch=all
 - pkg:deb/debian/libfprint-2-doc@1.94.9-1?arch=all

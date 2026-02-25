@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-yesod-core-doc@1.6.18-1?arch=all
 - pkg:deb/debian/libghc-yesod-core-doc@1.6.24.0-1?arch=all
 - pkg:deb/debian/libghc-yesod-core-doc@1.6.26.0-1?arch=all
+- pkg:deb/debian/libghc-yesod-core-doc@1.6.28.1-1?arch=all

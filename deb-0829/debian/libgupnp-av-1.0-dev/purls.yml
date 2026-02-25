@@ -26,3 +26,11 @@
 - pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-1?arch=ppc64el
 - pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-1?arch=riscv64
 - pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-1?arch=s390x
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=amd64
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=arm64
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=armhf
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=i386
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=loong64
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=ppc64el
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=riscv64
+- pkg:deb/debian/libgupnp-av-1.0-dev@0.14.4-3?arch=s390x

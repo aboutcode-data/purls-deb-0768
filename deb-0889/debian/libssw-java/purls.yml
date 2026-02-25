@@ -15,6 +15,14 @@
 - pkg:deb/debian/libssw-java@1.1-15%2Bb2?arch=ppc64el
 - pkg:deb/debian/libssw-java@1.1-15%2Bb2?arch=riscv64
 - pkg:deb/debian/libssw-java@1.1-15%2Bb2?arch=s390x
+- pkg:deb/debian/libssw-java@1.1-16?arch=amd64
+- pkg:deb/debian/libssw-java@1.1-16?arch=arm64
+- pkg:deb/debian/libssw-java@1.1-16?arch=armhf
+- pkg:deb/debian/libssw-java@1.1-16?arch=i386
+- pkg:deb/debian/libssw-java@1.1-16?arch=loong64
+- pkg:deb/debian/libssw-java@1.1-16?arch=ppc64el
+- pkg:deb/debian/libssw-java@1.1-16?arch=riscv64
+- pkg:deb/debian/libssw-java@1.1-16?arch=s390x
 - pkg:deb/debian/libssw-java@1.2.5-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libssw-java@1.2.5-1?arch=amd64
 - pkg:deb/debian/libssw-java@1.2.5-1?arch=arm64

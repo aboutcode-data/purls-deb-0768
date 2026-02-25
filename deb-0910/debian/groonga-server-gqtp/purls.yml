@@ -3,3 +3,4 @@
 - pkg:deb/debian/groonga-server-gqtp@15.0.4%2Bdfsg-2?arch=all
 - pkg:deb/debian/groonga-server-gqtp@15.2.0%2Bdfsg-1?arch=all
 - pkg:deb/debian/groonga-server-gqtp@15.2.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/groonga-server-gqtp@16.0.0%2Bdfsg-1?arch=all

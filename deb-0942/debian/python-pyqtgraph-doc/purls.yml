@@ -3,3 +3,4 @@
 - pkg:deb/debian/python-pyqtgraph-doc@0.13.7-5?arch=all
 - pkg:deb/debian/python-pyqtgraph-doc@0.13.7-6?arch=all
 - pkg:deb/debian/python-pyqtgraph-doc@0.14.0-1?arch=all
+- pkg:deb/debian/python-pyqtgraph-doc@0.14.0-5?arch=all

@@ -19,6 +19,14 @@
 - pkg:deb/debian/gir1.2-pluma-1.0@1.26.1-2.1?arch=ppc64el
 - pkg:deb/debian/gir1.2-pluma-1.0@1.26.1-2.1?arch=riscv64
 - pkg:deb/debian/gir1.2-pluma-1.0@1.26.1-2.1?arch=s390x
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=amd64
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=arm64
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=armhf
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=i386
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=loong64
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=riscv64
+- pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3%2Bb1?arch=s390x
 - pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3?arch=amd64
 - pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3?arch=arm64
 - pkg:deb/debian/gir1.2-pluma-1.0@1.28.0-3?arch=armhf

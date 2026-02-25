@@ -1,3 +1,4 @@
 - pkg:deb/debian/elpa-flycheck@32~git.20200527.9c435db3-2?arch=all
 - pkg:deb/debian/elpa-flycheck@32~git.20200527.9c435db3-4?arch=all
 - pkg:deb/debian/elpa-flycheck@35.0-1?arch=all
+- pkg:deb/debian/elpa-flycheck@36.0-1?arch=all

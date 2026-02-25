@@ -30,6 +30,14 @@
 - pkg:deb/debian/libtdb-dev@1.4.14%2Bsamba4.23.3%2Bdfsg-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/libtdb-dev@1.4.14%2Bsamba4.23.3%2Bdfsg-1~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/libtdb-dev@1.4.14%2Bsamba4.23.3%2Bdfsg-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=i386
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/libtdb-dev@1.4.15%2Bsamba4.24.0~rc2%2Bdfsg-1?arch=s390x
 - pkg:deb/debian/libtdb-dev@1.4.3-1%2Bb1?arch=amd64
 - pkg:deb/debian/libtdb-dev@1.4.3-1%2Bb1?arch=arm64
 - pkg:deb/debian/libtdb-dev@1.4.3-1%2Bb1?arch=armhf

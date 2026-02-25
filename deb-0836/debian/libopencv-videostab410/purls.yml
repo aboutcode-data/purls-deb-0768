@@ -13,3 +13,4 @@
 - pkg:deb/debian/libopencv-videostab410@4.10.0%2Bdfsg-6%2Bb3?arch=i386
 - pkg:deb/debian/libopencv-videostab410@4.10.0%2Bdfsg-6%2Bb3?arch=ppc64el
 - pkg:deb/debian/libopencv-videostab410@4.10.0%2Bdfsg-6%2Bb3?arch=s390x
+- pkg:deb/debian/libopencv-videostab410@4.10.0%2Bdfsg-7?arch=loong64

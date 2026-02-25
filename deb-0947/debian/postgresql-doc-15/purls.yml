@@ -1,1 +1,2 @@
 - pkg:deb/debian/postgresql-doc-15@15.14-0%2Bdeb12u1?arch=all
+- pkg:deb/debian/postgresql-doc-15@15.16-0%2Bdeb12u1?arch=all

@@ -15,3 +15,11 @@
 - pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-5%2Bb3?arch=riscv64
 - pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-5%2Bb3?arch=s390x
 - pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-5%2Bb4?arch=arm64
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=arm64
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=armhf
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=i386
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=loong64
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=ppc64el
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=riscv64
+- pkg:deb/debian/progressivemauve@1.2.0%2B4713%2Bdfsg-6?arch=s390x

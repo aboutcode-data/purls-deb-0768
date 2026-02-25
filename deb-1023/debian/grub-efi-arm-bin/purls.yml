@@ -6,4 +6,5 @@
 - pkg:deb/debian/grub-efi-arm-bin@2.12-1~bpo12%2B1?arch=armhf
 - pkg:deb/debian/grub-efi-arm-bin@2.12-9?arch=armel
 - pkg:deb/debian/grub-efi-arm-bin@2.12-9?arch=armhf
+- pkg:deb/debian/grub-efi-arm-bin@2.14-2?arch=armhf
 - pkg:deb/debian/grub-efi-arm-bin@2.14~git20250718.0e36779-2?arch=armhf

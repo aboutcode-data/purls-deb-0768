@@ -13,3 +13,5 @@
 - pkg:deb/debian/libppx-stable-witness-ocaml@0.17.0-1%2Bb6?arch=ppc64el
 - pkg:deb/debian/libppx-stable-witness-ocaml@0.17.0-1%2Bb6?arch=riscv64
 - pkg:deb/debian/libppx-stable-witness-ocaml@0.17.0-1%2Bb6?arch=s390x
+- pkg:deb/debian/libppx-stable-witness-ocaml@0.17.0-1%2Bb8?arch=amd64
+- pkg:deb/debian/libppx-stable-witness-ocaml@0.17.0-1%2Bb8?arch=arm64

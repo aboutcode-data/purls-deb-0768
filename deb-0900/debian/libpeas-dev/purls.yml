@@ -26,3 +26,11 @@
 - pkg:deb/debian/libpeas-dev@1.36.0-8?arch=ppc64el
 - pkg:deb/debian/libpeas-dev@1.36.0-8?arch=riscv64
 - pkg:deb/debian/libpeas-dev@1.36.0-8?arch=s390x
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=amd64
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=arm64
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=armhf
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=i386
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=loong64
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=ppc64el
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=riscv64
+- pkg:deb/debian/libpeas-dev@1.38.1-4?arch=s390x

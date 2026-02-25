@@ -1,0 +1,7 @@
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=amd64
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=armel
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=armhf
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=i386
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/linux-kbuild-6.18.9%2Bdeb13@6.18.9-1~bpo13%2B1?arch=s390x

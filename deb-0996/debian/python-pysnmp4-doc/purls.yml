@@ -2,3 +2,4 @@
 - pkg:deb/debian/python-pysnmp4-doc@4.4.12-2?arch=all
 - pkg:deb/debian/python-pysnmp4-doc@4.4.12-4?arch=all
 - pkg:deb/debian/python-pysnmp4-doc@7.1.21-2?arch=all
+- pkg:deb/debian/python-pysnmp4-doc@7.1.21-2~bpo13%2B1?arch=all

@@ -2,3 +2,5 @@
 - pkg:deb/debian/lttng-modules-dkms@2.13.18-1%2Bdeb13u1?arch=all
 - pkg:deb/debian/lttng-modules-dkms@2.13.9-1%2Bdeb12u1?arch=all
 - pkg:deb/debian/lttng-modules-dkms@2.14.3-1?arch=all
+- pkg:deb/debian/lttng-modules-dkms@2.14.4-1?arch=all
+- pkg:deb/debian/lttng-modules-dkms@2.15.0-1?arch=all

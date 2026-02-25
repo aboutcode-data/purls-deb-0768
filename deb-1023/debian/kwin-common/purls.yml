@@ -26,3 +26,11 @@
 - pkg:deb/debian/kwin-common@6.5.3-1?arch=ppc64el
 - pkg:deb/debian/kwin-common@6.5.3-1?arch=riscv64
 - pkg:deb/debian/kwin-common@6.5.3-1?arch=s390x
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=amd64
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=arm64
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=armhf
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=i386
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=loong64
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=ppc64el
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=riscv64
+- pkg:deb/debian/kwin-common@6.5.4-3?arch=s390x

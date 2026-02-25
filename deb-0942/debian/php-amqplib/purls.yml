@@ -2,3 +2,4 @@
 - pkg:deb/debian/php-amqplib@3.5.3-1?arch=all
 - pkg:deb/debian/php-amqplib@3.7.3-1?arch=all
 - pkg:deb/debian/php-amqplib@3.7.4-1?arch=all
+- pkg:deb/debian/php-amqplib@3.7.4-2?arch=all

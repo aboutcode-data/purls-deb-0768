@@ -15,3 +15,9 @@
 - pkg:deb/debian/libopenblas64-0-openmp@0.3.30%2Bds-3?arch=ppc64el
 - pkg:deb/debian/libopenblas64-0-openmp@0.3.30%2Bds-3?arch=riscv64
 - pkg:deb/debian/libopenblas64-0-openmp@0.3.30%2Bds-3?arch=s390x
+- pkg:deb/debian/libopenblas64-0-openmp@0.3.31%2Bds-3?arch=amd64
+- pkg:deb/debian/libopenblas64-0-openmp@0.3.31%2Bds-3?arch=arm64
+- pkg:deb/debian/libopenblas64-0-openmp@0.3.31%2Bds-3?arch=loong64
+- pkg:deb/debian/libopenblas64-0-openmp@0.3.31%2Bds-3?arch=ppc64el
+- pkg:deb/debian/libopenblas64-0-openmp@0.3.31%2Bds-3?arch=riscv64
+- pkg:deb/debian/libopenblas64-0-openmp@0.3.31%2Bds-3?arch=s390x

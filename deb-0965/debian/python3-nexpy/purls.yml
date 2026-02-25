@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-nexpy@1.0.10-1?arch=all
+- pkg:deb/debian/python3-nexpy@2.0.0-2?arch=all

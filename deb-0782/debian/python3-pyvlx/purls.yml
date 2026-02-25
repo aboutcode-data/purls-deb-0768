@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-pyvlx@0.2.26-1?arch=all
+- pkg:deb/debian/python3-pyvlx@0.2.30-1?arch=all

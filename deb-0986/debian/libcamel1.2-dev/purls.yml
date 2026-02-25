@@ -39,3 +39,11 @@
 - pkg:deb/debian/libcamel1.2-dev@3.56.2-6?arch=i386
 - pkg:deb/debian/libcamel1.2-dev@3.56.2-6?arch=ppc64el
 - pkg:deb/debian/libcamel1.2-dev@3.56.2-6?arch=s390x
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=amd64
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=arm64
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=armhf
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=i386
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=loong64
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=ppc64el
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=riscv64
+- pkg:deb/debian/libcamel1.2-dev@3.56.2-8?arch=s390x

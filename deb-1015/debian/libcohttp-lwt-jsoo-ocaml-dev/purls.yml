@@ -22,3 +22,5 @@
 - pkg:deb/debian/libcohttp-lwt-jsoo-ocaml-dev@5.3.0-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/libcohttp-lwt-jsoo-ocaml-dev@5.3.0-2%2Bb2?arch=riscv64
 - pkg:deb/debian/libcohttp-lwt-jsoo-ocaml-dev@5.3.0-2%2Bb2?arch=s390x
+- pkg:deb/debian/libcohttp-lwt-jsoo-ocaml-dev@5.3.0-2%2Bb5?arch=amd64
+- pkg:deb/debian/libcohttp-lwt-jsoo-ocaml-dev@5.3.0-2%2Bb5?arch=arm64

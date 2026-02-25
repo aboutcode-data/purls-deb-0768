@@ -6,3 +6,4 @@
 - pkg:deb/debian/libghc-crypton-x509-system-prof@1.6.7-3?arch=ppc64el
 - pkg:deb/debian/libghc-crypton-x509-system-prof@1.6.7-3?arch=riscv64
 - pkg:deb/debian/libghc-crypton-x509-system-prof@1.6.7-3?arch=s390x
+- pkg:deb/debian/libghc-crypton-x509-system-prof@1.6.7-4?arch=loong64

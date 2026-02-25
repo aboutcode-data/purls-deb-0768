@@ -12,6 +12,7 @@
 - pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=armel
 - pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=armhf
 - pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=i386
+- pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=loong64
 - pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=ppc64el
 - pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=riscv64
 - pkg:deb/debian/lomiri-clock-app@4.1.1-2?arch=s390x

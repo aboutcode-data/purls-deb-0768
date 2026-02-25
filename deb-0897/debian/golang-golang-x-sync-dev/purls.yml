@@ -1,3 +1,4 @@
 - pkg:deb/debian/golang-golang-x-sync-dev@0.0~git20210220.036812b-1?arch=all
 - pkg:deb/debian/golang-golang-x-sync-dev@0.1.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-sync-dev@0.19.0-1?arch=all
 - pkg:deb/debian/golang-golang-x-sync-dev@0.7.0-1?arch=all

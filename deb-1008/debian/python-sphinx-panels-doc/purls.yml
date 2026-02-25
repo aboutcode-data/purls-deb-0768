@@ -1,3 +1,4 @@
 - pkg:deb/debian/python-sphinx-panels-doc@0.6.0-2?arch=all
 - pkg:deb/debian/python-sphinx-panels-doc@0.6.0-5?arch=all
 - pkg:deb/debian/python-sphinx-panels-doc@0.6.0-6?arch=all
+- pkg:deb/debian/python-sphinx-panels-doc@0.6.0-7?arch=all

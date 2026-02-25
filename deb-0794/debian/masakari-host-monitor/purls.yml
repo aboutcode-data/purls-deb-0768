@@ -1,3 +1,4 @@
 - pkg:deb/debian/masakari-host-monitor@14.0.0-1.1?arch=all
 - pkg:deb/debian/masakari-host-monitor@19.0.0-1?arch=all
 - pkg:deb/debian/masakari-host-monitor@20.0.0-1?arch=all
+- pkg:deb/debian/masakari-host-monitor@20.0.0-2?arch=all

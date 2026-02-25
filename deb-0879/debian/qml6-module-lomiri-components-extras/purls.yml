@@ -3,6 +3,7 @@
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=armel
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=armhf
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=i386
+- pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=loong64
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=ppc64el
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=riscv64
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.7.0-3?arch=s390x
@@ -10,6 +11,7 @@
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=arm64
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=armhf
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=i386
+- pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=loong64
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=ppc64el
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=riscv64
 - pkg:deb/debian/qml6-module-lomiri-components-extras@0.8.0~git20250922.edaf9ad-1?arch=s390x

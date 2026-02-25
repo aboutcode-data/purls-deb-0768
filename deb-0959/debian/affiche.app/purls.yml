@@ -16,6 +16,7 @@
 - pkg:deb/debian/affiche.app@0.6.0-13?arch=armel
 - pkg:deb/debian/affiche.app@0.6.0-13?arch=armhf
 - pkg:deb/debian/affiche.app@0.6.0-13?arch=i386
+- pkg:deb/debian/affiche.app@0.6.0-13?arch=loong64
 - pkg:deb/debian/affiche.app@0.6.0-13?arch=ppc64el
 - pkg:deb/debian/affiche.app@0.6.0-13?arch=riscv64
 - pkg:deb/debian/affiche.app@0.6.0-13?arch=s390x

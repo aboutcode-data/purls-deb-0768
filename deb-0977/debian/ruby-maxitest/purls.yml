@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-maxitest@4.1.0-1?arch=all
 - pkg:deb/debian/ruby-maxitest@5.8.0-2?arch=all
 - pkg:deb/debian/ruby-maxitest@6.0.1-1?arch=all
+- pkg:deb/debian/ruby-maxitest@7.1.1-1?arch=all

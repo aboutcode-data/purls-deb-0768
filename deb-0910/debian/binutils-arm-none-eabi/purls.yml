@@ -26,3 +26,11 @@
 - pkg:deb/debian/binutils-arm-none-eabi@2.45.50.20251125-1%2B23%2Bb2?arch=s390x
 - pkg:deb/debian/binutils-arm-none-eabi@2.45.50.20251125-1%2B23%2Bb3?arch=arm64
 - pkg:deb/debian/binutils-arm-none-eabi@2.45.50.20251201-1%2B23%2Bb2?arch=riscv64
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=amd64
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=arm64
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=armhf
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=i386
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=loong64
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=ppc64el
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=riscv64
+- pkg:deb/debian/binutils-arm-none-eabi@2.46-1%2B28?arch=s390x

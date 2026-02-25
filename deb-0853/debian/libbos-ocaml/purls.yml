@@ -22,3 +22,5 @@
 - pkg:deb/debian/libbos-ocaml@0.2.1-2%2Bb29?arch=ppc64el
 - pkg:deb/debian/libbos-ocaml@0.2.1-2%2Bb29?arch=riscv64
 - pkg:deb/debian/libbos-ocaml@0.2.1-2%2Bb29?arch=s390x
+- pkg:deb/debian/libbos-ocaml@0.2.1-2%2Bb33?arch=amd64
+- pkg:deb/debian/libbos-ocaml@0.2.1-2%2Bb33?arch=arm64

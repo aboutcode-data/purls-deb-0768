@@ -20,3 +20,11 @@
 - pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-25?arch=ppc64el
 - pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-25?arch=riscv64
 - pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-25?arch=s390x
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=amd64
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=arm64
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=armhf
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=i386
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=loong64
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=ppc64el
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=riscv64
+- pkg:deb/debian/libdolfin64-2019.2t64@2019.2.0~legacy20240219.1c52e83-27?arch=s390x

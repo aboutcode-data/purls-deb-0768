@@ -1,3 +1,4 @@
 - pkg:deb/debian/elpa-clojure-mode-extra-font-locking@5.10.0-3?arch=all
 - pkg:deb/debian/elpa-clojure-mode-extra-font-locking@5.20.0-1?arch=all
 - pkg:deb/debian/elpa-clojure-mode-extra-font-locking@5.20.0-2?arch=all
+- pkg:deb/debian/elpa-clojure-mode-extra-font-locking@5.21.0-1?arch=all

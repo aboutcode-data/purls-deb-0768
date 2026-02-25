@@ -16,3 +16,13 @@
 - pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.45.50.20251201-1?arch=i386
 - pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.45.50.20251201-1?arch=ppc64el
 - pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.45.50.20251201-1?arch=s390x
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46-2?arch=amd64
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46-2?arch=arm64
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46-2?arch=i386
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46-2?arch=ppc64el
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46-2?arch=s390x
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46.50.20260216-1?arch=amd64
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46.50.20260216-1?arch=arm64
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46.50.20260216-1?arch=i386
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46.50.20260216-1?arch=ppc64el
+- pkg:deb/debian/binutils-s390x-linux-gnu-dbg@2.46.50.20260216-1?arch=s390x

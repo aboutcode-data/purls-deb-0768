@@ -3,6 +3,8 @@
 - pkg:deb/debian/libcontainers-data-ocaml-dev@3.15%2Bdfsg-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libcontainers-data-ocaml-dev@3.15%2Bdfsg-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libcontainers-data-ocaml-dev@3.15%2Bdfsg-1%2Bb2?arch=s390x
+- pkg:deb/debian/libcontainers-data-ocaml-dev@3.16%2Bdfsg-3%2Bb3?arch=amd64
+- pkg:deb/debian/libcontainers-data-ocaml-dev@3.16%2Bdfsg-3%2Bb3?arch=arm64
 - pkg:deb/debian/libcontainers-data-ocaml-dev@3.16%2Bdfsg-3?arch=amd64
 - pkg:deb/debian/libcontainers-data-ocaml-dev@3.16%2Bdfsg-3?arch=arm64
 - pkg:deb/debian/libcontainers-data-ocaml-dev@3.16%2Bdfsg-3?arch=armhf

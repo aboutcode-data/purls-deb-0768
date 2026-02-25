@@ -11,6 +11,14 @@
 - pkg:deb/debian/inetutils-talkd@2.4-2%2Bdeb12u1?arch=mipsel
 - pkg:deb/debian/inetutils-talkd@2.4-2%2Bdeb12u1?arch=ppc64el
 - pkg:deb/debian/inetutils-talkd@2.4-2%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=amd64
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=arm64
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=armel
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=armhf
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=i386
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=ppc64el
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=riscv64
+- pkg:deb/debian/inetutils-talkd@2.6-3%2Bdeb13u2?arch=s390x
 - pkg:deb/debian/inetutils-talkd@2.6-3?arch=amd64
 - pkg:deb/debian/inetutils-talkd@2.6-3?arch=arm64
 - pkg:deb/debian/inetutils-talkd@2.6-3?arch=armel
@@ -26,3 +34,11 @@
 - pkg:deb/debian/inetutils-talkd@2.6-4?arch=ppc64el
 - pkg:deb/debian/inetutils-talkd@2.6-4?arch=riscv64
 - pkg:deb/debian/inetutils-talkd@2.6-4?arch=s390x
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=amd64
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=arm64
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=armhf
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=i386
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=loong64
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=ppc64el
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=riscv64
+- pkg:deb/debian/inetutils-talkd@2.7-3?arch=s390x

@@ -1,3 +1,4 @@
 - pkg:deb/debian/libzeep-doc@5.0.2-3?arch=all
 - pkg:deb/debian/libzeep-doc@5.1.8-1?arch=all
 - pkg:deb/debian/libzeep-doc@6.1.1-1?arch=all
+- pkg:deb/debian/libzeep-doc@7.3.1-1?arch=all

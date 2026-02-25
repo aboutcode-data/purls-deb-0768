@@ -22,3 +22,5 @@
 - pkg:deb/debian/libmirage-crypto-ocaml@2.0.2-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libmirage-crypto-ocaml@2.0.2-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libmirage-crypto-ocaml@2.0.2-1%2Bb3?arch=s390x
+- pkg:deb/debian/libmirage-crypto-ocaml@2.0.2-1%2Bb6?arch=amd64
+- pkg:deb/debian/libmirage-crypto-ocaml@2.0.2-1%2Bb6?arch=arm64

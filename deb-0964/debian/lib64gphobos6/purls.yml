@@ -1,2 +1,4 @@
 - pkg:deb/debian/lib64gphobos6@15.2.0-10?arch=i386
+- pkg:deb/debian/lib64gphobos6@15.2.0-13?arch=i386
+- pkg:deb/debian/lib64gphobos6@15.2.0-14?arch=i386
 - pkg:deb/debian/lib64gphobos6@15.2.0-9?arch=i386

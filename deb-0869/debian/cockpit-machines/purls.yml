@@ -4,3 +4,5 @@
 - pkg:deb/debian/cockpit-machines@332-1~bpo12%2B1?arch=all
 - pkg:deb/debian/cockpit-machines@345-1?arch=all
 - pkg:deb/debian/cockpit-machines@345-1~bpo13%2B1?arch=all
+- pkg:deb/debian/cockpit-machines@348-1?arch=all
+- pkg:deb/debian/cockpit-machines@348-1~bpo13%2B1?arch=all

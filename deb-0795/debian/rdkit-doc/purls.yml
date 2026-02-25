@@ -3,3 +3,4 @@
 - pkg:deb/debian/rdkit-doc@202503.1-4?arch=all
 - pkg:deb/debian/rdkit-doc@202503.1-5?arch=all
 - pkg:deb/debian/rdkit-doc@202503.6-2?arch=all
+- pkg:deb/debian/rdkit-doc@202503.6-4?arch=all

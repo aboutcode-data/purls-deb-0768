@@ -18,6 +18,8 @@
 - pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb12?arch=ppc64el
 - pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb12?arch=riscv64
 - pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb12?arch=s390x
+- pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb14?arch=amd64
+- pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb14?arch=arm64
 - pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb9?arch=amd64
 - pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb9?arch=arm64
 - pkg:deb/debian/libcstruct-ocaml-dev@6.2.0-3%2Bb9?arch=armel

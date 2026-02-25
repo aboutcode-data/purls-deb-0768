@@ -13,3 +13,4 @@
 - pkg:deb/debian/libplplotada4.2@5.15.0%2Bdfsg2-19?arch=ppc64el
 - pkg:deb/debian/libplplotada4.2@5.15.0%2Bdfsg2-19?arch=riscv64
 - pkg:deb/debian/libplplotada4.2@5.15.0%2Bdfsg2-19?arch=s390x
+- pkg:deb/debian/libplplotada4.2@5.15.0%2Bdfsg3-2?arch=loong64

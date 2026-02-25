@@ -1,1 +1,2 @@
 - pkg:deb/debian/libdist-build-perl@0.020-1?arch=all
+- pkg:deb/debian/libdist-build-perl@0.026-1?arch=all

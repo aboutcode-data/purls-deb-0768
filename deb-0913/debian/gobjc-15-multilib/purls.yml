@@ -1,6 +1,10 @@
 - pkg:deb/debian/gobjc-15-multilib@15.2.0-10?arch=amd64
 - pkg:deb/debian/gobjc-15-multilib@15.2.0-10?arch=i386
 - pkg:deb/debian/gobjc-15-multilib@15.2.0-10?arch=s390x
+- pkg:deb/debian/gobjc-15-multilib@15.2.0-13?arch=amd64
+- pkg:deb/debian/gobjc-15-multilib@15.2.0-13?arch=i386
+- pkg:deb/debian/gobjc-15-multilib@15.2.0-14?arch=amd64
+- pkg:deb/debian/gobjc-15-multilib@15.2.0-14?arch=i386
 - pkg:deb/debian/gobjc-15-multilib@15.2.0-9?arch=amd64
 - pkg:deb/debian/gobjc-15-multilib@15.2.0-9?arch=i386
 - pkg:deb/debian/gobjc-15-multilib@15.2.0-9?arch=s390x

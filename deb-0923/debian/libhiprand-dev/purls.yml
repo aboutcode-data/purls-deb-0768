@@ -3,3 +3,6 @@
 - pkg:deb/debian/libhiprand-dev@5.7.1-6?arch=amd64
 - pkg:deb/debian/libhiprand-dev@5.7.1-6?arch=arm64
 - pkg:deb/debian/libhiprand-dev@5.7.1-6?arch=ppc64el
+- pkg:deb/debian/libhiprand-dev@6.4.3-1?arch=amd64
+- pkg:deb/debian/libhiprand-dev@6.4.3-1?arch=arm64
+- pkg:deb/debian/libhiprand-dev@6.4.3-1?arch=ppc64el

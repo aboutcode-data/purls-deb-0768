@@ -1,2 +1,3 @@
 - pkg:deb/debian/node-strip-eof@1.0.0-2?arch=all
 - pkg:deb/debian/node-strip-eof@3.0.0-5?arch=all
+- pkg:deb/debian/node-strip-eof@3.0.0-6?arch=all

@@ -15,6 +15,7 @@
 - pkg:deb/debian/libghc-haxml-dev@1.25.13-2?arch=ppc64el
 - pkg:deb/debian/libghc-haxml-dev@1.25.13-2?arch=riscv64
 - pkg:deb/debian/libghc-haxml-dev@1.25.13-2?arch=s390x
+- pkg:deb/debian/libghc-haxml-dev@1.25.14-1?arch=loong64
 - pkg:deb/debian/libghc-haxml-dev@1.25.5-2%2Bb1?arch=amd64
 - pkg:deb/debian/libghc-haxml-dev@1.25.5-2%2Bb1?arch=arm64
 - pkg:deb/debian/libghc-haxml-dev@1.25.5-2%2Bb1?arch=armhf

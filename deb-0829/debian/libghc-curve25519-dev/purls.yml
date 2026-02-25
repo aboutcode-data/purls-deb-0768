@@ -15,3 +15,4 @@
 - pkg:deb/debian/libghc-curve25519-dev@0.2.8-1?arch=ppc64el
 - pkg:deb/debian/libghc-curve25519-dev@0.2.8-1?arch=riscv64
 - pkg:deb/debian/libghc-curve25519-dev@0.2.8-1?arch=s390x
+- pkg:deb/debian/libghc-curve25519-dev@0.2.8-3?arch=loong64

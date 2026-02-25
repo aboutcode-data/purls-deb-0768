@@ -19,6 +19,7 @@
 - pkg:deb/debian/r-base-core@4.5.0-3?arch=ppc64el
 - pkg:deb/debian/r-base-core@4.5.0-3?arch=riscv64
 - pkg:deb/debian/r-base-core@4.5.0-3?arch=s390x
+- pkg:deb/debian/r-base-core@4.5.2-1%2Bb1?arch=loong64
 - pkg:deb/debian/r-base-core@4.5.2-1?arch=amd64
 - pkg:deb/debian/r-base-core@4.5.2-1?arch=arm64
 - pkg:deb/debian/r-base-core@4.5.2-1?arch=armhf

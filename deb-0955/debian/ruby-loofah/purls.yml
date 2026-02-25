@@ -1,4 +1,5 @@
 - pkg:deb/debian/ruby-loofah@2.19.1-1?arch=all
 - pkg:deb/debian/ruby-loofah@2.24.0-1?arch=all
 - pkg:deb/debian/ruby-loofah@2.24.1-1?arch=all
+- pkg:deb/debian/ruby-loofah@2.25.0-1?arch=all
 - pkg:deb/debian/ruby-loofah@2.7.0%2Bdfsg-1?arch=all

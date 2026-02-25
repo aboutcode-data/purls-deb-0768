@@ -19,3 +19,11 @@
 - pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-1?arch=arm64
 - pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-1?arch=armhf
 - pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-1?arch=i386
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=amd64
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=arm64
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=armhf
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=i386
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=loong64
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=ppc64el
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=riscv64
+- pkg:deb/debian/matchbox-panel-manager@0.1%2Bgit20041202-3?arch=s390x

@@ -8,3 +8,9 @@
 - pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-3?arch=loong64
+- pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/libgtsam4@4.2.0%2Bdfsg-3?arch=s390x

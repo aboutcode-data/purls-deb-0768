@@ -1,4 +1,6 @@
 - pkg:deb/debian/lib32gcc-15-dev@15.2.0-10?arch=amd64
 - pkg:deb/debian/lib32gcc-15-dev@15.2.0-10?arch=s390x
+- pkg:deb/debian/lib32gcc-15-dev@15.2.0-13?arch=amd64
+- pkg:deb/debian/lib32gcc-15-dev@15.2.0-14?arch=amd64
 - pkg:deb/debian/lib32gcc-15-dev@15.2.0-9?arch=amd64
 - pkg:deb/debian/lib32gcc-15-dev@15.2.0-9?arch=s390x

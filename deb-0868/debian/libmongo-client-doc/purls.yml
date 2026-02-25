@@ -1,1 +1,2 @@
+- pkg:deb/debian/libmongo-client-doc@0.1.8-4.1?arch=all
 - pkg:deb/debian/libmongo-client-doc@0.1.8-4?arch=all

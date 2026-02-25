@@ -26,3 +26,4 @@
 - pkg:deb/debian/libcompress-raw-bzip2-perl@2.214-1?arch=ppc64el
 - pkg:deb/debian/libcompress-raw-bzip2-perl@2.214-1?arch=riscv64
 - pkg:deb/debian/libcompress-raw-bzip2-perl@2.214-1?arch=s390x
+- pkg:deb/debian/libcompress-raw-bzip2-perl@2.217-1?arch=loong64

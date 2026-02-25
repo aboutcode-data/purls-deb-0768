@@ -19,6 +19,7 @@
 - pkg:deb/debian/krb5-pkinit@1.21.3-5?arch=ppc64el
 - pkg:deb/debian/krb5-pkinit@1.21.3-5?arch=riscv64
 - pkg:deb/debian/krb5-pkinit@1.21.3-5?arch=s390x
+- pkg:deb/debian/krb5-pkinit@1.22.1-2%2Bb1?arch=loong64
 - pkg:deb/debian/krb5-pkinit@1.22.1-2?arch=amd64
 - pkg:deb/debian/krb5-pkinit@1.22.1-2?arch=arm64
 - pkg:deb/debian/krb5-pkinit@1.22.1-2?arch=armhf

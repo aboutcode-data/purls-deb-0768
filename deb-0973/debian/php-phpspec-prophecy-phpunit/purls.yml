@@ -2,3 +2,4 @@
 - pkg:deb/debian/php-phpspec-prophecy-phpunit@2.0.2-2?arch=all
 - pkg:deb/debian/php-phpspec-prophecy-phpunit@2.3.0-1?arch=all
 - pkg:deb/debian/php-phpspec-prophecy-phpunit@2.4.0-1?arch=all
+- pkg:deb/debian/php-phpspec-prophecy-phpunit@2.5.0-1?arch=all

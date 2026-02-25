@@ -19,3 +19,10 @@
 - pkg:deb/debian/libghc-gi-atk-dev@2.0.28-1%2Bb3?arch=armel
 - pkg:deb/debian/libghc-gi-atk-dev@2.0.28-1%2Bb3?arch=armhf
 - pkg:deb/debian/libghc-gi-atk-dev@2.0.28-1%2Bb3?arch=i386
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=amd64
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=arm64
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=armhf
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=i386
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=ppc64el
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=riscv64
+- pkg:deb/debian/libghc-gi-atk-dev@2.0.28-2?arch=s390x

@@ -28,6 +28,14 @@
 - pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-15?arch=i386
 - pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-15?arch=ppc64el
 - pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-15?arch=s390x
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=amd64
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=arm64
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=armhf
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=i386
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=loong64
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=ppc64el
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=riscv64
+- pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-16?arch=s390x
 - pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-6?arch=amd64
 - pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-6?arch=arm64
 - pkg:deb/debian/minc-tools@2.3.00%2Bdfsg-6?arch=armhf

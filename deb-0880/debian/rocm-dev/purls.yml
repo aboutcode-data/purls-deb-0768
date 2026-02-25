@@ -1,0 +1,3 @@
+- pkg:deb/debian/rocm-dev@6.4.3%2Bds-4~exp2?arch=amd64
+- pkg:deb/debian/rocm-dev@6.4.3%2Bds-4~exp2?arch=arm64
+- pkg:deb/debian/rocm-dev@6.4.3%2Bds-4~exp2?arch=ppc64el

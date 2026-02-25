@@ -1,1 +1,2 @@
 - pkg:deb/debian/tillitis-tkey-udev@1.0.0%2Bds-4?arch=all
+- pkg:deb/debian/tillitis-tkey-udev@1.0.0%2Bds-6?arch=all

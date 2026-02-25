@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-ipalib@4.12.4-1?arch=all
 - pkg:deb/debian/python3-ipalib@4.12.4-2?arch=all
+- pkg:deb/debian/python3-ipalib@4.13.1-1?arch=all
 - pkg:deb/debian/python3-ipalib@4.9.11-1?arch=all

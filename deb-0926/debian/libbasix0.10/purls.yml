@@ -5,3 +5,11 @@
 - pkg:deb/debian/libbasix0.10@0.10.0.post0-1exp2%2Bb1?arch=ppc64el
 - pkg:deb/debian/libbasix0.10@0.10.0.post0-1exp2%2Bb1?arch=s390x
 - pkg:deb/debian/libbasix0.10@0.10.0.post0-1exp2?arch=riscv64
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=amd64
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=arm64
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=armhf
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=i386
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=loong64
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=riscv64
+- pkg:deb/debian/libbasix0.10@0.10.0.post0-2%2Bb2?arch=s390x

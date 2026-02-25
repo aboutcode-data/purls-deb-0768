@@ -2,3 +2,5 @@
 - pkg:deb/debian/python3-pytest-codspeed@3.2.0-1%2Bb1?arch=arm64
 - pkg:deb/debian/python3-pytest-codspeed@3.2.0-2%2Bb1?arch=amd64
 - pkg:deb/debian/python3-pytest-codspeed@3.2.0-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-pytest-codspeed@4.3.0-1?arch=amd64
+- pkg:deb/debian/python3-pytest-codspeed@4.3.0-1?arch=arm64

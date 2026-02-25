@@ -4,3 +4,4 @@
 - pkg:deb/debian/libgdk-pixbuf2.0-doc@2.42.2%2Bdfsg-1%2Bdeb11u2?arch=all
 - pkg:deb/debian/libgdk-pixbuf2.0-doc@2.44.4%2Bdfsg-1?arch=all
 - pkg:deb/debian/libgdk-pixbuf2.0-doc@2.44.4%2Bdfsg-3?arch=all
+- pkg:deb/debian/libgdk-pixbuf2.0-doc@2.44.5%2Bdfsg-4?arch=all

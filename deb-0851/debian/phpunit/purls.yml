@@ -1,5 +1,8 @@
 - pkg:deb/debian/phpunit@11.5.19-1?arch=all
 - pkg:deb/debian/phpunit@12.4.5-1?arch=all
 - pkg:deb/debian/phpunit@12.5.1-1?arch=all
+- pkg:deb/debian/phpunit@13.0.0-2?arch=all
+- pkg:deb/debian/phpunit@13.0.3-1?arch=all
+- pkg:deb/debian/phpunit@13.0.5-1?arch=all
 - pkg:deb/debian/phpunit@9.5.2-1?arch=all
 - pkg:deb/debian/phpunit@9.6.7-1?arch=all

@@ -17,3 +17,10 @@
 - pkg:deb/debian/libkpim6itinerary6@25.08.3-2?arch=ppc64el
 - pkg:deb/debian/libkpim6itinerary6@25.08.3-2?arch=riscv64
 - pkg:deb/debian/libkpim6itinerary6@25.08.3-2?arch=s390x
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=amd64
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=arm64
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=armhf
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=loong64
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=ppc64el
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=riscv64
+- pkg:deb/debian/libkpim6itinerary6@25.12.1-3?arch=s390x

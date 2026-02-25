@@ -28,6 +28,7 @@
 - pkg:deb/debian/bootlogd@3.14-4?arch=ppc64el
 - pkg:deb/debian/bootlogd@3.14-4?arch=riscv64
 - pkg:deb/debian/bootlogd@3.14-4?arch=s390x
+- pkg:deb/debian/bootlogd@3.15-6%2Bb1?arch=loong64
 - pkg:deb/debian/bootlogd@3.15-6?arch=amd64
 - pkg:deb/debian/bootlogd@3.15-6?arch=arm64
 - pkg:deb/debian/bootlogd@3.15-6?arch=armhf

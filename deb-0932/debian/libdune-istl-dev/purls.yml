@@ -13,6 +13,9 @@
 - pkg:deb/debian/libdune-istl-dev@2.10.0-3?arch=ppc64el
 - pkg:deb/debian/libdune-istl-dev@2.10.0-3?arch=riscv64
 - pkg:deb/debian/libdune-istl-dev@2.10.0-3?arch=s390x
+- pkg:deb/debian/libdune-istl-dev@2.11.0-1?arch=loong64
+- pkg:deb/debian/libdune-istl-dev@2.11.0-1?arch=riscv64
+- pkg:deb/debian/libdune-istl-dev@2.11.0-1?arch=s390x
 - pkg:deb/debian/libdune-istl-dev@2.7.1-2?arch=all
 - pkg:deb/debian/libdune-istl-dev@2.9.0-2?arch=amd64
 - pkg:deb/debian/libdune-istl-dev@2.9.0-2?arch=arm64

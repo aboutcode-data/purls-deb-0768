@@ -3,3 +3,4 @@
 - pkg:deb/debian/python3-heat@24.0.0-2?arch=all
 - pkg:deb/debian/python3-heat@25.0.0-2?arch=all
 - pkg:deb/debian/python3-heat@25.0.0-3?arch=all
+- pkg:deb/debian/python3-heat@25.0.0-4?arch=all

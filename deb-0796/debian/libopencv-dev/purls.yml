@@ -13,6 +13,7 @@
 - pkg:deb/debian/libopencv-dev@4.10.0%2Bdfsg-6%2Bb3?arch=i386
 - pkg:deb/debian/libopencv-dev@4.10.0%2Bdfsg-6%2Bb3?arch=ppc64el
 - pkg:deb/debian/libopencv-dev@4.10.0%2Bdfsg-6%2Bb3?arch=s390x
+- pkg:deb/debian/libopencv-dev@4.10.0%2Bdfsg-7?arch=loong64
 - pkg:deb/debian/libopencv-dev@4.5.1%2Bdfsg-5?arch=amd64
 - pkg:deb/debian/libopencv-dev@4.5.1%2Bdfsg-5?arch=arm64
 - pkg:deb/debian/libopencv-dev@4.5.1%2Bdfsg-5?arch=armhf

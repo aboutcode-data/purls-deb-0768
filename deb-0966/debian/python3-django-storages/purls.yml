@@ -1,4 +1,5 @@
 - pkg:deb/debian/python3-django-storages@1.11-1?arch=all
+- pkg:deb/debian/python3-django-storages@1.13.2-1%2Bdeb12u1?arch=all
 - pkg:deb/debian/python3-django-storages@1.13.2-1?arch=all
 - pkg:deb/debian/python3-django-storages@1.14.5-1?arch=all
 - pkg:deb/debian/python3-django-storages@1.14.6-1?arch=all

@@ -1,3 +1,4 @@
 - pkg:deb/debian/node-rollup-plugin-buble@0.21.3%2Brepack%2B~0.19.8-1?arch=all
 - pkg:deb/debian/node-rollup-plugin-buble@1.0.1%2Bds1%2B~0.19.8-1?arch=all
 - pkg:deb/debian/node-rollup-plugin-buble@1.0.1%2Bds1%2B~0.19.8-2?arch=all
+- pkg:deb/debian/node-rollup-plugin-buble@1.0.3%2Bds1-1?arch=all

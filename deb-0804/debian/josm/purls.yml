@@ -4,3 +4,4 @@
 - pkg:deb/debian/josm@0.0.svn19369%2Bdfsg-2~bpo12%2B1?arch=all
 - pkg:deb/debian/josm@0.0.svn19439%2Bdfsg-1?arch=all
 - pkg:deb/debian/josm@0.0.svn19439%2Bdfsg-1~bpo13%2B1?arch=all
+- pkg:deb/debian/josm@0.0.svn19481%2Bdfsg-1~bpo13%2B1?arch=all

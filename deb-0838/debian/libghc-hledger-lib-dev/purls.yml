@@ -26,3 +26,10 @@
 - pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-1?arch=ppc64el
 - pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-1?arch=riscv64
 - pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-1?arch=s390x
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=amd64
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=arm64
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=armhf
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=i386
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=ppc64el
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=riscv64
+- pkg:deb/debian/libghc-hledger-lib-dev@1.50.3-2?arch=s390x

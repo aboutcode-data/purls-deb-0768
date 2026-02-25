@@ -3,3 +3,4 @@
 - pkg:deb/debian/lib32stdc%2B%2B-11-dev@11.3.0-12?arch=s390x
 - pkg:deb/debian/lib32stdc%2B%2B-11-dev@11.5.0-7?arch=amd64
 - pkg:deb/debian/lib32stdc%2B%2B-11-dev@11.5.0-7?arch=s390x
+- pkg:deb/debian/lib32stdc%2B%2B-11-dev@11.5.0-9?arch=amd64

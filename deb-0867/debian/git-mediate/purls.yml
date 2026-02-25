@@ -6,3 +6,4 @@
 - pkg:deb/debian/git-mediate@1.0.9-1?arch=i386
 - pkg:deb/debian/git-mediate@1.0.9-1?arch=ppc64el
 - pkg:deb/debian/git-mediate@1.0.9-1?arch=s390x
+- pkg:deb/debian/git-mediate@1.1.0-1?arch=loong64

@@ -6,6 +6,8 @@
 - pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.0-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.0-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.0-1%2Bb3?arch=s390x
+- pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.1-1%2Bb3?arch=amd64
+- pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.1-1%2Bb3?arch=arm64
 - pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.1-1?arch=amd64
 - pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.1-1?arch=arm64
 - pkg:deb/debian/libmirage-kv-mem-ocaml@4.0.1-1?arch=armhf

@@ -23,6 +23,7 @@
 - pkg:deb/debian/octave-gsl@2.1.1-8?arch=arm64
 - pkg:deb/debian/octave-gsl@2.1.1-8?arch=armhf
 - pkg:deb/debian/octave-gsl@2.1.1-8?arch=i386
+- pkg:deb/debian/octave-gsl@2.1.1-8?arch=loong64
 - pkg:deb/debian/octave-gsl@2.1.1-8?arch=ppc64el
 - pkg:deb/debian/octave-gsl@2.1.1-8?arch=riscv64
 - pkg:deb/debian/octave-gsl@2.1.1-8?arch=s390x

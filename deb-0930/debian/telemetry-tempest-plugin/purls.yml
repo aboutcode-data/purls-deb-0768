@@ -2,3 +2,4 @@
 - pkg:deb/debian/telemetry-tempest-plugin@1.7.0-2?arch=all
 - pkg:deb/debian/telemetry-tempest-plugin@2.5.0-2?arch=all
 - pkg:deb/debian/telemetry-tempest-plugin@2.7.0-2?arch=all
+- pkg:deb/debian/telemetry-tempest-plugin@2.7.0-3?arch=all

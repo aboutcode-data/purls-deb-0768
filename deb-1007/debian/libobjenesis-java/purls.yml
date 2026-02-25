@@ -1,3 +1,4 @@
 - pkg:deb/debian/libobjenesis-java@3.1-1?arch=all
 - pkg:deb/debian/libobjenesis-java@3.3-3?arch=all
 - pkg:deb/debian/libobjenesis-java@3.4-2?arch=all
+- pkg:deb/debian/libobjenesis-java@3.5-1?arch=all

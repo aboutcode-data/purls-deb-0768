@@ -3,6 +3,7 @@
 - pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=armel
 - pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=armhf
 - pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=i386
+- pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=loong64
 - pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=ppc64el
 - pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=riscv64
 - pkg:deb/debian/libmagpie-0-dev@0.9.4-3?arch=s390x

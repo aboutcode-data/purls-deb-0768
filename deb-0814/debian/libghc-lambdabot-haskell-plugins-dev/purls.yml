@@ -6,3 +6,10 @@
 - pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-1%2Bb3?arch=armel
 - pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-1%2Bb4?arch=armhf
 - pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-1%2Bb4?arch=i386
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=amd64
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=arm64
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=armhf
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=i386
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=ppc64el
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=riscv64
+- pkg:deb/debian/libghc-lambdabot-haskell-plugins-dev@5.3.1.2-2?arch=s390x

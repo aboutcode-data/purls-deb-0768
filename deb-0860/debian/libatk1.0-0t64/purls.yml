@@ -29,3 +29,13 @@
 - pkg:deb/debian/libatk1.0-0t64@2.58.2-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/libatk1.0-0t64@2.58.2-1~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/libatk1.0-0t64@2.58.2-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2?arch=loong64
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2?arch=riscv64
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=amd64
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=arm64
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=armel
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=armhf
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=i386
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/libatk1.0-0t64@2.59.1-2~bpo13%2B1?arch=s390x

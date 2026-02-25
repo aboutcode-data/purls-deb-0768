@@ -1,5 +1,8 @@
 - pkg:deb/debian/linux-headers-rt-armmp@5.10.223-1?arch=armhf
 - pkg:deb/debian/linux-headers-rt-armmp@6.1.148-1?arch=armhf
 - pkg:deb/debian/linux-headers-rt-armmp@6.1.158-1?arch=armhf
+- pkg:deb/debian/linux-headers-rt-armmp@6.1.162-1?arch=armhf
 - pkg:deb/debian/linux-headers-rt-armmp@6.12.57-1?arch=armhf
 - pkg:deb/debian/linux-headers-rt-armmp@6.12.57-1~bpo12%2B1?arch=armhf
+- pkg:deb/debian/linux-headers-rt-armmp@6.12.73-1?arch=armhf
+- pkg:deb/debian/linux-headers-rt-armmp@6.12.73-1~bpo12%2B1?arch=armhf

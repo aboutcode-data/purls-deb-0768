@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-librarian@0.6.4-4?arch=all
 - pkg:deb/debian/ruby-librarian@0.6.4-5?arch=all
 - pkg:deb/debian/ruby-librarian@1.1.2-1?arch=all
+- pkg:deb/debian/ruby-librarian@1.2.0-1?arch=all

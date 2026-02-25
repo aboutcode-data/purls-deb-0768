@@ -23,5 +23,6 @@
 - pkg:deb/debian/r-cran-lme4@1.1-38-1?arch=arm64
 - pkg:deb/debian/r-cran-lme4@1.1-38-1?arch=armhf
 - pkg:deb/debian/r-cran-lme4@1.1-38-1?arch=i386
+- pkg:deb/debian/r-cran-lme4@1.1-38-1?arch=loong64
 - pkg:deb/debian/r-cran-lme4@1.1-38-1?arch=ppc64el
 - pkg:deb/debian/r-cran-lme4@1.1-38-1?arch=s390x

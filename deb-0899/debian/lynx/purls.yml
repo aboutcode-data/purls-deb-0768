@@ -19,6 +19,7 @@
 - pkg:deb/debian/lynx@2.9.2-1?arch=ppc64el
 - pkg:deb/debian/lynx@2.9.2-1?arch=riscv64
 - pkg:deb/debian/lynx@2.9.2-1?arch=s390x
+- pkg:deb/debian/lynx@2.9.2-2%2Bb1?arch=loong64
 - pkg:deb/debian/lynx@2.9.2-2?arch=amd64
 - pkg:deb/debian/lynx@2.9.2-2?arch=arm64
 - pkg:deb/debian/lynx@2.9.2-2?arch=armhf

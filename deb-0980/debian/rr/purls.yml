@@ -11,3 +11,6 @@
 - pkg:deb/debian/rr@5.9.0-5?arch=amd64
 - pkg:deb/debian/rr@5.9.0-5?arch=arm64
 - pkg:deb/debian/rr@5.9.0-5?arch=i386
+- pkg:deb/debian/rr@5.9.0-6?arch=amd64
+- pkg:deb/debian/rr@5.9.0-6?arch=arm64
+- pkg:deb/debian/rr@5.9.0-6?arch=i386

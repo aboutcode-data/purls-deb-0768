@@ -6,3 +6,11 @@
 - pkg:deb/debian/libexplain51t64@1.4.D001-16?arch=ppc64el
 - pkg:deb/debian/libexplain51t64@1.4.D001-16?arch=riscv64
 - pkg:deb/debian/libexplain51t64@1.4.D001-16?arch=s390x
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=amd64
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=arm64
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=armhf
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=i386
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=loong64
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=ppc64el
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=riscv64
+- pkg:deb/debian/libexplain51t64@1.4.D001-17?arch=s390x

@@ -19,6 +19,7 @@
 - pkg:deb/debian/texlive-binaries@2024.20240313.70630%2Bds-6?arch=ppc64el
 - pkg:deb/debian/texlive-binaries@2024.20240313.70630%2Bds-6?arch=riscv64
 - pkg:deb/debian/texlive-binaries@2024.20240313.70630%2Bds-6?arch=s390x
+- pkg:deb/debian/texlive-binaries@2025.20250727.75242%2Bds-5%2Bb1?arch=loong64
 - pkg:deb/debian/texlive-binaries@2025.20250727.75242%2Bds-5?arch=amd64
 - pkg:deb/debian/texlive-binaries@2025.20250727.75242%2Bds-5?arch=arm64
 - pkg:deb/debian/texlive-binaries@2025.20250727.75242%2Bds-5?arch=armhf

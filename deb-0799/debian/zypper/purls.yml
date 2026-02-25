@@ -26,3 +26,4 @@
 - pkg:deb/debian/zypper@1.14.93-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/zypper@1.14.93-1%2Bb1?arch=riscv64
 - pkg:deb/debian/zypper@1.14.93-1%2Bb1?arch=s390x
+- pkg:deb/debian/zypper@1.14.94-1?arch=loong64

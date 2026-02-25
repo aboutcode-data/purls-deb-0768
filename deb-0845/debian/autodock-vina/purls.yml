@@ -19,3 +19,11 @@
 - pkg:deb/debian/autodock-vina@1.2.7-1?arch=ppc64el
 - pkg:deb/debian/autodock-vina@1.2.7-1?arch=riscv64
 - pkg:deb/debian/autodock-vina@1.2.7-1?arch=s390x
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=amd64
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=arm64
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=armhf
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=i386
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=loong64
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=ppc64el
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=riscv64
+- pkg:deb/debian/autodock-vina@1.2.7-3?arch=s390x

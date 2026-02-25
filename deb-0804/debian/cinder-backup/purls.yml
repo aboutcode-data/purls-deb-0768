@@ -3,3 +3,5 @@
 - pkg:deb/debian/cinder-backup@26.0.0-2?arch=all
 - pkg:deb/debian/cinder-backup@27.0.0-3?arch=all
 - pkg:deb/debian/cinder-backup@27.0.0-4?arch=all
+- pkg:deb/debian/cinder-backup@27.0.0-5?arch=all
+- pkg:deb/debian/cinder-backup@27.0.0-6?arch=all

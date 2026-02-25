@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-dynamic-state-prof@0.3.1-6?arch=ppc64el
 - pkg:deb/debian/libghc-dynamic-state-prof@0.3.1-6?arch=riscv64
 - pkg:deb/debian/libghc-dynamic-state-prof@0.3.1-6?arch=s390x
+- pkg:deb/debian/libghc-dynamic-state-prof@0.3.2-1?arch=loong64

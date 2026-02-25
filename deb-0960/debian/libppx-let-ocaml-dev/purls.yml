@@ -13,3 +13,5 @@
 - pkg:deb/debian/libppx-let-ocaml-dev@0.17.1-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libppx-let-ocaml-dev@0.17.1-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libppx-let-ocaml-dev@0.17.1-1%2Bb1?arch=s390x
+- pkg:deb/debian/libppx-let-ocaml-dev@0.17.1-1%2Bb3?arch=amd64
+- pkg:deb/debian/libppx-let-ocaml-dev@0.17.1-1%2Bb3?arch=arm64

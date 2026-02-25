@@ -1,3 +1,4 @@
 - pkg:deb/debian/debconf-i18n@1.5.77?arch=all
 - pkg:deb/debian/debconf-i18n@1.5.82?arch=all
 - pkg:deb/debian/debconf-i18n@1.5.91?arch=all
+- pkg:deb/debian/debconf-i18n@1.5.92?arch=all

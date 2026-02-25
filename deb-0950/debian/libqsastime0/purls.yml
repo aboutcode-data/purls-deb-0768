@@ -26,3 +26,4 @@
 - pkg:deb/debian/libqsastime0@5.15.0%2Bdfsg2-6?arch=mipsel
 - pkg:deb/debian/libqsastime0@5.15.0%2Bdfsg2-6?arch=ppc64el
 - pkg:deb/debian/libqsastime0@5.15.0%2Bdfsg2-6?arch=s390x
+- pkg:deb/debian/libqsastime0@5.15.0%2Bdfsg3-2?arch=loong64

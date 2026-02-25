@@ -19,6 +19,8 @@
 - pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb16?arch=ppc64el
 - pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb16?arch=riscv64
 - pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb16?arch=s390x
+- pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb19?arch=amd64
+- pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb19?arch=arm64
 - pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb8?arch=armel
 - pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb8?arch=armhf
 - pkg:deb/debian/libocsipersist-sqlite-ocaml@2.0.0-1%2Bb8?arch=i386

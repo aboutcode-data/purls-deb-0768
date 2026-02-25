@@ -1,2 +1,3 @@
 - pkg:deb/debian/golang-github-koofr-go-koofrclient-dev@0.0~git20190724.8e5366d-1?arch=all
 - pkg:deb/debian/golang-github-koofr-go-koofrclient-dev@0.0~git20190724.8e5366d-2?arch=all
+- pkg:deb/debian/golang-github-koofr-go-koofrclient-dev@0.0~git20221207.cbd7fc9-1?arch=all

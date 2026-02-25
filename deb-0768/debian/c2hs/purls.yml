@@ -12,3 +12,11 @@
 - pkg:deb/debian/c2hs@0.28.8-1?arch=mipsel
 - pkg:deb/debian/c2hs@0.28.8-1?arch=ppc64el
 - pkg:deb/debian/c2hs@0.28.8-1?arch=s390x
+- pkg:deb/debian/c2hs@0.28.8-2?arch=amd64
+- pkg:deb/debian/c2hs@0.28.8-2?arch=arm64
+- pkg:deb/debian/c2hs@0.28.8-2?arch=armhf
+- pkg:deb/debian/c2hs@0.28.8-2?arch=i386
+- pkg:deb/debian/c2hs@0.28.8-2?arch=loong64
+- pkg:deb/debian/c2hs@0.28.8-2?arch=ppc64el
+- pkg:deb/debian/c2hs@0.28.8-2?arch=riscv64
+- pkg:deb/debian/c2hs@0.28.8-2?arch=s390x

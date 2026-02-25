@@ -2,3 +2,4 @@
 - pkg:deb/debian/dh-fortran-mod@0.27?arch=all
 - pkg:deb/debian/dh-fortran-mod@0.43?arch=all
 - pkg:deb/debian/dh-fortran-mod@0.57?arch=all
+- pkg:deb/debian/dh-fortran-mod@0.66?arch=all

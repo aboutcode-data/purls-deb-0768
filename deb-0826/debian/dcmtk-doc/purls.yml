@@ -1,3 +1,5 @@
 - pkg:deb/debian/dcmtk-doc@3.6.5-1?arch=all
 - pkg:deb/debian/dcmtk-doc@3.6.7-9~deb12u3?arch=all
 - pkg:deb/debian/dcmtk-doc@3.6.9-5?arch=all
+- pkg:deb/debian/dcmtk-doc@3.7.0%2Breally3.6.9-1?arch=all
+- pkg:deb/debian/dcmtk-doc@3.7.0%2Breally3.7.0-0%2Bexp1?arch=all

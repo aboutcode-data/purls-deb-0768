@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-email-validate-prof@2.3.2.21-1?arch=ppc64el
 - pkg:deb/debian/libghc-email-validate-prof@2.3.2.21-1?arch=riscv64
 - pkg:deb/debian/libghc-email-validate-prof@2.3.2.21-1?arch=s390x
+- pkg:deb/debian/libghc-email-validate-prof@2.3.2.21-2?arch=loong64

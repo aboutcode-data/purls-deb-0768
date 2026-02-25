@@ -1,1 +1,2 @@
 - pkg:deb/debian/ruby-google-apis-cloudbilling-v1@0.21.0-2?arch=all
+- pkg:deb/debian/ruby-google-apis-cloudbilling-v1@0.39.0-1?arch=all

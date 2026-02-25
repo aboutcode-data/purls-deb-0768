@@ -5,6 +5,14 @@
 - pkg:deb/debian/libdolfinx-dev@0.10.0.post3-1exp5?arch=ppc64el
 - pkg:deb/debian/libdolfinx-dev@0.10.0.post3-1exp5?arch=riscv64
 - pkg:deb/debian/libdolfinx-dev@0.10.0.post3-1exp5?arch=s390x
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=amd64
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=arm64
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=armhf
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=i386
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=loong64
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=ppc64el
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=riscv64
+- pkg:deb/debian/libdolfinx-dev@0.10.0.post5-7?arch=s390x
 - pkg:deb/debian/libdolfinx-dev@0.5.2-2%2Bb1?arch=amd64
 - pkg:deb/debian/libdolfinx-dev@0.5.2-2%2Bb1?arch=arm64
 - pkg:deb/debian/libdolfinx-dev@0.5.2-2%2Bb1?arch=armel

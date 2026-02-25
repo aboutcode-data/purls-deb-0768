@@ -2,6 +2,14 @@
 - pkg:deb/debian/libgmerlin-avdec-dev@1.2.0~dfsg-11?arch=arm64
 - pkg:deb/debian/libgmerlin-avdec-dev@1.2.0~dfsg-11?arch=armhf
 - pkg:deb/debian/libgmerlin-avdec-dev@1.2.0~dfsg-11?arch=i386
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=amd64
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=arm64
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=armhf
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=i386
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=loong64
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=ppc64el
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=riscv64
+- pkg:deb/debian/libgmerlin-avdec-dev@2.0.0%2Bds-2?arch=s390x
 - pkg:deb/debian/libgmerlin-avdec-dev@2.0.0~svn6298~dfsg0-3%2Bb2?arch=amd64
 - pkg:deb/debian/libgmerlin-avdec-dev@2.0.0~svn6298~dfsg0-3%2Bb2?arch=arm64
 - pkg:deb/debian/libgmerlin-avdec-dev@2.0.0~svn6298~dfsg0-3%2Bb2?arch=armel

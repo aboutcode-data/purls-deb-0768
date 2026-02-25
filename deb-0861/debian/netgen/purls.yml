@@ -26,3 +26,12 @@
 - pkg:deb/debian/netgen@6.2.2501%2Bdfsg1-12?arch=ppc64el
 - pkg:deb/debian/netgen@6.2.2501%2Bdfsg1-12?arch=riscv64
 - pkg:deb/debian/netgen@6.2.2501%2Bdfsg1-12?arch=s390x
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-2?arch=riscv64
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=amd64
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=arm64
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=armhf
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=i386
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=loong64
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=ppc64el
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=riscv64
+- pkg:deb/debian/netgen@6.2.2601%2Bdfsg1-3?arch=s390x

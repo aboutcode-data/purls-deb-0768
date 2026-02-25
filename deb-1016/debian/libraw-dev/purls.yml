@@ -19,3 +19,8 @@
 - pkg:deb/debian/libraw-dev@0.21.4-2?arch=ppc64el
 - pkg:deb/debian/libraw-dev@0.21.4-2?arch=riscv64
 - pkg:deb/debian/libraw-dev@0.21.4-2?arch=s390x
+- pkg:deb/debian/libraw-dev@0.22.0-1~exp1?arch=arm64
+- pkg:deb/debian/libraw-dev@0.22.0-1~exp1?arch=loong64
+- pkg:deb/debian/libraw-dev@0.22.0-1~exp1?arch=ppc64el
+- pkg:deb/debian/libraw-dev@0.22.0-1~exp1?arch=riscv64
+- pkg:deb/debian/libraw-dev@0.22.0-1~exp1?arch=s390x

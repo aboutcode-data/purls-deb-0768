@@ -2,3 +2,4 @@
 - pkg:deb/debian/germinate@2.39?arch=all
 - pkg:deb/debian/germinate@2.46?arch=all
 - pkg:deb/debian/germinate@2.47?arch=all
+- pkg:deb/debian/germinate@2.49?arch=all

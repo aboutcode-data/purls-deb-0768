@@ -7,3 +7,4 @@
 - pkg:deb/debian/libopm-material-dev@2024.10%2Bds-5?arch=all
 - pkg:deb/debian/libopm-material-dev@2025.04%2Bds-5?arch=all
 - pkg:deb/debian/libopm-material-dev@2025.10%2Bds-2?arch=all
+- pkg:deb/debian/libopm-material-dev@2025.10%2Bds-3?arch=all

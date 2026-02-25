@@ -1,1 +1,2 @@
 - pkg:deb/debian/xen-hypervisor-4.20-arm64-dbg@4.20.0%2B68-g35cb38b222-1?arch=arm64
+- pkg:deb/debian/xen-hypervisor-4.20-arm64-dbg@4.20.2%2B37-g61ff35323e-1?arch=arm64

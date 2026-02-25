@@ -3,6 +3,7 @@
 - pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=armel
 - pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=armhf
 - pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=i386
+- pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=loong64
 - pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=ppc64el
 - pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=riscv64
 - pkg:deb/debian/qml-module-lomiri-onlineaccounts-plugin@0.16-4?arch=s390x

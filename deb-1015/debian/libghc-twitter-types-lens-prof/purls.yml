@@ -19,3 +19,10 @@
 - pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-3%2Bb2?arch=armel
 - pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-3%2Bb2?arch=armhf
 - pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-3%2Bb2?arch=i386
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=amd64
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=arm64
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=armhf
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=i386
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=ppc64el
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=riscv64
+- pkg:deb/debian/libghc-twitter-types-lens-prof@0.11.0-4?arch=s390x

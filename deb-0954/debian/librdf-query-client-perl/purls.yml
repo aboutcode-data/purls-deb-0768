@@ -1,2 +1,3 @@
 - pkg:deb/debian/librdf-query-client-perl@0.114-2?arch=all
 - pkg:deb/debian/librdf-query-client-perl@0.114-3?arch=all
+- pkg:deb/debian/librdf-query-client-perl@0.114-4?arch=all

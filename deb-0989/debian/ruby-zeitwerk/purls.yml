@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-zeitwerk@2.6.1-1?arch=all
 - pkg:deb/debian/ruby-zeitwerk@2.6.8-1?arch=all
 - pkg:deb/debian/ruby-zeitwerk@2.7.3-1?arch=all
+- pkg:deb/debian/ruby-zeitwerk@2.7.3-2?arch=all

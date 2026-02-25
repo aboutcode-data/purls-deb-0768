@@ -4,3 +4,6 @@
 - pkg:deb/debian/hare@0.25.2-1?arch=amd64
 - pkg:deb/debian/hare@0.25.2-1?arch=arm64
 - pkg:deb/debian/hare@0.25.2-1?arch=riscv64
+- pkg:deb/debian/hare@0.26.0-1?arch=amd64
+- pkg:deb/debian/hare@0.26.0-1?arch=arm64
+- pkg:deb/debian/hare@0.26.0-1?arch=riscv64

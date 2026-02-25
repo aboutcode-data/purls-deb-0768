@@ -1,0 +1,7 @@
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=amd64
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=arm64
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=armhf
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=i386
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=loong64
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=ppc64el
+- pkg:deb/debian/librust-icann-rdap-client-dev@0.0.25-2?arch=s390x

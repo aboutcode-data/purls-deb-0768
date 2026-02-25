@@ -1,3 +1,4 @@
+- pkg:deb/debian/libghc-gtk3-prof@0.15.10-1?arch=loong64
 - pkg:deb/debian/libghc-gtk3-prof@0.15.5-1?arch=amd64
 - pkg:deb/debian/libghc-gtk3-prof@0.15.5-1?arch=arm64
 - pkg:deb/debian/libghc-gtk3-prof@0.15.5-1?arch=armhf

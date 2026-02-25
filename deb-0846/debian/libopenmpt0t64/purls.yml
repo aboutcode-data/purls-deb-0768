@@ -13,3 +13,4 @@
 - pkg:deb/debian/libopenmpt0t64@0.8.3-1?arch=ppc64el
 - pkg:deb/debian/libopenmpt0t64@0.8.3-1?arch=riscv64
 - pkg:deb/debian/libopenmpt0t64@0.8.3-1?arch=s390x
+- pkg:deb/debian/libopenmpt0t64@0.8.4-1%2Bb1?arch=loong64

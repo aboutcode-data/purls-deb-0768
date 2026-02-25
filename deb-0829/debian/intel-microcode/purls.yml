@@ -8,3 +8,5 @@
 - pkg:deb/debian/intel-microcode@3.20250812.1~deb13u1?arch=i386
 - pkg:deb/debian/intel-microcode@3.20251111.1?arch=amd64
 - pkg:deb/debian/intel-microcode@3.20251111.1?arch=i386
+- pkg:deb/debian/intel-microcode@3.20260210.1?arch=amd64
+- pkg:deb/debian/intel-microcode@3.20260210.1?arch=i386

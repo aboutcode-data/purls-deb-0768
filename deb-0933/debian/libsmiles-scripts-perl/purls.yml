@@ -1,2 +1,3 @@
 - pkg:deb/debian/libsmiles-scripts-perl@0.2.0%2Bdfsg1-4?arch=all
 - pkg:deb/debian/libsmiles-scripts-perl@0.3.0%2Bsvn878%2Bbranch%2Bsystem%2Bdeps-2?arch=all
+- pkg:deb/debian/libsmiles-scripts-perl@0.4.0%2Bdfsg-3?arch=all

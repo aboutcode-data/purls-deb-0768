@@ -10,6 +10,7 @@
 - pkg:deb/debian/libaom-dev@3.12.1-1?arch=ppc64el
 - pkg:deb/debian/libaom-dev@3.12.1-1?arch=riscv64
 - pkg:deb/debian/libaom-dev@3.12.1-1?arch=s390x
+- pkg:deb/debian/libaom-dev@3.13.1-2%2Bb1?arch=loong64
 - pkg:deb/debian/libaom-dev@3.13.1-2?arch=amd64
 - pkg:deb/debian/libaom-dev@3.13.1-2?arch=arm64
 - pkg:deb/debian/libaom-dev@3.13.1-2?arch=armhf

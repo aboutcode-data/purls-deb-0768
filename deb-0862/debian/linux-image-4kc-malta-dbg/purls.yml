@@ -1,2 +1,3 @@
 - pkg:deb/debian/linux-image-4kc-malta-dbg@6.1.148-1?arch=mipsel
 - pkg:deb/debian/linux-image-4kc-malta-dbg@6.1.158-1?arch=mipsel
+- pkg:deb/debian/linux-image-4kc-malta-dbg@6.1.162-1?arch=mipsel

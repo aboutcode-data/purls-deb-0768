@@ -15,3 +15,5 @@
 - pkg:deb/debian/libproc2-dev@4.0.4-9?arch=ppc64el
 - pkg:deb/debian/libproc2-dev@4.0.4-9?arch=riscv64
 - pkg:deb/debian/libproc2-dev@4.0.4-9?arch=s390x
+- pkg:deb/debian/libproc2-dev@4.0.6-1?arch=riscv64
+- pkg:deb/debian/libproc2-dev@4.0.6-1?arch=s390x

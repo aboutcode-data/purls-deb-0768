@@ -26,3 +26,5 @@
 - pkg:deb/debian/libquantlib0-dev@1.40-1?arch=ppc64el
 - pkg:deb/debian/libquantlib0-dev@1.40-1?arch=riscv64
 - pkg:deb/debian/libquantlib0-dev@1.40-1?arch=s390x
+- pkg:deb/debian/libquantlib0-dev@1.41-2?arch=loong64
+- pkg:deb/debian/libquantlib0-dev@1.41-2?arch=riscv64

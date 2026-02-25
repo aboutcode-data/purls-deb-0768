@@ -17,6 +17,8 @@
 - pkg:deb/debian/libcurl-ocaml@0.9.2-3%2Bb20?arch=i386
 - pkg:deb/debian/libcurl-ocaml@0.9.2-3%2Bb20?arch=ppc64el
 - pkg:deb/debian/libcurl-ocaml@0.9.2-3%2Bb20?arch=s390x
+- pkg:deb/debian/libcurl-ocaml@0.9.2-3%2Bb23?arch=amd64
+- pkg:deb/debian/libcurl-ocaml@0.9.2-3%2Bb23?arch=arm64
 - pkg:deb/debian/libcurl-ocaml@0.9.2-3?arch=amd64
 - pkg:deb/debian/libcurl-ocaml@0.9.2-3?arch=arm64
 - pkg:deb/debian/libcurl-ocaml@0.9.2-3?arch=armel

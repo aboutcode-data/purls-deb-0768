@@ -2,5 +2,6 @@
 - pkg:deb/debian/libc6-i386@2.31-13%2Bdeb11u5?arch=amd64
 - pkg:deb/debian/libc6-i386@2.36-9%2Bdeb12u13?arch=amd64
 - pkg:deb/debian/libc6-i386@2.41-12?arch=amd64
+- pkg:deb/debian/libc6-i386@2.42-13?arch=amd64
 - pkg:deb/debian/libc6-i386@2.42-4?arch=amd64
 - pkg:deb/debian/libc6-i386@2.42-5?arch=amd64

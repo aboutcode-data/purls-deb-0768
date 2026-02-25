@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-versioneer@0.18-3?arch=all
 - pkg:deb/debian/python3-versioneer@0.28-1?arch=all
 - pkg:deb/debian/python3-versioneer@0.29-1?arch=all
+- pkg:deb/debian/python3-versioneer@0.29-2?arch=all

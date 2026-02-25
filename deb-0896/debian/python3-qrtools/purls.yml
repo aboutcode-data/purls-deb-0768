@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-qrtools@2.0~bzr33-2?arch=all
+- pkg:deb/debian/python3-qrtools@2.1-2?arch=all
 - pkg:deb/debian/python3-qrtools@2.1~bzr46-4?arch=all
 - pkg:deb/debian/python3-qrtools@2.1~bzr52-2?arch=all

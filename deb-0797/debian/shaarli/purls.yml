@@ -1,3 +1,4 @@
 - pkg:deb/debian/shaarli@0.12.1%2Bdfsg-8%2Bdeb12u1?arch=all
+- pkg:deb/debian/shaarli@0.12.1%2Bdfsg-8%2Bdeb12u2?arch=all
 - pkg:deb/debian/shaarli@0.14.0%2Bdfsg-2?arch=all
 - pkg:deb/debian/shaarli@0.15.0%2Bdfsg-1?arch=all

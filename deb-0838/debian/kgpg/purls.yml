@@ -23,6 +23,7 @@
 - pkg:deb/debian/kgpg@25.04.0-1?arch=armel
 - pkg:deb/debian/kgpg@25.04.0-1?arch=armhf
 - pkg:deb/debian/kgpg@25.04.0-1?arch=i386
+- pkg:deb/debian/kgpg@25.04.0-1?arch=loong64
 - pkg:deb/debian/kgpg@25.04.0-1?arch=ppc64el
 - pkg:deb/debian/kgpg@25.04.0-1?arch=riscv64
 - pkg:deb/debian/kgpg@25.04.0-1?arch=s390x

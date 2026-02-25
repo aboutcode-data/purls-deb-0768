@@ -27,6 +27,13 @@
 - pkg:deb/debian/grub-theme-starfield@2.12-9?arch=i386
 - pkg:deb/debian/grub-theme-starfield@2.12-9?arch=ppc64el
 - pkg:deb/debian/grub-theme-starfield@2.12-9?arch=riscv64
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=amd64
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=arm64
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=armhf
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=i386
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=loong64
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=ppc64el
+- pkg:deb/debian/grub-theme-starfield@2.14-2?arch=riscv64
 - pkg:deb/debian/grub-theme-starfield@2.14~git20250718.0e36779-2?arch=amd64
 - pkg:deb/debian/grub-theme-starfield@2.14~git20250718.0e36779-2?arch=arm64
 - pkg:deb/debian/grub-theme-starfield@2.14~git20250718.0e36779-2?arch=armhf

@@ -1,2 +1,3 @@
 - pkg:deb/debian/libfakekey-doc@0.3%2Bgit20170516-2?arch=all
 - pkg:deb/debian/libfakekey-doc@0.3%2Bgit20170516-3?arch=all
+- pkg:deb/debian/libfakekey-doc@0.3%2Bgit20170516-4?arch=all

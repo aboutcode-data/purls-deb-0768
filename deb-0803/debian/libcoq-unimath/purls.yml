@@ -9,4 +9,10 @@
 - pkg:deb/debian/libcoq-unimath@20240923-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libcoq-unimath@20240923-2%2Bb4?arch=riscv64
 - pkg:deb/debian/libcoq-unimath@20240923-2%2Bb4?arch=s390x
+- pkg:deb/debian/libcoq-unimath@20240923-2%2Bb6?arch=amd64
+- pkg:deb/debian/libcoq-unimath@20240923-2%2Bb6?arch=arm64
+- pkg:deb/debian/libcoq-unimath@20250923-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-unimath@20250923-2?arch=amd64
+- pkg:deb/debian/libcoq-unimath@20250923-2?arch=arm64
+- pkg:deb/debian/libcoq-unimath@20250923-2?arch=ppc64el
+- pkg:deb/debian/libcoq-unimath@20250923-2?arch=s390x

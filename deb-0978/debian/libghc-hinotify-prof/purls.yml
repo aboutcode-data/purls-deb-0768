@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-hinotify-prof@0.4.1-3?arch=ppc64el
 - pkg:deb/debian/libghc-hinotify-prof@0.4.1-3?arch=riscv64
 - pkg:deb/debian/libghc-hinotify-prof@0.4.1-3?arch=s390x
+- pkg:deb/debian/libghc-hinotify-prof@0.4.2-1?arch=loong64

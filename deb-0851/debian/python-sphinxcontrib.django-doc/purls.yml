@@ -1,1 +1,2 @@
 - pkg:deb/debian/python-sphinxcontrib.django-doc@2.5-2?arch=all
+- pkg:deb/debian/python-sphinxcontrib.django-doc@2.5-3?arch=all

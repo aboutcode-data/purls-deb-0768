@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-hakyll-doc@4.13.4.0-2?arch=all
 - pkg:deb/debian/libghc-hakyll-doc@4.15.1.1-1?arch=all
 - pkg:deb/debian/libghc-hakyll-doc@4.16.2.2-1?arch=all
+- pkg:deb/debian/libghc-hakyll-doc@4.16.7.1-1?arch=all

@@ -11,3 +11,12 @@
 - pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u5?arch=mipsel
 - pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u5?arch=ppc64el
 - pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u5?arch=s390x
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=amd64
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=arm64
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=armel
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=armhf
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=i386
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=mips64el
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=mipsel
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=ppc64el
+- pkg:deb/debian/libgnutls-dane0@3.7.9-2%2Bdeb12u6?arch=s390x

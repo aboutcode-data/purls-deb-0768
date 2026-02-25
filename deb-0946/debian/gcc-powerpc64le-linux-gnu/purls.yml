@@ -14,3 +14,4 @@
 - pkg:deb/debian/gcc-powerpc64le-linux-gnu@15.2.0-4?arch=i386
 - pkg:deb/debian/gcc-powerpc64le-linux-gnu@15.2.0-4?arch=ppc64el
 - pkg:deb/debian/gcc-powerpc64le-linux-gnu@15.2.0-4?arch=s390x
+- pkg:deb/debian/gcc-powerpc64le-linux-gnu@15.2.0-5?arch=s390x

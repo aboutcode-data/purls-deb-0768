@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-slepc4py@3.18.2-1?arch=all
 - pkg:deb/debian/python3-slepc4py@3.22.2-1?arch=all
 - pkg:deb/debian/python3-slepc4py@3.24.1-2?arch=all
+- pkg:deb/debian/python3-slepc4py@3.24.2-2?arch=all

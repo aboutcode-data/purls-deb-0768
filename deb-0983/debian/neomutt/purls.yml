@@ -35,3 +35,11 @@
 - pkg:deb/debian/neomutt@20250905%2Bdfsg-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/neomutt@20250905%2Bdfsg-1%2Bb1?arch=riscv64
 - pkg:deb/debian/neomutt@20250905%2Bdfsg-1%2Bb1?arch=s390x
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=amd64
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=armel
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=armhf
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=i386
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/neomutt@20260105%2Bdfsg-1~bpo13%2B1?arch=s390x

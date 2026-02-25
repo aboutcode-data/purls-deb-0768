@@ -3,6 +3,7 @@
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=armel
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=armhf
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=i386
+- pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=loong64
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=ppc64el
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=riscv64
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.1.0-4?arch=s390x
@@ -10,6 +11,7 @@
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=arm64
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=armhf
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=i386
+- pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=loong64
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=ppc64el
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=riscv64
 - pkg:deb/debian/liblomiri-content-hub-qt6-1@2.2.0~git20250922.cac8359-1~exp1?arch=s390x

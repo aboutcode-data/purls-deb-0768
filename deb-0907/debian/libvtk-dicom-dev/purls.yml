@@ -23,6 +23,7 @@
 - pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=arm64
 - pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=armhf
 - pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=i386
+- pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=loong64
 - pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=ppc64el
 - pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=riscv64
 - pkg:deb/debian/libvtk-dicom-dev@0.8.17-2?arch=s390x

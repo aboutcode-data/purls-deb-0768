@@ -30,3 +30,11 @@
 - pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-7?arch=ppc64el
 - pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-7?arch=riscv64
 - pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-7?arch=s390x
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=amd64
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=arm64
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=armhf
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=i386
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=loong64
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=ppc64el
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=riscv64
+- pkg:deb/debian/libmshr64-dev@2019.2.0~git20230811.ff54a68%2Bdfsg1-8?arch=s390x

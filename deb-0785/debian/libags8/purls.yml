@@ -1,0 +1,2 @@
+- pkg:deb/debian/libags8@8.2.9-1?arch=riscv64
+- pkg:deb/debian/libags8@8.2.9-1?arch=s390x

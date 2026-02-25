@@ -26,3 +26,11 @@
 - pkg:deb/debian/openmsx@20.0%2Bdfsg-1.2?arch=ppc64el
 - pkg:deb/debian/openmsx@20.0%2Bdfsg-1.2?arch=riscv64
 - pkg:deb/debian/openmsx@20.0%2Bdfsg-1.2?arch=s390x
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=i386
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=loong64
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/openmsx@21.0%2Bdfsg-3?arch=s390x

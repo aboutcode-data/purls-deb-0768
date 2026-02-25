@@ -12,3 +12,8 @@
 - pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-2?arch=arm64
 - pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-2?arch=riscv64
+- pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-4?arch=loong64
+- pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/pbbamtools@2.4.0%2Bdfsg-4?arch=riscv64

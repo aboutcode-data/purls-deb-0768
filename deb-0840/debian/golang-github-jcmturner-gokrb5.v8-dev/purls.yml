@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-jcmturner-gokrb5.v8-dev@8.4.3-2?arch=all
+- pkg:deb/debian/golang-github-jcmturner-gokrb5.v8-dev@8.4.4-1?arch=all

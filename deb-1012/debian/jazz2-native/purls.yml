@@ -1,0 +1,3 @@
+- pkg:deb/debian/jazz2-native@3.5.0-2?arch=loong64
+- pkg:deb/debian/jazz2-native@3.5.0-2?arch=riscv64
+- pkg:deb/debian/jazz2-native@3.5.0-2?arch=s390x

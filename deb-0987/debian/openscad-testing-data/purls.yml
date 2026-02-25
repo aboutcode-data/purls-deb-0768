@@ -1,3 +1,4 @@
+- pkg:deb/debian/openscad-testing-data@2021.01-10?arch=all
 - pkg:deb/debian/openscad-testing-data@2021.01-1?arch=all
 - pkg:deb/debian/openscad-testing-data@2021.01-6?arch=all
 - pkg:deb/debian/openscad-testing-data@2021.01-8?arch=all

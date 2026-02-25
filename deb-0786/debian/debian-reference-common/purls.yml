@@ -1,4 +1,6 @@
 - pkg:deb/debian/debian-reference-common@2.100?arch=all
 - pkg:deb/debian/debian-reference-common@2.127?arch=all
 - pkg:deb/debian/debian-reference-common@2.128?arch=all
+- pkg:deb/debian/debian-reference-common@2.137?arch=all
+- pkg:deb/debian/debian-reference-common@2.138?arch=all
 - pkg:deb/debian/debian-reference-common@2.78?arch=all

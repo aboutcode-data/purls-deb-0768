@@ -21,6 +21,13 @@
 - pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-2?arch=ppc64el
 - pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-2?arch=riscv64
 - pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-2?arch=s390x
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=amd64
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=arm64
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=armhf
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=i386
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=ppc64el
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=riscv64
+- pkg:deb/debian/nheko@0.12.1%2B~0.10.1%2B~1.0.0%2B~0.3.1-4?arch=s390x
 - pkg:deb/debian/nheko@0.8.0%2Breally0.7.2-4?arch=amd64
 - pkg:deb/debian/nheko@0.8.0%2Breally0.7.2-4?arch=arm64
 - pkg:deb/debian/nheko@0.8.0%2Breally0.7.2-4?arch=armhf

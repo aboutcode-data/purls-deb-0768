@@ -1,4 +1,5 @@
 - pkg:deb/debian/mingw-w64-common@10.0.0-3?arch=all
 - pkg:deb/debian/mingw-w64-common@12.0.0-5?arch=all
 - pkg:deb/debian/mingw-w64-common@13.0.0-1?arch=all
+- pkg:deb/debian/mingw-w64-common@13.0.0-2?arch=all
 - pkg:deb/debian/mingw-w64-common@8.0.0-1?arch=all

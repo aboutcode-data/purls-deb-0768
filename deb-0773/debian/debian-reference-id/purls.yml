@@ -1,3 +1,5 @@
 - pkg:deb/debian/debian-reference-id@2.100?arch=all
 - pkg:deb/debian/debian-reference-id@2.127?arch=all
 - pkg:deb/debian/debian-reference-id@2.128?arch=all
+- pkg:deb/debian/debian-reference-id@2.137?arch=all
+- pkg:deb/debian/debian-reference-id@2.138?arch=all

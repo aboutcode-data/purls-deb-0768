@@ -1,2 +1,3 @@
 - pkg:deb/debian/ruby-gitlab-experiment@0.7.1-2?arch=all
 - pkg:deb/debian/ruby-gitlab-experiment@0.9.1-2?arch=all
+- pkg:deb/debian/ruby-gitlab-experiment@1.2.0-1?arch=all

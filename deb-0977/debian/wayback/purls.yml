@@ -1,0 +1,2 @@
+- pkg:deb/debian/wayback@0.3-1?arch=loong64
+- pkg:deb/debian/wayback@0.3-1?arch=riscv64

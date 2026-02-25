@@ -1,4 +1,5 @@
 - pkg:deb/debian/octavia-driver-agent@11.0.0-2?arch=all
 - pkg:deb/debian/octavia-driver-agent@16.0.0-2?arch=all
 - pkg:deb/debian/octavia-driver-agent@17.0.0-1?arch=all
+- pkg:deb/debian/octavia-driver-agent@17.0.0-5?arch=all
 - pkg:deb/debian/octavia-driver-agent@7.1.0-2?arch=all

@@ -19,3 +19,4 @@
 - pkg:deb/debian/mpdcon.app@1.5.1-0.2%2Bb4?arch=s390x
 - pkg:deb/debian/mpdcon.app@1.5.1-0.2%2Bb5?arch=arm64
 - pkg:deb/debian/mpdcon.app@1.5.1-0.2%2Bb5?arch=riscv64
+- pkg:deb/debian/mpdcon.app@1.5.1-0.2?arch=loong64

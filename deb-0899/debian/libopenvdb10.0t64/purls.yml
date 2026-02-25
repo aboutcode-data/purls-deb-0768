@@ -6,3 +6,5 @@
 - pkg:deb/debian/libopenvdb10.0t64@10.0.1-2.3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libopenvdb10.0t64@10.0.1-2.3%2Bb1?arch=riscv64
 - pkg:deb/debian/libopenvdb10.0t64@10.0.1-2.3%2Bb1?arch=s390x
+- pkg:deb/debian/libopenvdb10.0t64@10.0.1-3?arch=loong64
+- pkg:deb/debian/libopenvdb10.0t64@10.0.1-3?arch=riscv64

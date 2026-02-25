@@ -1,4 +1,12 @@
 - pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2%2Bb1?arch=riscv64
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=amd64
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=arm64
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=armhf
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=i386
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=loong64
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=ppc64el
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=riscv64
+- pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2.1?arch=s390x
 - pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2?arch=amd64
 - pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2?arch=arm64
 - pkg:deb/debian/nspark@1.7.8B2%2Bgit20210317.cb30779-2?arch=armel

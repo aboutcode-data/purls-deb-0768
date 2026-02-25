@@ -19,3 +19,11 @@
 - pkg:deb/debian/libexif-gtk-dev@0.5.0-2?arch=arm64
 - pkg:deb/debian/libexif-gtk-dev@0.5.0-2?arch=armhf
 - pkg:deb/debian/libexif-gtk-dev@0.5.0-2?arch=i386
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=amd64
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=arm64
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=armhf
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=i386
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=loong64
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=ppc64el
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=riscv64
+- pkg:deb/debian/libexif-gtk-dev@0.5.0-4?arch=s390x

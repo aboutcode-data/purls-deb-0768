@@ -13,3 +13,4 @@
 - pkg:deb/debian/gobjc-for-host@15.2.0-4?arch=ppc64el
 - pkg:deb/debian/gobjc-for-host@15.2.0-4?arch=riscv64
 - pkg:deb/debian/gobjc-for-host@15.2.0-4?arch=s390x
+- pkg:deb/debian/gobjc-for-host@15.2.0-5?arch=s390x

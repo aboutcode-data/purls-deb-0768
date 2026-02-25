@@ -32,6 +32,8 @@
 - pkg:deb/debian/systemd-standalone-tmpfiles@257.9-1~deb13u1?arch=ppc64el
 - pkg:deb/debian/systemd-standalone-tmpfiles@257.9-1~deb13u1?arch=riscv64
 - pkg:deb/debian/systemd-standalone-tmpfiles@257.9-1~deb13u1?arch=s390x
+- pkg:deb/debian/systemd-standalone-tmpfiles@259.1-1?arch=loong64
+- pkg:deb/debian/systemd-standalone-tmpfiles@259.1-1?arch=riscv64
 - pkg:deb/debian/systemd-standalone-tmpfiles@259~rc2-1?arch=amd64
 - pkg:deb/debian/systemd-standalone-tmpfiles@259~rc2-1?arch=arm64
 - pkg:deb/debian/systemd-standalone-tmpfiles@259~rc2-1?arch=armhf

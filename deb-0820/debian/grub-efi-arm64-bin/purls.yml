@@ -3,4 +3,5 @@
 - pkg:deb/debian/grub-efi-arm64-bin@2.06-3~deb11u6?arch=arm64
 - pkg:deb/debian/grub-efi-arm64-bin@2.12-1~bpo12%2B1?arch=arm64
 - pkg:deb/debian/grub-efi-arm64-bin@2.12-9?arch=arm64
+- pkg:deb/debian/grub-efi-arm64-bin@2.14-2?arch=arm64
 - pkg:deb/debian/grub-efi-arm64-bin@2.14~git20250718.0e36779-2?arch=arm64

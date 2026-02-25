@@ -2,3 +2,5 @@
 - pkg:deb/debian/linux-compiler-gcc-12-x86@6.1.148-1?arch=i386
 - pkg:deb/debian/linux-compiler-gcc-12-x86@6.1.158-1?arch=amd64
 - pkg:deb/debian/linux-compiler-gcc-12-x86@6.1.158-1?arch=i386
+- pkg:deb/debian/linux-compiler-gcc-12-x86@6.1.162-1?arch=amd64
+- pkg:deb/debian/linux-compiler-gcc-12-x86@6.1.162-1?arch=i386

@@ -22,6 +22,14 @@
 - pkg:deb/debian/sudo@1.9.17p2-1?arch=ppc64el
 - pkg:deb/debian/sudo@1.9.17p2-1?arch=riscv64
 - pkg:deb/debian/sudo@1.9.17p2-1?arch=s390x
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=amd64
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=arm64
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=armhf
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=i386
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=loong64
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=ppc64el
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=riscv64
+- pkg:deb/debian/sudo@1.9.17p2-4?arch=s390x
 - pkg:deb/debian/sudo@1.9.5p2-3%2Bdeb11u1?arch=amd64
 - pkg:deb/debian/sudo@1.9.5p2-3%2Bdeb11u1?arch=arm64
 - pkg:deb/debian/sudo@1.9.5p2-3%2Bdeb11u1?arch=armhf

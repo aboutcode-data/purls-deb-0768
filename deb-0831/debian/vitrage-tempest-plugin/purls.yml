@@ -2,3 +2,4 @@
 - pkg:deb/debian/vitrage-tempest-plugin@6.0.0-2?arch=all
 - pkg:deb/debian/vitrage-tempest-plugin@6.6.0-2?arch=all
 - pkg:deb/debian/vitrage-tempest-plugin@6.7.0-2?arch=all
+- pkg:deb/debian/vitrage-tempest-plugin@6.7.0-3?arch=all

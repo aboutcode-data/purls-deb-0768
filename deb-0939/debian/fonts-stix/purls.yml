@@ -1,2 +1,3 @@
 - pkg:deb/debian/fonts-stix@1.1.1-4.1?arch=all
 - pkg:deb/debian/fonts-stix@1.1.1-5?arch=all
+- pkg:deb/debian/fonts-stix@2.13b171%2Bds-2?arch=all

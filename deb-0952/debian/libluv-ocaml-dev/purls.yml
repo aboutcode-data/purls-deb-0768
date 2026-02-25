@@ -29,3 +29,5 @@
 - pkg:deb/debian/libluv-ocaml-dev@0.5.14-2%2Bb3?arch=ppc64el
 - pkg:deb/debian/libluv-ocaml-dev@0.5.14-2%2Bb3?arch=riscv64
 - pkg:deb/debian/libluv-ocaml-dev@0.5.14-2%2Bb3?arch=s390x
+- pkg:deb/debian/libluv-ocaml-dev@0.5.14-2%2Bb6?arch=amd64
+- pkg:deb/debian/libluv-ocaml-dev@0.5.14-2%2Bb6?arch=arm64

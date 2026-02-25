@@ -3,3 +3,4 @@
 - pkg:deb/debian/python-cryptography-doc@43.0.0-3?arch=all
 - pkg:deb/debian/python-cryptography-doc@45.0.7-1?arch=all
 - pkg:deb/debian/python-cryptography-doc@46.0.1-1?arch=all
+- pkg:deb/debian/python-cryptography-doc@46.0.5-1?arch=all

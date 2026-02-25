@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-rouge@3.30.0-2?arch=all
 - pkg:deb/debian/ruby-rouge@4.5.1-1?arch=all
 - pkg:deb/debian/ruby-rouge@4.6.1-1?arch=all
+- pkg:deb/debian/ruby-rouge@4.7.0-1?arch=all

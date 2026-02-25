@@ -5,6 +5,14 @@
 - pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-10?arch=ppc64el
 - pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-10?arch=riscv64
 - pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-10?arch=s390x
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=amd64
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=arm64
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=armhf
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=i386
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=loong64
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=ppc64el
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=riscv64
+- pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-12?arch=s390x
 - pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-4.1?arch=amd64
 - pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-4.1?arch=arm64
 - pkg:deb/debian/gcc-h8300-hms@3.4.6%2Bdfsg2-4.1?arch=armhf

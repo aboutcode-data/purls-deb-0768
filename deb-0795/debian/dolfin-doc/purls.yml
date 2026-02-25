@@ -2,3 +2,4 @@
 - pkg:deb/debian/dolfin-doc@2019.2.0~git20230116.bd54183-2?arch=all
 - pkg:deb/debian/dolfin-doc@2019.2.0~legacy20240219.1c52e83-18?arch=all
 - pkg:deb/debian/dolfin-doc@2019.2.0~legacy20240219.1c52e83-25?arch=all
+- pkg:deb/debian/dolfin-doc@2019.2.0~legacy20240219.1c52e83-27?arch=all

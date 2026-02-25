@@ -13,3 +13,10 @@
 - pkg:deb/debian/libkf6dbusaddons6@6.20.0-1?arch=ppc64el
 - pkg:deb/debian/libkf6dbusaddons6@6.20.0-1?arch=riscv64
 - pkg:deb/debian/libkf6dbusaddons6@6.20.0-1?arch=s390x
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=amd64
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=arm64
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=armhf
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=i386
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=loong64
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=ppc64el
+- pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=riscv64

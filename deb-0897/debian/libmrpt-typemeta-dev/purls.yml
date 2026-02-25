@@ -1,5 +1,6 @@
 - pkg:deb/debian/libmrpt-typemeta-dev@2.1.7-2?arch=all
 - pkg:deb/debian/libmrpt-typemeta-dev@2.14.15%2Bds-2?arch=all
 - pkg:deb/debian/libmrpt-typemeta-dev@2.14.7%2Bds-1?arch=all
+- pkg:deb/debian/libmrpt-typemeta-dev@2.15.10%2Bds-1?arch=all
 - pkg:deb/debian/libmrpt-typemeta-dev@2.15.2%2Bds-2?arch=all
 - pkg:deb/debian/libmrpt-typemeta-dev@2.5.8%2Bds-2?arch=all

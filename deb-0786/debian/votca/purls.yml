@@ -13,3 +13,8 @@
 - pkg:deb/debian/votca@2025.1-1?arch=ppc64el
 - pkg:deb/debian/votca@2025.1-1?arch=riscv64
 - pkg:deb/debian/votca@2025.1-1?arch=s390x
+- pkg:deb/debian/votca@2025.1-2?arch=amd64
+- pkg:deb/debian/votca@2025.1-2?arch=arm64
+- pkg:deb/debian/votca@2025.1-2?arch=ppc64el
+- pkg:deb/debian/votca@2025.1-2?arch=riscv64
+- pkg:deb/debian/votca@2025.1-2?arch=s390x

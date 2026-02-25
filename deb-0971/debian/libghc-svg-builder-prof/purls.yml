@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-svg-builder-prof@0.1.1-8?arch=ppc64el
 - pkg:deb/debian/libghc-svg-builder-prof@0.1.1-8?arch=riscv64
 - pkg:deb/debian/libghc-svg-builder-prof@0.1.1-8?arch=s390x
+- pkg:deb/debian/libghc-svg-builder-prof@0.1.1-9?arch=loong64

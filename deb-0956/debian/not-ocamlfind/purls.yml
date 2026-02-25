@@ -13,3 +13,5 @@
 - pkg:deb/debian/not-ocamlfind@0.14-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/not-ocamlfind@0.14-1%2Bb2?arch=riscv64
 - pkg:deb/debian/not-ocamlfind@0.14-1%2Bb2?arch=s390x
+- pkg:deb/debian/not-ocamlfind@0.14-1%2Bb4?arch=amd64
+- pkg:deb/debian/not-ocamlfind@0.14-1%2Bb4?arch=arm64

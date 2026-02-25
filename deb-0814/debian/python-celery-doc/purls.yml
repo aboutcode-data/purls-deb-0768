@@ -3,3 +3,4 @@
 - pkg:deb/debian/python-celery-doc@5.5.2-2?arch=all
 - pkg:deb/debian/python-celery-doc@5.5.3-3?arch=all
 - pkg:deb/debian/python-celery-doc@5.5.3-4?arch=all
+- pkg:deb/debian/python-celery-doc@5.6.2-3?arch=all

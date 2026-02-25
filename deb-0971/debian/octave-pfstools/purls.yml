@@ -2,6 +2,7 @@
 - pkg:deb/debian/octave-pfstools@2.2.0-10?arch=arm64
 - pkg:deb/debian/octave-pfstools@2.2.0-10?arch=armhf
 - pkg:deb/debian/octave-pfstools@2.2.0-10?arch=i386
+- pkg:deb/debian/octave-pfstools@2.2.0-10?arch=loong64
 - pkg:deb/debian/octave-pfstools@2.2.0-10?arch=ppc64el
 - pkg:deb/debian/octave-pfstools@2.2.0-10?arch=riscv64
 - pkg:deb/debian/octave-pfstools@2.2.0-10?arch=s390x

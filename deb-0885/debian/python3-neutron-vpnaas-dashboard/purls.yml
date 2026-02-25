@@ -1,4 +1,5 @@
 - pkg:deb/debian/python3-neutron-vpnaas-dashboard@12.0.0-1?arch=all
 - pkg:deb/debian/python3-neutron-vpnaas-dashboard@13.0.0-1?arch=all
+- pkg:deb/debian/python3-neutron-vpnaas-dashboard@13.0.0-2?arch=all
 - pkg:deb/debian/python3-neutron-vpnaas-dashboard@3.0.0-2?arch=all
 - pkg:deb/debian/python3-neutron-vpnaas-dashboard@7.0.0-1?arch=all

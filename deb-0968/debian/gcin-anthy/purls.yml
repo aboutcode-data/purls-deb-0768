@@ -26,3 +26,11 @@
 - pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-4?arch=ppc64el
 - pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-4?arch=riscv64
 - pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-4?arch=s390x
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=amd64
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=arm64
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=armhf
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=i386
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=loong64
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=ppc64el
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=riscv64
+- pkg:deb/debian/gcin-anthy@2.9.4%2Bdfsg1-6?arch=s390x

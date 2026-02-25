@@ -1,2 +1,4 @@
 - pkg:deb/debian/syncplay-common@1.6.9%2Brepack1-7?arch=all
 - pkg:deb/debian/syncplay-common@1.7.4%2Brepack1-1?arch=all
+- pkg:deb/debian/syncplay-common@1.7.5%2Brepack1-1?arch=all
+- pkg:deb/debian/syncplay-common@1.7.5%2Brepack1-2?arch=all

@@ -19,3 +19,5 @@
 - pkg:deb/debian/librope-ocaml@0.6.3-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/librope-ocaml@0.6.3-1%2Bb3?arch=riscv64
 - pkg:deb/debian/librope-ocaml@0.6.3-1%2Bb3?arch=s390x
+- pkg:deb/debian/librope-ocaml@0.6.3-1%2Bb5?arch=amd64
+- pkg:deb/debian/librope-ocaml@0.6.3-1%2Bb5?arch=arm64

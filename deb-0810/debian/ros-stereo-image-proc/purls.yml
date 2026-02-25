@@ -19,3 +19,4 @@
 - pkg:deb/debian/ros-stereo-image-proc@1.17.0-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/ros-stereo-image-proc@1.17.0-2%2Bb2?arch=riscv64
 - pkg:deb/debian/ros-stereo-image-proc@1.17.0-2%2Bb2?arch=s390x
+- pkg:deb/debian/ros-stereo-image-proc@1.17.0-2?arch=loong64

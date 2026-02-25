@@ -6,3 +6,4 @@
 - pkg:deb/debian/gshisen.app@1.3.0-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/gshisen.app@1.3.0-2%2Bb1?arch=riscv64
 - pkg:deb/debian/gshisen.app@1.3.0-2%2Bb1?arch=s390x
+- pkg:deb/debian/gshisen.app@1.3.0-2?arch=loong64

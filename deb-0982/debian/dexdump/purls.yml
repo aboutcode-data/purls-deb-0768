@@ -16,3 +16,8 @@
 - pkg:deb/debian/dexdump@14.0.0%2Br15-5?arch=armhf
 - pkg:deb/debian/dexdump@14.0.0%2Br15-5?arch=i386
 - pkg:deb/debian/dexdump@14.0.0%2Br15-5?arch=riscv64
+- pkg:deb/debian/dexdump@14.0.0%2Br15-6?arch=amd64
+- pkg:deb/debian/dexdump@14.0.0%2Br15-6?arch=arm64
+- pkg:deb/debian/dexdump@14.0.0%2Br15-6?arch=armhf
+- pkg:deb/debian/dexdump@14.0.0%2Br15-6?arch=i386
+- pkg:deb/debian/dexdump@14.0.0%2Br15-6?arch=riscv64

@@ -1,2 +1,3 @@
 - pkg:deb/debian/librust-imap-codec-dev@2.0.0~alpha5%2B20250307-1?arch=all
 - pkg:deb/debian/librust-imap-codec-dev@2.0.0~alpha6-3?arch=all
+- pkg:deb/debian/librust-imap-codec-dev@2.0.0~alpha7%2Bds-2?arch=all

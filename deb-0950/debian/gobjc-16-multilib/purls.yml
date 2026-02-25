@@ -1,3 +1,5 @@
 - pkg:deb/debian/gobjc-16-multilib@16-20251202-1?arch=amd64
 - pkg:deb/debian/gobjc-16-multilib@16-20251202-1?arch=i386
 - pkg:deb/debian/gobjc-16-multilib@16-20251202-1?arch=s390x
+- pkg:deb/debian/gobjc-16-multilib@16-20260217-1?arch=amd64
+- pkg:deb/debian/gobjc-16-multilib@16-20260217-1?arch=i386

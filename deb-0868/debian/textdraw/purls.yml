@@ -15,3 +15,11 @@
 - pkg:deb/debian/textdraw@0.2%2Bds-1?arch=ppc64el
 - pkg:deb/debian/textdraw@0.2%2Bds-1?arch=riscv64
 - pkg:deb/debian/textdraw@0.2%2Bds-1?arch=s390x
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=amd64
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=arm64
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=armhf
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=i386
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=loong64
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=ppc64el
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=riscv64
+- pkg:deb/debian/textdraw@0.2%2Bds-2?arch=s390x

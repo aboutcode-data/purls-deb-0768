@@ -15,3 +15,12 @@
 - pkg:deb/debian/libzxing-dev@2.3.0-4?arch=ppc64el
 - pkg:deb/debian/libzxing-dev@2.3.0-4?arch=riscv64
 - pkg:deb/debian/libzxing-dev@2.3.0-4?arch=s390x
+- pkg:deb/debian/libzxing-dev@2.3.0-5?arch=loong64
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=amd64
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=arm64
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=armhf
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=i386
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=loong64
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=ppc64el
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=riscv64
+- pkg:deb/debian/libzxing-dev@3.0.2%2Bds-1~exp1?arch=s390x

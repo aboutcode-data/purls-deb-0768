@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-acid-state-dev@0.16.1.3-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/libghc-acid-state-dev@0.16.1.3-2%2Bb1?arch=riscv64
 - pkg:deb/debian/libghc-acid-state-dev@0.16.1.3-2%2Bb1?arch=s390x
+- pkg:deb/debian/libghc-acid-state-dev@0.16.1.4-1?arch=loong64

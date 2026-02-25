@@ -5,6 +5,13 @@
 - pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u2?arch=i386
 - pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u2?arch=ppc64el
 - pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u2?arch=riscv64
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=amd64
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=arm64
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=armel
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=armhf
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=i386
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=ppc64el
+- pkg:deb/debian/libgimp-3.0-0@3.0.4-3%2Bdeb13u6?arch=riscv64
 - pkg:deb/debian/libgimp-3.0-0@3.0.4-6.2?arch=amd64
 - pkg:deb/debian/libgimp-3.0-0@3.0.4-6.2?arch=arm64
 - pkg:deb/debian/libgimp-3.0-0@3.0.4-6.2?arch=armhf
@@ -16,3 +23,10 @@
 - pkg:deb/debian/libgimp-3.0-0@3.0.6-1?arch=armhf
 - pkg:deb/debian/libgimp-3.0-0@3.0.6-1?arch=i386
 - pkg:deb/debian/libgimp-3.0-0@3.0.6-1?arch=ppc64el
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=amd64
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=arm64
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=armhf
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=i386
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=loong64
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=ppc64el
+- pkg:deb/debian/libgimp-3.0-0@3.2.0~RC2-3.3?arch=riscv64

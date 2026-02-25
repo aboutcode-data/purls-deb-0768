@@ -1,3 +1,4 @@
 - pkg:deb/debian/camitk-config@4.1.2-4?arch=amd64
 - pkg:deb/debian/camitk-config@4.1.2-4?arch=i386
 - pkg:deb/debian/camitk-config@5.2.0-5?arch=amd64
+- pkg:deb/debian/camitk-config@6.0.0-3?arch=amd64

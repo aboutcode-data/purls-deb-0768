@@ -2,3 +2,4 @@
 - pkg:deb/debian/knockpy@6.1.0-1?arch=all
 - pkg:deb/debian/knockpy@7.0.2-1?arch=all
 - pkg:deb/debian/knockpy@8.0.0-1?arch=all
+- pkg:deb/debian/knockpy@9.0.0-1?arch=all

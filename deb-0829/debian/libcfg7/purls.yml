@@ -1,3 +1,11 @@
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=amd64
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=arm64
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=armhf
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=i386
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=loong64
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=ppc64el
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=riscv64
+- pkg:deb/debian/libcfg7@3.1.10-1?arch=s390x
 - pkg:deb/debian/libcfg7@3.1.2-2?arch=amd64
 - pkg:deb/debian/libcfg7@3.1.2-2?arch=arm64
 - pkg:deb/debian/libcfg7@3.1.2-2?arch=armhf

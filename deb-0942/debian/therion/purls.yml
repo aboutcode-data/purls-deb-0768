@@ -23,6 +23,7 @@
 - pkg:deb/debian/therion@6.3.4-2?arch=armel
 - pkg:deb/debian/therion@6.3.4-2?arch=armhf
 - pkg:deb/debian/therion@6.3.4-2?arch=i386
+- pkg:deb/debian/therion@6.3.4-2?arch=loong64
 - pkg:deb/debian/therion@6.3.4-2?arch=ppc64el
 - pkg:deb/debian/therion@6.3.4-2?arch=riscv64
 - pkg:deb/debian/therion@6.3.4-2?arch=s390x

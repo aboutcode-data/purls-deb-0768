@@ -26,3 +26,11 @@
 - pkg:deb/debian/libapt-pkg-dev@3.1.12?arch=ppc64el
 - pkg:deb/debian/libapt-pkg-dev@3.1.12?arch=riscv64
 - pkg:deb/debian/libapt-pkg-dev@3.1.12?arch=s390x
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=amd64
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=arm64
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=armhf
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=i386
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=loong64
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=ppc64el
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=riscv64
+- pkg:deb/debian/libapt-pkg-dev@3.1.16?arch=s390x

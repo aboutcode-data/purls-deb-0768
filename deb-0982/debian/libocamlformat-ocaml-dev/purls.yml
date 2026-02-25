@@ -13,3 +13,5 @@
 - pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=ppc64el
 - pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=riscv64
 - pkg:deb/debian/libocamlformat-ocaml-dev@0.27.0-1%2Bb6?arch=s390x
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.28.1-1%2Bb2?arch=amd64
+- pkg:deb/debian/libocamlformat-ocaml-dev@0.28.1-1%2Bb2?arch=arm64

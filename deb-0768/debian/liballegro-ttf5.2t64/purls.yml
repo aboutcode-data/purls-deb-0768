@@ -13,3 +13,11 @@
 - pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.0%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.0%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.0%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=i386
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/liballegro-ttf5.2t64@5.2.11.3%2Bdfsg-1?arch=s390x

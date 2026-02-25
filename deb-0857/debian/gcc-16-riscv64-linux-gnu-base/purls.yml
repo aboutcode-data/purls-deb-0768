@@ -1,0 +1,4 @@
+- pkg:deb/debian/gcc-16-riscv64-linux-gnu-base@16-20260208-1cross1?arch=arm64
+- pkg:deb/debian/gcc-16-riscv64-linux-gnu-base@16-20260208-1cross1?arch=i386
+- pkg:deb/debian/gcc-16-riscv64-linux-gnu-base@16-20260208-1cross1?arch=ppc64el
+- pkg:deb/debian/gcc-16-riscv64-linux-gnu-base@16-20260208-1cross1?arch=s390x

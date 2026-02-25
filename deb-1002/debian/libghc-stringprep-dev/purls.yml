@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-stringprep-dev@1.0.0-14%2Bb2?arch=arm64
 - pkg:deb/debian/libghc-stringprep-dev@1.0.0-14%2Bb2?arch=armhf
 - pkg:deb/debian/libghc-stringprep-dev@1.0.0-14%2Bb2?arch=i386
+- pkg:deb/debian/libghc-stringprep-dev@1.0.0-15?arch=loong64

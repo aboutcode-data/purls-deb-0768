@@ -2,3 +2,4 @@
 - pkg:deb/debian/os-brick-common@6.1.0-3?arch=all
 - pkg:deb/debian/os-brick-common@6.11.0-2?arch=all
 - pkg:deb/debian/os-brick-common@6.13.0-3?arch=all
+- pkg:deb/debian/os-brick-common@6.13.0-4?arch=all

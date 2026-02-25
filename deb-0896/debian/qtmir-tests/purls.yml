@@ -26,3 +26,11 @@
 - pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-7?arch=ppc64el
 - pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-7?arch=riscv64
 - pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-7?arch=s390x
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=amd64
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=arm64
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=armhf
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=i386
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=loong64
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=ppc64el
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=riscv64
+- pkg:deb/debian/qtmir-tests@0.8.0~git20250407.ea2f477-8?arch=s390x

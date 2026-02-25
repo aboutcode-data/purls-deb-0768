@@ -4,3 +4,4 @@
 - pkg:deb/debian/lemonldap-ng-handler@2.21.3%2Bds-1~bpo12%2B1?arch=all
 - pkg:deb/debian/lemonldap-ng-handler@2.22.1%2Bds-1?arch=all
 - pkg:deb/debian/lemonldap-ng-handler@2.22.1%2Bds-1~bpo13%2B1?arch=all
+- pkg:deb/debian/lemonldap-ng-handler@2.22.2%2Bds-1~bpo13%2B1?arch=all

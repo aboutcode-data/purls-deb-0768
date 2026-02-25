@@ -1,3 +1,6 @@
 - pkg:deb/debian/libgles2-nvidia-legacy-340xx@340.108-26?arch=amd64
 - pkg:deb/debian/libgles2-nvidia-legacy-340xx@340.108-26?arch=armhf
 - pkg:deb/debian/libgles2-nvidia-legacy-340xx@340.108-26?arch=i386
+- pkg:deb/debian/libgles2-nvidia-legacy-340xx@340.108-27?arch=amd64
+- pkg:deb/debian/libgles2-nvidia-legacy-340xx@340.108-27?arch=armhf
+- pkg:deb/debian/libgles2-nvidia-legacy-340xx@340.108-27?arch=i386

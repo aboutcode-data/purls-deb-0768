@@ -14,3 +14,4 @@
 - pkg:deb/debian/libghc-base64-prof@0.4.2.4-4?arch=ppc64el
 - pkg:deb/debian/libghc-base64-prof@0.4.2.4-4?arch=riscv64
 - pkg:deb/debian/libghc-base64-prof@0.4.2.4-4?arch=s390x
+- pkg:deb/debian/libghc-base64-prof@1.0-1?arch=loong64

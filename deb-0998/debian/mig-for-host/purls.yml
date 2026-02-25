@@ -4,3 +4,6 @@
 - pkg:deb/debian/mig-for-host@1.8%2Bgit20231217-8?arch=amd64
 - pkg:deb/debian/mig-for-host@1.8%2Bgit20231217-8?arch=arm64
 - pkg:deb/debian/mig-for-host@1.8%2Bgit20231217-8?arch=i386
+- pkg:deb/debian/mig-for-host@1.8%2Bgit20231217-9?arch=amd64
+- pkg:deb/debian/mig-for-host@1.8%2Bgit20231217-9?arch=arm64
+- pkg:deb/debian/mig-for-host@1.8%2Bgit20231217-9?arch=i386

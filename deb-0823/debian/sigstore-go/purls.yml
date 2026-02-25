@@ -13,3 +13,11 @@
 - pkg:deb/debian/sigstore-go@0.7.1-2%2Bb5?arch=ppc64el
 - pkg:deb/debian/sigstore-go@0.7.1-2%2Bb5?arch=riscv64
 - pkg:deb/debian/sigstore-go@0.7.1-2%2Bb5?arch=s390x
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=amd64
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=arm64
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=armhf
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=i386
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=loong64
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=ppc64el
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=riscv64
+- pkg:deb/debian/sigstore-go@1.1.4-1?arch=s390x

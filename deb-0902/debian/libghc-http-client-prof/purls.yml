@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-http-client-prof@0.7.17-2%2Bb1?arch=riscv64
 - pkg:deb/debian/libghc-http-client-prof@0.7.17-2%2Bb1?arch=s390x
 - pkg:deb/debian/libghc-http-client-prof@0.7.17-2%2Bb2?arch=i386
+- pkg:deb/debian/libghc-http-client-prof@0.7.19-1?arch=loong64

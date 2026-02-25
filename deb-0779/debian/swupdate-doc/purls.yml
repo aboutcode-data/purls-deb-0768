@@ -4,3 +4,4 @@
 - pkg:deb/debian/swupdate-doc@2024.12.1%2Bdfsg-3~bpo12%2B1?arch=all
 - pkg:deb/debian/swupdate-doc@2025.05%2Bdfsg-3?arch=all
 - pkg:deb/debian/swupdate-doc@2025.05%2Bdfsg-3~bpo13%2B1?arch=all
+- pkg:deb/debian/swupdate-doc@2025.12%2Bdfsg-3?arch=all

@@ -3,6 +3,7 @@
 - pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=armel
 - pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=armhf
 - pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=i386
+- pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=loong64
 - pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=ppc64el
 - pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=riscv64
 - pkg:deb/debian/librenaissance-dev@0.9.0-6?arch=s390x

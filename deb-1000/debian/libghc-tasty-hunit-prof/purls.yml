@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-tasty-hunit-prof@0.10.2-1?arch=ppc64el
 - pkg:deb/debian/libghc-tasty-hunit-prof@0.10.2-1?arch=riscv64
 - pkg:deb/debian/libghc-tasty-hunit-prof@0.10.2-1?arch=s390x
+- pkg:deb/debian/libghc-tasty-hunit-prof@0.10.2-2?arch=loong64

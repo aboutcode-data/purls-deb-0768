@@ -1,4 +1,5 @@
 - pkg:deb/debian/php-parsedown@1.7.4-1?arch=all
 - pkg:deb/debian/php-parsedown@1.7.4-6?arch=all
 - pkg:deb/debian/php-parsedown@1.7.4-7?arch=all
+- pkg:deb/debian/php-parsedown@1.8.0-1?arch=all
 - pkg:deb/debian/php-parsedown@2.0.0~beta-1-5?arch=all

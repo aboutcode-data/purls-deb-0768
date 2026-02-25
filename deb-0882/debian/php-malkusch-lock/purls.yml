@@ -1,2 +1,3 @@
 - pkg:deb/debian/php-malkusch-lock@2.2.1%2Bds-1?arch=all
 - pkg:deb/debian/php-malkusch-lock@2.3.0%2Bds-2?arch=all
+- pkg:deb/debian/php-malkusch-lock@2.3.0%2Bds-3?arch=all

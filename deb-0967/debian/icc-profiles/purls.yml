@@ -1,1 +1,3 @@
 - pkg:deb/debian/icc-profiles@2.1-2?arch=all
+- pkg:deb/debian/icc-profiles@2.5?arch=all
+- pkg:deb/debian/icc-profiles@2.6?arch=all

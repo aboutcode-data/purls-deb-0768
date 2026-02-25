@@ -18,3 +18,9 @@
 - pkg:deb/debian/libjss-java@5.5.0-1?arch=ppc64el
 - pkg:deb/debian/libjss-java@5.5.0-1?arch=riscv64
 - pkg:deb/debian/libjss-java@5.5.0-1?arch=s390x
+- pkg:deb/debian/libjss-java@5.9.0~beta3-3?arch=amd64
+- pkg:deb/debian/libjss-java@5.9.0~beta3-3?arch=arm64
+- pkg:deb/debian/libjss-java@5.9.0~beta3-3?arch=loong64
+- pkg:deb/debian/libjss-java@5.9.0~beta3-3?arch=ppc64el
+- pkg:deb/debian/libjss-java@5.9.0~beta3-3?arch=riscv64
+- pkg:deb/debian/libjss-java@5.9.0~beta3-3?arch=s390x

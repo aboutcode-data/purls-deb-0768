@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-xstatic-angular@1.5.8.0-5?arch=all
 - pkg:deb/debian/python3-xstatic-angular@1.8.2.2-2?arch=all
 - pkg:deb/debian/python3-xstatic-angular@1.8.2.2-5?arch=all
+- pkg:deb/debian/python3-xstatic-angular@1.8.2.2-6?arch=all

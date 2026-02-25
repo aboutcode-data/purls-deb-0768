@@ -2,3 +2,4 @@
 - pkg:deb/debian/deluge-common@2.0.3-4?arch=all
 - pkg:deb/debian/deluge-common@2.2.0-1?arch=all
 - pkg:deb/debian/deluge-common@2.2.1~dev0%2B20250824-1?arch=all
+- pkg:deb/debian/deluge-common@2.2.1~dev0%2B20250824-3?arch=all

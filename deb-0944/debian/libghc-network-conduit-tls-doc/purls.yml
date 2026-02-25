@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-network-conduit-tls-doc@1.3.2-4?arch=all
 - pkg:deb/debian/libghc-network-conduit-tls-doc@1.3.2-5?arch=all
 - pkg:deb/debian/libghc-network-conduit-tls-doc@1.4.0.1-1?arch=all
+- pkg:deb/debian/libghc-network-conduit-tls-doc@1.4.0.1-2?arch=all

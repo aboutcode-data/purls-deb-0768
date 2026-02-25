@@ -1,1 +1,2 @@
+- pkg:deb/debian/lib32gphobos6-amd64-cross@15.2.0-13cross1?arch=all
 - pkg:deb/debian/lib32gphobos6-amd64-cross@15.2.0-7cross1?arch=all

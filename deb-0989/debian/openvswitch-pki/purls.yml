@@ -3,3 +3,6 @@
 - pkg:deb/debian/openvswitch-pki@3.5.0-1?arch=all
 - pkg:deb/debian/openvswitch-pki@3.6.0-5?arch=all
 - pkg:deb/debian/openvswitch-pki@3.6.0-6?arch=all
+- pkg:deb/debian/openvswitch-pki@3.7.0~git20260211.8c6ebf8-1~1.gbp9127d1?arch=all
+- pkg:deb/debian/openvswitch-pki@3.7.0~git20260211.8c6ebf8-1~1.gbp9127d2?arch=all
+- pkg:deb/debian/openvswitch-pki@3.7.0~git20260211.8c6ebf8-1~1.gbp9127d3?arch=all

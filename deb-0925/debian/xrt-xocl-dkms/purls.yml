@@ -1,1 +1,2 @@
+- pkg:deb/debian/xrt-xocl-dkms@2.21.75-1?arch=amd64
 - pkg:deb/debian/xrt-xocl-dkms@202610.2.21.21-4?arch=amd64

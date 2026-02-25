@@ -26,3 +26,5 @@
 - pkg:deb/debian/nurpawiki@1.2.4-4%2Bb32?arch=ppc64el
 - pkg:deb/debian/nurpawiki@1.2.4-4%2Bb32?arch=s390x
 - pkg:deb/debian/nurpawiki@1.2.4-4%2Bb33?arch=riscv64
+- pkg:deb/debian/nurpawiki@1.2.4-4%2Bb35?arch=amd64
+- pkg:deb/debian/nurpawiki@1.2.4-4%2Bb35?arch=arm64

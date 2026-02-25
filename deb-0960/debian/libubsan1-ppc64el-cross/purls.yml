@@ -1,4 +1,6 @@
 - pkg:deb/debian/libubsan1-ppc64el-cross@10.2.1-6cross1?arch=all
 - pkg:deb/debian/libubsan1-ppc64el-cross@12.2.0-14cross1?arch=all
 - pkg:deb/debian/libubsan1-ppc64el-cross@14.2.0-19cross1?arch=all
+- pkg:deb/debian/libubsan1-ppc64el-cross@15.2.0-13cross1?arch=all
 - pkg:deb/debian/libubsan1-ppc64el-cross@15.2.0-7cross1?arch=all
+- pkg:deb/debian/libubsan1-ppc64el-cross@16-20260208-1cross1?arch=all

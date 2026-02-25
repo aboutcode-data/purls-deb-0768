@@ -22,3 +22,11 @@
 - pkg:deb/debian/yubikey-agent@0.1.6-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/yubikey-agent@0.1.6-2%2Bb1?arch=riscv64
 - pkg:deb/debian/yubikey-agent@0.1.6-2%2Bb1?arch=s390x
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=amd64
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=arm64
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=armhf
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=i386
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=loong64
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=ppc64el
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=riscv64
+- pkg:deb/debian/yubikey-agent@0.1.6-4?arch=s390x

@@ -17,3 +17,14 @@
 - pkg:deb/debian/ovn-ic@25.09.0-3?arch=ppc64el
 - pkg:deb/debian/ovn-ic@25.09.0-3?arch=riscv64
 - pkg:deb/debian/ovn-ic@25.09.0-3?arch=s390x
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-2?arch=amd64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-2?arch=arm64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-2?arch=loong64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-2?arch=ppc64el
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-2?arch=s390x
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-3?arch=amd64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-3?arch=arm64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-3?arch=loong64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-3?arch=ppc64el
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-3?arch=riscv64
+- pkg:deb/debian/ovn-ic@26.03.0~git20260216.b543a88-3?arch=s390x

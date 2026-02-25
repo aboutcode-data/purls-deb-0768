@@ -9,6 +9,8 @@
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb13?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb13?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb14?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb16?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb16?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb6?arch=riscv64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb7?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.3.0-1%2Bb7?arch=arm64
@@ -17,4 +19,8 @@
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-1?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-1?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-1?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=s390x

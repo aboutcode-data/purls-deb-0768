@@ -15,6 +15,14 @@
 - pkg:deb/debian/libapache2-mod-r-base@1.2.10-3?arch=ppc64el
 - pkg:deb/debian/libapache2-mod-r-base@1.2.10-3?arch=riscv64
 - pkg:deb/debian/libapache2-mod-r-base@1.2.10-3?arch=s390x
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=amd64
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=arm64
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=armhf
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=i386
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=loong64
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=ppc64el
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=riscv64
+- pkg:deb/debian/libapache2-mod-r-base@1.2.11-1?arch=s390x
 - pkg:deb/debian/libapache2-mod-r-base@1.2.8-1%2Bb4?arch=amd64
 - pkg:deb/debian/libapache2-mod-r-base@1.2.8-1%2Bb4?arch=arm64
 - pkg:deb/debian/libapache2-mod-r-base@1.2.8-1%2Bb4?arch=armhf

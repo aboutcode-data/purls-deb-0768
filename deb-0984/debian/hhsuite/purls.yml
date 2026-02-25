@@ -1,3 +1,10 @@
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=amd64
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=arm64
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=armhf
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=i386
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=loong64
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=ppc64el
+- pkg:deb/debian/hhsuite@3.3.0%2Bds-10?arch=riscv64
 - pkg:deb/debian/hhsuite@3.3.0%2Bds-4%2Bb3?arch=amd64
 - pkg:deb/debian/hhsuite@3.3.0%2Bds-4%2Bb3?arch=arm64
 - pkg:deb/debian/hhsuite@3.3.0%2Bds-4%2Bb3?arch=armhf

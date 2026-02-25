@@ -15,6 +15,14 @@
 - pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-7?arch=ppc64el
 - pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-7?arch=riscv64
 - pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-7?arch=s390x
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb1?arch=loong64
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=amd64
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=arm64
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=armhf
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=i386
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=ppc64el
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=riscv64
+- pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8%2Bb2?arch=s390x
 - pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8?arch=amd64
 - pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8?arch=arm64
 - pkg:deb/debian/libnginx-mod-http-subs-filter@0.6.4-8?arch=armhf

@@ -9,3 +9,8 @@
 - pkg:deb/debian/r-cran-genie@1.0.5-2?arch=mipsel
 - pkg:deb/debian/r-cran-genie@1.0.5-2?arch=ppc64el
 - pkg:deb/debian/r-cran-genie@1.0.5-2?arch=s390x
+- pkg:deb/debian/r-cran-genie@1.0.6-1?arch=amd64
+- pkg:deb/debian/r-cran-genie@1.0.6-1?arch=arm64
+- pkg:deb/debian/r-cran-genie@1.0.6-1?arch=loong64
+- pkg:deb/debian/r-cran-genie@1.0.6-1?arch=ppc64el
+- pkg:deb/debian/r-cran-genie@1.0.6-1?arch=riscv64

@@ -5,6 +5,8 @@
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.1-8%2Bb4?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.1-8%2Bb4?arch=s390x
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.2-1%2Bb10?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.2-1%2Bb12?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.2-1%2Bb12?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.2-1%2Bb3?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.2-1%2Bb3?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.2-1%2Bb3?arch=riscv64
@@ -17,4 +19,8 @@
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-1?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-1?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-1?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-2?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-2?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-2?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-bigenough@1.0.3-2?arch=s390x

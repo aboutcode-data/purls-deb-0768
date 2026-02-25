@@ -3,6 +3,7 @@
 - pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=armel
 - pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=armhf
 - pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=i386
+- pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=loong64
 - pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=ppc64el
 - pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=riscv64
 - pkg:deb/debian/gir1.2-magpie-0@0.9.4-3?arch=s390x

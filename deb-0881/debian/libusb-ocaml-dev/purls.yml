@@ -18,6 +18,8 @@
 - pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb11?arch=ppc64el
 - pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb11?arch=riscv64
 - pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb11?arch=s390x
+- pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb14?arch=amd64
+- pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb14?arch=arm64
 - pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb9?arch=amd64
 - pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb9?arch=arm64
 - pkg:deb/debian/libusb-ocaml-dev@1.3.1-6%2Bb9?arch=armel

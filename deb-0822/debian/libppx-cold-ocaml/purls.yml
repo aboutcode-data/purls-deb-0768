@@ -1,3 +1,5 @@
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb11?arch=amd64
+- pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb11?arch=arm64
 - pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=amd64
 - pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=arm64
 - pkg:deb/debian/libppx-cold-ocaml@0.17.0-1%2Bb7?arch=armel

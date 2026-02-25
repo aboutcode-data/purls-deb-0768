@@ -15,6 +15,8 @@
 - pkg:deb/debian/labltk@8.06.15-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/labltk@8.06.15-1%2Bb1?arch=riscv64
 - pkg:deb/debian/labltk@8.06.15-1%2Bb1?arch=s390x
+- pkg:deb/debian/labltk@8.06.15-1%2Bb3?arch=amd64
+- pkg:deb/debian/labltk@8.06.15-1%2Bb4?arch=arm64
 - pkg:deb/debian/labltk@8.06.9-1%2Bb1?arch=amd64
 - pkg:deb/debian/labltk@8.06.9-1%2Bb1?arch=arm64
 - pkg:deb/debian/labltk@8.06.9-1%2Bb1?arch=armhf

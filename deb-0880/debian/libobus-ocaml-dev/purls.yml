@@ -18,6 +18,8 @@
 - pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb11?arch=ppc64el
 - pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb11?arch=riscv64
 - pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb11?arch=s390x
+- pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb14?arch=amd64
+- pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb14?arch=arm64
 - pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb9?arch=amd64
 - pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb9?arch=arm64
 - pkg:deb/debian/libobus-ocaml-dev@1.2.5-1%2Bb9?arch=armel

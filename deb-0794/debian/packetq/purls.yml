@@ -11,3 +11,10 @@
 - pkg:deb/debian/packetq@1.7.3%2Bdfsg-7?arch=i386
 - pkg:deb/debian/packetq@1.7.3%2Bdfsg-7?arch=ppc64el
 - pkg:deb/debian/packetq@1.7.3%2Bdfsg-7?arch=riscv64
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=amd64
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=arm64
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=armhf
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=i386
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=loong64
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=ppc64el
+- pkg:deb/debian/packetq@1.7.3%2Bdfsg-9?arch=riscv64

@@ -2,3 +2,4 @@
 - pkg:deb/debian/adwaita-icon-theme@43-1?arch=all
 - pkg:deb/debian/adwaita-icon-theme@48.1-1?arch=all
 - pkg:deb/debian/adwaita-icon-theme@49.0-1?arch=all
+- pkg:deb/debian/adwaita-icon-theme@50~alpha-1?arch=all

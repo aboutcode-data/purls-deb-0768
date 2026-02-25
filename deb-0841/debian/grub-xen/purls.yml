@@ -8,5 +8,7 @@
 - pkg:deb/debian/grub-xen@2.12-1~bpo12%2B1?arch=i386
 - pkg:deb/debian/grub-xen@2.12-9?arch=amd64
 - pkg:deb/debian/grub-xen@2.12-9?arch=i386
+- pkg:deb/debian/grub-xen@2.14-2?arch=amd64
+- pkg:deb/debian/grub-xen@2.14-2?arch=i386
 - pkg:deb/debian/grub-xen@2.14~git20250718.0e36779-2?arch=amd64
 - pkg:deb/debian/grub-xen@2.14~git20250718.0e36779-2?arch=i386

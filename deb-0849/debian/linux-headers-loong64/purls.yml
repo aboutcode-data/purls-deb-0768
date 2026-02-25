@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-headers-loong64@6.18.12-1?arch=loong64
+- pkg:deb/debian/linux-headers-loong64@6.19.2-1~exp1?arch=loong64

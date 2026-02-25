@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-twpayne-go-pinentry-dev@0.2.0-2?arch=all
+- pkg:deb/debian/golang-github-twpayne-go-pinentry-dev@4.0.1-2?arch=all

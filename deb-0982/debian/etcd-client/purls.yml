@@ -11,6 +11,14 @@
 - pkg:deb/debian/etcd-client@3.4.23-4%2Bb4?arch=mipsel
 - pkg:deb/debian/etcd-client@3.4.23-4%2Bb4?arch=ppc64el
 - pkg:deb/debian/etcd-client@3.4.23-4%2Bb4?arch=s390x
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=amd64
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=arm64
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=armhf
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=i386
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=loong64
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=ppc64el
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=riscv64
+- pkg:deb/debian/etcd-client@3.5.16-10?arch=s390x
 - pkg:deb/debian/etcd-client@3.5.16-4?arch=amd64
 - pkg:deb/debian/etcd-client@3.5.16-4?arch=arm64
 - pkg:deb/debian/etcd-client@3.5.16-4?arch=armel

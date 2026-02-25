@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-masakari-monitors@14.0.0-1.1?arch=all
 - pkg:deb/debian/python3-masakari-monitors@19.0.0-1?arch=all
 - pkg:deb/debian/python3-masakari-monitors@20.0.0-1?arch=all
+- pkg:deb/debian/python3-masakari-monitors@20.0.0-2?arch=all

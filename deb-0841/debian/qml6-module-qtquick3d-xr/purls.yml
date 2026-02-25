@@ -1,3 +1,9 @@
+- pkg:deb/debian/qml6-module-qtquick3d-xr@6.10.2-1?arch=arm64
+- pkg:deb/debian/qml6-module-qtquick3d-xr@6.10.2-1?arch=armhf
+- pkg:deb/debian/qml6-module-qtquick3d-xr@6.10.2-1?arch=i386
+- pkg:deb/debian/qml6-module-qtquick3d-xr@6.10.2-1?arch=ppc64el
+- pkg:deb/debian/qml6-module-qtquick3d-xr@6.10.2-1?arch=riscv64
+- pkg:deb/debian/qml6-module-qtquick3d-xr@6.10.2-1?arch=s390x
 - pkg:deb/debian/qml6-module-qtquick3d-xr@6.8.2-5?arch=amd64
 - pkg:deb/debian/qml6-module-qtquick3d-xr@6.8.2-5?arch=arm64
 - pkg:deb/debian/qml6-module-qtquick3d-xr@6.8.2-5?arch=armel

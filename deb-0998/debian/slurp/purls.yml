@@ -19,3 +19,4 @@
 - pkg:deb/debian/slurp@1.5.0-1?arch=i386
 - pkg:deb/debian/slurp@1.5.0-1?arch=ppc64el
 - pkg:deb/debian/slurp@1.5.0-1?arch=s390x
+- pkg:deb/debian/slurp@1.6.0-1?arch=loong64

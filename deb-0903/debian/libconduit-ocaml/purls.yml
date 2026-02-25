@@ -14,6 +14,8 @@
 - pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb15?arch=ppc64el
 - pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb15?arch=riscv64
 - pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb15?arch=s390x
+- pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb18?arch=amd64
+- pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb18?arch=arm64
 - pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb8?arch=armel
 - pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb8?arch=armhf
 - pkg:deb/debian/libconduit-ocaml@7.1.0-1%2Bb8?arch=i386

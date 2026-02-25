@@ -15,6 +15,7 @@
 - pkg:deb/debian/libngtcp2-crypto-gnutls8@1.11.0-1~bpo12%2B1?arch=mipsel
 - pkg:deb/debian/libngtcp2-crypto-gnutls8@1.11.0-1~bpo12%2B1?arch=ppc64el
 - pkg:deb/debian/libngtcp2-crypto-gnutls8@1.11.0-1~bpo12%2B1?arch=s390x
+- pkg:deb/debian/libngtcp2-crypto-gnutls8@1.16.0-1%2Bb1?arch=loong64
 - pkg:deb/debian/libngtcp2-crypto-gnutls8@1.16.0-1?arch=amd64
 - pkg:deb/debian/libngtcp2-crypto-gnutls8@1.16.0-1?arch=arm64
 - pkg:deb/debian/libngtcp2-crypto-gnutls8@1.16.0-1?arch=armhf

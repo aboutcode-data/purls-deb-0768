@@ -43,3 +43,6 @@
 - pkg:deb/debian/libzfslinux-dev@2.3.5-2~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/libzfslinux-dev@2.3.5-2~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/libzfslinux-dev@2.3.5-2~bpo13%2B1?arch=s390x
+- pkg:deb/debian/libzfslinux-dev@2.4.0-1?arch=loong64
+- pkg:deb/debian/libzfslinux-dev@2.4.0-1~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/libzfslinux-dev@2.4.0-1~bpo13%2B1?arch=s390x

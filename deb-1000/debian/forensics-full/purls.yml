@@ -2,3 +2,4 @@
 - pkg:deb/debian/forensics-full@2.44?arch=all
 - pkg:deb/debian/forensics-full@2.58?arch=all
 - pkg:deb/debian/forensics-full@2.60?arch=all
+- pkg:deb/debian/forensics-full@2.61?arch=all

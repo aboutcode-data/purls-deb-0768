@@ -11,6 +11,14 @@
 - pkg:deb/debian/libspa-0.2-modules@0.3.65-3%2Bdeb12u1?arch=mipsel
 - pkg:deb/debian/libspa-0.2-modules@0.3.65-3%2Bdeb12u1?arch=ppc64el
 - pkg:deb/debian/libspa-0.2-modules@0.3.65-3%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=amd64
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=arm64
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=armhf
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=i386
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=loong64
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=riscv64
+- pkg:deb/debian/libspa-0.2-modules@1.4.10-1%2Bb1?arch=s390x
 - pkg:deb/debian/libspa-0.2-modules@1.4.2-1?arch=amd64
 - pkg:deb/debian/libspa-0.2-modules@1.4.2-1?arch=arm64
 - pkg:deb/debian/libspa-0.2-modules@1.4.2-1?arch=armel
@@ -50,3 +58,11 @@
 - pkg:deb/debian/libspa-0.2-modules@1.5.84-1?arch=ppc64el
 - pkg:deb/debian/libspa-0.2-modules@1.5.84-1?arch=riscv64
 - pkg:deb/debian/libspa-0.2-modules@1.5.84-1?arch=s390x
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=amd64
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=arm64
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=armhf
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=i386
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=loong64
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=ppc64el
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=riscv64
+- pkg:deb/debian/libspa-0.2-modules@1.6.0-1?arch=s390x

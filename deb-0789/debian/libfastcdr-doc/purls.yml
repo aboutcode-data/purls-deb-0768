@@ -2,3 +2,4 @@
 - pkg:deb/debian/libfastcdr-doc@1.0.26-1?arch=all
 - pkg:deb/debian/libfastcdr-doc@2.2.6%2Breally2.2.5-1?arch=all
 - pkg:deb/debian/libfastcdr-doc@2.3.4-1?arch=all
+- pkg:deb/debian/libfastcdr-doc@2.3.5-1?arch=all

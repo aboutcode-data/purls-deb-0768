@@ -2,3 +2,4 @@
 - pkg:deb/debian/kitty-terminfo@0.26.5-5?arch=all
 - pkg:deb/debian/kitty-terminfo@0.41.1-2?arch=all
 - pkg:deb/debian/kitty-terminfo@0.44.0-1?arch=all
+- pkg:deb/debian/kitty-terminfo@0.45.0-2?arch=all

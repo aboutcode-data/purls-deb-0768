@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-opentelemetry-exporter-zipkin-json@1.38.0-2?arch=all
+- pkg:deb/debian/python3-opentelemetry-exporter-zipkin-json@1.39.1-2?arch=all

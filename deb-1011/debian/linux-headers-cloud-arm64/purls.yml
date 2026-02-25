@@ -1,9 +1,15 @@
 - pkg:deb/debian/linux-headers-cloud-arm64@5.10.223-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.1.148-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.1.158-1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.1.162-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.12.57-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.12.57-1~bpo12%2B1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.12.73-1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.12.73-1~bpo12%2B1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.17.10-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.17.8-1~bpo13%2B1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.17.9-1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.18.12-1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.18.9-1~bpo13%2B1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.18~rc7-1~exp1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.19.2-1~exp1?arch=arm64

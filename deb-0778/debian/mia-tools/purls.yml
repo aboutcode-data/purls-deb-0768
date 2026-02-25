@@ -14,6 +14,14 @@
 - pkg:deb/debian/mia-tools@2.4.7-16?arch=ppc64el
 - pkg:deb/debian/mia-tools@2.4.7-16?arch=riscv64
 - pkg:deb/debian/mia-tools@2.4.7-16?arch=s390x
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=amd64
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=arm64
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=armhf
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=i386
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=loong64
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=ppc64el
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=riscv64
+- pkg:deb/debian/mia-tools@2.4.7-17?arch=s390x
 - pkg:deb/debian/mia-tools@2.4.7-7?arch=amd64
 - pkg:deb/debian/mia-tools@2.4.7-7?arch=arm64
 - pkg:deb/debian/mia-tools@2.4.7-7?arch=armhf

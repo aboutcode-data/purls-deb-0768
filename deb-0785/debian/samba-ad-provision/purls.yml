@@ -4,3 +4,4 @@
 - pkg:deb/debian/samba-ad-provision@4.22.6%2Bdfsg-0%2Bdeb13u1~bpo12%2B1?arch=all
 - pkg:deb/debian/samba-ad-provision@4.23.3%2Bdfsg-1?arch=all
 - pkg:deb/debian/samba-ad-provision@4.23.3%2Bdfsg-1~bpo13%2B1?arch=all
+- pkg:deb/debian/samba-ad-provision@4.24.0~rc2%2Bdfsg-1?arch=all

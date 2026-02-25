@@ -2,4 +2,5 @@
 - pkg:deb/debian/fai-quickstart@6.0.3%2Bdeb12u1?arch=all
 - pkg:deb/debian/fai-quickstart@6.4.3?arch=all
 - pkg:deb/debian/fai-quickstart@6.5.1?arch=all
+- pkg:deb/debian/fai-quickstart@6.5.6?arch=all
 - pkg:deb/debian/fai-quickstart@6.5?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-5?arch=riscv64
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-6%2Bb1?arch=amd64
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-6%2Bb1?arch=arm64
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-6%2Bb1?arch=loong64
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-6%2Bb1?arch=ppc64el
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-6%2Bb1?arch=riscv64
+- pkg:deb/debian/libadios2-mpi-core-2.11@2.11.0%2Bdfsg1-6%2Bb1?arch=s390x

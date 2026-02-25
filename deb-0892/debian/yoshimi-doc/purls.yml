@@ -2,3 +2,4 @@
 - pkg:deb/debian/yoshimi-doc@2.2.3-1?arch=all
 - pkg:deb/debian/yoshimi-doc@2.3.3.3-1?arch=all
 - pkg:deb/debian/yoshimi-doc@2.3.5.2-1?arch=all
+- pkg:deb/debian/yoshimi-doc@2.3.6.1-1?arch=all

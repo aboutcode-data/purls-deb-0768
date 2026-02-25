@@ -2,3 +2,4 @@
 - pkg:deb/debian/adminer@4.8.1-1?arch=all
 - pkg:deb/debian/adminer@5.2.1%2Bdfsg-1?arch=all
 - pkg:deb/debian/adminer@5.4.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/adminer@5.4.2%2Bdfsg-1?arch=all

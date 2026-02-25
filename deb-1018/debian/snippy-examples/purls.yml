@@ -1,1 +1,2 @@
 - pkg:deb/debian/snippy-examples@4.6.0%2Bdfsg-5?arch=all
+- pkg:deb/debian/snippy-examples@4.6.0%2Bdfsg-6?arch=all

@@ -1,3 +1,11 @@
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=i386
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/qt6-virtualkeyboard-dev@6.10.2%2Bdfsg-1?arch=s390x
 - pkg:deb/debian/qt6-virtualkeyboard-dev@6.4.2%2Bdfsg-1?arch=amd64
 - pkg:deb/debian/qt6-virtualkeyboard-dev@6.4.2%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/qt6-virtualkeyboard-dev@6.4.2%2Bdfsg-1?arch=armel

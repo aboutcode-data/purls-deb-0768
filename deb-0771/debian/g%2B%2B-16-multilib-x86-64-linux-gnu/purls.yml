@@ -1,0 +1,4 @@
+- pkg:deb/debian/g%2B%2B-16-multilib-x86-64-linux-gnu@16-20260208-1cross1?arch=arm64
+- pkg:deb/debian/g%2B%2B-16-multilib-x86-64-linux-gnu@16-20260208-1cross1?arch=i386
+- pkg:deb/debian/g%2B%2B-16-multilib-x86-64-linux-gnu@16-20260208-1cross1?arch=ppc64el
+- pkg:deb/debian/g%2B%2B-16-multilib-x86-64-linux-gnu@16-20260208-1cross1?arch=s390x

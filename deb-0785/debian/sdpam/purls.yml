@@ -16,3 +16,4 @@
 - pkg:deb/debian/sdpam@7.3.19-1?arch=ppc64el
 - pkg:deb/debian/sdpam@7.3.19-1?arch=riscv64
 - pkg:deb/debian/sdpam@7.3.19-1?arch=s390x
+- pkg:deb/debian/sdpam@7.3.20-2?arch=loong64

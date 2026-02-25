@@ -1,3 +1,4 @@
 - pkg:deb/debian/python-logutils-doc@0.3.3-7?arch=all
 - pkg:deb/debian/python-logutils-doc@0.3.5-1?arch=all
 - pkg:deb/debian/python-logutils-doc@0.3.5-5?arch=all
+- pkg:deb/debian/python-logutils-doc@0.3.5-6?arch=all

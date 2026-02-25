@@ -2,3 +2,5 @@
 - pkg:deb/debian/ruby-minitest@5.17.0-1?arch=all
 - pkg:deb/debian/ruby-minitest@5.25.4-3?arch=all
 - pkg:deb/debian/ruby-minitest@5.26.1-1?arch=all
+- pkg:deb/debian/ruby-minitest@6.0.1%2Breally5.27.0-1?arch=all
+- pkg:deb/debian/ruby-minitest@6.0.1%2Breally5.27.0-2?arch=all

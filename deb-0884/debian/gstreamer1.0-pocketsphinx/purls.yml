@@ -17,3 +17,10 @@
 - pkg:deb/debian/gstreamer1.0-pocketsphinx@0.8%2B5prealpha%2B1-15?arch=mips64el
 - pkg:deb/debian/gstreamer1.0-pocketsphinx@0.8%2B5prealpha%2B1-15?arch=mipsel
 - pkg:deb/debian/gstreamer1.0-pocketsphinx@0.8%2B5prealpha%2B1-15?arch=ppc64el
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=amd64
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=arm64
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=armhf
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=i386
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=loong64
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=ppc64el
+- pkg:deb/debian/gstreamer1.0-pocketsphinx@5.0.4-3?arch=riscv64

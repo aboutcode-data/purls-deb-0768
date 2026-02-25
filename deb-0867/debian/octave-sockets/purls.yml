@@ -26,3 +26,4 @@
 - pkg:deb/debian/octave-sockets@1.4.1-6%2Bb1?arch=ppc64el
 - pkg:deb/debian/octave-sockets@1.4.1-6%2Bb1?arch=riscv64
 - pkg:deb/debian/octave-sockets@1.4.1-6%2Bb1?arch=s390x
+- pkg:deb/debian/octave-sockets@1.5.0-1?arch=loong64

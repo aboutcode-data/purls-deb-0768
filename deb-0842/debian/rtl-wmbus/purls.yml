@@ -5,3 +5,11 @@
 - pkg:deb/debian/rtl-wmbus@1.0.1-2?arch=i386
 - pkg:deb/debian/rtl-wmbus@1.0.1-2?arch=ppc64el
 - pkg:deb/debian/rtl-wmbus@1.0.1-2?arch=s390x
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=amd64
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=armel
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=armhf
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=i386
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/rtl-wmbus@1.1.0-1~bpo13%2B1?arch=s390x

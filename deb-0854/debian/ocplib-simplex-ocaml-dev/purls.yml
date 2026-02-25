@@ -16,6 +16,8 @@
 - pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb10?arch=ppc64el
 - pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb10?arch=riscv64
 - pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb10?arch=s390x
+- pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb13?arch=amd64
+- pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb13?arch=arm64
 - pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb7?arch=amd64
 - pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb7?arch=arm64
 - pkg:deb/debian/ocplib-simplex-ocaml-dev@0.5.1-4%2Bb7?arch=armel

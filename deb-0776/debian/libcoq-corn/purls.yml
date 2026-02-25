@@ -8,6 +8,8 @@
 - pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb10?arch=arm64
 - pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb10?arch=ppc64el
 - pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb11?arch=s390x
+- pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb14?arch=amd64
+- pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb14?arch=arm64
 - pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb4?arch=amd64
 - pkg:deb/debian/libcoq-corn@8.20.0-1%2Bb4?arch=arm64
@@ -17,4 +19,8 @@
 - pkg:deb/debian/libcoq-corn@9.0.0-1?arch=arm64
 - pkg:deb/debian/libcoq-corn@9.0.0-1?arch=ppc64el
 - pkg:deb/debian/libcoq-corn@9.0.0-1?arch=s390x
+- pkg:deb/debian/libcoq-corn@9.0.0-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-corn@9.0.0-2?arch=amd64
+- pkg:deb/debian/libcoq-corn@9.0.0-2?arch=arm64
+- pkg:deb/debian/libcoq-corn@9.0.0-2?arch=ppc64el
+- pkg:deb/debian/libcoq-corn@9.0.0-2?arch=s390x

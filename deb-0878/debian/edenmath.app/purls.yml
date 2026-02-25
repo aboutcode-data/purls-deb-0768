@@ -19,3 +19,4 @@
 - pkg:deb/debian/edenmath.app@1.1.1a-9%2Bb2?arch=ppc64el
 - pkg:deb/debian/edenmath.app@1.1.1a-9%2Bb2?arch=riscv64
 - pkg:deb/debian/edenmath.app@1.1.1a-9%2Bb2?arch=s390x
+- pkg:deb/debian/edenmath.app@1.1.1a-9?arch=loong64

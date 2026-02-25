@@ -1,3 +1,4 @@
 - pkg:deb/debian/gcc-12-source@12.2.0-14%2Bdeb12u1?arch=all
 - pkg:deb/debian/gcc-12-source@12.4.0-5?arch=all
 - pkg:deb/debian/gcc-12-source@12.5.0-6?arch=all
+- pkg:deb/debian/gcc-12-source@12.5.0-8?arch=all

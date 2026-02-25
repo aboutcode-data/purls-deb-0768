@@ -10,6 +10,7 @@
 - pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=arm64
 - pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=armhf
 - pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=i386
+- pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=loong64
 - pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=ppc64el
 - pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/libpcl-recognition1.15@1.15.0%2Bdfsg-3?arch=s390x

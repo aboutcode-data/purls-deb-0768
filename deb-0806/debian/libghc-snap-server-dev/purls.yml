@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-snap-server-dev@1.1.2.1-2%2Bb2?arch=armel
 - pkg:deb/debian/libghc-snap-server-dev@1.1.2.1-2%2Bb2?arch=armhf
 - pkg:deb/debian/libghc-snap-server-dev@1.1.2.1-2%2Bb2?arch=i386
+- pkg:deb/debian/libghc-snap-server-dev@1.1.2.1-3?arch=loong64

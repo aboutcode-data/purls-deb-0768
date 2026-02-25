@@ -16,3 +16,8 @@
 - pkg:deb/debian/libopm-common-bin@2025.10%2Bds-2?arch=arm64
 - pkg:deb/debian/libopm-common-bin@2025.10%2Bds-2?arch=ppc64el
 - pkg:deb/debian/libopm-common-bin@2025.10%2Bds-2?arch=riscv64
+- pkg:deb/debian/libopm-common-bin@2025.10%2Bds-3?arch=amd64
+- pkg:deb/debian/libopm-common-bin@2025.10%2Bds-3?arch=arm64
+- pkg:deb/debian/libopm-common-bin@2025.10%2Bds-3?arch=loong64
+- pkg:deb/debian/libopm-common-bin@2025.10%2Bds-3?arch=ppc64el
+- pkg:deb/debian/libopm-common-bin@2025.10%2Bds-3?arch=riscv64

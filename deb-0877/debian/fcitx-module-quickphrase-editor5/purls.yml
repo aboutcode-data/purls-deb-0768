@@ -22,3 +22,11 @@
 - pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-3.1?arch=ppc64el
 - pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-3.1?arch=riscv64
 - pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-3.1?arch=s390x
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=amd64
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=arm64
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=armhf
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=i386
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=loong64
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=ppc64el
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=riscv64
+- pkg:deb/debian/fcitx-module-quickphrase-editor5@1.2.7-4?arch=s390x

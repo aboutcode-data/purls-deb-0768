@@ -1,5 +1,7 @@
 - pkg:deb/debian/linux-image-riscv64-dbg@6.12.57-1?arch=riscv64
+- pkg:deb/debian/linux-image-riscv64-dbg@6.12.73-1?arch=riscv64
 - pkg:deb/debian/linux-image-riscv64-dbg@6.17.10-1?arch=riscv64
 - pkg:deb/debian/linux-image-riscv64-dbg@6.17.8-1~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/linux-image-riscv64-dbg@6.17.9-1?arch=riscv64
+- pkg:deb/debian/linux-image-riscv64-dbg@6.18.12-1?arch=riscv64
 - pkg:deb/debian/linux-image-riscv64-dbg@6.18~rc7-1~exp1?arch=riscv64

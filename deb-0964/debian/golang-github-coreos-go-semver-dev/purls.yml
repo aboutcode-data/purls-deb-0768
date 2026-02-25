@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-coreos-go-semver-dev@0.3.0-1?arch=all
+- pkg:deb/debian/golang-github-coreos-go-semver-dev@0.3.1-1?arch=all

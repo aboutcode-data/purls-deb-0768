@@ -3,3 +3,9 @@
 - pkg:deb/debian/llama.cpp-examples@6641%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/llama.cpp-examples@6641%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/llama.cpp-examples@6641%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/llama.cpp-examples@8064%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/llama.cpp-examples@8064%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/llama.cpp-examples@8064%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/llama.cpp-examples@8064%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/llama.cpp-examples@8064%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/llama.cpp-examples@8064%2Bdfsg-1?arch=s390x

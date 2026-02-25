@@ -13,3 +13,4 @@
 - pkg:deb/debian/ros-theora-image-transport@1.15.0-5%2Bb4?arch=ppc64el
 - pkg:deb/debian/ros-theora-image-transport@1.15.0-5%2Bb4?arch=riscv64
 - pkg:deb/debian/ros-theora-image-transport@1.15.0-5%2Bb4?arch=s390x
+- pkg:deb/debian/ros-theora-image-transport@1.15.0-5?arch=loong64

@@ -1,2 +1,4 @@
 - pkg:deb/debian/gccrs-15-s390x-linux-gnu@15.2.0-10?arch=s390x
+- pkg:deb/debian/gccrs-15-s390x-linux-gnu@15.2.0-13?arch=s390x
+- pkg:deb/debian/gccrs-15-s390x-linux-gnu@15.2.0-14?arch=s390x
 - pkg:deb/debian/gccrs-15-s390x-linux-gnu@15.2.0-9?arch=s390x

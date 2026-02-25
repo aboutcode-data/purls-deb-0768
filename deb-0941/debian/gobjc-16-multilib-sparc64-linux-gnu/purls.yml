@@ -1,0 +1,4 @@
+- pkg:deb/debian/gobjc-16-multilib-sparc64-linux-gnu@16-20260208-1cross1?arch=amd64
+- pkg:deb/debian/gobjc-16-multilib-sparc64-linux-gnu@16-20260208-1cross1?arch=arm64
+- pkg:deb/debian/gobjc-16-multilib-sparc64-linux-gnu@16-20260208-1cross1?arch=i386
+- pkg:deb/debian/gobjc-16-multilib-sparc64-linux-gnu@16-20260208-1cross1?arch=ppc64el

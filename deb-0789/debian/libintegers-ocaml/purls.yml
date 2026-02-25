@@ -19,3 +19,5 @@
 - pkg:deb/debian/libintegers-ocaml@0.7.0-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/libintegers-ocaml@0.7.0-3%2Bb4?arch=s390x
 - pkg:deb/debian/libintegers-ocaml@0.7.0-3%2Bb5?arch=riscv64
+- pkg:deb/debian/libintegers-ocaml@0.7.0-3%2Bb6?arch=amd64
+- pkg:deb/debian/libintegers-ocaml@0.7.0-3%2Bb6?arch=arm64

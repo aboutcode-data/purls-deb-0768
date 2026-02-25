@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-cipher-camellia-dev@0.0.2-13?arch=ppc64el
 - pkg:deb/debian/libghc-cipher-camellia-dev@0.0.2-13?arch=riscv64
 - pkg:deb/debian/libghc-cipher-camellia-dev@0.0.2-13?arch=s390x
+- pkg:deb/debian/libghc-cipher-camellia-dev@0.0.2-14?arch=loong64

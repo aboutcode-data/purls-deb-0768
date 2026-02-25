@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-zake@0.2.2-3?arch=all
 - pkg:deb/debian/python3-zake@0.2.2-4?arch=all
 - pkg:deb/debian/python3-zake@0.2.2-8?arch=all
+- pkg:deb/debian/python3-zake@0.2.2-9?arch=all

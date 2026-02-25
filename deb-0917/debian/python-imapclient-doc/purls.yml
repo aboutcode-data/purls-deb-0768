@@ -1,1 +1,2 @@
 - pkg:deb/debian/python-imapclient-doc@3.0.1-2?arch=all
+- pkg:deb/debian/python-imapclient-doc@3.1.0-1?arch=all

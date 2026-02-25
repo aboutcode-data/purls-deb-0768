@@ -23,6 +23,14 @@
 - pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=arm64
 - pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=armhf
 - pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=i386
+- pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=loong64
 - pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=ppc64el
 - pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=riscv64
 - pkg:deb/debian/odin@2.0.5-8%2Bb1?arch=s390x
+- pkg:deb/debian/odin@2.0.5-8%2Bb2?arch=amd64
+- pkg:deb/debian/odin@2.0.5-8%2Bb2?arch=arm64
+- pkg:deb/debian/odin@2.0.5-8%2Bb2?arch=armhf
+- pkg:deb/debian/odin@2.0.5-8%2Bb2?arch=i386
+- pkg:deb/debian/odin@2.0.5-8%2Bb2?arch=ppc64el
+- pkg:deb/debian/odin@2.0.5-8%2Bb2?arch=s390x
+- pkg:deb/debian/odin@2.0.5-8?arch=loong64

@@ -19,3 +19,5 @@
 - pkg:deb/debian/oasis@0.4.11-5%2Bb6?arch=riscv64
 - pkg:deb/debian/oasis@0.4.11-5%2Bb6?arch=s390x
 - pkg:deb/debian/oasis@0.4.11-5%2Bb7?arch=i386
+- pkg:deb/debian/oasis@0.4.11-5%2Bb8?arch=amd64
+- pkg:deb/debian/oasis@0.4.11-5%2Bb8?arch=arm64

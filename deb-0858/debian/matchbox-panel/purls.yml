@@ -15,3 +15,11 @@
 - pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-2?arch=ppc64el
 - pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-2?arch=riscv64
 - pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-2?arch=s390x
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=amd64
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=arm64
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=armhf
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=i386
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=loong64
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=ppc64el
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=riscv64
+- pkg:deb/debian/matchbox-panel@0.9.3%2Bgit20100816-4?arch=s390x

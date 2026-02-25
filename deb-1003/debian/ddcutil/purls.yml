@@ -34,3 +34,5 @@
 - pkg:deb/debian/ddcutil@2.2.3-1?arch=ppc64el
 - pkg:deb/debian/ddcutil@2.2.3-1?arch=riscv64
 - pkg:deb/debian/ddcutil@2.2.3-1?arch=s390x
+- pkg:deb/debian/ddcutil@2.2.5-1~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/ddcutil@2.2.5-1~bpo13%2B1?arch=s390x

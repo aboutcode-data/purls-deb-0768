@@ -19,6 +19,7 @@
 - pkg:deb/debian/perl@5.40.1-6?arch=ppc64el
 - pkg:deb/debian/perl@5.40.1-6?arch=riscv64
 - pkg:deb/debian/perl@5.40.1-6?arch=s390x
+- pkg:deb/debian/perl@5.40.1-7%2Bb1?arch=loong64
 - pkg:deb/debian/perl@5.40.1-7?arch=amd64
 - pkg:deb/debian/perl@5.40.1-7?arch=arm64
 - pkg:deb/debian/perl@5.40.1-7?arch=armhf

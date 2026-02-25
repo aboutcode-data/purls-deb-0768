@@ -1,5 +1,8 @@
 - pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-20?arch=amd64
 - pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-20?arch=i386
 - pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-20?arch=ppc64el
+- pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-21?arch=amd64
+- pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-21?arch=i386
+- pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-21?arch=ppc64el
 - pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-6~deb11u2?arch=amd64
 - pkg:deb/debian/nvidia-tesla-418-driver-libs@418.226.00-6~deb11u2?arch=i386

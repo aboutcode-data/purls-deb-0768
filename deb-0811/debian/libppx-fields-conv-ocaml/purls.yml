@@ -11,6 +11,8 @@
 - pkg:deb/debian/libppx-fields-conv-ocaml@0.15.0-1?arch=armel
 - pkg:deb/debian/libppx-fields-conv-ocaml@0.15.0-1?arch=mips64el
 - pkg:deb/debian/libppx-fields-conv-ocaml@0.15.0-1?arch=mipsel
+- pkg:deb/debian/libppx-fields-conv-ocaml@0.17.0-1%2Bb11?arch=amd64
+- pkg:deb/debian/libppx-fields-conv-ocaml@0.17.0-1%2Bb11?arch=arm64
 - pkg:deb/debian/libppx-fields-conv-ocaml@0.17.0-1%2Bb7?arch=amd64
 - pkg:deb/debian/libppx-fields-conv-ocaml@0.17.0-1%2Bb7?arch=arm64
 - pkg:deb/debian/libppx-fields-conv-ocaml@0.17.0-1%2Bb7?arch=armel

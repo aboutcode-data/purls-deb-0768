@@ -8,3 +8,5 @@
 - pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb3?arch=s390x
 - pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb4?arch=amd64
 - pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb4?arch=riscv64
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb5?arch=arm64
+- pkg:deb/debian/libxstrp4-camlp4-dev@1.8.2-7%2Bb6?arch=amd64

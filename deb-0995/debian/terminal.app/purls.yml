@@ -19,3 +19,4 @@
 - pkg:deb/debian/terminal.app@0.9.9-5%2Bb2?arch=ppc64el
 - pkg:deb/debian/terminal.app@0.9.9-5%2Bb2?arch=riscv64
 - pkg:deb/debian/terminal.app@0.9.9-5%2Bb2?arch=s390x
+- pkg:deb/debian/terminal.app@0.9.9-5?arch=loong64

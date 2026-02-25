@@ -6,3 +6,4 @@
 - pkg:deb/debian/libghc-deferred-folds-dev@0.9.18.6-1?arch=ppc64el
 - pkg:deb/debian/libghc-deferred-folds-dev@0.9.18.6-1?arch=riscv64
 - pkg:deb/debian/libghc-deferred-folds-dev@0.9.18.6-1?arch=s390x
+- pkg:deb/debian/libghc-deferred-folds-dev@0.9.18.7-1?arch=loong64

@@ -12,3 +12,8 @@
 - pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-3%2Bb2?arch=ppc64el
 - pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-3%2Bb2?arch=riscv64
 - pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-3%2Bb2?arch=s390x
+- pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-4?arch=amd64
+- pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-4?arch=arm64
+- pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-4?arch=ppc64el
+- pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-4?arch=riscv64
+- pkg:deb/debian/libghc-status-notifier-item-dev@0.3.1.0-4?arch=s390x

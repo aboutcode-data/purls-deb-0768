@@ -21,3 +21,9 @@
 - pkg:deb/debian/libeckit-dev@1.32.4-2?arch=arm64
 - pkg:deb/debian/libeckit-dev@1.32.4-2?arch=ppc64el
 - pkg:deb/debian/libeckit-dev@1.32.4-2?arch=s390x
+- pkg:deb/debian/libeckit-dev@1.33.1%2Breally.1.32.4-1?arch=amd64
+- pkg:deb/debian/libeckit-dev@1.33.1%2Breally.1.32.4-1?arch=arm64
+- pkg:deb/debian/libeckit-dev@1.33.1%2Breally.1.32.4-1?arch=loong64
+- pkg:deb/debian/libeckit-dev@1.33.1%2Breally.1.32.4-1?arch=ppc64el
+- pkg:deb/debian/libeckit-dev@1.33.1%2Breally.1.32.4-1?arch=riscv64
+- pkg:deb/debian/libeckit-dev@1.33.1%2Breally.1.32.4-1?arch=s390x

@@ -18,3 +18,8 @@
 - pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-46?arch=armhf
 - pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-46?arch=i386
 - pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-46?arch=ppc64el
+- pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-48?arch=amd64
+- pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-48?arch=arm64
+- pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-48?arch=armhf
+- pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-48?arch=i386
+- pkg:deb/debian/fp-units-db-3.2.2@3.2.2%2Bdfsg-48?arch=ppc64el

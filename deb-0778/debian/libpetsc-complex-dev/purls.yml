@@ -2,3 +2,4 @@
 - pkg:deb/debian/libpetsc-complex-dev@3.18.5%2Bdfsg1-1?arch=all
 - pkg:deb/debian/libpetsc-complex-dev@3.22.5%2Bdfsg1-2?arch=all
 - pkg:deb/debian/libpetsc-complex-dev@3.24.1%2Bdfsg1-4?arch=all
+- pkg:deb/debian/libpetsc-complex-dev@3.24.4%2Bdfsg1-1?arch=all

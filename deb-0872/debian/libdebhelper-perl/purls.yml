@@ -4,3 +4,4 @@
 - pkg:deb/debian/libdebhelper-perl@13.27~bpo13%2B1?arch=all
 - pkg:deb/debian/libdebhelper-perl@13.28?arch=all
 - pkg:deb/debian/libdebhelper-perl@13.3.4?arch=all
+- pkg:deb/debian/libdebhelper-perl@13.30?arch=all

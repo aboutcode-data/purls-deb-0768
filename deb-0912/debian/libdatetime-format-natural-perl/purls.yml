@@ -2,3 +2,4 @@
 - pkg:deb/debian/libdatetime-format-natural-perl@1.16-1?arch=all
 - pkg:deb/debian/libdatetime-format-natural-perl@1.21-1?arch=all
 - pkg:deb/debian/libdatetime-format-natural-perl@1.22-1?arch=all
+- pkg:deb/debian/libdatetime-format-natural-perl@1.25-1?arch=all

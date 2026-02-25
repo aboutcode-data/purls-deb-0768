@@ -8,3 +8,9 @@
 - pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb5?arch=arm64
 - pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb5?arch=ppc64el
 - pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb5?arch=s390x
+- pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb6?arch=amd64
+- pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb6?arch=arm64
+- pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb6?arch=loong64
+- pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb6?arch=ppc64el
+- pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb6?arch=riscv64
+- pkg:deb/debian/libdart6.13@6.13.2%2Bds-3%2Bb6?arch=s390x

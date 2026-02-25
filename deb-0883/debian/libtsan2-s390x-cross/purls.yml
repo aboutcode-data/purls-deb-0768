@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtsan2-s390x-cross@15.2.0-13cross1?arch=all
+- pkg:deb/debian/libtsan2-s390x-cross@16-20260208-1cross1?arch=all

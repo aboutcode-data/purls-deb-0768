@@ -1,4 +1,5 @@
 - pkg:deb/debian/libwacom-common@1.8-2?arch=all
 - pkg:deb/debian/libwacom-common@2.14.0-1?arch=all
 - pkg:deb/debian/libwacom-common@2.16.1-1?arch=all
+- pkg:deb/debian/libwacom-common@2.18.0-1?arch=all
 - pkg:deb/debian/libwacom-common@2.6.0-1?arch=all

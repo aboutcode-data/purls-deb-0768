@@ -19,3 +19,10 @@
 - pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-1%2Bb4?arch=armhf
 - pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-1%2Bb5?arch=i386
 - pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-1%2Bb6?arch=s390x
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=amd64
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=arm64
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=armhf
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=i386
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=ppc64el
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=riscv64
+- pkg:deb/debian/libghc-xmonad-extras-dev@0.17.2-2?arch=s390x

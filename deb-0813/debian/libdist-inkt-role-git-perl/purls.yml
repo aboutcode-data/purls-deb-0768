@@ -1,2 +1,3 @@
 - pkg:deb/debian/libdist-inkt-role-git-perl@0.001-1.1?arch=all
 - pkg:deb/debian/libdist-inkt-role-git-perl@0.001-2?arch=all
+- pkg:deb/debian/libdist-inkt-role-git-perl@0.001-3?arch=all

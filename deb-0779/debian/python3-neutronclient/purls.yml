@@ -1,4 +1,5 @@
 - pkg:deb/debian/python3-neutronclient@11.4.0-2?arch=all
 - pkg:deb/debian/python3-neutronclient@11.6.0-2?arch=all
+- pkg:deb/debian/python3-neutronclient@11.6.0-3?arch=all
 - pkg:deb/debian/python3-neutronclient@7.2.1-2?arch=all
 - pkg:deb/debian/python3-neutronclient@8.1.0-2?arch=all

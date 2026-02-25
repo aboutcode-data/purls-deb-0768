@@ -2,6 +2,7 @@
 - pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=arm64
 - pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=armhf
 - pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=i386
+- pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=loong64
 - pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=riscv64
 - pkg:deb/debian/libxml2-16@2.15.1%2Bdfsg-2%2Bb1?arch=s390x

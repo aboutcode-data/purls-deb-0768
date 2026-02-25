@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-openssl-streams-prof@1.2.3.0-3?arch=ppc64el
 - pkg:deb/debian/libghc-openssl-streams-prof@1.2.3.0-3?arch=riscv64
 - pkg:deb/debian/libghc-openssl-streams-prof@1.2.3.0-3?arch=s390x
+- pkg:deb/debian/libghc-openssl-streams-prof@1.2.3.0-5?arch=loong64

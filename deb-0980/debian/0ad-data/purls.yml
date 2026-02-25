@@ -3,3 +3,4 @@
 - pkg:deb/debian/0ad-data@0.27.0-1?arch=all
 - pkg:deb/debian/0ad-data@0.27.1-1?arch=all
 - pkg:deb/debian/0ad-data@0.27.1-1~bpo13%2B1?arch=all
+- pkg:deb/debian/0ad-data@0.28.0-1?arch=all

@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-yi-language-prof@0.19.2-1?arch=ppc64el
 - pkg:deb/debian/libghc-yi-language-prof@0.19.2-1?arch=riscv64
 - pkg:deb/debian/libghc-yi-language-prof@0.19.2-1?arch=s390x
+- pkg:deb/debian/libghc-yi-language-prof@0.19.2-2?arch=loong64

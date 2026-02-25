@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-fast-logger-dev@3.2.4-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libghc-fast-logger-dev@3.2.4-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libghc-fast-logger-dev@3.2.4-1%2Bb1?arch=s390x
+- pkg:deb/debian/libghc-fast-logger-dev@3.2.6-1?arch=loong64

@@ -19,3 +19,11 @@
 - pkg:deb/debian/liborigin2-dev@20110117-6?arch=mipsel
 - pkg:deb/debian/liborigin2-dev@20110117-6?arch=ppc64el
 - pkg:deb/debian/liborigin2-dev@20110117-6?arch=s390x
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=amd64
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=arm64
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=armhf
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=i386
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=loong64
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=ppc64el
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=riscv64
+- pkg:deb/debian/liborigin2-dev@20110117-7?arch=s390x

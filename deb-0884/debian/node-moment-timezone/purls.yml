@@ -2,3 +2,4 @@
 - pkg:deb/debian/node-moment-timezone@0.5.40%2Bdfsg-1%2B2023c?arch=all
 - pkg:deb/debian/node-moment-timezone@0.5.46%2Bdfsg-2?arch=all
 - pkg:deb/debian/node-moment-timezone@0.5.46%2Bdfsg-3?arch=all
+- pkg:deb/debian/node-moment-timezone@0.6.0%2Bdfsg-1?arch=all

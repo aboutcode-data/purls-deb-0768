@@ -1,3 +1,4 @@
 - pkg:deb/debian/ruby-nanoc-cli@4.11.23-1?arch=all
 - pkg:deb/debian/ruby-nanoc-cli@4.12.14-3?arch=all
 - pkg:deb/debian/ruby-nanoc-cli@4.13.3-3?arch=all
+- pkg:deb/debian/ruby-nanoc-cli@4.14.6-1?arch=all

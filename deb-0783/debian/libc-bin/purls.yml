@@ -23,6 +23,14 @@
 - pkg:deb/debian/libc-bin@2.41-12?arch=ppc64el
 - pkg:deb/debian/libc-bin@2.41-12?arch=riscv64
 - pkg:deb/debian/libc-bin@2.41-12?arch=s390x
+- pkg:deb/debian/libc-bin@2.42-13?arch=amd64
+- pkg:deb/debian/libc-bin@2.42-13?arch=arm64
+- pkg:deb/debian/libc-bin@2.42-13?arch=armhf
+- pkg:deb/debian/libc-bin@2.42-13?arch=i386
+- pkg:deb/debian/libc-bin@2.42-13?arch=loong64
+- pkg:deb/debian/libc-bin@2.42-13?arch=ppc64el
+- pkg:deb/debian/libc-bin@2.42-13?arch=riscv64
+- pkg:deb/debian/libc-bin@2.42-13?arch=s390x
 - pkg:deb/debian/libc-bin@2.42-4?arch=amd64
 - pkg:deb/debian/libc-bin@2.42-4?arch=arm64
 - pkg:deb/debian/libc-bin@2.42-4?arch=armhf
@@ -37,3 +45,4 @@
 - pkg:deb/debian/libc-bin@2.42-5?arch=ppc64el
 - pkg:deb/debian/libc-bin@2.42-5?arch=riscv64
 - pkg:deb/debian/libc-bin@2.42-5?arch=s390x
+- pkg:deb/debian/libc-bin@2.43-1?arch=loong64

@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-go-ap-jsonld-dev@0.0~git20250905.8480b0f-1?arch=all
+- pkg:deb/debian/golang-github-go-ap-jsonld-dev@0.0~git20251216.e38fa66-1?arch=all

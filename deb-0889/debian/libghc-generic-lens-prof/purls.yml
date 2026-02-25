@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-generic-lens-prof@2.2.2.0-2?arch=ppc64el
 - pkg:deb/debian/libghc-generic-lens-prof@2.2.2.0-2?arch=riscv64
 - pkg:deb/debian/libghc-generic-lens-prof@2.2.2.0-2?arch=s390x
+- pkg:deb/debian/libghc-generic-lens-prof@2.2.2.0-4?arch=loong64

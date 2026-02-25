@@ -6,3 +6,4 @@
 - pkg:deb/debian/libghc-hslua-cli-dev@1.4.3-1?arch=ppc64el
 - pkg:deb/debian/libghc-hslua-cli-dev@1.4.3-1?arch=riscv64
 - pkg:deb/debian/libghc-hslua-cli-dev@1.4.3-1?arch=s390x
+- pkg:deb/debian/libghc-hslua-cli-dev@1.4.3-2?arch=loong64

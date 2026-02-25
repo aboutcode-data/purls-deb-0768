@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-tasty-th-dev@0.1.7-7?arch=ppc64el
 - pkg:deb/debian/libghc-tasty-th-dev@0.1.7-7?arch=riscv64
 - pkg:deb/debian/libghc-tasty-th-dev@0.1.7-7?arch=s390x
+- pkg:deb/debian/libghc-tasty-th-dev@0.1.7-8?arch=loong64

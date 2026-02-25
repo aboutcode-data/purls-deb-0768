@@ -1,2 +1,4 @@
 - pkg:deb/debian/gobjc-15-for-build@15.2.0-10?arch=all
+- pkg:deb/debian/gobjc-15-for-build@15.2.0-13?arch=all
+- pkg:deb/debian/gobjc-15-for-build@15.2.0-14?arch=all
 - pkg:deb/debian/gobjc-15-for-build@15.2.0-9?arch=all

@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-bytes-prof@0.17.3-2?arch=ppc64el
 - pkg:deb/debian/libghc-bytes-prof@0.17.3-2?arch=riscv64
 - pkg:deb/debian/libghc-bytes-prof@0.17.3-2?arch=s390x
+- pkg:deb/debian/libghc-bytes-prof@0.17.4-1?arch=loong64

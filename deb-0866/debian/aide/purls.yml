@@ -26,3 +26,10 @@
 - pkg:deb/debian/aide@0.19.2-3?arch=ppc64el
 - pkg:deb/debian/aide@0.19.2-3?arch=riscv64
 - pkg:deb/debian/aide@0.19.2-3?arch=s390x
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=amd64
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=armhf
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=i386
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=loong64
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=ppc64el
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=riscv64
+- pkg:deb/debian/aide@0.19.2-3exp1?arch=s390x

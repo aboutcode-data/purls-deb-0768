@@ -22,3 +22,16 @@
 - pkg:deb/debian/python3-bornagain@23.0-4?arch=ppc64el
 - pkg:deb/debian/python3-bornagain@23.0-4?arch=riscv64
 - pkg:deb/debian/python3-bornagain@23.0-4?arch=s390x
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=amd64
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=arm64
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=armhf
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=loong64
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=ppc64el
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=riscv64
+- pkg:deb/debian/python3-bornagain@23.0-6?arch=s390x
+- pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=amd64
+- pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=arm64
+- pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=armel
+- pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=armhf
+- pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=s390x

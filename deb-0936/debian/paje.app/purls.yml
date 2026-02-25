@@ -19,3 +19,4 @@
 - pkg:deb/debian/paje.app@1.98-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/paje.app@1.98-2%2Bb1?arch=riscv64
 - pkg:deb/debian/paje.app@1.98-2%2Bb1?arch=s390x
+- pkg:deb/debian/paje.app@1.98-2?arch=loong64

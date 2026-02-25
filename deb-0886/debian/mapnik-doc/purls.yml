@@ -2,3 +2,4 @@
 - pkg:deb/debian/mapnik-doc@3.1.0%2Bds-3?arch=all
 - pkg:deb/debian/mapnik-doc@4.0.7%2Bds-1?arch=all
 - pkg:deb/debian/mapnik-doc@4.1.4%2Bds-1?arch=all
+- pkg:deb/debian/mapnik-doc@4.2.1%2Bds-2?arch=all

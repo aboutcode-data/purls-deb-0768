@@ -1,3 +1,4 @@
 - pkg:deb/debian/debian-faq-ru@10.1?arch=all
 - pkg:deb/debian/debian-faq-ru@11.1?arch=all
 - pkg:deb/debian/debian-faq-ru@12.2?arch=all
+- pkg:deb/debian/debian-faq-ru@13.1?arch=all

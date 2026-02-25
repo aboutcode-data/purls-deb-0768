@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-xss-sanitize-dev@0.3.7.2-2?arch=ppc64el
 - pkg:deb/debian/libghc-xss-sanitize-dev@0.3.7.2-2?arch=riscv64
 - pkg:deb/debian/libghc-xss-sanitize-dev@0.3.7.2-2?arch=s390x
+- pkg:deb/debian/libghc-xss-sanitize-dev@0.3.7.2-4?arch=loong64

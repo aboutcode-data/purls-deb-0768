@@ -3,3 +3,5 @@
 - pkg:deb/debian/cockpit-sosreport@337-1~bpo12%2B1?arch=all
 - pkg:deb/debian/cockpit-sosreport@352-1?arch=all
 - pkg:deb/debian/cockpit-sosreport@352-1~bpo13%2B1?arch=all
+- pkg:deb/debian/cockpit-sosreport@356-1?arch=all
+- pkg:deb/debian/cockpit-sosreport@356-1~bpo13%2B1?arch=all

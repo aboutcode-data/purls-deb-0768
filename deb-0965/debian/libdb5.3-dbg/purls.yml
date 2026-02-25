@@ -9,6 +9,7 @@
 - pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-10?arch=ppc64el
 - pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-10?arch=riscv64
 - pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-10?arch=s390x
+- pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-11%2Bb1?arch=loong64
 - pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-11?arch=amd64
 - pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-11?arch=arm64
 - pkg:deb/debian/libdb5.3-dbg@5.3.28%2Bdfsg2-11?arch=armhf

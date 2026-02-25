@@ -10,6 +10,7 @@
 - pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2.1?arch=ppc64el
 - pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2.1?arch=riscv64
 - pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2.1?arch=s390x
+- pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2.3%2Bb1?arch=loong64
 - pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2?arch=amd64
 - pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2?arch=arm64
 - pkg:deb/debian/w3m-img@0.5.3%2Bgit20230121-2?arch=armel

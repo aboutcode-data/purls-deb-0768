@@ -19,3 +19,11 @@
 - pkg:deb/debian/tintii@2.10.0-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/tintii@2.10.0-3%2Bb4?arch=s390x
 - pkg:deb/debian/tintii@2.10.0-3%2Bb5?arch=arm64
+- pkg:deb/debian/tintii@2.10.0-4?arch=amd64
+- pkg:deb/debian/tintii@2.10.0-4?arch=arm64
+- pkg:deb/debian/tintii@2.10.0-4?arch=armhf
+- pkg:deb/debian/tintii@2.10.0-4?arch=i386
+- pkg:deb/debian/tintii@2.10.0-4?arch=loong64
+- pkg:deb/debian/tintii@2.10.0-4?arch=ppc64el
+- pkg:deb/debian/tintii@2.10.0-4?arch=riscv64
+- pkg:deb/debian/tintii@2.10.0-4?arch=s390x

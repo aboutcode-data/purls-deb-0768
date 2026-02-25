@@ -1,0 +1,3 @@
+- pkg:deb/debian/liboffload-23-dev@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=arm64
+- pkg:deb/debian/liboffload-23-dev@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=loong64
+- pkg:deb/debian/liboffload-23-dev@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=ppc64el

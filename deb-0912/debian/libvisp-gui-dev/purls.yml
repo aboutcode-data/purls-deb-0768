@@ -26,3 +26,11 @@
 - pkg:deb/debian/libvisp-gui-dev@3.6.0-5?arch=ppc64el
 - pkg:deb/debian/libvisp-gui-dev@3.6.0-5?arch=riscv64
 - pkg:deb/debian/libvisp-gui-dev@3.6.0-5?arch=s390x
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=amd64
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=arm64
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=armhf
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=i386
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=loong64
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=ppc64el
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=riscv64
+- pkg:deb/debian/libvisp-gui-dev@3.7.0-9?arch=s390x

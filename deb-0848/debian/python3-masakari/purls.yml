@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-masakari@14.0.2-2?arch=all
 - pkg:deb/debian/python3-masakari@19.0.0-3?arch=all
 - pkg:deb/debian/python3-masakari@20.0.0-1?arch=all
+- pkg:deb/debian/python3-masakari@20.0.0-2?arch=all

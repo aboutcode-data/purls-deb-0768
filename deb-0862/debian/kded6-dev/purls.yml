@@ -13,3 +13,7 @@
 - pkg:deb/debian/kded6-dev@6.20.0-1?arch=ppc64el
 - pkg:deb/debian/kded6-dev@6.20.0-1?arch=riscv64
 - pkg:deb/debian/kded6-dev@6.20.0-1?arch=s390x
+- pkg:deb/debian/kded6-dev@6.23.0-1?arch=arm64
+- pkg:deb/debian/kded6-dev@6.23.0-1?arch=armhf
+- pkg:deb/debian/kded6-dev@6.23.0-1?arch=loong64
+- pkg:deb/debian/kded6-dev@6.23.0-1?arch=ppc64el

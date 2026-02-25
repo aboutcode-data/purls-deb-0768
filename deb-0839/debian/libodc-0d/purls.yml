@@ -15,3 +15,9 @@
 - pkg:deb/debian/libodc-0d@1.6.2-2?arch=ppc64el
 - pkg:deb/debian/libodc-0d@1.6.2-2?arch=riscv64
 - pkg:deb/debian/libodc-0d@1.6.2-2?arch=s390x
+- pkg:deb/debian/libodc-0d@1.6.3-1?arch=amd64
+- pkg:deb/debian/libodc-0d@1.6.3-1?arch=arm64
+- pkg:deb/debian/libodc-0d@1.6.3-1?arch=loong64
+- pkg:deb/debian/libodc-0d@1.6.3-1?arch=ppc64el
+- pkg:deb/debian/libodc-0d@1.6.3-1?arch=riscv64
+- pkg:deb/debian/libodc-0d@1.6.3-1?arch=s390x

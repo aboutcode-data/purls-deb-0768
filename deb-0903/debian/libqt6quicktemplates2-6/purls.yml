@@ -1,3 +1,11 @@
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=i386
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=loong64
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/libqt6quicktemplates2-6@6.10.2%2Bdfsg-3?arch=s390x
 - pkg:deb/debian/libqt6quicktemplates2-6@6.4.2%2Bdfsg-1?arch=amd64
 - pkg:deb/debian/libqt6quicktemplates2-6@6.4.2%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/libqt6quicktemplates2-6@6.4.2%2Bdfsg-1?arch=armel

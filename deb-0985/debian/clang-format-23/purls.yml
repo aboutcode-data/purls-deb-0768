@@ -1,0 +1,6 @@
+- pkg:deb/debian/clang-format-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=arm64
+- pkg:deb/debian/clang-format-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=armhf
+- pkg:deb/debian/clang-format-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=i386
+- pkg:deb/debian/clang-format-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=loong64
+- pkg:deb/debian/clang-format-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=ppc64el
+- pkg:deb/debian/clang-format-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=s390x

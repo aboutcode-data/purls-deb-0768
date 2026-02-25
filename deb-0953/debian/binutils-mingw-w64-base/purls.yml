@@ -10,3 +10,4 @@
 - pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=i386
 - pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=ppc64el
 - pkg:deb/debian/binutils-mingw-w64-base@2.45.50.20251201-1%2B13~exp1?arch=s390x
+- pkg:deb/debian/binutils-mingw-w64-base@2.45.90.20260201-1%2B13.3?arch=loong64

@@ -20,3 +20,4 @@
 - pkg:deb/debian/libgtk-3-0t64@3.24.51-2?arch=ppc64el
 - pkg:deb/debian/libgtk-3-0t64@3.24.51-2?arch=riscv64
 - pkg:deb/debian/libgtk-3-0t64@3.24.51-2?arch=s390x
+- pkg:deb/debian/libgtk-3-0t64@3.24.51-4%2Bb1?arch=loong64

@@ -1,3 +1,4 @@
 - pkg:deb/debian/gnome-shell-extension-windows-navigator@48.2-1?arch=all
 - pkg:deb/debian/gnome-shell-extension-windows-navigator@49.0-2?arch=all
 - pkg:deb/debian/gnome-shell-extension-windows-navigator@49.0-3?arch=all
+- pkg:deb/debian/gnome-shell-extension-windows-navigator@50~alpha-1?arch=all

@@ -15,3 +15,11 @@
 - pkg:deb/debian/libboost-graph-dev@1.83.0.2%2Bb2?arch=ppc64el
 - pkg:deb/debian/libboost-graph-dev@1.83.0.2%2Bb2?arch=riscv64
 - pkg:deb/debian/libboost-graph-dev@1.83.0.2%2Bb2?arch=s390x
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=amd64
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=arm64
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=armhf
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=i386
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=loong64
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=ppc64el
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=riscv64
+- pkg:deb/debian/libboost-graph-dev@1.90.0.1~exp2?arch=s390x

@@ -1,3 +1,9 @@
+- pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-13?arch=loong64
+- pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-13cross1?arch=amd64
+- pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-13cross1?arch=arm64
+- pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-13cross1?arch=i386
+- pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-13cross1?arch=ppc64el
+- pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-14?arch=loong64
 - pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-7cross1?arch=amd64
 - pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-7cross1?arch=arm64
 - pkg:deb/debian/gobjc-15-loongarch64-linux-gnu@15.2.0-7cross1?arch=i386

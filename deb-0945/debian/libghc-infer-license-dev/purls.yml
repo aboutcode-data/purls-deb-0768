@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-infer-license-dev@0.2.0-6?arch=ppc64el
 - pkg:deb/debian/libghc-infer-license-dev@0.2.0-6?arch=riscv64
 - pkg:deb/debian/libghc-infer-license-dev@0.2.0-6?arch=s390x
+- pkg:deb/debian/libghc-infer-license-dev@0.2.0-7?arch=loong64

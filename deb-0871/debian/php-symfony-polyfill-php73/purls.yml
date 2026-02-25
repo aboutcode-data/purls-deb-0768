@@ -2,3 +2,4 @@
 - pkg:deb/debian/php-symfony-polyfill-php73@1.27.0-2?arch=all
 - pkg:deb/debian/php-symfony-polyfill-php73@1.33.0-2?arch=all
 - pkg:deb/debian/php-symfony-polyfill-php73@1.33.0-3?arch=all
+- pkg:deb/debian/php-symfony-polyfill-php73@1.33.0-4?arch=all

@@ -4,3 +4,6 @@
 - pkg:deb/debian/liboffload-19-dev@19.1.7-19?arch=amd64
 - pkg:deb/debian/liboffload-19-dev@19.1.7-19?arch=arm64
 - pkg:deb/debian/liboffload-19-dev@19.1.7-19?arch=ppc64el
+- pkg:deb/debian/liboffload-19-dev@19.1.7-20%2Bb2?arch=amd64
+- pkg:deb/debian/liboffload-19-dev@19.1.7-20%2Bb2?arch=arm64
+- pkg:deb/debian/liboffload-19-dev@19.1.7-20%2Bb2?arch=ppc64el

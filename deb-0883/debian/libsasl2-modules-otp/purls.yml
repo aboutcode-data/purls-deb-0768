@@ -11,6 +11,7 @@
 - pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg-10?arch=mipsel
 - pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg-10?arch=ppc64el
 - pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg-10?arch=s390x
+- pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg1-10%2Bb1?arch=loong64
 - pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg1-10?arch=amd64
 - pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg1-10?arch=arm64
 - pkg:deb/debian/libsasl2-modules-otp@2.1.28%2Bdfsg1-10?arch=armhf

@@ -9,7 +9,16 @@
 - pkg:deb/debian/libcoq-record-update@0.3.4-4%2Bb4?arch=ppc64el
 - pkg:deb/debian/libcoq-record-update@0.3.4-4%2Bb4?arch=riscv64
 - pkg:deb/debian/libcoq-record-update@0.3.4-4%2Bb4?arch=s390x
+- pkg:deb/debian/libcoq-record-update@0.3.4-4%2Bb6?arch=amd64
+- pkg:deb/debian/libcoq-record-update@0.3.4-4%2Bb6?arch=arm64
 - pkg:deb/debian/libcoq-record-update@0.3.6-1?arch=arm64
 - pkg:deb/debian/libcoq-record-update@0.3.6-1?arch=ppc64el
 - pkg:deb/debian/libcoq-record-update@0.3.6-1?arch=s390x
+- pkg:deb/debian/libcoq-record-update@0.3.6-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=amd64
+- pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=arm64
+- pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=armhf
+- pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=i386
+- pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=ppc64el
+- pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=riscv64
+- pkg:deb/debian/libcoq-record-update@0.3.6-2?arch=s390x

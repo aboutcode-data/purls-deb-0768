@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-monascaclient@2.2.1-2?arch=all
 - pkg:deb/debian/python3-monascaclient@2.6.0-2?arch=all
 - pkg:deb/debian/python3-monascaclient@2.8.0-4?arch=all
+- pkg:deb/debian/python3-monascaclient@2.8.0-5?arch=all

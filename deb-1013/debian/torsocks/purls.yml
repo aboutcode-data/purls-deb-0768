@@ -12,3 +12,4 @@
 - pkg:deb/debian/torsocks@2.4.0-1?arch=ppc64el
 - pkg:deb/debian/torsocks@2.4.0-1?arch=s390x
 - pkg:deb/debian/torsocks@2.5.0-1?arch=all
+- pkg:deb/debian/torsocks@2.5.0-5?arch=all

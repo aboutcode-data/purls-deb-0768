@@ -1,0 +1,7 @@
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=amd64
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=arm64
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=armhf
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=loong64
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=ppc64el
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=riscv64
+- pkg:deb/debian/libmutter-18-0@50~beta-2?arch=s390x

@@ -5,3 +5,4 @@
 - pkg:deb/debian/at-spi2-common@2.56.2-1~bpo12%2B1?arch=all
 - pkg:deb/debian/at-spi2-common@2.58.2-1?arch=all
 - pkg:deb/debian/at-spi2-common@2.58.2-1~bpo13%2B1?arch=all
+- pkg:deb/debian/at-spi2-common@2.59.1-2~bpo13%2B1?arch=all

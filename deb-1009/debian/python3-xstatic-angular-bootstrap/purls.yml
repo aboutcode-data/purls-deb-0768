@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-xstatic-angular-bootstrap@2.2.0.0-4?arch=all
 - pkg:deb/debian/python3-xstatic-angular-bootstrap@2.5.0.0-2?arch=all
 - pkg:deb/debian/python3-xstatic-angular-bootstrap@2.5.0.0-4?arch=all
+- pkg:deb/debian/python3-xstatic-angular-bootstrap@2.5.0.0-5?arch=all

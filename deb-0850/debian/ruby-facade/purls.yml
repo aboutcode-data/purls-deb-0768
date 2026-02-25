@@ -1,1 +1,2 @@
 - pkg:deb/debian/ruby-facade@1.2.1-1?arch=all
+- pkg:deb/debian/ruby-facade@1.2.2-1?arch=all

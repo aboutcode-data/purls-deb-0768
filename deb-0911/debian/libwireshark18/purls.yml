@@ -1,3 +1,11 @@
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=arm64
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=armel
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=armhf
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=i386
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=ppc64el
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=riscv64
+- pkg:deb/debian/libwireshark18@4.4.13-0%2Bdeb13u1?arch=s390x
 - pkg:deb/debian/libwireshark18@4.4.7-1?arch=amd64
 - pkg:deb/debian/libwireshark18@4.4.7-1?arch=arm64
 - pkg:deb/debian/libwireshark18@4.4.7-1?arch=armel

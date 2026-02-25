@@ -9,3 +9,6 @@
 - pkg:deb/debian/libtsan0@11.5.0-7?arch=amd64
 - pkg:deb/debian/libtsan0@11.5.0-7?arch=arm64
 - pkg:deb/debian/libtsan0@11.5.0-7?arch=ppc64el
+- pkg:deb/debian/libtsan0@11.5.0-9?arch=amd64
+- pkg:deb/debian/libtsan0@11.5.0-9?arch=arm64
+- pkg:deb/debian/libtsan0@11.5.0-9?arch=ppc64el

@@ -6,6 +6,7 @@
 - pkg:deb/debian/steptalk@0.10.0%2Bgit20200629-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/steptalk@0.10.0%2Bgit20200629-3%2Bb1?arch=riscv64
 - pkg:deb/debian/steptalk@0.10.0%2Bgit20200629-3%2Bb1?arch=s390x
+- pkg:deb/debian/steptalk@0.10.0%2Bgit20200629-3?arch=loong64
 - pkg:deb/debian/steptalk@0.10.0-6%2Bb10?arch=amd64
 - pkg:deb/debian/steptalk@0.10.0-6%2Bb10?arch=arm64
 - pkg:deb/debian/steptalk@0.10.0-6%2Bb10?arch=armel

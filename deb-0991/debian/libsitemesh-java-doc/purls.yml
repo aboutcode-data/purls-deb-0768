@@ -1,1 +1,2 @@
 - pkg:deb/debian/libsitemesh-java-doc@2.4.1%2Bdfsg-7?arch=all
+- pkg:deb/debian/libsitemesh-java-doc@2.4.2-1?arch=all

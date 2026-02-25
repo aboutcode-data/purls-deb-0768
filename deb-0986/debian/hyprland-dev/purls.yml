@@ -5,3 +5,4 @@
 - pkg:deb/debian/hyprland-dev@0.52.1%2Bds-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/hyprland-dev@0.52.1%2Bds-2%2Bb1?arch=riscv64
 - pkg:deb/debian/hyprland-dev@0.52.1%2Bds-2%2Bb1?arch=s390x
+- pkg:deb/debian/hyprland-dev@0.53.3%2Bds-4?arch=all

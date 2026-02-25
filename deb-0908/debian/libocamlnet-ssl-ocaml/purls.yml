@@ -19,3 +19,5 @@
 - pkg:deb/debian/libocamlnet-ssl-ocaml@4.1.9-6%2Bb3?arch=ppc64el
 - pkg:deb/debian/libocamlnet-ssl-ocaml@4.1.9-6%2Bb3?arch=riscv64
 - pkg:deb/debian/libocamlnet-ssl-ocaml@4.1.9-6%2Bb3?arch=s390x
+- pkg:deb/debian/libocamlnet-ssl-ocaml@4.1.9-7%2Bb2?arch=amd64
+- pkg:deb/debian/libocamlnet-ssl-ocaml@4.1.9-7%2Bb2?arch=arm64

@@ -31,3 +31,14 @@
 - pkg:deb/debian/chromium-driver@143.0.7499.40-1~deb13u1?arch=arm64
 - pkg:deb/debian/chromium-driver@143.0.7499.40-1~deb13u1?arch=armhf
 - pkg:deb/debian/chromium-driver@143.0.7499.40-1~deb13u1?arch=i386
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1?arch=amd64
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1?arch=arm64
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1?arch=armhf
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1?arch=i386
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1?arch=loong64
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1?arch=ppc64el
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1~deb13u3?arch=amd64
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1~deb13u3?arch=arm64
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1~deb13u3?arch=armhf
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1~deb13u3?arch=i386
+- pkg:deb/debian/chromium-driver@145.0.7632.109-1~deb13u3?arch=ppc64el

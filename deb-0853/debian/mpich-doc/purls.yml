@@ -2,4 +2,5 @@
 - pkg:deb/debian/mpich-doc@4.0.2-3?arch=all
 - pkg:deb/debian/mpich-doc@4.3.0%2Breally4.2.1-1?arch=all
 - pkg:deb/debian/mpich-doc@4.3.2-2?arch=all
+- pkg:deb/debian/mpich-doc@5.0.0-1?arch=all
 - pkg:deb/debian/mpich-doc@5.0.0~b1-1?arch=all

@@ -3,4 +3,5 @@
 - pkg:deb/debian/dino-im-common@0.5.0-1?arch=all
 - pkg:deb/debian/dino-im-common@0.5.0-1~bpo12%2B1?arch=all
 - pkg:deb/debian/dino-im-common@0.5.1%2Bgit20251115.1deacee-1?arch=all
+- pkg:deb/debian/dino-im-common@0.5.1%2Bgit20260214.3b274a6-1?arch=all
 - pkg:deb/debian/dino-im-common@0.5.1-1?arch=all

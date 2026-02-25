@@ -6,6 +6,8 @@
 - pkg:deb/debian/utop@2.15.0-1%2Bb9?arch=armhf
 - pkg:deb/debian/utop@2.15.0-1%2Bb9?arch=ppc64el
 - pkg:deb/debian/utop@2.15.0-1%2Bb9?arch=s390x
+- pkg:deb/debian/utop@2.16.0-1%2Bb11?arch=amd64
+- pkg:deb/debian/utop@2.16.0-1%2Bb11?arch=arm64
 - pkg:deb/debian/utop@2.16.0-1%2Bb6?arch=armhf
 - pkg:deb/debian/utop@2.16.0-1%2Bb6?arch=i386
 - pkg:deb/debian/utop@2.16.0-1%2Bb7?arch=amd64

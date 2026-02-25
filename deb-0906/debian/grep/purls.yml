@@ -6,6 +6,7 @@
 - pkg:deb/debian/grep@3.11-4?arch=ppc64el
 - pkg:deb/debian/grep@3.11-4?arch=riscv64
 - pkg:deb/debian/grep@3.11-4?arch=s390x
+- pkg:deb/debian/grep@3.12-1%2Bb1?arch=loong64
 - pkg:deb/debian/grep@3.12-1?arch=amd64
 - pkg:deb/debian/grep@3.12-1?arch=arm64
 - pkg:deb/debian/grep@3.12-1?arch=armhf
