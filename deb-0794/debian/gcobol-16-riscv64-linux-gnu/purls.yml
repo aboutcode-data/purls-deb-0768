@@ -2,3 +2,4 @@
 - pkg:deb/debian/gcobol-16-riscv64-linux-gnu@16-20260208-1cross1?arch=i386
 - pkg:deb/debian/gcobol-16-riscv64-linux-gnu@16-20260208-1cross1?arch=ppc64el
 - pkg:deb/debian/gcobol-16-riscv64-linux-gnu@16-20260208-1cross1?arch=s390x
+- pkg:deb/debian/gcobol-16-riscv64-linux-gnu@16.1.0-2?arch=riscv64

@@ -20,3 +20,4 @@
 - pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=loong64
 - pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=ppc64el
 - pkg:deb/debian/libkf6dbusaddons6@6.23.0-1?arch=riscv64
+- pkg:deb/debian/libkf6dbusaddons6@6.26.0-1?arch=riscv64

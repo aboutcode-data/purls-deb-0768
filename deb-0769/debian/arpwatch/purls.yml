@@ -1,3 +1,4 @@
+- pkg:deb/debian/arpwatch@2.1a15-11?arch=riscv64
 - pkg:deb/debian/arpwatch@2.1a15-8%2Bb1?arch=amd64
 - pkg:deb/debian/arpwatch@2.1a15-8%2Bb1?arch=arm64
 - pkg:deb/debian/arpwatch@2.1a15-8%2Bb1?arch=armel

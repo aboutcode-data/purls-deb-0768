@@ -60,3 +60,4 @@
 - pkg:deb/debian/libgomp1@16-20260217-1?arch=loong64
 - pkg:deb/debian/libgomp1@16-20260217-1?arch=ppc64el
 - pkg:deb/debian/libgomp1@16-20260217-1?arch=s390x
+- pkg:deb/debian/libgomp1@16.1.0-2?arch=riscv64

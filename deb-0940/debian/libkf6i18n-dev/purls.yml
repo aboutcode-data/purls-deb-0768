@@ -21,3 +21,4 @@
 - pkg:deb/debian/libkf6i18n-dev@6.23.0-2?arch=i386
 - pkg:deb/debian/libkf6i18n-dev@6.23.0-2?arch=loong64
 - pkg:deb/debian/libkf6i18n-dev@6.23.0-2?arch=ppc64el
+- pkg:deb/debian/libkf6i18n-dev@6.26.0-1?arch=riscv64
