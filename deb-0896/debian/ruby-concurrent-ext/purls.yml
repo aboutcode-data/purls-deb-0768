@@ -27,3 +27,4 @@
 - pkg:deb/debian/ruby-concurrent-ext@1.3.6-1?arch=ppc64el
 - pkg:deb/debian/ruby-concurrent-ext@1.3.6-1?arch=riscv64
 - pkg:deb/debian/ruby-concurrent-ext@1.3.6-1?arch=s390x
+- pkg:deb/debian/ruby-concurrent-ext@1.3.7-1?arch=riscv64

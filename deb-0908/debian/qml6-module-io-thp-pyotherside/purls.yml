@@ -13,3 +13,4 @@
 - pkg:deb/debian/qml6-module-io-thp-pyotherside@1.6.2-1?arch=ppc64el
 - pkg:deb/debian/qml6-module-io-thp-pyotherside@1.6.2-1?arch=riscv64
 - pkg:deb/debian/qml6-module-io-thp-pyotherside@1.6.2-1?arch=s390x
+- pkg:deb/debian/qml6-module-io-thp-pyotherside@1.6.2-2?arch=riscv64

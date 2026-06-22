@@ -41,6 +41,9 @@
 - pkg:deb/debian/libreoffice-nogui@26.2.1~rc2-1?arch=loong64
 - pkg:deb/debian/libreoffice-nogui@26.2.1~rc2-1?arch=ppc64el
 - pkg:deb/debian/libreoffice-nogui@26.2.1~rc2-1?arch=s390x
+- pkg:deb/debian/libreoffice-nogui@26.8.0.0.beta1-1?arch=arm64
+- pkg:deb/debian/libreoffice-nogui@26.8.0.0.beta1-1?arch=i386
+- pkg:deb/debian/libreoffice-nogui@26.8.0.0.beta1-1?arch=ppc64el
 - pkg:deb/debian/libreoffice-nogui@7.0.4-4%2Bdeb11u10?arch=amd64
 - pkg:deb/debian/libreoffice-nogui@7.0.4-4%2Bdeb11u10?arch=arm64
 - pkg:deb/debian/libreoffice-nogui@7.0.4-4%2Bdeb11u10?arch=armhf
