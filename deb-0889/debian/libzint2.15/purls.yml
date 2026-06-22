@@ -6,3 +6,4 @@
 - pkg:deb/debian/libzint2.15@2.15.0-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libzint2.15@2.15.0-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libzint2.15@2.15.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/libzint2.15@2.15.0-2?arch=riscv64
