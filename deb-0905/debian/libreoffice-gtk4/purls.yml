@@ -42,3 +42,6 @@
 - pkg:deb/debian/libreoffice-gtk4@26.2.1~rc2-1?arch=loong64
 - pkg:deb/debian/libreoffice-gtk4@26.2.1~rc2-1?arch=ppc64el
 - pkg:deb/debian/libreoffice-gtk4@26.2.1~rc2-1?arch=s390x
+- pkg:deb/debian/libreoffice-gtk4@26.8.0.0.beta1-1?arch=arm64
+- pkg:deb/debian/libreoffice-gtk4@26.8.0.0.beta1-1?arch=i386
+- pkg:deb/debian/libreoffice-gtk4@26.8.0.0.beta1-1?arch=ppc64el
