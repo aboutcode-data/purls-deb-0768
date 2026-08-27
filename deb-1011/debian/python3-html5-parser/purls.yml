@@ -29,6 +29,13 @@
 - pkg:deb/debian/python3-html5-parser@0.4.12%2Bds-6?arch=i386
 - pkg:deb/debian/python3-html5-parser@0.4.12%2Bds-6?arch=ppc64el
 - pkg:deb/debian/python3-html5-parser@0.4.12%2Bds-6?arch=s390x
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=amd64
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=arm64
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=armhf
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=i386
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=loong64
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=ppc64el
+- pkg:deb/debian/python3-html5-parser@0.4.12%2Bds1-2?arch=s390x
 - pkg:deb/debian/python3-html5-parser@0.4.9-3%2Bb3?arch=amd64
 - pkg:deb/debian/python3-html5-parser@0.4.9-3%2Bb3?arch=arm64
 - pkg:deb/debian/python3-html5-parser@0.4.9-3%2Bb3?arch=armhf
