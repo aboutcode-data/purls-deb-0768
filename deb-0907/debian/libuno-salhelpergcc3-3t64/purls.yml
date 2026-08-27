@@ -45,3 +45,6 @@
 - pkg:deb/debian/libuno-salhelpergcc3-3t64@26.8.0.0.beta1-1?arch=arm64
 - pkg:deb/debian/libuno-salhelpergcc3-3t64@26.8.0.0.beta1-1?arch=i386
 - pkg:deb/debian/libuno-salhelpergcc3-3t64@26.8.0.0.beta1-1?arch=ppc64el
+- pkg:deb/debian/libuno-salhelpergcc3-3t64@26.8.0.3-2?arch=arm64
+- pkg:deb/debian/libuno-salhelpergcc3-3t64@26.8.0.3-2?arch=i386
+- pkg:deb/debian/libuno-salhelpergcc3-3t64@26.8.0.3-2?arch=ppc64el
