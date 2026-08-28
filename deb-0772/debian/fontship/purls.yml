@@ -1,0 +1,6 @@
+- pkg:deb/debian/fontship@0.10.1%2Bds-1?arch=amd64
+- pkg:deb/debian/fontship@0.10.1%2Bds-1?arch=arm64
+- pkg:deb/debian/fontship@0.10.1%2Bds-1?arch=armhf
+- pkg:deb/debian/fontship@0.10.1%2Bds-1?arch=i386
+- pkg:deb/debian/fontship@0.10.1%2Bds-1?arch=loong64
+- pkg:deb/debian/fontship@0.10.1%2Bds-1?arch=ppc64el

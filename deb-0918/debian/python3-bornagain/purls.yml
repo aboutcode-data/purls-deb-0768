@@ -35,3 +35,4 @@
 - pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=armhf
 - pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/python3-bornagain@23.0-6~bpo13%2B1?arch=s390x
+- pkg:deb/debian/python3-bornagain@24.1%2Bds3-2?arch=riscv64
