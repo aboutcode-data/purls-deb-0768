@@ -1,0 +1,7 @@
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=amd64
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=arm64
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=armhf
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=i386
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=loong64
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=ppc64el
+- pkg:deb/debian/lightningcss@1.33.0%2Bds-4?arch=s390x

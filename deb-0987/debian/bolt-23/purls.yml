@@ -1,1 +1,2 @@
+- pkg:deb/debian/bolt-23@23.1.0-2?arch=amd64
 - pkg:deb/debian/bolt-23@23~%2B%2B20260204101751%2Bdd02b404b020-1~exp1?arch=arm64
