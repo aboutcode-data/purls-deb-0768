@@ -29,3 +29,4 @@
 - pkg:deb/debian/libbiometry1@0.3.3-1?arch=loong64
 - pkg:deb/debian/libbiometry1@0.3.3-1?arch=ppc64el
 - pkg:deb/debian/libbiometry1@0.3.3-1?arch=riscv64
+- pkg:deb/debian/libbiometry1@0.4.0-5?arch=riscv64

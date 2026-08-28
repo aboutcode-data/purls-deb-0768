@@ -15,3 +15,4 @@
 - pkg:deb/debian/ayatana-indicator-display@24.5.2-1?arch=ppc64el
 - pkg:deb/debian/ayatana-indicator-display@24.5.2-1?arch=riscv64
 - pkg:deb/debian/ayatana-indicator-display@24.5.2-1?arch=s390x
+- pkg:deb/debian/ayatana-indicator-display@26.6.0-3?arch=riscv64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-bitwuzla@0.8.2-4?arch=amd64
+- pkg:deb/debian/python3-bitwuzla@0.8.2-4?arch=arm64
+- pkg:deb/debian/python3-bitwuzla@0.8.2-4?arch=i386
+- pkg:deb/debian/python3-bitwuzla@0.8.2-4?arch=loong64

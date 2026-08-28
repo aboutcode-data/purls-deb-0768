@@ -19,6 +19,7 @@
 - pkg:deb/debian/boinc-manager@8.0.4%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/boinc-manager@8.0.4%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/boinc-manager@8.0.4%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/boinc-manager@8.2.15%2Bdfsg-9?arch=riscv64
 - pkg:deb/debian/boinc-manager@8.2.6%2Bdfsg-1?arch=amd64
 - pkg:deb/debian/boinc-manager@8.2.6%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/boinc-manager@8.2.6%2Bdfsg-1?arch=armhf

@@ -12,3 +12,7 @@
 - pkg:deb/debian/blender@4.3.2%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/blender@4.3.2%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/blender@4.3.2%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/blender@5.0.1%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/blender@5.0.1%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/blender@5.0.1%2Bdfsg-4?arch=loong64
+- pkg:deb/debian/blender@5.0.1%2Bdfsg-4?arch=ppc64el

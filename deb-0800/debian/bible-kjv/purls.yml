@@ -26,3 +26,11 @@
 - pkg:deb/debian/bible-kjv@4.41?arch=ppc64el
 - pkg:deb/debian/bible-kjv@4.41?arch=riscv64
 - pkg:deb/debian/bible-kjv@4.41?arch=s390x
+- pkg:deb/debian/bible-kjv@4.44?arch=amd64
+- pkg:deb/debian/bible-kjv@4.44?arch=arm64
+- pkg:deb/debian/bible-kjv@4.44?arch=armhf
+- pkg:deb/debian/bible-kjv@4.44?arch=i386
+- pkg:deb/debian/bible-kjv@4.44?arch=loong64
+- pkg:deb/debian/bible-kjv@4.44?arch=ppc64el
+- pkg:deb/debian/bible-kjv@4.44?arch=riscv64
+- pkg:deb/debian/bible-kjv@4.44?arch=s390x
