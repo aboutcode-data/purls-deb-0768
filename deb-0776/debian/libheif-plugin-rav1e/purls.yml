@@ -31,3 +31,4 @@
 - pkg:deb/debian/libheif-plugin-rav1e@1.21.2-3?arch=ppc64el
 - pkg:deb/debian/libheif-plugin-rav1e@1.21.2-3?arch=riscv64
 - pkg:deb/debian/libheif-plugin-rav1e@1.21.2-3?arch=s390x
+- pkg:deb/debian/libheif-plugin-rav1e@1.23.2-1?arch=riscv64
