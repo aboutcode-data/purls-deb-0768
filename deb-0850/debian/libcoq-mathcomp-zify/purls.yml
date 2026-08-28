@@ -24,3 +24,4 @@
 - pkg:deb/debian/libcoq-mathcomp-zify@1.6.0%2B2.3%2B8.18-2?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-zify@1.6.0%2B2.3%2B8.18-2?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-zify@1.6.0%2B2.3%2B8.18-2?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-zify@1.7.0%2B2.4%2B9.0-1%2Bb1?arch=riscv64

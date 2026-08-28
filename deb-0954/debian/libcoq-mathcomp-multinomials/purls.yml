@@ -24,3 +24,4 @@
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-multinomials@2.4.0-2?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-multinomials@2.5.0-3%2Bb1?arch=riscv64
