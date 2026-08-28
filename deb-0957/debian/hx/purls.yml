@@ -14,6 +14,7 @@
 - pkg:deb/debian/hx@25.07.1%2B20251230%2B~0.1.1%2B~0.3.0%2B20251022-2?arch=ppc64el
 - pkg:deb/debian/hx@25.07.1%2B20251230%2B~0.1.1%2B~0.3.0%2B20251022-2?arch=riscv64
 - pkg:deb/debian/hx@25.07.1%2B20251230%2B~0.1.1%2B~0.3.0%2B20251022-2?arch=s390x
+- pkg:deb/debian/hx@25.07.1%2B20260723%2Bds%2B~0.3.3%2Bds%2B~0.4.0%2B20260627%2Bds-2?arch=riscv64
 - pkg:deb/debian/hx@25.07.1%2B~0.3.0%2B20250717-5?arch=amd64
 - pkg:deb/debian/hx@25.07.1%2B~0.3.0%2B20250717-5?arch=arm64
 - pkg:deb/debian/hx@25.07.1%2B~0.3.0%2B20250717-5?arch=armhf
