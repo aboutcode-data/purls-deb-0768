@@ -18,3 +18,10 @@
 - pkg:deb/debian/valentina@1.0.0~dfsg-4?arch=i386
 - pkg:deb/debian/valentina@1.0.0~dfsg-4?arch=ppc64el
 - pkg:deb/debian/valentina@1.0.0~dfsg-4?arch=s390x
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=i386
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=loong64
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/valentina@1.1.0%2Bdfsg-3?arch=s390x
