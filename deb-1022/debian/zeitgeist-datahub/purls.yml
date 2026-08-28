@@ -19,3 +19,11 @@
 - pkg:deb/debian/zeitgeist-datahub@1.0.4-5?arch=mipsel
 - pkg:deb/debian/zeitgeist-datahub@1.0.4-5?arch=ppc64el
 - pkg:deb/debian/zeitgeist-datahub@1.0.4-5?arch=s390x
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=amd64
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=arm64
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=armhf
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=i386
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=loong64
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=ppc64el
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=riscv64
+- pkg:deb/debian/zeitgeist-datahub@1.0.4-7?arch=s390x
