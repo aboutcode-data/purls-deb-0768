@@ -23,3 +23,6 @@
 - pkg:deb/debian/warp@1.0.0-3?arch=arm64
 - pkg:deb/debian/warp@1.0.0-3?arch=armhf
 - pkg:deb/debian/warp@1.0.0-3?arch=i386
+- pkg:deb/debian/warp@1.0.0-3?arch=loong64
+- pkg:deb/debian/warp@1.0.0-3?arch=ppc64el
+- pkg:deb/debian/warp@1.0.0-3?arch=s390x
