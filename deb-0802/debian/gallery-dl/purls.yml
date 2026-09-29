@@ -6,3 +6,4 @@
 - pkg:deb/debian/gallery-dl@1.30.10-1~bpo13%2B1?arch=all
 - pkg:deb/debian/gallery-dl@1.31.6-1?arch=all
 - pkg:deb/debian/gallery-dl@1.31.6-1~bpo13%2B1?arch=all
+- pkg:deb/debian/gallery-dl@1.32.14-1?arch=all

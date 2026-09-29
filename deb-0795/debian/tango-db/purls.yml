@@ -29,6 +29,7 @@
 - pkg:deb/debian/tango-db@10.1.0%2Bdfsg1-1~exp1?arch=ppc64el
 - pkg:deb/debian/tango-db@10.1.0%2Bdfsg1-1~exp1?arch=riscv64
 - pkg:deb/debian/tango-db@10.1.0%2Bdfsg1-1~exp1?arch=s390x
+- pkg:deb/debian/tango-db@10.3.3%2Bdfsg1-3?arch=riscv64
 - pkg:deb/debian/tango-db@9.3.4%2Bdfsg1-1?arch=amd64
 - pkg:deb/debian/tango-db@9.3.4%2Bdfsg1-1?arch=arm64
 - pkg:deb/debian/tango-db@9.3.4%2Bdfsg1-1?arch=armhf
