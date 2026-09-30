@@ -4,3 +4,4 @@
 - pkg:deb/debian/maxima-emacs@5.47.0-9?arch=all
 - pkg:deb/debian/maxima-emacs@5.49.0%2Bdsfg-2?arch=all
 - pkg:deb/debian/maxima-emacs@5.49.0%2Bdsfg-3?arch=all
+- pkg:deb/debian/maxima-emacs@5.49.0%2Bdsfg-6?arch=all

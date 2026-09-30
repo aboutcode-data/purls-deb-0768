@@ -44,3 +44,4 @@
 - pkg:deb/debian/firefox-esr@140.7.0esr-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/firefox-esr@140.7.0esr-1%2Bb1?arch=riscv64
 - pkg:deb/debian/firefox-esr@140.7.0esr-1%2Bb1?arch=s390x
+- pkg:deb/debian/firefox-esr@153.4.0esr-1?arch=loong64
