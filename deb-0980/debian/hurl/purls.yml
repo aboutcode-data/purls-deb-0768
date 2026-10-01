@@ -5,3 +5,8 @@
 - pkg:deb/debian/hurl@6.1.1-2?arch=ppc64el
 - pkg:deb/debian/hurl@6.1.1-2?arch=riscv64
 - pkg:deb/debian/hurl@6.1.1-2?arch=s390x
+- pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=arm64
+- pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=armhf
+- pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=loong64
+- pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=s390x

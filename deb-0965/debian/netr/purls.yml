@@ -26,3 +26,8 @@
 - pkg:deb/debian/netr@0.2.0-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/netr@0.2.0-1%2Bb1?arch=riscv64
 - pkg:deb/debian/netr@0.2.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/netr@0.2.0-1%2Bb4?arch=arm64
+- pkg:deb/debian/netr@0.2.0-1%2Bb4?arch=armhf
+- pkg:deb/debian/netr@0.2.0-1%2Bb4?arch=loong64
+- pkg:deb/debian/netr@0.2.0-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/netr@0.2.0-1%2Bb4?arch=s390x
