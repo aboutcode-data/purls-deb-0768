@@ -26,3 +26,8 @@
 - pkg:deb/debian/buildah@1.42.1%2Bds1-2?arch=ppc64el
 - pkg:deb/debian/buildah@1.42.1%2Bds1-2?arch=riscv64
 - pkg:deb/debian/buildah@1.42.1%2Bds1-2?arch=s390x
+- pkg:deb/debian/buildah@1.45.0%2Bds1-2%2Bb1?arch=arm64
+- pkg:deb/debian/buildah@1.45.0%2Bds1-2%2Bb1?arch=armhf
+- pkg:deb/debian/buildah@1.45.0%2Bds1-2%2Bb1?arch=loong64
+- pkg:deb/debian/buildah@1.45.0%2Bds1-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/buildah@1.45.0%2Bds1-2%2Bb1?arch=s390x

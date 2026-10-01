@@ -27,3 +27,7 @@
 - pkg:deb/debian/libpcl-dev@1.15.0%2Bdfsg-3?arch=ppc64el
 - pkg:deb/debian/libpcl-dev@1.15.0%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/libpcl-dev@1.15.0%2Bdfsg-3?arch=s390x
+- pkg:deb/debian/libpcl-dev@1.15.1%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/libpcl-dev@1.15.1%2Bdfsg-4?arch=loong64
+- pkg:deb/debian/libpcl-dev@1.15.1%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/libpcl-dev@1.15.1%2Bdfsg-4?arch=s390x

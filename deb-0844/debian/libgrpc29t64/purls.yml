@@ -1,4 +1,5 @@
 - pkg:deb/debian/libgrpc29t64@1.51.1-10?arch=loong64
+- pkg:deb/debian/libgrpc29t64@1.51.1-10?arch=riscv64
 - pkg:deb/debian/libgrpc29t64@1.51.1-10?arch=s390x
 - pkg:deb/debian/libgrpc29t64@1.51.1-6?arch=amd64
 - pkg:deb/debian/libgrpc29t64@1.51.1-6?arch=arm64
