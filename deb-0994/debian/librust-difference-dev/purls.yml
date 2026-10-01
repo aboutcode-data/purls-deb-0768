@@ -13,6 +13,11 @@
 - pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb15?arch=ppc64el
 - pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb15?arch=riscv64
 - pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb15?arch=s390x
+- pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb18?arch=arm64
+- pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb18?arch=armhf
+- pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb18?arch=loong64
+- pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb18?arch=ppc64el
+- pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb18?arch=s390x
 - pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb2?arch=amd64
 - pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb2?arch=arm64
 - pkg:deb/debian/librust-difference-dev@2.0.0-1%2Bb2?arch=armhf
