@@ -26,3 +26,8 @@
 - pkg:deb/debian/podman@5.7.0%2Bds2-3?arch=ppc64el
 - pkg:deb/debian/podman@5.7.0%2Bds2-3?arch=riscv64
 - pkg:deb/debian/podman@5.7.0%2Bds2-3?arch=s390x
+- pkg:deb/debian/podman@6.1.1%2Bds1-1%2Bb1?arch=amd64
+- pkg:deb/debian/podman@6.1.1%2Bds1-1%2Bb1?arch=arm64
+- pkg:deb/debian/podman@6.1.1%2Bds1-1%2Bb1?arch=armhf
+- pkg:deb/debian/podman@6.1.1%2Bds1-1%2Bb1?arch=i386
+- pkg:deb/debian/podman@6.1.1%2Bds1-1%2Bb1?arch=loong64

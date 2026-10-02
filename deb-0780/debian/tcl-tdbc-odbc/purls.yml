@@ -5,3 +5,4 @@
 - pkg:deb/debian/tcl-tdbc-odbc@1.1.13-1?arch=ppc64el
 - pkg:deb/debian/tcl-tdbc-odbc@1.1.13-1?arch=riscv64
 - pkg:deb/debian/tcl-tdbc-odbc@1.1.13-1?arch=s390x
+- pkg:deb/debian/tcl-tdbc-odbc@1.1.15-1?arch=ppc64el
