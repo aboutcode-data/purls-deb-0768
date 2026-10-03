@@ -71,3 +71,5 @@
 - pkg:deb/debian/gir1.2-javascriptcoregtk-6.0@2.51.91-1?arch=loong64
 - pkg:deb/debian/gir1.2-javascriptcoregtk-6.0@2.51.91-1?arch=riscv64
 - pkg:deb/debian/gir1.2-javascriptcoregtk-6.0@2.51.91-1?arch=s390x
+- pkg:deb/debian/gir1.2-javascriptcoregtk-6.0@2.54.1-1?arch=arm64
+- pkg:deb/debian/gir1.2-javascriptcoregtk-6.0@2.54.1-1?arch=i386

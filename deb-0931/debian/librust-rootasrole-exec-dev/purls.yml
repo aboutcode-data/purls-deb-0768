@@ -3,3 +3,4 @@
 - pkg:deb/debian/librust-rootasrole-exec-dev@4.0.2-2?arch=armhf
 - pkg:deb/debian/librust-rootasrole-exec-dev@4.0.2-2?arch=i386
 - pkg:deb/debian/librust-rootasrole-exec-dev@4.0.2-2?arch=loong64
+- pkg:deb/debian/librust-rootasrole-exec-dev@4.0.2-2?arch=riscv64
