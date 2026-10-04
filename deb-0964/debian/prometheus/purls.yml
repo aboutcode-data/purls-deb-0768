@@ -25,3 +25,10 @@
 - pkg:deb/debian/prometheus@2.53.5%2Bds1-2?arch=ppc64el
 - pkg:deb/debian/prometheus@2.53.5%2Bds1-2?arch=riscv64
 - pkg:deb/debian/prometheus@2.53.5%2Bds1-2?arch=s390x
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=amd64
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=arm64
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=armhf
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=i386
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=loong64
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=ppc64el
+- pkg:deb/debian/prometheus@3.5.3%2Bds1-6?arch=s390x

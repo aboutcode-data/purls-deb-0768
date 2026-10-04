@@ -2,3 +2,4 @@
 - pkg:deb/debian/elpa-racket-mode@20210916git0-2?arch=all
 - pkg:deb/debian/elpa-racket-mode@20250501~git.2eec63c-1?arch=all
 - pkg:deb/debian/elpa-racket-mode@20251107~git.d98852e-1?arch=all
+- pkg:deb/debian/elpa-racket-mode@20260926~git.112ede7-1?arch=all
