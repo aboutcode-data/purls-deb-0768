@@ -1,0 +1,3 @@
+- pkg:deb/debian/linux-kbuild-7.2.9%2Bdeb14@7.2.9-1?arch=armhf
+- pkg:deb/debian/linux-kbuild-7.2.9%2Bdeb14@7.2.9-1?arch=loong64
+- pkg:deb/debian/linux-kbuild-7.2.9%2Bdeb14@7.2.9-1?arch=s390x

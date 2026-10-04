@@ -12,3 +12,4 @@
 - pkg:deb/debian/linux-image-s390x@6.18.9-1~bpo13%2B1?arch=s390x
 - pkg:deb/debian/linux-image-s390x@6.18~rc7-1~exp1?arch=s390x
 - pkg:deb/debian/linux-image-s390x@6.19.2-1~exp1?arch=s390x
+- pkg:deb/debian/linux-image-s390x@7.2.9-1?arch=s390x

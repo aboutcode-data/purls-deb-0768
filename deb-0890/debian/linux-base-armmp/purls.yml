@@ -2,3 +2,4 @@
 - pkg:deb/debian/linux-base-armmp@6.18.9-1~bpo13%2B1?arch=armhf
 - pkg:deb/debian/linux-base-armmp@6.18~rc7-1~exp1?arch=armhf
 - pkg:deb/debian/linux-base-armmp@6.19.2-1~exp1?arch=armhf
+- pkg:deb/debian/linux-base-armmp@7.2.9-1?arch=armhf

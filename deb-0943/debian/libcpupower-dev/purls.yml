@@ -113,3 +113,6 @@
 - pkg:deb/debian/libcpupower-dev@6.19.2-1~exp1?arch=ppc64el
 - pkg:deb/debian/libcpupower-dev@6.19.2-1~exp1?arch=s390x
 - pkg:deb/debian/libcpupower-dev@7.1.13-1~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/libcpupower-dev@7.2.9-1?arch=armhf
+- pkg:deb/debian/libcpupower-dev@7.2.9-1?arch=loong64
+- pkg:deb/debian/libcpupower-dev@7.2.9-1?arch=s390x
