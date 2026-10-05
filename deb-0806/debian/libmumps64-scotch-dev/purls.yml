@@ -26,3 +26,4 @@
 - pkg:deb/debian/libmumps64-scotch-dev@5.8.1-2?arch=ppc64el
 - pkg:deb/debian/libmumps64-scotch-dev@5.8.1-2?arch=riscv64
 - pkg:deb/debian/libmumps64-scotch-dev@5.8.1-2?arch=s390x
+- pkg:deb/debian/libmumps64-scotch-dev@5.9.0-3?arch=s390x

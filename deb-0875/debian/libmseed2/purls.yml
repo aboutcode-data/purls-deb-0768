@@ -19,3 +19,4 @@
 - pkg:deb/debian/libmseed2@2.19.8-1?arch=mipsel
 - pkg:deb/debian/libmseed2@2.19.8-1?arch=ppc64el
 - pkg:deb/debian/libmseed2@2.19.8-1?arch=s390x
+- pkg:deb/debian/libmseed2@2.19.9-1?arch=riscv64

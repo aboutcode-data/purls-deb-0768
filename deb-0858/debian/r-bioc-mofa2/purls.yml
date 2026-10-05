@@ -1,1 +1,2 @@
 - pkg:deb/debian/r-bioc-mofa2@1.16.0%2Bds-4?arch=all
+- pkg:deb/debian/r-bioc-mofa2@1.22.1%2Bdfsg-1?arch=all
