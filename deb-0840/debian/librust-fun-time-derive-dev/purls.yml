@@ -6,3 +6,7 @@
 - pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-1%2Bb2?arch=riscv64
 - pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-1%2Bb2?arch=s390x
+- pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-3?arch=amd64
+- pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-3?arch=arm64
+- pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-3?arch=armhf
+- pkg:deb/debian/librust-fun-time-derive-dev@0.3.4-3?arch=ppc64el
