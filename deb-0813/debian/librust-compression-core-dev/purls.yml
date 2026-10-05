@@ -5,3 +5,5 @@
 - pkg:deb/debian/librust-compression-core-dev@0.4.32-1?arch=loong64
 - pkg:deb/debian/librust-compression-core-dev@0.4.32-1?arch=ppc64el
 - pkg:deb/debian/librust-compression-core-dev@0.4.32-1?arch=s390x
+- pkg:deb/debian/librust-compression-core-dev@0.4.33-1?arch=i386
+- pkg:deb/debian/librust-compression-core-dev@0.4.33-1?arch=loong64
