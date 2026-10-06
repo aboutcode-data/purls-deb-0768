@@ -30,3 +30,4 @@
 - pkg:deb/debian/puredata64-core@0.56.2%2Bds-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/puredata64-core@0.56.2%2Bds-1~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/puredata64-core@0.56.2%2Bds-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/puredata64-core@0.57.0%2Bds-1?arch=riscv64
