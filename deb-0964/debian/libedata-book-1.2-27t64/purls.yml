@@ -34,3 +34,4 @@
 - pkg:deb/debian/libedata-book-1.2-27t64@3.56.2-8?arch=ppc64el
 - pkg:deb/debian/libedata-book-1.2-27t64@3.56.2-8?arch=riscv64
 - pkg:deb/debian/libedata-book-1.2-27t64@3.56.2-8?arch=s390x
+- pkg:deb/debian/libedata-book-1.2-27t64@3.62.0-1?arch=riscv64
