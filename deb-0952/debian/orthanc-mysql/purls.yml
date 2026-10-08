@@ -26,3 +26,4 @@
 - pkg:deb/debian/orthanc-mysql@5.0%2Bdfsg-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/orthanc-mysql@5.0%2Bdfsg-3%2Bb1?arch=s390x
 - pkg:deb/debian/orthanc-mysql@5.0%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/orthanc-mysql@5.0%2Bdfsg-6%2Bb2?arch=loong64

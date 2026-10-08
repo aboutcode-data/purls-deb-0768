@@ -26,3 +26,4 @@
 - pkg:deb/debian/prometheus-blackbox-exporter@0.26.0-2?arch=ppc64el
 - pkg:deb/debian/prometheus-blackbox-exporter@0.26.0-2?arch=riscv64
 - pkg:deb/debian/prometheus-blackbox-exporter@0.26.0-2?arch=s390x
+- pkg:deb/debian/prometheus-blackbox-exporter@0.28.0-2?arch=amd64

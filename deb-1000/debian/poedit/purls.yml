@@ -26,3 +26,4 @@
 - pkg:deb/debian/poedit@3.8-2?arch=ppc64el
 - pkg:deb/debian/poedit@3.8-2?arch=riscv64
 - pkg:deb/debian/poedit@3.8-2?arch=s390x
+- pkg:deb/debian/poedit@3.9.1-2%2Bb1?arch=loong64

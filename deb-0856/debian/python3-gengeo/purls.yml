@@ -19,3 +19,4 @@
 - pkg:deb/debian/python3-gengeo@1.4-7?arch=ppc64el
 - pkg:deb/debian/python3-gengeo@1.4-7?arch=riscv64
 - pkg:deb/debian/python3-gengeo@1.4-7?arch=s390x
+- pkg:deb/debian/python3-gengeo@1.4-8%2Bb2?arch=loong64
