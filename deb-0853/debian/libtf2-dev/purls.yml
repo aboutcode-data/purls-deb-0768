@@ -5,6 +5,7 @@
 - pkg:deb/debian/libtf2-dev@0.7.10-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libtf2-dev@0.7.10-1%2Bb1?arch=s390x
 - pkg:deb/debian/libtf2-dev@0.7.10-1?arch=riscv64
+- pkg:deb/debian/libtf2-dev@0.7.10-2%2Bb3?arch=loong64
 - pkg:deb/debian/libtf2-dev@0.7.5-3?arch=amd64
 - pkg:deb/debian/libtf2-dev@0.7.5-3?arch=arm64
 - pkg:deb/debian/libtf2-dev@0.7.5-3?arch=armhf

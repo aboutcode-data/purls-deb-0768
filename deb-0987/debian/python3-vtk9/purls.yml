@@ -51,6 +51,8 @@
 - pkg:deb/debian/python3-vtk9@9.5.2%2Bdfsg3-8?arch=riscv64
 - pkg:deb/debian/python3-vtk9@9.5.2%2Bdfsg3-8?arch=s390x
 - pkg:deb/debian/python3-vtk9@9.6.2%2Bdfsg1-5?arch=arm64
+- pkg:deb/debian/python3-vtk9@9.6.2%2Bds-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-vtk9@9.6.2%2Bds-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-vtk9@9.6.2%2Bds-2%2Btest1?arch=amd64
 - pkg:deb/debian/python3-vtk9@9.6.2%2Bds-2%2Btest1?arch=arm64
 - pkg:deb/debian/python3-vtk9@9.6.2%2Bds-2%2Btest1?arch=armhf

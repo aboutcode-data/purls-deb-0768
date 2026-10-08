@@ -1,3 +1,6 @@
+- pkg:deb/debian/libqt5versit5a@5.0~git20201102.f9a8f0fc%2Bdfsg1-11?arch=amd64
+- pkg:deb/debian/libqt5versit5a@5.0~git20201102.f9a8f0fc%2Bdfsg1-11?arch=arm64
+- pkg:deb/debian/libqt5versit5a@5.0~git20201102.f9a8f0fc%2Bdfsg1-11?arch=armhf
 - pkg:deb/debian/libqt5versit5a@5.0~git20201102.f9a8f0fc%2Bdfsg1-3?arch=amd64
 - pkg:deb/debian/libqt5versit5a@5.0~git20201102.f9a8f0fc%2Bdfsg1-3?arch=arm64
 - pkg:deb/debian/libqt5versit5a@5.0~git20201102.f9a8f0fc%2Bdfsg1-3?arch=armel

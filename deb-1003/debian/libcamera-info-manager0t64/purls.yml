@@ -13,4 +13,5 @@
 - pkg:deb/debian/libcamera-info-manager0t64@1.12.1-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libcamera-info-manager0t64@1.12.1-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libcamera-info-manager0t64@1.12.1-1%2Bb1?arch=s390x
+- pkg:deb/debian/libcamera-info-manager0t64@1.12.1-1%2Bb5?arch=loong64
 - pkg:deb/debian/libcamera-info-manager0t64@1.12.1-1?arch=riscv64
