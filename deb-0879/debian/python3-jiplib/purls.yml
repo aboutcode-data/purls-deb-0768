@@ -20,4 +20,6 @@
 - pkg:deb/debian/python3-jiplib@1.1.7%2Bds-1?arch=ppc64el
 - pkg:deb/debian/python3-jiplib@1.1.7%2Bds-1?arch=riscv64
 - pkg:deb/debian/python3-jiplib@1.1.7%2Bds-1?arch=s390x
+- pkg:deb/debian/python3-jiplib@1.2.1%2Bds-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-jiplib@1.2.1%2Bds-2%2Bb1?arch=armhf
 - pkg:deb/debian/python3-jiplib@1.2.1%2Bds-2?arch=riscv64

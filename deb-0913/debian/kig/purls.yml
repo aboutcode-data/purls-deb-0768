@@ -26,3 +26,5 @@
 - pkg:deb/debian/kig@25.08.2-2?arch=ppc64el
 - pkg:deb/debian/kig@25.08.2-2?arch=riscv64
 - pkg:deb/debian/kig@25.08.2-2?arch=s390x
+- pkg:deb/debian/kig@26.04.3-1%2Bb1?arch=arm64
+- pkg:deb/debian/kig@26.04.3-1%2Bb1?arch=armhf

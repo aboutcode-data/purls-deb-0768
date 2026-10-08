@@ -11,6 +11,7 @@
 - pkg:deb/debian/ismrmrd-tools@1.15.0-2?arch=ppc64el
 - pkg:deb/debian/ismrmrd-tools@1.15.0-2?arch=riscv64
 - pkg:deb/debian/ismrmrd-tools@1.15.0-2?arch=s390x
+- pkg:deb/debian/ismrmrd-tools@1.15.0-3%2Bb2?arch=arm64
 - pkg:deb/debian/ismrmrd-tools@1.4.2.1-6?arch=amd64
 - pkg:deb/debian/ismrmrd-tools@1.4.2.1-6?arch=arm64
 - pkg:deb/debian/ismrmrd-tools@1.4.2.1-6?arch=i386

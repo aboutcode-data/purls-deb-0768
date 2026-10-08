@@ -6,3 +6,6 @@
 - pkg:deb/debian/qml6-module-org-kde-kopeninghours@25.04.2-1?arch=ppc64el
 - pkg:deb/debian/qml6-module-org-kde-kopeninghours@25.04.2-1?arch=riscv64
 - pkg:deb/debian/qml6-module-org-kde-kopeninghours@25.04.2-1?arch=s390x
+- pkg:deb/debian/qml6-module-org-kde-kopeninghours@26.04.0-1%2Bb2?arch=arm64
+- pkg:deb/debian/qml6-module-org-kde-kopeninghours@26.04.0-1%2Bb2?arch=armhf
+- pkg:deb/debian/qml6-module-org-kde-kopeninghours@26.04.0-1%2Bb2?arch=riscv64
