@@ -20,6 +20,7 @@
 - pkg:deb/debian/openimageio-tools@2.5.18.0%2Bdfsg-1%2Bb1?arch=riscv64
 - pkg:deb/debian/openimageio-tools@2.5.18.0%2Bdfsg-1%2Bb1?arch=s390x
 - pkg:deb/debian/openimageio-tools@2.5.19.1%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/openimageio-tools@2.5.19.1%2Bdfsg-2%2Bb8?arch=loong64
 - pkg:deb/debian/openimageio-tools@3.1.18.0%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/openimageio-tools@3.1.18.0%2Bdfsg-1?arch=armhf
 - pkg:deb/debian/openimageio-tools@3.1.18.0%2Bdfsg-1?arch=i386
