@@ -26,3 +26,5 @@
 - pkg:deb/debian/gource@0.55-2?arch=ppc64el
 - pkg:deb/debian/gource@0.55-2?arch=riscv64
 - pkg:deb/debian/gource@0.55-2?arch=s390x
+- pkg:deb/debian/gource@0.56-1%2Bb2?arch=amd64
+- pkg:deb/debian/gource@0.56-1%2Bb2?arch=riscv64

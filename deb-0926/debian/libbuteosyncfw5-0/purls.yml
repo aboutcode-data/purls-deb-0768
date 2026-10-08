@@ -6,3 +6,6 @@
 - pkg:deb/debian/libbuteosyncfw5-0@0.11.10-1?arch=ppc64el
 - pkg:deb/debian/libbuteosyncfw5-0@0.11.10-1?arch=riscv64
 - pkg:deb/debian/libbuteosyncfw5-0@0.11.10-1?arch=s390x
+- pkg:deb/debian/libbuteosyncfw5-0@0.11.12-1?arch=amd64
+- pkg:deb/debian/libbuteosyncfw5-0@0.11.12-1?arch=arm64
+- pkg:deb/debian/libbuteosyncfw5-0@0.11.12-1?arch=armhf

@@ -26,6 +26,7 @@
 - pkg:deb/debian/gnucash@5.13-1?arch=ppc64el
 - pkg:deb/debian/gnucash@5.13-1?arch=riscv64
 - pkg:deb/debian/gnucash@5.13-1?arch=s390x
+- pkg:deb/debian/gnucash@5.16-2%2Bb1?arch=amd64
 - pkg:deb/debian/gnucash@5.6-1~bpo12%2B1?arch=amd64
 - pkg:deb/debian/gnucash@5.6-1~bpo12%2B1?arch=arm64
 - pkg:deb/debian/gnucash@5.6-1~bpo12%2B1?arch=armel

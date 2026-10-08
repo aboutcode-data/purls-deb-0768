@@ -8,3 +8,5 @@
 - pkg:deb/debian/libfreecontact0t64@1.0.21-16?arch=ppc64el
 - pkg:deb/debian/libfreecontact0t64@1.0.21-16?arch=riscv64
 - pkg:deb/debian/libfreecontact0t64@1.0.21-16?arch=s390x
+- pkg:deb/debian/libfreecontact0t64@1.0.21-19%2Bb1?arch=amd64
+- pkg:deb/debian/libfreecontact0t64@1.0.21-19%2Bb1?arch=riscv64
