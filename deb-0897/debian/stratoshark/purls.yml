@@ -10,4 +10,5 @@
 - pkg:deb/debian/stratoshark@0.9.3-3?arch=ppc64el
 - pkg:deb/debian/stratoshark@0.9.3-3?arch=riscv64
 - pkg:deb/debian/stratoshark@0.9.3-3?arch=s390x
+- pkg:deb/debian/stratoshark@0.9.9-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/stratoshark@0.9.9-1?arch=amd64

@@ -21,6 +21,7 @@
 - pkg:deb/debian/sslsniff@0.8%2Bgit20111017-3?arch=ppc64el
 - pkg:deb/debian/sslsniff@0.8%2Bgit20111017-3?arch=riscv64
 - pkg:deb/debian/sslsniff@0.8%2Bgit20111017-3?arch=s390x
+- pkg:deb/debian/sslsniff@0.8%2Bgit20111017-4%2Bb1?arch=s390x
 - pkg:deb/debian/sslsniff@0.8-9%2Bb1?arch=amd64
 - pkg:deb/debian/sslsniff@0.8-9%2Bb1?arch=arm64
 - pkg:deb/debian/sslsniff@0.8-9%2Bb1?arch=armel
