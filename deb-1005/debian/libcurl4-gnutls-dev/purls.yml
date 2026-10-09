@@ -65,3 +65,4 @@
 - pkg:deb/debian/libcurl4-gnutls-dev@8.19.0~rc2-2?arch=ppc64el
 - pkg:deb/debian/libcurl4-gnutls-dev@8.19.0~rc2-2?arch=riscv64
 - pkg:deb/debian/libcurl4-gnutls-dev@8.19.0~rc2-2?arch=s390x
+- pkg:deb/debian/libcurl4-gnutls-dev@8.23.0~rc3-1%2Bexp1?arch=ppc64el
