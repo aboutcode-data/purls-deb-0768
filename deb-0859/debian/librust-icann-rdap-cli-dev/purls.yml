@@ -5,3 +5,5 @@
 - pkg:deb/debian/librust-icann-rdap-cli-dev@0.0.25-2?arch=loong64
 - pkg:deb/debian/librust-icann-rdap-cli-dev@0.0.25-2?arch=ppc64el
 - pkg:deb/debian/librust-icann-rdap-cli-dev@0.0.25-2?arch=s390x
+- pkg:deb/debian/librust-icann-rdap-cli-dev@1.0.1-1?arch=i386
+- pkg:deb/debian/librust-icann-rdap-cli-dev@1.0.1-1?arch=ppc64el
