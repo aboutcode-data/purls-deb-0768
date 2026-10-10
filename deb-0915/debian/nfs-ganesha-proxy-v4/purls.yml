@@ -39,3 +39,4 @@
 - pkg:deb/debian/nfs-ganesha-proxy-v4@6.5-6~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/nfs-ganesha-proxy-v4@6.5-6~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/nfs-ganesha-proxy-v4@6.5-6~bpo13%2B1?arch=s390x
+- pkg:deb/debian/nfs-ganesha-proxy-v4@9.14-2?arch=amd64
