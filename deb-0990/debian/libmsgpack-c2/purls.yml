@@ -13,3 +13,8 @@
 - pkg:deb/debian/libmsgpack-c2@6.1.0-2?arch=ppc64el
 - pkg:deb/debian/libmsgpack-c2@6.1.0-2?arch=riscv64
 - pkg:deb/debian/libmsgpack-c2@6.1.0-2?arch=s390x
+- pkg:deb/debian/libmsgpack-c2@7.0.2-1?arch=arm64
+- pkg:deb/debian/libmsgpack-c2@7.0.2-1?arch=armhf
+- pkg:deb/debian/libmsgpack-c2@7.0.2-1?arch=loong64
+- pkg:deb/debian/libmsgpack-c2@7.0.2-1?arch=ppc64el
+- pkg:deb/debian/libmsgpack-c2@7.0.2-1?arch=s390x
