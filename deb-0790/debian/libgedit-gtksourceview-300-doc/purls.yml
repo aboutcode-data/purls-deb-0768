@@ -1,2 +1,3 @@
 - pkg:deb/debian/libgedit-gtksourceview-300-doc@299.5.0-1?arch=all
 - pkg:deb/debian/libgedit-gtksourceview-300-doc@299.5.0-4?arch=all
+- pkg:deb/debian/libgedit-gtksourceview-300-doc@299.7.1-1?arch=all
