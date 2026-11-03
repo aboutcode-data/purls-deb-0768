@@ -3,3 +3,5 @@
 - pkg:deb/debian/lava-dev@2024.09-1.1?arch=all
 - pkg:deb/debian/lava-dev@2026.01-1?arch=all
 - pkg:deb/debian/lava-dev@2026.01-2?arch=all
+- pkg:deb/debian/lava-dev@2026.10-1?arch=all
+- pkg:deb/debian/lava-dev@2026.10-2?arch=all
