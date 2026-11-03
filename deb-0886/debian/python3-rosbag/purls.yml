@@ -27,3 +27,11 @@
 - pkg:deb/debian/python3-rosbag@1.17.4%2Bds-3%2Bb2?arch=ppc64el
 - pkg:deb/debian/python3-rosbag@1.17.4%2Bds-3%2Bb2?arch=riscv64
 - pkg:deb/debian/python3-rosbag@1.17.4%2Bds-3%2Bb2?arch=s390x
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=amd64
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=arm64
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=armhf
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=i386
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=loong64
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=ppc64el
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=riscv64
+- pkg:deb/debian/python3-rosbag@1.17.4%2Bds-4%2Bb4?arch=s390x

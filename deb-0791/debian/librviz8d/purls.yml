@@ -27,3 +27,10 @@
 - pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-1%2Bb1?arch=riscv64
 - pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-1%2Bb1?arch=s390x
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=amd64
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=arm64
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=armhf
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=i386
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=loong64
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=ppc64el
+- pkg:deb/debian/librviz8d@1.14.26%2Bdfsg-3%2Bb4?arch=s390x
