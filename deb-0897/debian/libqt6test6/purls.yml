@@ -6,6 +6,13 @@
 - pkg:deb/debian/libqt6test6@6.10.2%2Bdfsg-3?arch=ppc64el
 - pkg:deb/debian/libqt6test6@6.10.2%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/libqt6test6@6.10.2%2Bdfsg-3?arch=s390x
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=armhf
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=i386
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=loong64
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=ppc64el
+- pkg:deb/debian/libqt6test6@6.11.2%2Bdfsg-7?arch=riscv64
 - pkg:deb/debian/libqt6test6@6.4.2%2Bdfsg-10?arch=amd64
 - pkg:deb/debian/libqt6test6@6.4.2%2Bdfsg-10?arch=arm64
 - pkg:deb/debian/libqt6test6@6.4.2%2Bdfsg-10?arch=armel
