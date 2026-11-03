@@ -3,3 +3,5 @@
 - pkg:deb/debian/ironic-api@29.0.0-7?arch=all
 - pkg:deb/debian/ironic-api@32.0.0-6?arch=all
 - pkg:deb/debian/ironic-api@32.0.0-7?arch=all
+- pkg:deb/debian/ironic-api@39.0.0-6?arch=all
+- pkg:deb/debian/ironic-api@39.0.0-7?arch=all
