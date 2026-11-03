@@ -1,0 +1,2 @@
+- pkg:deb/debian/kytensor-server@2.49.0.7-1?arch=amd64
+- pkg:deb/debian/kytensor-server@2.49.0.7-1?arch=arm64
