@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-pbcore@2.1.2%2Bdfsg-11?arch=all
 - pkg:deb/debian/python3-pbcore@2.1.2%2Bdfsg-13?arch=all
 - pkg:deb/debian/python3-pbcore@2.1.2%2Bdfsg-5?arch=all
+- pkg:deb/debian/python3-pbcore@2.6.0%2Bdfsg-1?arch=all
