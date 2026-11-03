@@ -28,3 +28,11 @@
 - pkg:deb/debian/libobus-ocaml@1.2.5-1%2Bb9?arch=ppc64el
 - pkg:deb/debian/libobus-ocaml@1.2.5-1%2Bb9?arch=riscv64
 - pkg:deb/debian/libobus-ocaml@1.2.5-1%2Bb9?arch=s390x
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=amd64
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=arm64
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=armhf
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=i386
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=loong64
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=riscv64
+- pkg:deb/debian/libobus-ocaml@1.2.5-2%2Bb4?arch=s390x
