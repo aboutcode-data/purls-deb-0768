@@ -23,3 +23,7 @@
 - pkg:deb/debian/librdkit-dev@202503.6-4?arch=arm64
 - pkg:deb/debian/librdkit-dev@202503.6-4?arch=ppc64el
 - pkg:deb/debian/librdkit-dev@202503.6-4?arch=riscv64
+- pkg:deb/debian/librdkit-dev@202609.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/librdkit-dev@202609.1-1%2Bb1?arch=arm64
+- pkg:deb/debian/librdkit-dev@202609.1-1%2Bb1?arch=loong64
+- pkg:deb/debian/librdkit-dev@202609.1-1%2Bb1?arch=ppc64el
