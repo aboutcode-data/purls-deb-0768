@@ -2,3 +2,5 @@
 - pkg:deb/debian/python3-mediainfodll@23.04%2Bdfsg-1?arch=all
 - pkg:deb/debian/python3-mediainfodll@25.04%2Bdfsg-1?arch=all
 - pkg:deb/debian/python3-mediainfodll@25.10%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-mediainfodll@26.10%2Bdfsg-2?arch=all
+- pkg:deb/debian/python3-mediainfodll@26.10%2Bdfsg-3?arch=all
