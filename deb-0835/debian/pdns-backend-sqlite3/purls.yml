@@ -7,6 +7,11 @@
 - pkg:deb/debian/pdns-backend-sqlite3@4.7.3-2?arch=mips64el
 - pkg:deb/debian/pdns-backend-sqlite3@4.7.3-2?arch=ppc64el
 - pkg:deb/debian/pdns-backend-sqlite3@4.7.3-2?arch=s390x
+- pkg:deb/debian/pdns-backend-sqlite3@4.9.18-0%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/pdns-backend-sqlite3@4.9.18-0%2Bdeb13u1?arch=arm64
+- pkg:deb/debian/pdns-backend-sqlite3@4.9.18-0%2Bdeb13u1?arch=ppc64el
+- pkg:deb/debian/pdns-backend-sqlite3@4.9.18-0%2Bdeb13u1?arch=riscv64
+- pkg:deb/debian/pdns-backend-sqlite3@4.9.18-0%2Bdeb13u1?arch=s390x
 - pkg:deb/debian/pdns-backend-sqlite3@4.9.7-1?arch=amd64
 - pkg:deb/debian/pdns-backend-sqlite3@4.9.7-1?arch=arm64
 - pkg:deb/debian/pdns-backend-sqlite3@4.9.7-1?arch=ppc64el
@@ -24,3 +29,9 @@
 - pkg:deb/debian/pdns-backend-sqlite3@5.0.3-1?arch=riscv64
 - pkg:deb/debian/pdns-backend-sqlite3@5.0.3-1?arch=s390x
 - pkg:deb/debian/pdns-backend-sqlite3@5.1.4-1%2Bb1?arch=loong64
+- pkg:deb/debian/pdns-backend-sqlite3@5.1.5-1?arch=amd64
+- pkg:deb/debian/pdns-backend-sqlite3@5.1.5-1?arch=arm64
+- pkg:deb/debian/pdns-backend-sqlite3@5.1.5-1?arch=loong64
+- pkg:deb/debian/pdns-backend-sqlite3@5.1.5-1?arch=ppc64el
+- pkg:deb/debian/pdns-backend-sqlite3@5.1.5-1?arch=riscv64
+- pkg:deb/debian/pdns-backend-sqlite3@5.1.5-1?arch=s390x
