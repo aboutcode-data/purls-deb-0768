@@ -10,3 +10,4 @@
 - pkg:deb/debian/gccgo-13-riscv64-linux-gnu@13.4.0-4cross1?arch=i386
 - pkg:deb/debian/gccgo-13-riscv64-linux-gnu@13.4.0-4cross1?arch=ppc64el
 - pkg:deb/debian/gccgo-13-riscv64-linux-gnu@13.4.0-4cross1?arch=s390x
+- pkg:deb/debian/gccgo-13-riscv64-linux-gnu@13.5.0-3?arch=riscv64
