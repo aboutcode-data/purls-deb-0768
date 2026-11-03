@@ -23,3 +23,10 @@
 - pkg:deb/debian/brz@3.3.2-3?arch=mipsel
 - pkg:deb/debian/brz@3.3.2-3?arch=ppc64el
 - pkg:deb/debian/brz@3.3.2-3?arch=s390x
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=amd64
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=arm64
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=armhf
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=i386
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=loong64
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/brz@3.3.22-2%2Bb2?arch=s390x
