@@ -1,4 +1,6 @@
 - pkg:deb/debian/python3-opentelemetry-proto@1.38.0-2?arch=all
 - pkg:deb/debian/python3-opentelemetry-proto@1.39.1-2?arch=all
+- pkg:deb/debian/python3-opentelemetry-proto@1.45.1-2?arch=all
+- pkg:deb/debian/python3-opentelemetry-proto@1.45.2-1?arch=all
 - pkg:deb/debian/python3-opentelemetry-proto@1.5.0-1?arch=all
 - pkg:deb/debian/python3-opentelemetry-proto@1.5.0-1~bpo12%2B1~1?arch=all
