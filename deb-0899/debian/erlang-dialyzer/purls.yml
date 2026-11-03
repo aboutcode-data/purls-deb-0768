@@ -11,6 +11,14 @@
 - pkg:deb/debian/erlang-dialyzer@25.2.3%2Bdfsg-1%2Bdeb12u3?arch=mipsel
 - pkg:deb/debian/erlang-dialyzer@25.2.3%2Bdfsg-1%2Bdeb12u3?arch=ppc64el
 - pkg:deb/debian/erlang-dialyzer@25.2.3%2Bdfsg-1%2Bdeb12u3?arch=s390x
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=amd64
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=arm64
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=armel
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=armhf
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=i386
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=ppc64el
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=riscv64
+- pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1%2Bdeb13u4?arch=s390x
 - pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1?arch=amd64
 - pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/erlang-dialyzer@27.3.4.1%2Bdfsg-1?arch=armel
@@ -33,3 +41,11 @@
 - pkg:deb/debian/erlang-dialyzer@28.2%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/erlang-dialyzer@28.2%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/erlang-dialyzer@28.2%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=i386
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/erlang-dialyzer@29.1.2%2Bdfsg-1?arch=s390x
