@@ -6,3 +6,10 @@
 - pkg:deb/debian/libtexttools12@2.1.0-30?arch=ppc64el
 - pkg:deb/debian/libtexttools12@2.1.0-30?arch=riscv64
 - pkg:deb/debian/libtexttools12@2.1.0-30?arch=s390x
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=amd64
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=arm64
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=armhf
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=i386
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=loong64
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=ppc64el
+- pkg:deb/debian/libtexttools12@2.1.0-31?arch=s390x
