@@ -21,3 +21,6 @@
 - pkg:deb/debian/librust-gix-packetline-dev@0.19.1-1?arch=ppc64el
 - pkg:deb/debian/librust-gix-packetline-dev@0.19.1-1?arch=riscv64
 - pkg:deb/debian/librust-gix-packetline-dev@0.19.1-1?arch=s390x
+- pkg:deb/debian/librust-gix-packetline-dev@0.24.0-1?arch=amd64
+- pkg:deb/debian/librust-gix-packetline-dev@0.24.0-1?arch=arm64
+- pkg:deb/debian/librust-gix-packetline-dev@0.24.0-1?arch=armhf
