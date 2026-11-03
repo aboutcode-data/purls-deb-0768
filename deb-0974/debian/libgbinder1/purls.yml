@@ -1,0 +1,7 @@
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=amd64
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=arm64
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=armhf
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=i386
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=loong64
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=ppc64el
+- pkg:deb/debian/libgbinder1@1.1.54-3?arch=s390x
