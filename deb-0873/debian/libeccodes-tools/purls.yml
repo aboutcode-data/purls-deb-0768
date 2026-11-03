@@ -26,3 +26,9 @@
 - pkg:deb/debian/libeccodes-tools@2.45.4-1?arch=loong64
 - pkg:deb/debian/libeccodes-tools@2.45.4-1?arch=ppc64el
 - pkg:deb/debian/libeccodes-tools@2.45.4-1?arch=riscv64
+- pkg:deb/debian/libeccodes-tools@2.50.0-1?arch=amd64
+- pkg:deb/debian/libeccodes-tools@2.50.0-1?arch=arm64
+- pkg:deb/debian/libeccodes-tools@2.50.0-1?arch=loong64
+- pkg:deb/debian/libeccodes-tools@2.50.0-1?arch=ppc64el
+- pkg:deb/debian/libeccodes-tools@2.50.0-1?arch=riscv64
+- pkg:deb/debian/libeccodes-tools@2.50.0-1?arch=s390x
