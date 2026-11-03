@@ -2,6 +2,7 @@
 - pkg:deb/debian/linux-headers-cloud-arm64@6.1.148-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.1.158-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.1.162-1?arch=arm64
+- pkg:deb/debian/linux-headers-cloud-arm64@6.12.113-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.12.57-1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.12.57-1~bpo12%2B1?arch=arm64
 - pkg:deb/debian/linux-headers-cloud-arm64@6.12.73-1?arch=arm64

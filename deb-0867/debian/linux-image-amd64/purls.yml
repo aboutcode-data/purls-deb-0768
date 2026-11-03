@@ -18,3 +18,5 @@
 - pkg:deb/debian/linux-image-amd64@7.2.12-1?arch=amd64
 - pkg:deb/debian/linux-image-amd64@7.2.14-1?arch=amd64
 - pkg:deb/debian/linux-image-amd64@7.2.15-1?arch=amd64
+- pkg:deb/debian/linux-image-amd64@7.3.1-1~exp1?arch=amd64
+- pkg:deb/debian/linux-image-amd64@7.3~rc7-1~exp1?arch=amd64
