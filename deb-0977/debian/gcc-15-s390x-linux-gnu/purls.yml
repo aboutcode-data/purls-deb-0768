@@ -10,3 +10,4 @@
 - pkg:deb/debian/gcc-15-s390x-linux-gnu@15.2.0-7cross1?arch=i386
 - pkg:deb/debian/gcc-15-s390x-linux-gnu@15.2.0-7cross1?arch=ppc64el
 - pkg:deb/debian/gcc-15-s390x-linux-gnu@15.2.0-9?arch=s390x
+- pkg:deb/debian/gcc-15-s390x-linux-gnu@15.3.0-5?arch=s390x
