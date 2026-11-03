@@ -26,3 +26,8 @@
 - pkg:deb/debian/python3-kiwisolver@1.4.7-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-kiwisolver@1.4.7-3%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-kiwisolver@1.4.7-3%2Bb1?arch=s390x
+- pkg:deb/debian/python3-kiwisolver@1.5.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/python3-kiwisolver@1.5.1-1%2Bb1?arch=arm64
+- pkg:deb/debian/python3-kiwisolver@1.5.1-1%2Bb1?arch=armhf
+- pkg:deb/debian/python3-kiwisolver@1.5.1-1%2Bb1?arch=i386
+- pkg:deb/debian/python3-kiwisolver@1.5.1-1%2Bb1?arch=loong64
