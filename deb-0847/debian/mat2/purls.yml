@@ -3,3 +3,4 @@
 - pkg:deb/debian/mat2@0.13.5-1.2?arch=all
 - pkg:deb/debian/mat2@0.14.0-1?arch=all
 - pkg:deb/debian/mat2@0.14.0-2?arch=all
+- pkg:deb/debian/mat2@0.15.0-1.1?arch=all
