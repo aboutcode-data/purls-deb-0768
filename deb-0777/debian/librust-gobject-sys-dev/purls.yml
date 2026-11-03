@@ -30,6 +30,8 @@
 - pkg:deb/debian/librust-gobject-sys-dev@0.22.0%2Breally0.21.5-1?arch=ppc64el
 - pkg:deb/debian/librust-gobject-sys-dev@0.22.0%2Breally0.21.5-1?arch=riscv64
 - pkg:deb/debian/librust-gobject-sys-dev@0.22.0%2Breally0.21.5-1?arch=s390x
+- pkg:deb/debian/librust-gobject-sys-dev@0.22.9-2?arch=amd64
+- pkg:deb/debian/librust-gobject-sys-dev@0.22.9-2?arch=arm64
 - pkg:deb/debian/librust-gobject-sys-dev@0.9.0-2?arch=amd64
 - pkg:deb/debian/librust-gobject-sys-dev@0.9.0-2?arch=arm64
 - pkg:deb/debian/librust-gobject-sys-dev@0.9.0-2?arch=armhf
