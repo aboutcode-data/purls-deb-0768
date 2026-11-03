@@ -4,4 +4,5 @@
 - pkg:deb/debian/libcheckseum-ocaml-dev@0.5.4-1?arch=i386
 - pkg:deb/debian/libcheckseum-ocaml-dev@0.5.4-1?arch=loong64
 - pkg:deb/debian/libcheckseum-ocaml-dev@0.5.4-1?arch=ppc64el
+- pkg:deb/debian/libcheckseum-ocaml-dev@0.5.4-1?arch=riscv64
 - pkg:deb/debian/libcheckseum-ocaml-dev@0.5.4-1?arch=s390x

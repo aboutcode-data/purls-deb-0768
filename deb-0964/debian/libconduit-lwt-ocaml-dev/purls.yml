@@ -24,3 +24,11 @@
 - pkg:deb/debian/libconduit-lwt-ocaml-dev@7.1.0-1%2Bb9?arch=ppc64el
 - pkg:deb/debian/libconduit-lwt-ocaml-dev@7.1.0-1%2Bb9?arch=riscv64
 - pkg:deb/debian/libconduit-lwt-ocaml-dev@7.1.0-1%2Bb9?arch=s390x
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=amd64
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=arm64
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=armhf
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=i386
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=loong64
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=ppc64el
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=riscv64
+- pkg:deb/debian/libconduit-lwt-ocaml-dev@8.0.0-4%2Bb6?arch=s390x
