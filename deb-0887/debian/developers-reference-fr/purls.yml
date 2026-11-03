@@ -1,5 +1,6 @@
 - pkg:deb/debian/developers-reference-fr@11.0.21?arch=all
 - pkg:deb/debian/developers-reference-fr@12.18?arch=all
 - pkg:deb/debian/developers-reference-fr@13.20?arch=all
+- pkg:deb/debian/developers-reference-fr@14.18?arch=all
 - pkg:deb/debian/developers-reference-fr@14.2?arch=all
 - pkg:deb/debian/developers-reference-fr@14.4?arch=all

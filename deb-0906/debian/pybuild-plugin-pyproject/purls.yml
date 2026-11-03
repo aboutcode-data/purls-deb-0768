@@ -2,3 +2,5 @@
 - pkg:deb/debian/pybuild-plugin-pyproject@6.20250414?arch=all
 - pkg:deb/debian/pybuild-plugin-pyproject@6.20251201?arch=all
 - pkg:deb/debian/pybuild-plugin-pyproject@6.20251204.1?arch=all
+- pkg:deb/debian/pybuild-plugin-pyproject@7.20261019?arch=all
+- pkg:deb/debian/pybuild-plugin-pyproject@7.20261030?arch=all
