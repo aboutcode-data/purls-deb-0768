@@ -34,3 +34,8 @@
 - pkg:deb/debian/murasaki@1.68.6-17?arch=ppc64el
 - pkg:deb/debian/murasaki@1.68.6-17?arch=riscv64
 - pkg:deb/debian/murasaki@1.68.6-17?arch=s390x
+- pkg:deb/debian/murasaki@1.68.6-19?arch=amd64
+- pkg:deb/debian/murasaki@1.68.6-19?arch=arm64
+- pkg:deb/debian/murasaki@1.68.6-19?arch=loong64
+- pkg:deb/debian/murasaki@1.68.6-19?arch=ppc64el
+- pkg:deb/debian/murasaki@1.68.6-19?arch=riscv64
