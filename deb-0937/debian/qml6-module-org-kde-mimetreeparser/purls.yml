@@ -10,3 +10,7 @@
 - pkg:deb/debian/qml6-module-org-kde-mimetreeparser@25.08.3-2?arch=arm64
 - pkg:deb/debian/qml6-module-org-kde-mimetreeparser@25.08.3-2?arch=armhf
 - pkg:deb/debian/qml6-module-org-kde-mimetreeparser@25.08.3-2?arch=i386
+- pkg:deb/debian/qml6-module-org-kde-mimetreeparser@26.08.2-2?arch=amd64
+- pkg:deb/debian/qml6-module-org-kde-mimetreeparser@26.08.2-2?arch=arm64
+- pkg:deb/debian/qml6-module-org-kde-mimetreeparser@26.08.2-2?arch=armhf
+- pkg:deb/debian/qml6-module-org-kde-mimetreeparser@26.08.2-2?arch=i386
