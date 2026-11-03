@@ -26,3 +26,5 @@
 - pkg:deb/debian/kde-full@163?arch=ppc64el
 - pkg:deb/debian/kde-full@163?arch=riscv64
 - pkg:deb/debian/kde-full@163?arch=s390x
+- pkg:deb/debian/kde-full@174?arch=amd64
+- pkg:deb/debian/kde-full@174?arch=arm64

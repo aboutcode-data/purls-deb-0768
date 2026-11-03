@@ -2,3 +2,4 @@
 - pkg:deb/debian/messagelib-data@24.12.3-5?arch=all
 - pkg:deb/debian/messagelib-data@25.08.3-2?arch=all
 - pkg:deb/debian/messagelib-data@25.12.1-3?arch=all
+- pkg:deb/debian/messagelib-data@26.08.2-2?arch=all

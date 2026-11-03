@@ -44,3 +44,4 @@
 - pkg:deb/debian/gnome@49%2B8?arch=i386
 - pkg:deb/debian/gnome@49%2B8?arch=ppc64el
 - pkg:deb/debian/gnome@49%2B8?arch=s390x
+- pkg:deb/debian/gnome@51%2B2?arch=riscv64

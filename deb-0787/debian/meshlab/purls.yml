@@ -21,3 +21,4 @@
 - pkg:deb/debian/meshlab@2025.07~dfsg-1?arch=ppc64el
 - pkg:deb/debian/meshlab@2025.07~dfsg-1?arch=riscv64
 - pkg:deb/debian/meshlab@2025.07~dfsg-1?arch=s390x
+- pkg:deb/debian/meshlab@2025.07~dfsg-4?arch=riscv64
