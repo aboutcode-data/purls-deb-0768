@@ -18,6 +18,14 @@
 - pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb1?arch=s390x
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=amd64
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=arm64
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=armhf
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=i386
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=riscv64
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb3?arch=s390x
+- pkg:deb/debian/python3-mpi4py-fft@2.0.6-2%2Bb4?arch=loong64
 - pkg:deb/debian/python3-mpi4py-fft@2.0.6-2?arch=amd64
 - pkg:deb/debian/python3-mpi4py-fft@2.0.6-2?arch=arm64
 - pkg:deb/debian/python3-mpi4py-fft@2.0.6-2?arch=armel
