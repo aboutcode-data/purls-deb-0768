@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-build@20220426-1?arch=all
 - pkg:deb/debian/ruby-build@20241225.2-1.1?arch=all
 - pkg:deb/debian/ruby-build@20260121-1?arch=all
+- pkg:deb/debian/ruby-build@20261023-1?arch=all
