@@ -24,3 +24,11 @@
 - pkg:deb/debian/libocsipersist-lib-ocaml@2.0.0-1%2Bb8?arch=armel
 - pkg:deb/debian/libocsipersist-lib-ocaml@2.0.0-1%2Bb8?arch=armhf
 - pkg:deb/debian/libocsipersist-lib-ocaml@2.0.0-1%2Bb8?arch=i386
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=amd64
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=arm64
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=armhf
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=i386
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=loong64
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=ppc64el
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=riscv64
+- pkg:deb/debian/libocsipersist-lib-ocaml@2.1.0-1%2Bb7?arch=s390x
