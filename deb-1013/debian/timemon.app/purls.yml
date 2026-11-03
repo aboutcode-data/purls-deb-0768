@@ -20,3 +20,11 @@
 - pkg:deb/debian/timemon.app@4.2-3%2Bb2?arch=s390x
 - pkg:deb/debian/timemon.app@4.2-3%2Bb3?arch=arm64
 - pkg:deb/debian/timemon.app@4.2-3?arch=loong64
+- pkg:deb/debian/timemon.app@4.2-5?arch=amd64
+- pkg:deb/debian/timemon.app@4.2-5?arch=arm64
+- pkg:deb/debian/timemon.app@4.2-5?arch=armhf
+- pkg:deb/debian/timemon.app@4.2-5?arch=i386
+- pkg:deb/debian/timemon.app@4.2-5?arch=loong64
+- pkg:deb/debian/timemon.app@4.2-5?arch=ppc64el
+- pkg:deb/debian/timemon.app@4.2-5?arch=riscv64
+- pkg:deb/debian/timemon.app@4.2-5?arch=s390x

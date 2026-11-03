@@ -15,6 +15,14 @@
 - pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.3%2Bb1?arch=ppc64el
 - pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.3%2Bb1?arch=riscv64
 - pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.3%2Bb1?arch=s390x
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=amd64
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=arm64
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=armhf
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=i386
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=loong64
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=ppc64el
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=riscv64
+- pkg:deb/debian/timidity-interfaces-extra@2.14.0-8.5?arch=s390x
 - pkg:deb/debian/timidity-interfaces-extra@2.14.0-8?arch=amd64
 - pkg:deb/debian/timidity-interfaces-extra@2.14.0-8?arch=arm64
 - pkg:deb/debian/timidity-interfaces-extra@2.14.0-8?arch=armhf
