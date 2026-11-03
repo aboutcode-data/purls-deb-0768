@@ -1,1 +1,3 @@
 - pkg:deb/debian/python3-pkgos@151?arch=all
+- pkg:deb/debian/python3-pkgos@157?arch=all
+- pkg:deb/debian/python3-pkgos@158?arch=all
