@@ -28,3 +28,10 @@
 - pkg:deb/debian/gnome-flashback@3.58.0-1?arch=s390x
 - pkg:deb/debian/gnome-flashback@3.58.0-6?arch=loong64
 - pkg:deb/debian/gnome-flashback@3.58.0-6?arch=riscv64
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=amd64
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=arm64
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=armhf
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=i386
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=loong64
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=ppc64el
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=s390x

@@ -24,3 +24,6 @@
 - pkg:deb/debian/gnome-color-manager@3.36.2-3?arch=armhf
 - pkg:deb/debian/gnome-color-manager@3.36.2-3?arch=i386
 - pkg:deb/debian/gnome-color-manager@3.36.2-3?arch=loong64
+- pkg:deb/debian/gnome-color-manager@3.36.2-3?arch=ppc64el
+- pkg:deb/debian/gnome-color-manager@3.36.2-3?arch=riscv64
+- pkg:deb/debian/gnome-color-manager@3.36.2-3?arch=s390x
