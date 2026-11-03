@@ -1,0 +1,7 @@
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=amd64
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=arm64
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=armhf
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=i386
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=loong64
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=ppc64el
+- pkg:deb/debian/lomiri-location-service-qt6-plugin@3.4.1-6?arch=s390x

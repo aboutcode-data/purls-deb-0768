@@ -7,3 +7,10 @@
 - pkg:deb/debian/liblomiri-location-service3@3.3.0-2?arch=armel
 - pkg:deb/debian/liblomiri-location-service3@3.3.0-2?arch=armhf
 - pkg:deb/debian/liblomiri-location-service3@3.3.0-2?arch=s390x
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=amd64
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=arm64
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=armhf
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=i386
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=loong64
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=ppc64el
+- pkg:deb/debian/liblomiri-location-service3@3.4.1-6?arch=s390x
