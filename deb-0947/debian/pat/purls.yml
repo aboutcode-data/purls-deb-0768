@@ -22,3 +22,11 @@
 - pkg:deb/debian/pat@0.16.0-1%2Bb9?arch=ppc64el
 - pkg:deb/debian/pat@0.16.0-1%2Bb9?arch=riscv64
 - pkg:deb/debian/pat@0.16.0-1%2Bb9?arch=s390x
+- pkg:deb/debian/pat@1.0.0-3?arch=amd64
+- pkg:deb/debian/pat@1.0.0-3?arch=arm64
+- pkg:deb/debian/pat@1.0.0-3?arch=armhf
+- pkg:deb/debian/pat@1.0.0-3?arch=i386
+- pkg:deb/debian/pat@1.0.0-3?arch=loong64
+- pkg:deb/debian/pat@1.0.0-3?arch=ppc64el
+- pkg:deb/debian/pat@1.0.0-3?arch=riscv64
+- pkg:deb/debian/pat@1.0.0-3?arch=s390x
