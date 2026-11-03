@@ -1,1 +1,2 @@
 - pkg:deb/debian/gnome-shell-extension-bottom-panel@49.0-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-bottom-panel@51.0-1?arch=all
