@@ -1,0 +1,7 @@
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=amd64
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=arm64
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=armhf
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=i386
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=loong64
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=ppc64el
+- pkg:deb/debian/wasm-tools@1.239.0%2Bds-11?arch=s390x
