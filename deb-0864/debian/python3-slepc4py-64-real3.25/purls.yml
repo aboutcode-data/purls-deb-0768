@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=amd64
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=arm64
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=armhf
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=i386
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=loong64
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-slepc4py-64-real3.25@3.25.1-1%2Bb2?arch=s390x

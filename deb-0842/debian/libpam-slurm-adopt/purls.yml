@@ -26,3 +26,9 @@
 - pkg:deb/debian/libpam-slurm-adopt@25.05.4-2?arch=ppc64el
 - pkg:deb/debian/libpam-slurm-adopt@25.05.4-2?arch=riscv64
 - pkg:deb/debian/libpam-slurm-adopt@25.05.4-2?arch=s390x
+- pkg:deb/debian/libpam-slurm-adopt@26.05.5-1?arch=amd64
+- pkg:deb/debian/libpam-slurm-adopt@26.05.5-1?arch=arm64
+- pkg:deb/debian/libpam-slurm-adopt@26.05.5-1?arch=armhf
+- pkg:deb/debian/libpam-slurm-adopt@26.05.5-1?arch=i386
+- pkg:deb/debian/libpam-slurm-adopt@26.05.5-1?arch=loong64
+- pkg:deb/debian/libpam-slurm-adopt@26.05.5-1?arch=ppc64el
