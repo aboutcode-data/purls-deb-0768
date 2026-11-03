@@ -44,3 +44,11 @@
 - pkg:deb/debian/libbtrfsutil-dev@6.2-1%2Bdeb12u2?arch=mipsel
 - pkg:deb/debian/libbtrfsutil-dev@6.2-1%2Bdeb12u2?arch=ppc64el
 - pkg:deb/debian/libbtrfsutil-dev@6.2-1%2Bdeb12u2?arch=s390x
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=amd64
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=arm64
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=armhf
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=i386
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=loong64
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=ppc64el
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=riscv64
+- pkg:deb/debian/libbtrfsutil-dev@7.3-1?arch=s390x
