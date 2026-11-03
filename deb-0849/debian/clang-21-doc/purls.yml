@@ -1,2 +1,3 @@
 - pkg:deb/debian/clang-21-doc@21.1.6-2?arch=all
 - pkg:deb/debian/clang-21-doc@21.1.6-3?arch=all
+- pkg:deb/debian/clang-21-doc@21.1.8-14?arch=all
