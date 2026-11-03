@@ -26,3 +26,5 @@
 - pkg:deb/debian/ruby-remctl@3.18-5%2Bb1?arch=ppc64el
 - pkg:deb/debian/ruby-remctl@3.18-5%2Bb1?arch=riscv64
 - pkg:deb/debian/ruby-remctl@3.18-5%2Bb1?arch=s390x
+- pkg:deb/debian/ruby-remctl@3.18-5%2Bb5?arch=amd64
+- pkg:deb/debian/ruby-remctl@3.18-5%2Bb5?arch=arm64
