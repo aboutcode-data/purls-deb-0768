@@ -2,3 +2,4 @@
 - pkg:deb/debian/php-hamcrest@2.0.1-4?arch=all
 - pkg:deb/debian/php-hamcrest@2.1.1-1?arch=all
 - pkg:deb/debian/php-hamcrest@2.1.1-2?arch=all
+- pkg:deb/debian/php-hamcrest@3.0.0-2?arch=all
