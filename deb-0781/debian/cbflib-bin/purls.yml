@@ -26,3 +26,11 @@
 - pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb1?arch=ppc64el
 - pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb1?arch=riscv64
 - pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb1?arch=s390x
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=amd64
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=arm64
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=armhf
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=i386
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=loong64
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=ppc64el
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=riscv64
+- pkg:deb/debian/cbflib-bin@0.9.7%2Bdfsg1-5.1%2Bb4?arch=s390x
