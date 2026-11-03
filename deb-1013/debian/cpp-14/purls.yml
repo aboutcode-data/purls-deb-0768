@@ -13,3 +13,4 @@
 - pkg:deb/debian/cpp-14@14.3.0-10?arch=ppc64el
 - pkg:deb/debian/cpp-14@14.3.0-10?arch=riscv64
 - pkg:deb/debian/cpp-14@14.3.0-10?arch=s390x
+- pkg:deb/debian/cpp-14@14.4.0-3?arch=riscv64
