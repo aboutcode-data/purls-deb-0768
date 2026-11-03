@@ -1,1 +1,3 @@
 - pkg:deb/debian/golang-1.26-doc@1.26.0-1?arch=all
+- pkg:deb/debian/golang-1.26-doc@1.26.10-1?arch=all
+- pkg:deb/debian/golang-1.26-doc@1.26.10-1~bpo13%2B1?arch=all
