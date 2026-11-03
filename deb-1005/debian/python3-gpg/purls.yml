@@ -31,3 +31,6 @@
 - pkg:deb/debian/python3-gpg@2.0.0-3%2Bb2?arch=arm64
 - pkg:deb/debian/python3-gpg@2.0.0-3%2Bb2?arch=armhf
 - pkg:deb/debian/python3-gpg@2.0.0-3%2Bb2?arch=i386
+- pkg:deb/debian/python3-gpg@2.0.0-3%2Bb2?arch=loong64
+- pkg:deb/debian/python3-gpg@2.0.0-3%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-gpg@2.0.0-3%2Bb2?arch=s390x

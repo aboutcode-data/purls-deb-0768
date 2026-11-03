@@ -1,2 +1,5 @@
 - pkg:deb/debian/gradle-debian-helper@2.1?arch=all
 - pkg:deb/debian/gradle-debian-helper@2.4?arch=all
+- pkg:deb/debian/gradle-debian-helper@3.1?arch=all
+- pkg:deb/debian/gradle-debian-helper@3.2?arch=all
+- pkg:deb/debian/gradle-debian-helper@3.3?arch=all
