@@ -1,2 +1,4 @@
 - pkg:deb/debian/libarmnnaclcommon33t64@23.08-5?arch=arm64
 - pkg:deb/debian/libarmnnaclcommon33t64@23.08-5?arch=armhf
+- pkg:deb/debian/libarmnnaclcommon33t64@23.08-6?arch=arm64
+- pkg:deb/debian/libarmnnaclcommon33t64@23.08-6?arch=armhf
