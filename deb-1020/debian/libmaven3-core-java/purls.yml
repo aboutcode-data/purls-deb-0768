@@ -1,3 +1,4 @@
 - pkg:deb/debian/libmaven3-core-java@3.6.3-5?arch=all
 - pkg:deb/debian/libmaven3-core-java@3.8.7-1?arch=all
+- pkg:deb/debian/libmaven3-core-java@3.9.14-1?arch=all
 - pkg:deb/debian/libmaven3-core-java@3.9.9-1?arch=all

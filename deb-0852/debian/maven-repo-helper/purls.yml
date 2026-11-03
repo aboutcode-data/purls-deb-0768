@@ -1,3 +1,4 @@
 - pkg:deb/debian/maven-repo-helper@1.10?arch=all
 - pkg:deb/debian/maven-repo-helper@1.11?arch=all
 - pkg:deb/debian/maven-repo-helper@1.12?arch=all
+- pkg:deb/debian/maven-repo-helper@1.13?arch=all
