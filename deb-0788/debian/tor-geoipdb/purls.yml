@@ -5,4 +5,6 @@
 - pkg:deb/debian/tor-geoipdb@0.4.8.22-1?arch=all
 - pkg:deb/debian/tor-geoipdb@0.4.8.22-1~bpo12%2B1?arch=all
 - pkg:deb/debian/tor-geoipdb@0.4.8.22-1~bpo13%2B1?arch=all
+- pkg:deb/debian/tor-geoipdb@0.4.9.15-0%2Bdeb13u1?arch=all
+- pkg:deb/debian/tor-geoipdb@0.4.9.15-1?arch=all
 - pkg:deb/debian/tor-geoipdb@0.4.9.5-1?arch=all
