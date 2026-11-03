@@ -33,3 +33,12 @@
 - pkg:deb/debian/macaulay2@1.25.11%2Bds-4?arch=ppc64el
 - pkg:deb/debian/macaulay2@1.25.11%2Bds-4?arch=riscv64
 - pkg:deb/debian/macaulay2@1.25.11%2Bds-4?arch=s390x
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-3%2Bb3?arch=riscv64
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=amd64
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=arm64
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=armhf
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=i386
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=loong64
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=ppc64el
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5%2Bb1?arch=s390x
+- pkg:deb/debian/macaulay2@1.26.06%2Bds-5?arch=riscv64
