@@ -1,2 +1,3 @@
 - pkg:deb/debian/python-fastchunking-doc@0.0.3-2?arch=all
 - pkg:deb/debian/python-fastchunking-doc@0.0.3-4?arch=all
+- pkg:deb/debian/python-fastchunking-doc@0.0.3-5?arch=all
