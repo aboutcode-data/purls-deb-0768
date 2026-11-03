@@ -32,3 +32,5 @@
 - pkg:deb/debian/python3-getdns@1.0.0~b1-6%2Bb5?arch=i386
 - pkg:deb/debian/python3-getdns@1.0.0~b1-6%2Bb5?arch=loong64
 - pkg:deb/debian/python3-getdns@1.0.0~b1-6%2Bb5?arch=ppc64el
+- pkg:deb/debian/python3-getdns@1.0.0~b1-6%2Bb5?arch=riscv64
+- pkg:deb/debian/python3-getdns@1.0.0~b1-6%2Bb5?arch=s390x
