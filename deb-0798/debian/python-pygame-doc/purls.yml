@@ -2,3 +2,4 @@
 - pkg:deb/debian/python-pygame-doc@2.1.2%2Bdfsg-5?arch=all
 - pkg:deb/debian/python-pygame-doc@2.6.1-1?arch=all
 - pkg:deb/debian/python-pygame-doc@2.6.1-2?arch=all
+- pkg:deb/debian/python-pygame-doc@2.6.1-6?arch=all
