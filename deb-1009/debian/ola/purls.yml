@@ -19,3 +19,10 @@
 - pkg:deb/debian/ola@0.10.9.nojsmin-7.1?arch=ppc64el
 - pkg:deb/debian/ola@0.10.9.nojsmin-7.1?arch=riscv64
 - pkg:deb/debian/ola@0.10.9.nojsmin-7.1?arch=s390x
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=amd64
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=arm64
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=armhf
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=i386
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=loong64
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=ppc64el
+- pkg:deb/debian/ola@0.10.9.nojsmin-8?arch=s390x

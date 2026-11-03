@@ -3,3 +3,4 @@
 - pkg:deb/debian/opam-doc@2.3.0-1?arch=all
 - pkg:deb/debian/opam-doc@2.4.1-1?arch=all
 - pkg:deb/debian/opam-doc@2.5.0-1?arch=all
+- pkg:deb/debian/opam-doc@2.6.1-1?arch=all

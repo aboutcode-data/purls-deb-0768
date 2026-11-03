@@ -1,3 +1,4 @@
 - pkg:deb/debian/ontospy@1.9.8.3~dfsg-2?arch=all
 - pkg:deb/debian/ontospy@2.1.1~dfsg-1?arch=all
 - pkg:deb/debian/ontospy@2.1.1~dfsg2-4?arch=all
+- pkg:deb/debian/ontospy@2.7%2Bds-1?arch=all
