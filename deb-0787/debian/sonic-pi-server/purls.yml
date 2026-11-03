@@ -2,3 +2,10 @@
 - pkg:deb/debian/sonic-pi-server@3.2.2~repack-12?arch=all
 - pkg:deb/debian/sonic-pi-server@3.2.2~repack-7?arch=all
 - pkg:deb/debian/sonic-pi-server@3.2.2~repack-8?arch=all
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=amd64
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=arm64
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=armhf
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=i386
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=loong64
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=riscv64
+- pkg:deb/debian/sonic-pi-server@4.6.0~repack3-4%2Bb2?arch=s390x
