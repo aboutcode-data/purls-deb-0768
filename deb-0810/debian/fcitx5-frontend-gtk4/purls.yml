@@ -22,3 +22,10 @@
 - pkg:deb/debian/fcitx5-frontend-gtk4@5.1.4-3?arch=ppc64el
 - pkg:deb/debian/fcitx5-frontend-gtk4@5.1.4-3?arch=riscv64
 - pkg:deb/debian/fcitx5-frontend-gtk4@5.1.4-3?arch=s390x
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=amd64
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=arm64
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=armhf
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=i386
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=loong64
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=ppc64el
+- pkg:deb/debian/fcitx5-frontend-gtk4@5.1.7-2?arch=s390x
