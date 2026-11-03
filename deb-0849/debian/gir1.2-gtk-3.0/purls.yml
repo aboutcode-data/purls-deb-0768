@@ -34,3 +34,11 @@
 - pkg:deb/debian/gir1.2-gtk-3.0@3.24.51-2?arch=riscv64
 - pkg:deb/debian/gir1.2-gtk-3.0@3.24.51-2?arch=s390x
 - pkg:deb/debian/gir1.2-gtk-3.0@3.24.51-4%2Bb1?arch=loong64
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=amd64
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=arm64
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=armhf
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=i386
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=loong64
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=ppc64el
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=riscv64
+- pkg:deb/debian/gir1.2-gtk-3.0@3.24.52-3?arch=s390x
