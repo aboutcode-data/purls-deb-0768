@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-modules-7.3-armmp-lpae@7.3.1-1~exp1?arch=armhf
+- pkg:deb/debian/linux-modules-7.3-armmp-lpae@7.3~rc7-1~exp1?arch=armhf
