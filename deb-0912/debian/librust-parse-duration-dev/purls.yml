@@ -2,5 +2,6 @@
 - pkg:deb/debian/librust-parse-duration-dev@2.1.1-1?arch=arm64
 - pkg:deb/debian/librust-parse-duration-dev@2.1.1-1?arch=armhf
 - pkg:deb/debian/librust-parse-duration-dev@2.1.1-1?arch=i386
+- pkg:deb/debian/librust-parse-duration-dev@2.1.1-1?arch=loong64
 - pkg:deb/debian/librust-parse-duration-dev@2.1.1-1?arch=ppc64el
 - pkg:deb/debian/librust-parse-duration-dev@2.1.1-1?arch=s390x
