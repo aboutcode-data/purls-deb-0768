@@ -19,6 +19,14 @@
 - pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-10?arch=ppc64el
 - pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-10?arch=riscv64
 - pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-10?arch=s390x
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=amd64
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=arm64
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=armhf
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=i386
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=loong64
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=ppc64el
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=riscv64
+- pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-12?arch=s390x
 - pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-9?arch=amd64
 - pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-9?arch=arm64
 - pkg:deb/debian/libsasl2-modules-ldap@2.1.28%2Bdfsg1-9?arch=armel
