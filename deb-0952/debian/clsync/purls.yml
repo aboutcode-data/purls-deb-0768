@@ -22,3 +22,4 @@
 - pkg:deb/debian/clsync@0.4.5-2?arch=mipsel
 - pkg:deb/debian/clsync@0.4.5-2?arch=ppc64el
 - pkg:deb/debian/clsync@0.4.5-2?arch=s390x
+- pkg:deb/debian/clsync@0.4.5-3?arch=riscv64
