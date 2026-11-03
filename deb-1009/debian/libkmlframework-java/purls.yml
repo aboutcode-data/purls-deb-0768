@@ -8,3 +8,4 @@
 - pkg:deb/debian/libkmlframework-java@0.0.git20150825.a2e0518-1?arch=mipsel
 - pkg:deb/debian/libkmlframework-java@0.0.git20150825.a2e0518-1?arch=ppc64el
 - pkg:deb/debian/libkmlframework-java@0.0.git20150825.a2e0518-1?arch=s390x
+- pkg:deb/debian/libkmlframework-java@0.0.git20150825.a2e0518-2?arch=all
