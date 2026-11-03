@@ -6,3 +6,6 @@
 - pkg:deb/debian/libnvidia-tesla-535-opticalflow1@535.274.02-1~deb13u1?arch=amd64
 - pkg:deb/debian/libnvidia-tesla-535-opticalflow1@535.274.02-1~deb13u1?arch=arm64
 - pkg:deb/debian/libnvidia-tesla-535-opticalflow1@535.274.02-1~deb13u1?arch=i386
+- pkg:deb/debian/libnvidia-tesla-535-opticalflow1@535.274.02-3?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-535-opticalflow1@535.274.02-3?arch=arm64
+- pkg:deb/debian/libnvidia-tesla-535-opticalflow1@535.274.02-3?arch=i386
