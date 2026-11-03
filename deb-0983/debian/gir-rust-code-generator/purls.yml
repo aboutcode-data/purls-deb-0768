@@ -27,3 +27,4 @@
 - pkg:deb/debian/gir-rust-code-generator@0.22.0-alpha.2-1?arch=ppc64el
 - pkg:deb/debian/gir-rust-code-generator@0.22.0-alpha.2-1?arch=riscv64
 - pkg:deb/debian/gir-rust-code-generator@0.22.0-alpha.2-1?arch=s390x
+- pkg:deb/debian/gir-rust-code-generator@0.22.3-5?arch=riscv64
