@@ -13,3 +13,9 @@
 - pkg:deb/debian/emacs-mozc@2.29.5160.102%2Bdfsg-1.4?arch=armhf
 - pkg:deb/debian/emacs-mozc@2.29.5160.102%2Bdfsg-1.4?arch=i386
 - pkg:deb/debian/emacs-mozc@2.29.5160.102%2Bdfsg-1.4?arch=riscv64
+- pkg:deb/debian/emacs-mozc@3.33.6133%2Bds1-0.2?arch=riscv64
+- pkg:deb/debian/emacs-mozc@3.34.6239%2Bds1-0.1~exp1?arch=loong64
+- pkg:deb/debian/emacs-mozc@3.35.6354%2Bds1-0.1~exp1?arch=amd64
+- pkg:deb/debian/emacs-mozc@3.35.6354%2Bds1-0.1~exp1?arch=arm64
+- pkg:deb/debian/emacs-mozc@3.35.6354%2Bds1-0.1~exp1?arch=loong64
+- pkg:deb/debian/emacs-mozc@3.35.6354%2Bds1-0.1~exp1?arch=ppc64el
