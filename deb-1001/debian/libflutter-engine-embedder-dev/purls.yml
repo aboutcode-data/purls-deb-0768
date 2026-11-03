@@ -1,0 +1,5 @@
+- pkg:deb/debian/libflutter-engine-embedder-dev@3.47.5%2Bds1-1?arch=amd64
+- pkg:deb/debian/libflutter-engine-embedder-dev@3.47.5%2Bds1-1?arch=arm64
+- pkg:deb/debian/libflutter-engine-embedder-dev@3.47.5%2Bds1-3?arch=amd64
+- pkg:deb/debian/libflutter-engine-embedder-dev@3.47.5%2Bds1-3?arch=arm64
+- pkg:deb/debian/libflutter-engine-embedder-dev@3.47.5%2Bds1-3?arch=armhf

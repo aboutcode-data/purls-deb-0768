@@ -1,1 +1,2 @@
 - pkg:deb/debian/fonts-national-park@0.0~20220205-2?arch=all
+- pkg:deb/debian/fonts-national-park@0.0~git20250307.ef0531a%2Bds-1?arch=all

@@ -1,1 +1,2 @@
 - pkg:deb/debian/fonts-inconsolata@001.010-6?arch=all
+- pkg:deb/debian/fonts-inconsolata@3.001%2Bds-1?arch=all
