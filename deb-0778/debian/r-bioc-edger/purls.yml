@@ -11,6 +11,11 @@
 - pkg:deb/debian/r-bioc-edger@3.40.2%2Bdfsg-1?arch=mipsel
 - pkg:deb/debian/r-bioc-edger@3.40.2%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/r-bioc-edger@3.40.2%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/r-bioc-edger@4.10.7%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/r-bioc-edger@4.10.7%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/r-bioc-edger@4.10.7%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/r-bioc-edger@4.10.7%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/r-bioc-edger@4.10.7%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/r-bioc-edger@4.4.2%2Bdfsg-1?arch=amd64
 - pkg:deb/debian/r-bioc-edger@4.4.2%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/r-bioc-edger@4.4.2%2Bdfsg-1?arch=ppc64el
