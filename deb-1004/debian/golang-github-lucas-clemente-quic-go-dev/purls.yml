@@ -3,3 +3,4 @@
 - pkg:deb/debian/golang-github-lucas-clemente-quic-go-dev@0.46.0-2~bpo12%2B1?arch=all
 - pkg:deb/debian/golang-github-lucas-clemente-quic-go-dev@0.50.1-2?arch=all
 - pkg:deb/debian/golang-github-lucas-clemente-quic-go-dev@0.55.0-1?arch=all
+- pkg:deb/debian/golang-github-lucas-clemente-quic-go-dev@0.64.1-1?arch=all

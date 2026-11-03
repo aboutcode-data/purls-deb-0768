@@ -1,3 +1,5 @@
 - pkg:deb/debian/golang-github-insomniacslk-dhcp-dev@0.0~git20200621.d74cd86-1?arch=all
 - pkg:deb/debian/golang-github-insomniacslk-dhcp-dev@0.0~git20220915.043f172-2?arch=all
 - pkg:deb/debian/golang-github-insomniacslk-dhcp-dev@0.0~git20251020.175e84f-1?arch=all
+- pkg:deb/debian/golang-github-insomniacslk-dhcp-dev@0.0~git20261014.c6bb46a-1?arch=all
+- pkg:deb/debian/golang-github-insomniacslk-dhcp-dev@0.0~git20261014.c6bb46a-1~bpo13%2B1?arch=all

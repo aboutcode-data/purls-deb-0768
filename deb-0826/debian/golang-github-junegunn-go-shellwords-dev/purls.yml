@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-junegunn-go-shellwords-dev@0.0~git20240813.a62c48c-2?arch=all
+- pkg:deb/debian/golang-github-junegunn-go-shellwords-dev@0.0~git20250127.2aa3b32-1?arch=all
