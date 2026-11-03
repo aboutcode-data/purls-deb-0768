@@ -22,6 +22,7 @@
 - pkg:deb/debian/mia-tools@2.4.7-17?arch=ppc64el
 - pkg:deb/debian/mia-tools@2.4.7-17?arch=riscv64
 - pkg:deb/debian/mia-tools@2.4.7-17?arch=s390x
+- pkg:deb/debian/mia-tools@2.4.7-19%2Bb4?arch=riscv64
 - pkg:deb/debian/mia-tools@2.4.7-7?arch=amd64
 - pkg:deb/debian/mia-tools@2.4.7-7?arch=arm64
 - pkg:deb/debian/mia-tools@2.4.7-7?arch=armhf
