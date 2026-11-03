@@ -3,4 +3,6 @@
 - pkg:deb/debian/php-symfony-translation@6.4.21%2Bdfsg-2?arch=all
 - pkg:deb/debian/php-symfony-translation@7.4.0%2Bdfsg-2?arch=all
 - pkg:deb/debian/php-symfony-translation@7.4.0~rc2%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-symfony-translation@7.4.22%2Bdfsg-1?arch=all
 - pkg:deb/debian/php-symfony-translation@8.0.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-symfony-translation@8.1.10%2Bdfsg-1?arch=all
