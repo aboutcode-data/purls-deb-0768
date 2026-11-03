@@ -10,3 +10,4 @@
 - pkg:deb/debian/fonts-opensymbol@102.12%2BLibO26.2.1~rc2-1?arch=all
 - pkg:deb/debian/fonts-opensymbol@102.12%2BLibO7.4.7-1%2Bdeb12u9?arch=all
 - pkg:deb/debian/fonts-opensymbol@102.12%2BLibO7.5.9~rc1-1~bpo12%2B2?arch=all
+- pkg:deb/debian/fonts-opensymbol@102.13%2BLibO26.8.2.2-2?arch=all
