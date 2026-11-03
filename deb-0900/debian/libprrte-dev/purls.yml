@@ -4,3 +4,8 @@
 - pkg:deb/debian/libprrte-dev@3.0.13-1?arch=ppc64el
 - pkg:deb/debian/libprrte-dev@3.0.13-1?arch=riscv64
 - pkg:deb/debian/libprrte-dev@3.0.13-1?arch=s390x
+- pkg:deb/debian/libprrte-dev@5.0.0~rc1-2?arch=amd64
+- pkg:deb/debian/libprrte-dev@5.0.0~rc1-2?arch=arm64
+- pkg:deb/debian/libprrte-dev@5.0.0~rc1-2?arch=loong64
+- pkg:deb/debian/libprrte-dev@5.0.0~rc1-2?arch=ppc64el
+- pkg:deb/debian/libprrte-dev@5.0.0~rc1-2?arch=s390x
