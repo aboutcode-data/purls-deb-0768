@@ -4,3 +4,4 @@
 - pkg:deb/debian/liblldb-24@24~%2B%2B20261025103442%2B7e3c57157096-1~exp1?arch=i386
 - pkg:deb/debian/liblldb-24@24~%2B%2B20261025103442%2B7e3c57157096-1~exp1?arch=loong64
 - pkg:deb/debian/liblldb-24@24~%2B%2B20261025103442%2B7e3c57157096-1~exp1?arch=ppc64el
+- pkg:deb/debian/liblldb-24@24~%2B%2B20261025103442%2B7e3c57157096-1~exp1?arch=s390x
