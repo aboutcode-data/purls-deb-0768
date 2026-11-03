@@ -4,3 +4,4 @@
 - pkg:deb/debian/cpp-16-arm-linux-gnueabihf@16-20260208-1cross1?arch=i386
 - pkg:deb/debian/cpp-16-arm-linux-gnueabihf@16-20260208-1cross1?arch=ppc64el
 - pkg:deb/debian/cpp-16-arm-linux-gnueabihf@16-20260208-1cross1?arch=s390x
+- pkg:deb/debian/cpp-16-arm-linux-gnueabihf@16.2.0-4?arch=armhf
