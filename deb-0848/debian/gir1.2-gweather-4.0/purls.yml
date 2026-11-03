@@ -28,3 +28,5 @@
 - pkg:deb/debian/gir1.2-gweather-4.0@4.4.4-4?arch=i386
 - pkg:deb/debian/gir1.2-gweather-4.0@4.4.4-4?arch=ppc64el
 - pkg:deb/debian/gir1.2-gweather-4.0@4.4.4-4?arch=s390x
+- pkg:deb/debian/gir1.2-gweather-4.0@4.6.0-5?arch=amd64
+- pkg:deb/debian/gir1.2-gweather-4.0@4.6.0-5?arch=arm64
