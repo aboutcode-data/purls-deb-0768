@@ -13,3 +13,11 @@
 - pkg:deb/debian/libodil0t64@0.13.0-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libodil0t64@0.13.0-1%2Bb1?arch=s390x
 - pkg:deb/debian/libodil0t64@0.13.0-1?arch=riscv64
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb3?arch=riscv64
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=amd64
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=arm64
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=armhf
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=i386
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=loong64
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=ppc64el
+- pkg:deb/debian/libodil0t64@0.13.0-3%2Bb4?arch=s390x
