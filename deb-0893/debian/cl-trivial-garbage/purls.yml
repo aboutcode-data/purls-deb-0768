@@ -1,3 +1,4 @@
 - pkg:deb/debian/cl-trivial-garbage@20200801.git2319892-1?arch=all
 - pkg:deb/debian/cl-trivial-garbage@20211229.gitb3af9c0-1?arch=all
 - pkg:deb/debian/cl-trivial-garbage@20231018.git3474f64-1?arch=all
+- pkg:deb/debian/cl-trivial-garbage@20260829.gitf0663f7-1?arch=all
