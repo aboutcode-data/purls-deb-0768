@@ -34,3 +34,4 @@
 - pkg:deb/debian/ostree-boot@2025.7-3?arch=ppc64el
 - pkg:deb/debian/ostree-boot@2025.7-3?arch=riscv64
 - pkg:deb/debian/ostree-boot@2025.7-3?arch=s390x
+- pkg:deb/debian/ostree-boot@2026.6-1?arch=amd64

@@ -7,3 +7,4 @@
 - pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=arm64
 - pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=ppc64el
 - pkg:deb/debian/libosmo-ranap7@1.7.0%2Bdfsg1-2?arch=riscv64
+- pkg:deb/debian/libosmo-ranap7@1.8.1%2Bdfsg1-3?arch=riscv64
