@@ -4,3 +4,5 @@
 - pkg:deb/debian/storm-lang-ui@0.6.28-3%2Bb1?arch=arm64
 - pkg:deb/debian/storm-lang-ui@0.7.3-1?arch=amd64
 - pkg:deb/debian/storm-lang-ui@0.7.3-1?arch=arm64
+- pkg:deb/debian/storm-lang-ui@0.8.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/storm-lang-ui@0.8.2%2Bdfsg-1?arch=arm64
