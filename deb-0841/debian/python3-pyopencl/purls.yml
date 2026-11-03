@@ -25,4 +25,7 @@
 - pkg:deb/debian/python3-pyopencl@2025.1-2%2Bb1?arch=i386
 - pkg:deb/debian/python3-pyopencl@2025.1-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-pyopencl@2025.1-2%2Bb1?arch=s390x
+- pkg:deb/debian/python3-pyopencl@2025.1-2%2Bb3?arch=loong64
+- pkg:deb/debian/python3-pyopencl@2025.1-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/python3-pyopencl@2025.1-2%2Bb3?arch=s390x
 - pkg:deb/debian/python3-pyopencl@2025.1-2?arch=riscv64
