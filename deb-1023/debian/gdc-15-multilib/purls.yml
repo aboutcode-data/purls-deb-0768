@@ -8,3 +8,5 @@
 - pkg:deb/debian/gdc-15-multilib@15.2.0-9?arch=amd64
 - pkg:deb/debian/gdc-15-multilib@15.2.0-9?arch=i386
 - pkg:deb/debian/gdc-15-multilib@15.2.0-9?arch=s390x
+- pkg:deb/debian/gdc-15-multilib@15.3.0-5?arch=amd64
+- pkg:deb/debian/gdc-15-multilib@15.3.0-5?arch=i386
