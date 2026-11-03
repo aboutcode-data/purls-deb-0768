@@ -18,3 +18,4 @@
 - pkg:deb/debian/knot-resolver6-dev@6.1.0-2?arch=ppc64el
 - pkg:deb/debian/knot-resolver6-dev@6.1.0-2?arch=riscv64
 - pkg:deb/debian/knot-resolver6-dev@6.1.0-2?arch=s390x
+- pkg:deb/debian/knot-resolver6-dev@6.5.0-2?arch=amd64
