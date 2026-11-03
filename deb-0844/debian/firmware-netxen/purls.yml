@@ -4,3 +4,4 @@
 - pkg:deb/debian/firmware-netxen@20250410-2~bpo12%2B1?arch=all
 - pkg:deb/debian/firmware-netxen@20251021-1~bpo13%2B1?arch=all
 - pkg:deb/debian/firmware-netxen@20251111-1?arch=all
+- pkg:deb/debian/firmware-netxen@20260916-1~bpo13%2B1?arch=all
