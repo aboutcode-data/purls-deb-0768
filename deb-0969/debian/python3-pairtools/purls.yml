@@ -15,6 +15,10 @@
 - pkg:deb/debian/python3-pairtools@1.1.3-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-pairtools@1.1.3-1%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-pairtools@1.1.3-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-pairtools@1.1.3-2%2Bb3?arch=amd64
+- pkg:deb/debian/python3-pairtools@1.1.3-2%2Bb3?arch=arm64
+- pkg:deb/debian/python3-pairtools@1.1.3-2%2Bb3?arch=loong64
+- pkg:deb/debian/python3-pairtools@1.1.3-2%2Bb3?arch=ppc64el
 - pkg:deb/debian/python3-pairtools@1.1.3-2?arch=amd64
 - pkg:deb/debian/python3-pairtools@1.1.3-2?arch=arm64
 - pkg:deb/debian/python3-pairtools@1.1.3-2?arch=riscv64
