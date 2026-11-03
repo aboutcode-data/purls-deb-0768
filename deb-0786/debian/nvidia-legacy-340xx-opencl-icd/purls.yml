@@ -2,3 +2,5 @@
 - pkg:deb/debian/nvidia-legacy-340xx-opencl-icd@340.108-26?arch=i386
 - pkg:deb/debian/nvidia-legacy-340xx-opencl-icd@340.108-27?arch=amd64
 - pkg:deb/debian/nvidia-legacy-340xx-opencl-icd@340.108-27?arch=i386
+- pkg:deb/debian/nvidia-legacy-340xx-opencl-icd@340.108-28?arch=amd64
+- pkg:deb/debian/nvidia-legacy-340xx-opencl-icd@340.108-28?arch=i386
