@@ -2,3 +2,5 @@
 - pkg:deb/debian/sightviewer@25.0.0-1?arch=amd64
 - pkg:deb/debian/sightviewer@25.1.0-1%2Bb1?arch=amd64
 - pkg:deb/debian/sightviewer@25.2.0-1?arch=amd64
+- pkg:deb/debian/sightviewer@26.0.0-3?arch=amd64
+- pkg:deb/debian/sightviewer@26.1.0-1?arch=amd64
