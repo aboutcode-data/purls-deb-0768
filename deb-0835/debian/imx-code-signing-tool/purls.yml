@@ -19,3 +19,11 @@
 - pkg:deb/debian/imx-code-signing-tool@3.4.1%2Bdfsg-6?arch=ppc64el
 - pkg:deb/debian/imx-code-signing-tool@3.4.1%2Bdfsg-6?arch=riscv64
 - pkg:deb/debian/imx-code-signing-tool@3.4.1%2Bdfsg-6?arch=s390x
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=i386
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=loong64
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=ppc64el
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/imx-code-signing-tool@4.0.1%2Bdfsg-3?arch=s390x
