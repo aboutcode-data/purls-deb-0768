@@ -6,3 +6,5 @@
 - pkg:deb/debian/cockpit-doc@352-1~bpo13%2B1?arch=all
 - pkg:deb/debian/cockpit-doc@356-1?arch=all
 - pkg:deb/debian/cockpit-doc@356-1~bpo13%2B1?arch=all
+- pkg:deb/debian/cockpit-doc@370-1?arch=all
+- pkg:deb/debian/cockpit-doc@370-1~bpo13%2B1?arch=all
