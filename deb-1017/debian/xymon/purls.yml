@@ -19,3 +19,11 @@
 - pkg:deb/debian/xymon@4.3.30-4?arch=ppc64el
 - pkg:deb/debian/xymon@4.3.30-4?arch=riscv64
 - pkg:deb/debian/xymon@4.3.30-4?arch=s390x
+- pkg:deb/debian/xymon@4.3.30-7?arch=amd64
+- pkg:deb/debian/xymon@4.3.30-7?arch=arm64
+- pkg:deb/debian/xymon@4.3.30-7?arch=armhf
+- pkg:deb/debian/xymon@4.3.30-7?arch=i386
+- pkg:deb/debian/xymon@4.3.30-7?arch=loong64
+- pkg:deb/debian/xymon@4.3.30-7?arch=ppc64el
+- pkg:deb/debian/xymon@4.3.30-7?arch=riscv64
+- pkg:deb/debian/xymon@4.3.30-7?arch=s390x
