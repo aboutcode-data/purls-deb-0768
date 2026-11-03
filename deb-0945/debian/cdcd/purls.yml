@@ -22,3 +22,10 @@
 - pkg:deb/debian/cdcd@0.6.6-13.3?arch=ppc64el
 - pkg:deb/debian/cdcd@0.6.6-13.3?arch=riscv64
 - pkg:deb/debian/cdcd@0.6.6-13.3?arch=s390x
+- pkg:deb/debian/cdcd@0.6.6-15?arch=amd64
+- pkg:deb/debian/cdcd@0.6.6-15?arch=arm64
+- pkg:deb/debian/cdcd@0.6.6-15?arch=armhf
+- pkg:deb/debian/cdcd@0.6.6-15?arch=i386
+- pkg:deb/debian/cdcd@0.6.6-15?arch=loong64
+- pkg:deb/debian/cdcd@0.6.6-15?arch=ppc64el
+- pkg:deb/debian/cdcd@0.6.6-15?arch=s390x
