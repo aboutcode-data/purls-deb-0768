@@ -22,3 +22,4 @@
 - pkg:deb/debian/libensmallen-dev@3.10.0-1?arch=armhf
 - pkg:deb/debian/libensmallen-dev@3.10.0-1?arch=riscv64
 - pkg:deb/debian/libensmallen-dev@3.10.0-1?arch=s390x
+- pkg:deb/debian/libensmallen-dev@3.11.1-2?arch=riscv64

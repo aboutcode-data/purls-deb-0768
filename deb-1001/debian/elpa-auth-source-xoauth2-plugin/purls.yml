@@ -1,1 +1,3 @@
 - pkg:deb/debian/elpa-auth-source-xoauth2-plugin@0.3.2-1?arch=all
+- pkg:deb/debian/elpa-auth-source-xoauth2-plugin@0.5-1?arch=all
+- pkg:deb/debian/elpa-auth-source-xoauth2-plugin@0.5-1~bpo13%2B1?arch=all
