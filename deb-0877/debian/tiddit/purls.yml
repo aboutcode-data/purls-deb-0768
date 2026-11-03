@@ -22,3 +22,9 @@
 - pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb2?arch=armhf
 - pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb2?arch=i386
 - pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb3?arch=loong64
+- pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb4?arch=amd64
+- pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb4?arch=arm64
+- pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb4?arch=armhf
+- pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb4?arch=i386
+- pkg:deb/debian/tiddit@3.6.1%2Bdfsg-2%2Bb4?arch=ppc64el

@@ -19,3 +19,7 @@
 - pkg:deb/debian/tigervnc-standalone-server@1.15.0%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/tigervnc-standalone-server@1.15.0%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/tigervnc-standalone-server@1.15.0%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/tigervnc-standalone-server@1.16.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/tigervnc-standalone-server@1.16.2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/tigervnc-standalone-server@1.16.2%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/tigervnc-standalone-server@1.16.2%2Bdfsg-1?arch=i386
