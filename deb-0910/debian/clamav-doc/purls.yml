@@ -1,1 +1,2 @@
 - pkg:deb/debian/clamav-doc@1.4.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/clamav-doc@1.4.6%2Bdfsg-1~deb13u1?arch=all
