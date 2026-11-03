@@ -2,3 +2,4 @@
 - pkg:deb/debian/abigail-doc@2.2-2?arch=all
 - pkg:deb/debian/abigail-doc@2.6-2?arch=all
 - pkg:deb/debian/abigail-doc@2.9-2?arch=all
+- pkg:deb/debian/abigail-doc@3.0-2?arch=all

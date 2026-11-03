@@ -2,6 +2,14 @@
 - pkg:deb/debian/libaio-dev@0.3.112-9?arch=arm64
 - pkg:deb/debian/libaio-dev@0.3.112-9?arch=armhf
 - pkg:deb/debian/libaio-dev@0.3.112-9?arch=i386
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=amd64
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=arm64
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=armhf
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=i386
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=loong64
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=ppc64el
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=riscv64
+- pkg:deb/debian/libaio-dev@0.3.113-10?arch=s390x
 - pkg:deb/debian/libaio-dev@0.3.113-4?arch=amd64
 - pkg:deb/debian/libaio-dev@0.3.113-4?arch=arm64
 - pkg:deb/debian/libaio-dev@0.3.113-4?arch=armel
