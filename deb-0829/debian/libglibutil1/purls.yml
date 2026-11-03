@@ -1,2 +1,8 @@
 - pkg:deb/debian/libglibutil1@1.0.83-4?arch=amd64
 - pkg:deb/debian/libglibutil1@1.0.83-4?arch=arm64
+- pkg:deb/debian/libglibutil1@1.0.83-4?arch=armhf
+- pkg:deb/debian/libglibutil1@1.0.83-4?arch=i386
+- pkg:deb/debian/libglibutil1@1.0.83-4?arch=loong64
+- pkg:deb/debian/libglibutil1@1.0.83-4?arch=ppc64el
+- pkg:deb/debian/libglibutil1@1.0.83-4?arch=riscv64
+- pkg:deb/debian/libglibutil1@1.0.83-4?arch=s390x
