@@ -36,3 +36,16 @@
 - pkg:deb/debian/python3-imath@3.2.3-3?arch=loong64
 - pkg:deb/debian/python3-imath@3.2.3-3?arch=ppc64el
 - pkg:deb/debian/python3-imath@3.2.3-3?arch=s390x
+- pkg:deb/debian/python3-imath@3.2.3-4?arch=amd64
+- pkg:deb/debian/python3-imath@3.2.3-4?arch=arm64
+- pkg:deb/debian/python3-imath@3.2.3-4?arch=armhf
+- pkg:deb/debian/python3-imath@3.2.3-4?arch=loong64
+- pkg:deb/debian/python3-imath@3.2.3-4?arch=ppc64el
+- pkg:deb/debian/python3-imath@3.2.3-4?arch=s390x
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=amd64
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=arm64
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=armhf
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=i386
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=loong64
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=ppc64el
+- pkg:deb/debian/python3-imath@3.2.3-5?arch=s390x
