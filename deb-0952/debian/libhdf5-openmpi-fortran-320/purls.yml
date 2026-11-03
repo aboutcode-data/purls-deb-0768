@@ -1,0 +1,6 @@
+- pkg:deb/debian/libhdf5-openmpi-fortran-320@2.2.0%2Brepack-6?arch=amd64
+- pkg:deb/debian/libhdf5-openmpi-fortran-320@2.2.0%2Brepack-6?arch=arm64
+- pkg:deb/debian/libhdf5-openmpi-fortran-320@2.2.0%2Brepack-6?arch=loong64
+- pkg:deb/debian/libhdf5-openmpi-fortran-320@2.2.0%2Brepack-6?arch=ppc64el
+- pkg:deb/debian/libhdf5-openmpi-fortran-320@2.2.0%2Brepack-6?arch=riscv64
+- pkg:deb/debian/libhdf5-openmpi-fortran-320@2.2.0%2Brepack-6?arch=s390x
