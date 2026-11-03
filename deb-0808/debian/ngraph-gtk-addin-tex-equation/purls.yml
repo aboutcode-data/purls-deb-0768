@@ -2,3 +2,4 @@
 - pkg:deb/debian/ngraph-gtk-addin-tex-equation@6.09.07-1?arch=all
 - pkg:deb/debian/ngraph-gtk-addin-tex-equation@6.09.09-1?arch=all
 - pkg:deb/debian/ngraph-gtk-addin-tex-equation@6.09.10-1?arch=all
+- pkg:deb/debian/ngraph-gtk-addin-tex-equation@6.10.00-1?arch=all
