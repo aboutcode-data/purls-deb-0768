@@ -28,3 +28,11 @@
 - pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb18?arch=s390x
 - pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb22?arch=amd64
 - pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb22?arch=arm64
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb28?arch=armhf
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb28?arch=i386
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb28?arch=ppc64el
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb28?arch=riscv64
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb28?arch=s390x
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb30?arch=amd64
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb30?arch=arm64
+- pkg:deb/debian/libledit-ocaml-dev@2.04-8%2Bb8?arch=loong64
