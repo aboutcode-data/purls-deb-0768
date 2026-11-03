@@ -1,3 +1,4 @@
 - pkg:deb/debian/libjson-schema-modern-perl@0.611-1?arch=all
 - pkg:deb/debian/libjson-schema-modern-perl@0.621-1?arch=all
 - pkg:deb/debian/libjson-schema-modern-perl@0.627-1?arch=all
+- pkg:deb/debian/libjson-schema-modern-perl@0.652-1?arch=all
