@@ -3,3 +3,5 @@
 - pkg:deb/debian/node-babel7-runtime@7.20.15%2Bds1%2B~cs214.269.168-12?arch=all
 - pkg:deb/debian/node-babel7-runtime@7.20.15%2Bds1%2B~cs214.269.168-3%2Bdeb12u2?arch=all
 - pkg:deb/debian/node-babel7-runtime@7.20.15%2Bds1%2B~cs214.269.168-8?arch=all
+- pkg:deb/debian/node-babel7-runtime@8.0.10%2Bds1%2B~cs177.303.116-1?arch=all
+- pkg:deb/debian/node-babel7-runtime@8.0.9%2Bds1%2B~cs177.303.116-1?arch=all
