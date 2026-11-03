@@ -34,3 +34,11 @@
 - pkg:deb/debian/python3-lttng@2.15.0-1?arch=ppc64el
 - pkg:deb/debian/python3-lttng@2.15.0-1?arch=riscv64
 - pkg:deb/debian/python3-lttng@2.15.0-1?arch=s390x
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=amd64
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=arm64
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=armhf
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=i386
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=loong64
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=ppc64el
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=riscv64
+- pkg:deb/debian/python3-lttng@2.16.0-4?arch=s390x
