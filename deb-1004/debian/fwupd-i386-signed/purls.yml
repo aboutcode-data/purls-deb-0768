@@ -3,3 +3,5 @@
 - pkg:deb/debian/fwupd-i386-signed@1.7%2B1?arch=i386
 - pkg:deb/debian/fwupd-i386-signed@1.8%2B1?arch=i386
 - pkg:deb/debian/fwupd-i386-signed@1.9%2B1?arch=i386
+- pkg:deb/debian/fwupd-i386-signed@1.9%2B2?arch=i386
+- pkg:deb/debian/fwupd-i386-signed@1.9%2B3?arch=i386
