@@ -1,3 +1,4 @@
 - pkg:deb/debian/rtpengine@10.5.3.5-1?arch=all
 - pkg:deb/debian/rtpengine@12.5.1.31-1?arch=all
 - pkg:deb/debian/rtpengine@13.5.1.2-1?arch=all
+- pkg:deb/debian/rtpengine@26.0.1.26-1?arch=all
