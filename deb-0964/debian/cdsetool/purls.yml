@@ -1,1 +1,2 @@
 - pkg:deb/debian/cdsetool@0.2.13-1?arch=all
+- pkg:deb/debian/cdsetool@0.3.3-1?arch=all

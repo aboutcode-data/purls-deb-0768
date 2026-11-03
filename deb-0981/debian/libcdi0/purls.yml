@@ -24,3 +24,8 @@
 - pkg:deb/debian/libcdi0@2.5.4-2?arch=arm64
 - pkg:deb/debian/libcdi0@2.5.4-2?arch=ppc64el
 - pkg:deb/debian/libcdi0@2.5.4-2?arch=s390x
+- pkg:deb/debian/libcdi0@2.6.6.1-1?arch=amd64
+- pkg:deb/debian/libcdi0@2.6.6.1-1?arch=arm64
+- pkg:deb/debian/libcdi0@2.6.6.1-1?arch=loong64
+- pkg:deb/debian/libcdi0@2.6.6.1-1?arch=ppc64el
+- pkg:deb/debian/libcdi0@2.6.6.1-1?arch=s390x
