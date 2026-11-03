@@ -10,3 +10,4 @@
 - pkg:deb/debian/openscap-utils@1.4.2%2Bdfsg-1?arch=all
 - pkg:deb/debian/openscap-utils@1.4.2%2Bdfsg-2?arch=all
 - pkg:deb/debian/openscap-utils@1.4.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/openscap-utils@1.4.6%2Bdfsg-1?arch=all

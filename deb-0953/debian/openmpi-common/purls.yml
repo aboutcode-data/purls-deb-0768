@@ -4,3 +4,4 @@
 - pkg:deb/debian/openmpi-common@5.0.9-1?arch=all
 - pkg:deb/debian/openmpi-common@5.0.9-3?arch=all
 - pkg:deb/debian/openmpi-common@5.0.9-4?arch=all
+- pkg:deb/debian/openmpi-common@6.0.0~rc2-4?arch=all
