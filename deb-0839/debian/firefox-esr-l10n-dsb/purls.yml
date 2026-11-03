@@ -5,5 +5,8 @@
 - pkg:deb/debian/firefox-esr-l10n-dsb@140.5.0esr-1?arch=all
 - pkg:deb/debian/firefox-esr-l10n-dsb@140.5.0esr-1~deb12u1?arch=all
 - pkg:deb/debian/firefox-esr-l10n-dsb@140.5.0esr-1~deb13u1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-dsb@153.5.1esr-1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-dsb@153.5.1esr-1~deb13u1?arch=all
+- pkg:deb/debian/firefox-esr-l10n-dsb@153.6.0esr-1?arch=all
 - pkg:deb/debian/firefox-esr-l10n-dsb@78.15.0esr-1~deb11u1?arch=all
 - pkg:deb/debian/firefox-esr-l10n-dsb@91.13.0esr-1~deb11u1?arch=all
