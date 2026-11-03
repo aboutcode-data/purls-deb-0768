@@ -18,3 +18,4 @@
 - pkg:deb/debian/libusageenvironment3@2026.10.29-2?arch=loong64
 - pkg:deb/debian/libusageenvironment3@2026.10.29-2?arch=ppc64el
 - pkg:deb/debian/libusageenvironment3@2026.10.29-2?arch=riscv64
+- pkg:deb/debian/libusageenvironment3@2026.10.29-2?arch=s390x
