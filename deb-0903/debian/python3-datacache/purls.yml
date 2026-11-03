@@ -1,2 +1,3 @@
 - pkg:deb/debian/python3-datacache@1.2.1-1?arch=all
+- pkg:deb/debian/python3-datacache@1.27.1-1?arch=all
 - pkg:deb/debian/python3-datacache@1.4.1-2?arch=all
