@@ -13,6 +13,13 @@
 - pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-11?arch=ppc64el
 - pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-11?arch=riscv64
 - pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-11?arch=s390x
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=amd64
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=arm64
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=armhf
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=i386
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=loong64
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=ppc64el
+- pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-12?arch=s390x
 - pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-9?arch=amd64
 - pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-9?arch=arm64
 - pkg:deb/debian/libdb5.3t64@5.3.28%2Bdfsg2-9?arch=armel
