@@ -13,3 +13,6 @@
 - pkg:deb/debian/python3-pycddl@0.6.4%2Bds-3?arch=ppc64el
 - pkg:deb/debian/python3-pycddl@0.6.4%2Bds-3?arch=riscv64
 - pkg:deb/debian/python3-pycddl@0.6.4%2Bds-3?arch=s390x
+- pkg:deb/debian/python3-pycddl@0.6.4%2Bds-5?arch=amd64
+- pkg:deb/debian/python3-pycddl@0.6.4%2Bds-5?arch=arm64
+- pkg:deb/debian/python3-pycddl@0.6.4%2Bds-5?arch=armhf
