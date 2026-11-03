@@ -2,4 +2,5 @@
 - pkg:deb/debian/manpages@6.03-2?arch=all
 - pkg:deb/debian/manpages@6.16-1?arch=all
 - pkg:deb/debian/manpages@6.17-1?arch=all
+- pkg:deb/debian/manpages@6.20-2?arch=all
 - pkg:deb/debian/manpages@6.9.1-1?arch=all
