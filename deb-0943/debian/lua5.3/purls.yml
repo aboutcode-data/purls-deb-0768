@@ -26,3 +26,4 @@
 - pkg:deb/debian/lua5.3@5.3.6-5?arch=loong64
 - pkg:deb/debian/lua5.3@5.3.6-5?arch=ppc64el
 - pkg:deb/debian/lua5.3@5.3.6-5?arch=riscv64
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=s390x
