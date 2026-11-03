@@ -24,3 +24,11 @@
 - pkg:deb/debian/neuron@8.2.6-3?arch=ppc64el
 - pkg:deb/debian/neuron@8.2.6-3?arch=riscv64
 - pkg:deb/debian/neuron@8.2.6-3?arch=s390x
+- pkg:deb/debian/neuron@8.2.6-4?arch=amd64
+- pkg:deb/debian/neuron@8.2.6-4?arch=arm64
+- pkg:deb/debian/neuron@8.2.6-4?arch=armhf
+- pkg:deb/debian/neuron@8.2.6-4?arch=i386
+- pkg:deb/debian/neuron@8.2.6-4?arch=loong64
+- pkg:deb/debian/neuron@8.2.6-4?arch=ppc64el
+- pkg:deb/debian/neuron@8.2.6-4?arch=riscv64
+- pkg:deb/debian/neuron@8.2.6-4?arch=s390x
