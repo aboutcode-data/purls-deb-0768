@@ -2,6 +2,11 @@
 - pkg:deb/debian/abisip-find@1.13.0-2?arch=arm64
 - pkg:deb/debian/abisip-find@1.13.0-2?arch=ppc64el
 - pkg:deb/debian/abisip-find@1.13.0-2?arch=riscv64
+- pkg:deb/debian/abisip-find@1.15.0-2?arch=amd64
+- pkg:deb/debian/abisip-find@1.15.0-2?arch=arm64
+- pkg:deb/debian/abisip-find@1.15.0-2?arch=loong64
+- pkg:deb/debian/abisip-find@1.15.0-2?arch=ppc64el
+- pkg:deb/debian/abisip-find@1.15.0-2?arch=riscv64
 - pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=amd64
 - pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=arm64
 - pkg:deb/debian/abisip-find@1.6.1%2Bdfsg1-4?arch=armhf
