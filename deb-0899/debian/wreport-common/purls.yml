@@ -19,3 +19,6 @@
 - pkg:deb/debian/wreport-common@3.36-1.1%2Bb3?arch=ppc64el
 - pkg:deb/debian/wreport-common@3.36-1.1%2Bb3?arch=riscv64
 - pkg:deb/debian/wreport-common@3.36-1.1%2Bb3?arch=s390x
+- pkg:deb/debian/wreport-common@3.36-2?arch=amd64
+- pkg:deb/debian/wreport-common@3.36-2?arch=arm64
+- pkg:deb/debian/wreport-common@3.36-2?arch=armhf
