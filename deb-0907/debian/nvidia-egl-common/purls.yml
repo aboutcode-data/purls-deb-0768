@@ -27,6 +27,11 @@
 - pkg:deb/debian/nvidia-egl-common@550.163.01-4~bpo13%2B1?arch=armhf
 - pkg:deb/debian/nvidia-egl-common@550.163.01-4~bpo13%2B1?arch=i386
 - pkg:deb/debian/nvidia-egl-common@550.163.01-4~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/nvidia-egl-common@550.163.01-6?arch=amd64
+- pkg:deb/debian/nvidia-egl-common@550.163.01-6?arch=arm64
+- pkg:deb/debian/nvidia-egl-common@550.163.01-6?arch=armhf
+- pkg:deb/debian/nvidia-egl-common@550.163.01-6?arch=i386
+- pkg:deb/debian/nvidia-egl-common@550.163.01-6?arch=ppc64el
 - pkg:deb/debian/nvidia-egl-common@555.58.02-2?arch=amd64
 - pkg:deb/debian/nvidia-egl-common@555.58.02-2?arch=arm64
 - pkg:deb/debian/nvidia-egl-common@555.58.02-2?arch=armhf
