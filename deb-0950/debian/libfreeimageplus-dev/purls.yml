@@ -19,3 +19,10 @@
 - pkg:deb/debian/libfreeimageplus-dev@3.18.0%2Bds2-9%2Bdeb12u1?arch=mipsel
 - pkg:deb/debian/libfreeimageplus-dev@3.18.0%2Bds2-9%2Bdeb12u1?arch=ppc64el
 - pkg:deb/debian/libfreeimageplus-dev@3.18.0%2Bds2-9%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=amd64
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=arm64
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=armhf
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=i386
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=loong64
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=ppc64el
+- pkg:deb/debian/libfreeimageplus-dev@4.2.1%2Bds-1~exp3?arch=s390x
