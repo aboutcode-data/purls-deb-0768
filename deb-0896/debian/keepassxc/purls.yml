@@ -13,3 +13,4 @@
 - pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=mipsel
 - pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=ppc64el
 - pkg:deb/debian/keepassxc@2.7.4%2Bdfsg.1-2?arch=s390x
+- pkg:deb/debian/keepassxc@2.8.0%2Bdfsg1-1?arch=all
