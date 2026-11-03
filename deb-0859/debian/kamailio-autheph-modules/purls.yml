@@ -33,3 +33,4 @@
 - pkg:deb/debian/kamailio-autheph-modules@6.0.5-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/kamailio-autheph-modules@6.0.5-1%2Bb1?arch=riscv64
 - pkg:deb/debian/kamailio-autheph-modules@6.0.5-1%2Bb1?arch=s390x
+- pkg:deb/debian/kamailio-autheph-modules@6.1.5-1?arch=riscv64
