@@ -5,3 +5,4 @@
 - pkg:deb/debian/nova-conductor@31.0.0-6%2Bdeb13u2?arch=all
 - pkg:deb/debian/nova-conductor@32.1.0-4?arch=all
 - pkg:deb/debian/nova-conductor@32.1.0-7?arch=all
+- pkg:deb/debian/nova-conductor@34.0.0-4?arch=all
