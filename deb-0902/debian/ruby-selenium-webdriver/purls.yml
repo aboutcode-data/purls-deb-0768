@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-selenium-webdriver@4.38.0-1?arch=all
 - pkg:deb/debian/ruby-selenium-webdriver@4.4.0-1?arch=all
 - pkg:deb/debian/ruby-selenium-webdriver@4.40.0-1?arch=all
+- pkg:deb/debian/ruby-selenium-webdriver@4.51.0-1?arch=all
