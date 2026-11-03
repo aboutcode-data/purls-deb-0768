@@ -1,0 +1,2 @@
+- pkg:deb/debian/openjdk-27-doc@27.0.1.0.2%2B1-1?arch=all
+- pkg:deb/debian/openjdk-27-doc@27.0.1.0.3%2B1-1?arch=all
