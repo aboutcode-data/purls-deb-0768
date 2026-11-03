@@ -1,0 +1,5 @@
+- pkg:deb/debian/libp4est-sc-2.8@2.8.7-1~exp1?arch=amd64
+- pkg:deb/debian/libp4est-sc-2.8@2.8.7-1~exp1?arch=arm64
+- pkg:deb/debian/libp4est-sc-2.8@2.8.7-1~exp1?arch=loong64
+- pkg:deb/debian/libp4est-sc-2.8@2.8.7-1~exp1?arch=ppc64el
+- pkg:deb/debian/libp4est-sc-2.8@2.8.7-1~exp1?arch=s390x
