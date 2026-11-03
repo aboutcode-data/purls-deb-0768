@@ -3,3 +3,5 @@
 - pkg:deb/debian/firefox-l10n-fur@145.0.1-1?arch=all
 - pkg:deb/debian/firefox-l10n-fur@147.0.4-1?arch=all
 - pkg:deb/debian/firefox-l10n-fur@157.0.1-1?arch=all
+- pkg:deb/debian/firefox-l10n-fur@158.0.1-1?arch=all
+- pkg:deb/debian/firefox-l10n-fur@159.0-1?arch=all
