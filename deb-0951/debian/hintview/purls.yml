@@ -13,3 +13,4 @@
 - pkg:deb/debian/hintview@2.3.0-1?arch=ppc64el
 - pkg:deb/debian/hintview@2.3.0-1?arch=riscv64
 - pkg:deb/debian/hintview@2.3.0-1?arch=s390x
+- pkg:deb/debian/hintview@2.3.0-2?arch=riscv64
