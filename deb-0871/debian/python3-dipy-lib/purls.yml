@@ -6,6 +6,12 @@
 - pkg:deb/debian/python3-dipy-lib@1.11.0-2?arch=ppc64el
 - pkg:deb/debian/python3-dipy-lib@1.11.0-2?arch=riscv64
 - pkg:deb/debian/python3-dipy-lib@1.11.0-2?arch=s390x
+- pkg:deb/debian/python3-dipy-lib@1.12.1-6%2Bb1?arch=amd64
+- pkg:deb/debian/python3-dipy-lib@1.12.1-6%2Bb1?arch=arm64
+- pkg:deb/debian/python3-dipy-lib@1.12.1-6%2Bb1?arch=loong64
+- pkg:deb/debian/python3-dipy-lib@1.12.1-6%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-dipy-lib@1.12.1-6%2Bb1?arch=s390x
+- pkg:deb/debian/python3-dipy-lib@1.12.1-6?arch=riscv64
 - pkg:deb/debian/python3-dipy-lib@1.3.0-3?arch=amd64
 - pkg:deb/debian/python3-dipy-lib@1.3.0-3?arch=arm64
 - pkg:deb/debian/python3-dipy-lib@1.3.0-3?arch=armhf
