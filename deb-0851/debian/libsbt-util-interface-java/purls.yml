@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsbt-util-interface-java@1.11.7-1?arch=all
+- pkg:deb/debian/libsbt-util-interface-java@2.0.12-1?arch=all

@@ -3,4 +3,5 @@
 - pkg:deb/debian/sbuild-debian-developer-setup@0.89.3%2Bdeb13u1?arch=all
 - pkg:deb/debian/sbuild-debian-developer-setup@0.89.3%2Bdeb13u1~bpo12%2B2?arch=all
 - pkg:deb/debian/sbuild-debian-developer-setup@0.89.3%2Bdeb13u2?arch=all
+- pkg:deb/debian/sbuild-debian-developer-setup@0.91.11?arch=all
 - pkg:deb/debian/sbuild-debian-developer-setup@0.91.2?arch=all
