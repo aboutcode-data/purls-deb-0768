@@ -25,4 +25,12 @@
 - pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb1?arch=i386
 - pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb1?arch=s390x
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=amd64
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=arm64
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=armhf
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=i386
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=loong64
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=ppc64el
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=riscv64
+- pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3%2Bb3?arch=s390x
 - pkg:deb/debian/python3-pycifrw@5.0.1%2B~3.0.13.427.g9e493fc-3?arch=riscv64

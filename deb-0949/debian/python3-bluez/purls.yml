@@ -27,3 +27,10 @@
 - pkg:deb/debian/python3-bluez@0.23-5.1%2Bb6?arch=riscv64
 - pkg:deb/debian/python3-bluez@0.23-5.1%2Bb6?arch=s390x
 - pkg:deb/debian/python3-bluez@0.23-5.1%2Bb7?arch=arm64
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb8?arch=amd64
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb8?arch=armhf
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb8?arch=i386
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb8?arch=ppc64el
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb8?arch=riscv64
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb8?arch=s390x
+- pkg:deb/debian/python3-bluez@0.23-5.1%2Bb9?arch=arm64
