@@ -7,3 +7,4 @@
 - pkg:deb/debian/libreoffice-uiconfig-common@26.2.0~alpha1-3?arch=all
 - pkg:deb/debian/libreoffice-uiconfig-common@26.2.0~beta1-1?arch=all
 - pkg:deb/debian/libreoffice-uiconfig-common@26.2.1~rc2-1?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-common@26.8.2.2-2?arch=all
