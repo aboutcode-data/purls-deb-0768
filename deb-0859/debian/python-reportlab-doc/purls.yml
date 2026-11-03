@@ -3,3 +3,4 @@
 - pkg:deb/debian/python-reportlab-doc@4.3.1-1?arch=all
 - pkg:deb/debian/python-reportlab-doc@4.4.10-1?arch=all
 - pkg:deb/debian/python-reportlab-doc@4.4.5-1?arch=all
+- pkg:deb/debian/python-reportlab-doc@5.1.0-1?arch=all

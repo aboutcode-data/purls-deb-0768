@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-rapidarchive@1.7.0%2Bdfsg-2%2Bb1?arch=amd64
+- pkg:deb/debian/python3-rapidarchive@1.7.0%2Bdfsg-2%2Bb1?arch=arm64
