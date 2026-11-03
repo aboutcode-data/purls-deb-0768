@@ -26,3 +26,9 @@
 - pkg:deb/debian/hunspell-tools@1.7.2%2Breally1.7.2-11?arch=ppc64el
 - pkg:deb/debian/hunspell-tools@1.7.2%2Breally1.7.2-11?arch=riscv64
 - pkg:deb/debian/hunspell-tools@1.7.2%2Breally1.7.2-11?arch=s390x
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=amd64
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=arm64
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=armhf
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=i386
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=loong64
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=ppc64el
