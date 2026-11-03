@@ -1,0 +1,2 @@
+- pkg:deb/debian/radicale-uwsgi@3.8.3%2Bds-1?arch=all
+- pkg:deb/debian/radicale-uwsgi@3.9.0%2Bds-1?arch=all
