@@ -4,3 +4,5 @@
 - pkg:deb/debian/tzdata@2025b-0%2Bdeb12u2?arch=all
 - pkg:deb/debian/tzdata@2025b-4%2Bdeb13u1?arch=all
 - pkg:deb/debian/tzdata@2025b-5?arch=all
+- pkg:deb/debian/tzdata@2026f-0%2Bdeb13u1?arch=all
+- pkg:deb/debian/tzdata@2026f-1?arch=all
