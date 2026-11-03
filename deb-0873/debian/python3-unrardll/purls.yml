@@ -3,3 +3,8 @@
 - pkg:deb/debian/python3-unrardll@0.1.7%2Bds-10?arch=amd64
 - pkg:deb/debian/python3-unrardll@0.1.7%2Bds-11?arch=amd64
 - pkg:deb/debian/python3-unrardll@0.1.7%2Bds-6?arch=amd64
+- pkg:deb/debian/python3-unrardll@0.1.7%2Bds1-7?arch=amd64
+- pkg:deb/debian/python3-unrardll@0.1.7%2Bds1-7?arch=arm64
+- pkg:deb/debian/python3-unrardll@0.1.7%2Bds1-7?arch=armhf
+- pkg:deb/debian/python3-unrardll@0.1.7%2Bds1-7?arch=i386
+- pkg:deb/debian/python3-unrardll@0.1.7%2Bds1-7?arch=ppc64el
