@@ -22,3 +22,4 @@
 - pkg:deb/debian/workrave-ayatana@1.10.54-2?arch=ppc64el
 - pkg:deb/debian/workrave-ayatana@1.10.54-2?arch=riscv64
 - pkg:deb/debian/workrave-ayatana@1.10.54-2?arch=s390x
+- pkg:deb/debian/workrave-ayatana@1.11.5-1?arch=riscv64
