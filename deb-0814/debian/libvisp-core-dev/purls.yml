@@ -26,6 +26,7 @@
 - pkg:deb/debian/libvisp-core-dev@3.6.0-5?arch=ppc64el
 - pkg:deb/debian/libvisp-core-dev@3.6.0-5?arch=riscv64
 - pkg:deb/debian/libvisp-core-dev@3.6.0-5?arch=s390x
+- pkg:deb/debian/libvisp-core-dev@3.7.0-18?arch=riscv64
 - pkg:deb/debian/libvisp-core-dev@3.7.0-9?arch=amd64
 - pkg:deb/debian/libvisp-core-dev@3.7.0-9?arch=arm64
 - pkg:deb/debian/libvisp-core-dev@3.7.0-9?arch=armhf
