@@ -20,6 +20,14 @@
 - pkg:deb/debian/libben-ocaml-dev@1.13?arch=s390x
 - pkg:deb/debian/libben-ocaml-dev@1.15%2Bb2?arch=amd64
 - pkg:deb/debian/libben-ocaml-dev@1.15%2Bb3?arch=arm64
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=amd64
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=arm64
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=armhf
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=i386
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=loong64
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=ppc64el
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=riscv64
+- pkg:deb/debian/libben-ocaml-dev@1.22%2Bb1?arch=s390x
 - pkg:deb/debian/libben-ocaml-dev@1.9%2Bb3?arch=amd64
 - pkg:deb/debian/libben-ocaml-dev@1.9%2Bb3?arch=arm64
 - pkg:deb/debian/libben-ocaml-dev@1.9%2Bb3?arch=armel
