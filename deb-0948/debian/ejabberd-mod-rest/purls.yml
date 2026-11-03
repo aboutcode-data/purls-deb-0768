@@ -33,3 +33,6 @@
 - pkg:deb/debian/ejabberd-mod-rest@0.2026.09.14~dfsg0-2?arch=armhf
 - pkg:deb/debian/ejabberd-mod-rest@0.2026.09.14~dfsg0-2?arch=i386
 - pkg:deb/debian/ejabberd-mod-rest@0.2026.09.14~dfsg0-2?arch=loong64
+- pkg:deb/debian/ejabberd-mod-rest@0.2026.09.14~dfsg0-2?arch=ppc64el
+- pkg:deb/debian/ejabberd-mod-rest@0.2026.09.14~dfsg0-2?arch=riscv64
+- pkg:deb/debian/ejabberd-mod-rest@0.2026.09.14~dfsg0-2?arch=s390x
