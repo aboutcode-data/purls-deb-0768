@@ -28,3 +28,9 @@
 - pkg:deb/debian/kde-full@163?arch=s390x
 - pkg:deb/debian/kde-full@174?arch=amd64
 - pkg:deb/debian/kde-full@174?arch=arm64
+- pkg:deb/debian/kde-full@174?arch=armhf
+- pkg:deb/debian/kde-full@174?arch=i386
+- pkg:deb/debian/kde-full@174?arch=loong64
+- pkg:deb/debian/kde-full@174?arch=ppc64el
+- pkg:deb/debian/kde-full@174?arch=riscv64
+- pkg:deb/debian/kde-full@174?arch=s390x
