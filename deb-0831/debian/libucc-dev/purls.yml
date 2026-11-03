@@ -2,3 +2,7 @@
 - pkg:deb/debian/libucc-dev@1.7.0~rc1-1?arch=arm64
 - pkg:deb/debian/libucc-dev@1.7.0~rc1-1?arch=ppc64el
 - pkg:deb/debian/libucc-dev@1.7.0~rc1-1?arch=riscv64
+- pkg:deb/debian/libucc-dev@1.9.0-2?arch=amd64
+- pkg:deb/debian/libucc-dev@1.9.0-2?arch=arm64
+- pkg:deb/debian/libucc-dev@1.9.0-2?arch=ppc64el
+- pkg:deb/debian/libucc-dev@1.9.0-2?arch=riscv64
