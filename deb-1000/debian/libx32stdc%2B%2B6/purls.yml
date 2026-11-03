@@ -16,3 +16,5 @@
 - pkg:deb/debian/libx32stdc%2B%2B6@16-20251202-1?arch=i386
 - pkg:deb/debian/libx32stdc%2B%2B6@16-20260217-1?arch=amd64
 - pkg:deb/debian/libx32stdc%2B%2B6@16-20260217-1?arch=i386
+- pkg:deb/debian/libx32stdc%2B%2B6@16.2.0-4?arch=amd64
+- pkg:deb/debian/libx32stdc%2B%2B6@16.2.0-4?arch=i386
