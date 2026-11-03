@@ -12,3 +12,6 @@
 - pkg:deb/debian/libgcobol-15-dev@15.2.0-9?arch=arm64
 - pkg:deb/debian/libgcobol-15-dev@15.2.0-9?arch=ppc64el
 - pkg:deb/debian/libgcobol-15-dev@15.2.0-9?arch=riscv64
+- pkg:deb/debian/libgcobol-15-dev@15.3.0-5?arch=amd64
+- pkg:deb/debian/libgcobol-15-dev@15.3.0-5?arch=arm64
+- pkg:deb/debian/libgcobol-15-dev@15.3.0-5?arch=ppc64el
