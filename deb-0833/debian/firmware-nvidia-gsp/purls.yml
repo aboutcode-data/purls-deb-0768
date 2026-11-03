@@ -8,5 +8,9 @@
 - pkg:deb/debian/firmware-nvidia-gsp@550.163.01-4?arch=arm64
 - pkg:deb/debian/firmware-nvidia-gsp@550.163.01-4~bpo13%2B1?arch=amd64
 - pkg:deb/debian/firmware-nvidia-gsp@550.163.01-4~bpo13%2B1?arch=arm64
+- pkg:deb/debian/firmware-nvidia-gsp@550.163.01-6?arch=amd64
+- pkg:deb/debian/firmware-nvidia-gsp@550.163.01-6?arch=arm64
 - pkg:deb/debian/firmware-nvidia-gsp@555.58.02-2?arch=amd64
 - pkg:deb/debian/firmware-nvidia-gsp@555.58.02-2?arch=arm64
+- pkg:deb/debian/firmware-nvidia-gsp@555.58.02-4?arch=amd64
+- pkg:deb/debian/firmware-nvidia-gsp@555.58.02-4?arch=arm64
