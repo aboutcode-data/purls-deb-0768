@@ -15,3 +15,5 @@
 - pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-3%2Bb2?arch=amd64
 - pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-3%2Bb2?arch=arm64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-3%2Bb2?arch=loong64
+- pkg:deb/debian/mapdamage@2.2.3%2Bdfsg-3%2Bb2?arch=ppc64el

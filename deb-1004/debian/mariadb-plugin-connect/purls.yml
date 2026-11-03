@@ -41,3 +41,4 @@
 - pkg:deb/debian/mariadb-plugin-connect@11.8.6-2?arch=ppc64el
 - pkg:deb/debian/mariadb-plugin-connect@11.8.6-2?arch=riscv64
 - pkg:deb/debian/mariadb-plugin-connect@11.8.6-2?arch=s390x
+- pkg:deb/debian/mariadb-plugin-connect@11.8.9%2Bds-4?arch=riscv64
