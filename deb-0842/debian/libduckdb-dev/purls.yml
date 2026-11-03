@@ -1,0 +1,5 @@
+- pkg:deb/debian/libduckdb-dev@2.0.0%2Bdfsg2-1?arch=amd64
+- pkg:deb/debian/libduckdb-dev@2.0.0%2Bdfsg2-1?arch=arm64
+- pkg:deb/debian/libduckdb-dev@2.0.0%2Bdfsg2-1?arch=loong64
+- pkg:deb/debian/libduckdb-dev@2.0.0%2Bdfsg2-1?arch=ppc64el
+- pkg:deb/debian/libduckdb-dev@2.0.0%2Bdfsg2-1?arch=riscv64

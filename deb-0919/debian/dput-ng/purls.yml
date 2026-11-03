@@ -3,3 +3,4 @@
 - pkg:deb/debian/dput-ng@1.43?arch=all
 - pkg:deb/debian/dput-ng@1.43~bpo12%2B1?arch=all
 - pkg:deb/debian/dput-ng@1.44?arch=all
+- pkg:deb/debian/dput-ng@1.47?arch=all
