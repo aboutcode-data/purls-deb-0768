@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-image-7.3-armmp@7.3.1-1~exp1?arch=armhf
+- pkg:deb/debian/linux-image-7.3-armmp@7.3~rc7-1~exp1?arch=armhf
