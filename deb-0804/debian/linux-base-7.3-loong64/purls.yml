@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-base-7.3-loong64@7.3.1-1~exp1?arch=loong64
+- pkg:deb/debian/linux-base-7.3-loong64@7.3~rc7-1~exp1?arch=loong64

@@ -2,3 +2,9 @@
 - pkg:deb/debian/linux-base-powerpc64le@6.18.9-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/linux-base-powerpc64le@6.18~rc7-1~exp1?arch=ppc64el
 - pkg:deb/debian/linux-base-powerpc64le@6.19.2-1~exp1?arch=ppc64el
+- pkg:deb/debian/linux-base-powerpc64le@7.2.11-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/linux-base-powerpc64le@7.2.12-1?arch=ppc64el
+- pkg:deb/debian/linux-base-powerpc64le@7.2.14-1?arch=ppc64el
+- pkg:deb/debian/linux-base-powerpc64le@7.2.15-1?arch=ppc64el
+- pkg:deb/debian/linux-base-powerpc64le@7.3.1-1~exp1?arch=ppc64el
+- pkg:deb/debian/linux-base-powerpc64le@7.3~rc7-1~exp1?arch=ppc64el
