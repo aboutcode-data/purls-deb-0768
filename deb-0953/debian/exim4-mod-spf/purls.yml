@@ -12,3 +12,5 @@
 - pkg:deb/debian/exim4-mod-spf@4.100.1-4~bpo13%2B1?arch=armel
 - pkg:deb/debian/exim4-mod-spf@4.100.1-4~bpo13%2B1?arch=armhf
 - pkg:deb/debian/exim4-mod-spf@4.100.1-4~bpo13%2B1?arch=i386
+- pkg:deb/debian/exim4-mod-spf@4.100.1-4~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/exim4-mod-spf@4.100.1-4~bpo13%2B1?arch=s390x
