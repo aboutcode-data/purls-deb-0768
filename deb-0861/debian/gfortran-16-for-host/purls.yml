@@ -12,3 +12,11 @@
 - pkg:deb/debian/gfortran-16-for-host@16-20260217-1?arch=ppc64el
 - pkg:deb/debian/gfortran-16-for-host@16-20260217-1?arch=s390x
 - pkg:deb/debian/gfortran-16-for-host@16.1.0-2?arch=riscv64
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=amd64
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=arm64
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=armhf
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=i386
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=loong64
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=ppc64el
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=riscv64
+- pkg:deb/debian/gfortran-16-for-host@16.2.0-4?arch=s390x

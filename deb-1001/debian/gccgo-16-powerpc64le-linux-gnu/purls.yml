@@ -3,3 +3,4 @@
 - pkg:deb/debian/gccgo-16-powerpc64le-linux-gnu@16-20260208-1cross1?arch=i386
 - pkg:deb/debian/gccgo-16-powerpc64le-linux-gnu@16-20260208-1cross1?arch=s390x
 - pkg:deb/debian/gccgo-16-powerpc64le-linux-gnu@16-20260217-1?arch=ppc64el
+- pkg:deb/debian/gccgo-16-powerpc64le-linux-gnu@16.2.0-4?arch=ppc64el
