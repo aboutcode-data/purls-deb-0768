@@ -32,3 +32,4 @@
 - pkg:deb/debian/hunspell-tools@1.7.6-3?arch=i386
 - pkg:deb/debian/hunspell-tools@1.7.6-3?arch=loong64
 - pkg:deb/debian/hunspell-tools@1.7.6-3?arch=ppc64el
+- pkg:deb/debian/hunspell-tools@1.7.6-3?arch=s390x
