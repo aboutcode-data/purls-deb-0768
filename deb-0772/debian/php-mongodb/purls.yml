@@ -11,5 +11,7 @@
 - pkg:deb/debian/php-mongodb@1.9.0%2B1.7.5-2?arch=arm64
 - pkg:deb/debian/php-mongodb@1.9.0%2B1.7.5-2?arch=armhf
 - pkg:deb/debian/php-mongodb@1.9.0%2B1.7.5-2?arch=i386
+- pkg:deb/debian/php-mongodb@2.0.0-1%2Bdeb13u2?arch=all
 - pkg:deb/debian/php-mongodb@2.0.0-1?arch=all
 - pkg:deb/debian/php-mongodb@2.1.0-1?arch=all
+- pkg:deb/debian/php-mongodb@2.5.5-1?arch=all
