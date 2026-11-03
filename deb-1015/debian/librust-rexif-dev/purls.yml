@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-rexif-dev@0.7.6-1?arch=amd64
+- pkg:deb/debian/librust-rexif-dev@0.7.6-1?arch=arm64
