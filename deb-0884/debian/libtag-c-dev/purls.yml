@@ -20,3 +20,11 @@
 - pkg:deb/debian/libtag-c-dev@2.2-1?arch=ppc64el
 - pkg:deb/debian/libtag-c-dev@2.2-1?arch=riscv64
 - pkg:deb/debian/libtag-c-dev@2.2-1?arch=s390x
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=amd64
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=arm64
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=armhf
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=i386
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=loong64
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=ppc64el
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=riscv64
+- pkg:deb/debian/libtag-c-dev@2.3.2-4?arch=s390x
