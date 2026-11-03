@@ -1,1 +1,3 @@
 - pkg:deb/debian/liblogstash-logback-encoder-java@7.2-2?arch=all
+- pkg:deb/debian/liblogstash-logback-encoder-java@8.1-1?arch=all
+- pkg:deb/debian/liblogstash-logback-encoder-java@8.1-2?arch=all

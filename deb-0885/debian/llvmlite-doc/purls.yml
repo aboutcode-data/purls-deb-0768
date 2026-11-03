@@ -1,3 +1,5 @@
 - pkg:deb/debian/llvmlite-doc@0.35.0-3?arch=all
 - pkg:deb/debian/llvmlite-doc@0.39.1-2?arch=all
 - pkg:deb/debian/llvmlite-doc@0.44.0-1?arch=all
+- pkg:deb/debian/llvmlite-doc@0.50.0-0.1?arch=all
+- pkg:deb/debian/llvmlite-doc@0.50.0-0.2?arch=all
