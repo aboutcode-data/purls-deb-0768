@@ -1,3 +1,4 @@
 - pkg:deb/debian/ruby-html-pipeline@2.12.3-1?arch=all
 - pkg:deb/debian/ruby-html-pipeline@2.14.3-1?arch=all
 - pkg:deb/debian/ruby-html-pipeline@2.14.3-2?arch=all
+- pkg:deb/debian/ruby-html-pipeline@3.2.4%2Breally2.14.3-3?arch=all
