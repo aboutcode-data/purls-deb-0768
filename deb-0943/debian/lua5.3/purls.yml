@@ -19,3 +19,10 @@
 - pkg:deb/debian/lua5.3@5.3.6-2?arch=mipsel
 - pkg:deb/debian/lua5.3@5.3.6-2?arch=ppc64el
 - pkg:deb/debian/lua5.3@5.3.6-2?arch=s390x
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=amd64
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=arm64
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=armhf
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=i386
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=loong64
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=ppc64el
+- pkg:deb/debian/lua5.3@5.3.6-5?arch=riscv64
