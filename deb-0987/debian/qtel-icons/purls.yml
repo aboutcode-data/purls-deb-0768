@@ -2,3 +2,4 @@
 - pkg:deb/debian/qtel-icons@19.09.2-1?arch=all
 - pkg:deb/debian/qtel-icons@24.02-5?arch=all
 - pkg:deb/debian/qtel-icons@25.05.1-2?arch=all
+- pkg:deb/debian/qtel-icons@26.05.2-1?arch=all
