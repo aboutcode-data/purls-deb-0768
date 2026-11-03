@@ -20,3 +20,4 @@
 - pkg:deb/debian/sonivoxrender@4.0.2-1?arch=loong64
 - pkg:deb/debian/sonivoxrender@4.0.2-1?arch=ppc64el
 - pkg:deb/debian/sonivoxrender@4.0.2-1?arch=riscv64
+- pkg:deb/debian/sonivoxrender@4.0.2-1?arch=s390x
