@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-apycula@0.17%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python3-apycula@0.35%2Bdfsg1-1?arch=all
