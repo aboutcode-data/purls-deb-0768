@@ -5,3 +5,4 @@
 - pkg:deb/debian/firefox-l10n-km@157.0.1-1?arch=all
 - pkg:deb/debian/firefox-l10n-km@158.0.1-1?arch=all
 - pkg:deb/debian/firefox-l10n-km@159.0-1?arch=all
+- pkg:deb/debian/firefox-l10n-km@159.0.1-1?arch=all
