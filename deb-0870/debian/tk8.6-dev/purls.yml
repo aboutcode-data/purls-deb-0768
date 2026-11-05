@@ -32,4 +32,5 @@
 - pkg:deb/debian/tk8.6-dev@8.6.18-2?arch=i386
 - pkg:deb/debian/tk8.6-dev@8.6.18-2?arch=loong64
 - pkg:deb/debian/tk8.6-dev@8.6.18-2?arch=ppc64el
+- pkg:deb/debian/tk8.6-dev@8.6.18-2?arch=riscv64
 - pkg:deb/debian/tk8.6-dev@8.6.18-2?arch=s390x
