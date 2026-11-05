@@ -34,4 +34,5 @@
 - pkg:deb/debian/gnome-flashback@3.58.0-7?arch=i386
 - pkg:deb/debian/gnome-flashback@3.58.0-7?arch=loong64
 - pkg:deb/debian/gnome-flashback@3.58.0-7?arch=ppc64el
+- pkg:deb/debian/gnome-flashback@3.58.0-7?arch=riscv64
 - pkg:deb/debian/gnome-flashback@3.58.0-7?arch=s390x

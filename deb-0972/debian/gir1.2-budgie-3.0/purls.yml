@@ -4,4 +4,5 @@
 - pkg:deb/debian/gir1.2-budgie-3.0@10.10.4-1?arch=i386
 - pkg:deb/debian/gir1.2-budgie-3.0@10.10.4-1?arch=loong64
 - pkg:deb/debian/gir1.2-budgie-3.0@10.10.4-1?arch=ppc64el
+- pkg:deb/debian/gir1.2-budgie-3.0@10.10.4-1?arch=riscv64
 - pkg:deb/debian/gir1.2-budgie-3.0@10.10.4-1?arch=s390x

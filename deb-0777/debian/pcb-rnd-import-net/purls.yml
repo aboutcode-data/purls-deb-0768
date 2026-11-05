@@ -32,4 +32,5 @@
 - pkg:deb/debian/pcb-rnd-import-net@3.1.9-1?arch=i386
 - pkg:deb/debian/pcb-rnd-import-net@3.1.9-1?arch=loong64
 - pkg:deb/debian/pcb-rnd-import-net@3.1.9-1?arch=ppc64el
+- pkg:deb/debian/pcb-rnd-import-net@3.1.9-1?arch=riscv64
 - pkg:deb/debian/pcb-rnd-import-net@3.1.9-1?arch=s390x

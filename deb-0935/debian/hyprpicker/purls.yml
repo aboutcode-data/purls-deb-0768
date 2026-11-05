@@ -19,4 +19,5 @@
 - pkg:deb/debian/hyprpicker@0.4.8-1?arch=i386
 - pkg:deb/debian/hyprpicker@0.4.8-1?arch=loong64
 - pkg:deb/debian/hyprpicker@0.4.8-1?arch=ppc64el
+- pkg:deb/debian/hyprpicker@0.4.8-1?arch=riscv64
 - pkg:deb/debian/hyprpicker@0.4.8-1?arch=s390x

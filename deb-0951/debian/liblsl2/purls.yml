@@ -4,4 +4,5 @@
 - pkg:deb/debian/liblsl2@1.18.0.b6%2Bds-1?arch=i386
 - pkg:deb/debian/liblsl2@1.18.0.b6%2Bds-1?arch=loong64
 - pkg:deb/debian/liblsl2@1.18.0.b6%2Bds-1?arch=ppc64el
+- pkg:deb/debian/liblsl2@1.18.0.b6%2Bds-1?arch=riscv64
 - pkg:deb/debian/liblsl2@1.18.0.b6%2Bds-1?arch=s390x

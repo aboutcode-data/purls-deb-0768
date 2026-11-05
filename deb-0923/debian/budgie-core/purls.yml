@@ -4,6 +4,7 @@
 - pkg:deb/debian/budgie-core@10.10.4-1?arch=i386
 - pkg:deb/debian/budgie-core@10.10.4-1?arch=loong64
 - pkg:deb/debian/budgie-core@10.10.4-1?arch=ppc64el
+- pkg:deb/debian/budgie-core@10.10.4-1?arch=riscv64
 - pkg:deb/debian/budgie-core@10.10.4-1?arch=s390x
 - pkg:deb/debian/budgie-core@10.5.2-4?arch=amd64
 - pkg:deb/debian/budgie-core@10.5.2-4?arch=arm64
