@@ -3,3 +3,4 @@
 - pkg:deb/debian/manpages-nb@4.27.0-1~bpo12%2B1?arch=all
 - pkg:deb/debian/manpages-nb@4.28.0-2?arch=all
 - pkg:deb/debian/manpages-nb@4.28.0-2~bpo13%2B2?arch=all
+- pkg:deb/debian/manpages-nb@4.32.4-1?arch=all
