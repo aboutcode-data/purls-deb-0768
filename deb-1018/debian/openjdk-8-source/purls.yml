@@ -1,1 +1,2 @@
 - pkg:deb/debian/openjdk-8-source@8u472-ga-1?arch=all
+- pkg:deb/debian/openjdk-8-source@8u512-ga-1?arch=all
