@@ -20,4 +20,5 @@
 - pkg:deb/debian/libopencv-photo410@4.10.0%2Bdfsg-9%2Bb2?arch=i386
 - pkg:deb/debian/libopencv-photo410@4.10.0%2Bdfsg-9%2Bb2?arch=loong64
 - pkg:deb/debian/libopencv-photo410@4.10.0%2Bdfsg-9%2Bb2?arch=ppc64el
+- pkg:deb/debian/libopencv-photo410@4.10.0%2Bdfsg-9%2Bb2?arch=riscv64
 - pkg:deb/debian/libopencv-photo410@4.10.0%2Bdfsg-9%2Bb2?arch=s390x
