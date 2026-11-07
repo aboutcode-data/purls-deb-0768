@@ -42,3 +42,4 @@
 - pkg:deb/debian/libapt-pkg-dev@3.3.5?arch=ppc64el
 - pkg:deb/debian/libapt-pkg-dev@3.3.5?arch=riscv64
 - pkg:deb/debian/libapt-pkg-dev@3.3.5?arch=s390x
+- pkg:deb/debian/libapt-pkg-dev@3.3.7?arch=riscv64

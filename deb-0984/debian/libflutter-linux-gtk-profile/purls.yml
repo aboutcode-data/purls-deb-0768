@@ -3,3 +3,6 @@
 - pkg:deb/debian/libflutter-linux-gtk-profile@3.47.5%2Bds1-3?arch=amd64
 - pkg:deb/debian/libflutter-linux-gtk-profile@3.47.5%2Bds1-3?arch=arm64
 - pkg:deb/debian/libflutter-linux-gtk-profile@3.47.5%2Bds1-3?arch=armhf
+- pkg:deb/debian/libflutter-linux-gtk-profile@3.47.9%2Bds1-1?arch=amd64
+- pkg:deb/debian/libflutter-linux-gtk-profile@3.47.9%2Bds1-1?arch=arm64
+- pkg:deb/debian/libflutter-linux-gtk-profile@3.47.9%2Bds1-1?arch=armhf
