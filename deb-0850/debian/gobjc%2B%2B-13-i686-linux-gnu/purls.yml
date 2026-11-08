@@ -8,3 +8,4 @@
 - pkg:deb/debian/gobjc%2B%2B-13-i686-linux-gnu@13.4.0-4cross1?arch=arm64
 - pkg:deb/debian/gobjc%2B%2B-13-i686-linux-gnu@13.4.0-4cross1?arch=ppc64el
 - pkg:deb/debian/gobjc%2B%2B-13-i686-linux-gnu@13.4.0-4cross1?arch=s390x
+- pkg:deb/debian/gobjc%2B%2B-13-i686-linux-gnu@13.5.0-4?arch=i386

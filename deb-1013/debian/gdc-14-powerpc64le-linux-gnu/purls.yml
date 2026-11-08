@@ -8,3 +8,4 @@
 - pkg:deb/debian/gdc-14-powerpc64le-linux-gnu@14.3.0-8cross1?arch=arm64
 - pkg:deb/debian/gdc-14-powerpc64le-linux-gnu@14.3.0-8cross1?arch=i386
 - pkg:deb/debian/gdc-14-powerpc64le-linux-gnu@14.3.0-8cross1?arch=s390x
+- pkg:deb/debian/gdc-14-powerpc64le-linux-gnu@14.4.0-4?arch=ppc64el

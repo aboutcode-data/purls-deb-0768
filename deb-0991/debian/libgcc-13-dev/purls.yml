@@ -14,3 +14,4 @@
 - pkg:deb/debian/libgcc-13-dev@13.4.0-4?arch=riscv64
 - pkg:deb/debian/libgcc-13-dev@13.4.0-4?arch=s390x
 - pkg:deb/debian/libgcc-13-dev@13.5.0-3?arch=riscv64
+- pkg:deb/debian/libgcc-13-dev@13.5.0-4?arch=i386

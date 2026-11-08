@@ -1,2 +1,3 @@
 - pkg:deb/debian/lib64go-13-dev@13.3.0-16?arch=i386
 - pkg:deb/debian/lib64go-13-dev@13.4.0-4?arch=i386
+- pkg:deb/debian/lib64go-13-dev@13.5.0-4?arch=i386

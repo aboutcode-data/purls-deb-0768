@@ -14,3 +14,4 @@
 - pkg:deb/debian/libgo-14-dev@14.3.0-10?arch=riscv64
 - pkg:deb/debian/libgo-14-dev@14.3.0-10?arch=s390x
 - pkg:deb/debian/libgo-14-dev@14.4.0-3?arch=riscv64
+- pkg:deb/debian/libgo-14-dev@14.4.0-4?arch=ppc64el
