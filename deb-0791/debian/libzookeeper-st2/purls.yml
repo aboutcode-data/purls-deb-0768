@@ -47,4 +47,5 @@
 - pkg:deb/debian/libzookeeper-st2@3.9.7-1?arch=armhf
 - pkg:deb/debian/libzookeeper-st2@3.9.7-1?arch=i386
 - pkg:deb/debian/libzookeeper-st2@3.9.7-1?arch=ppc64el
+- pkg:deb/debian/libzookeeper-st2@3.9.7-1?arch=riscv64
 - pkg:deb/debian/libzookeeper-st2@3.9.7-1?arch=s390x
