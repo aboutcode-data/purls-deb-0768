@@ -8,3 +8,4 @@
 - pkg:deb/debian/gnat-13-i686-linux-gnu@13.4.0-4cross1?arch=arm64
 - pkg:deb/debian/gnat-13-i686-linux-gnu@13.4.0-4cross1?arch=ppc64el
 - pkg:deb/debian/gnat-13-i686-linux-gnu@13.4.0-4cross1?arch=s390x
+- pkg:deb/debian/gnat-13-i686-linux-gnu@13.5.0-4?arch=i386
