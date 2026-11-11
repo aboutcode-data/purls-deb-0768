@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-piprate-json-gold-dev@0.7.0-1?arch=all
+- pkg:deb/debian/golang-github-piprate-json-gold-dev@0.7.0-2?arch=all

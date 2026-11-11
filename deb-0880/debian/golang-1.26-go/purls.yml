@@ -21,3 +21,4 @@
 - pkg:deb/debian/golang-1.26-go@1.26.10-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/golang-1.26-go@1.26.10-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/golang-1.26-go@1.26.10-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/golang-1.26-go@1.26.11-1?arch=s390x
