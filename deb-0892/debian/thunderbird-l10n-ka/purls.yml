@@ -8,5 +8,6 @@
 - pkg:deb/debian/thunderbird-l10n-ka@144.0.1-1?arch=all
 - pkg:deb/debian/thunderbird-l10n-ka@153.5.1esr-1?arch=all
 - pkg:deb/debian/thunderbird-l10n-ka@153.6.0esr-1?arch=all
+- pkg:deb/debian/thunderbird-l10n-ka@153.7.0esr-1?arch=all
 - pkg:deb/debian/thunderbird-l10n-ka@159.0-1?arch=all
 - pkg:deb/debian/thunderbird-l10n-ka@91.13.0-1~deb11u1?arch=all

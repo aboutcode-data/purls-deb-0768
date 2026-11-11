@@ -10,3 +10,7 @@
 - pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=loong64
 - pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/hurl@7.1.0-2%2Bb2?arch=s390x
+- pkg:deb/debian/hurl@8.1.0-1?arch=amd64
+- pkg:deb/debian/hurl@8.1.0-1?arch=i386
+- pkg:deb/debian/hurl@8.1.0-1?arch=loong64
+- pkg:deb/debian/hurl@8.1.0-1?arch=s390x

@@ -13,3 +13,4 @@
 - pkg:deb/debian/libsiloh5-412@4.12.2~pre1-1?arch=loong64
 - pkg:deb/debian/libsiloh5-412@4.12.2~pre1-1?arch=ppc64el
 - pkg:deb/debian/libsiloh5-412@4.12.2~pre1-1?arch=s390x
+- pkg:deb/debian/libsiloh5-412@4.12.2~pre1-2?arch=riscv64

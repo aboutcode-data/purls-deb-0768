@@ -4,3 +4,7 @@
 - pkg:deb/debian/minijail@2026.05.18%2Bgit20261016.8787d1a-2?arch=i386
 - pkg:deb/debian/minijail@2026.05.18%2Bgit20261016.8787d1a-2?arch=loong64
 - pkg:deb/debian/minijail@2026.05.18%2Bgit20261016.8787d1a-2?arch=riscv64
+- pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=amd64
+- pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=arm64
+- pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=armhf
+- pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=i386
