@@ -1,2 +1,3 @@
 - pkg:deb/debian/libmaven-shared-jar-java@1.2-3?arch=all
 - pkg:deb/debian/libmaven-shared-jar-java@3.1.1-1?arch=all
+- pkg:deb/debian/libmaven-shared-jar-java@3.2.1-1?arch=all
