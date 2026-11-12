@@ -19,3 +19,6 @@
 - pkg:deb/debian/libsgml-parser-opensp-perl@0.994-7%2Bb4?arch=armhf
 - pkg:deb/debian/libsgml-parser-opensp-perl@0.994-7%2Bb4?arch=i386
 - pkg:deb/debian/libsgml-parser-opensp-perl@0.994-7%2Bb4?arch=riscv64
+- pkg:deb/debian/libsgml-parser-opensp-perl@0.994-7%2Bb5?arch=ppc64el
+- pkg:deb/debian/libsgml-parser-opensp-perl@0.994-7%2Bb6?arch=arm64
+- pkg:deb/debian/libsgml-parser-opensp-perl@0.994-7%2Bb6?arch=armhf

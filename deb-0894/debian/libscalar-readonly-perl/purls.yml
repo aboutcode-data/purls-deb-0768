@@ -6,3 +6,5 @@
 - pkg:deb/debian/libscalar-readonly-perl@0.03-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/libscalar-readonly-perl@0.03-2%2Bb2?arch=riscv64
 - pkg:deb/debian/libscalar-readonly-perl@0.03-2%2Bb2?arch=s390x
+- pkg:deb/debian/libscalar-readonly-perl@0.03-2%2Bb3?arch=loong64
+- pkg:deb/debian/libscalar-readonly-perl@0.03-2%2Bb4?arch=i386

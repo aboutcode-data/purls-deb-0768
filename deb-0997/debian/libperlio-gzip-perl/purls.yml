@@ -19,3 +19,4 @@
 - pkg:deb/debian/libperlio-gzip-perl@0.20-1%2Bb4?arch=i386
 - pkg:deb/debian/libperlio-gzip-perl@0.20-1%2Bb4?arch=ppc64el
 - pkg:deb/debian/libperlio-gzip-perl@0.20-1%2Bb4?arch=s390x
+- pkg:deb/debian/libperlio-gzip-perl@0.20-1%2Bb6?arch=i386

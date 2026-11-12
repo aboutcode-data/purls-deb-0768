@@ -19,3 +19,5 @@
 - pkg:deb/debian/libnet-nis-perl@0.44-4%2Bb1?arch=ppc64el
 - pkg:deb/debian/libnet-nis-perl@0.44-4%2Bb1?arch=riscv64
 - pkg:deb/debian/libnet-nis-perl@0.44-4%2Bb1?arch=s390x
+- pkg:deb/debian/libnet-nis-perl@0.44-4%2Bb4?arch=i386
+- pkg:deb/debian/libnet-nis-perl@0.44-4%2Bb4?arch=loong64

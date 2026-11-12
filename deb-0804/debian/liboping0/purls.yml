@@ -19,3 +19,5 @@
 - pkg:deb/debian/liboping0@1.10.0-5%2Bb5?arch=ppc64el
 - pkg:deb/debian/liboping0@1.10.0-5%2Bb5?arch=riscv64
 - pkg:deb/debian/liboping0@1.10.0-5%2Bb5?arch=s390x
+- pkg:deb/debian/liboping0@1.10.0-5.1%2Bb3?arch=i386
+- pkg:deb/debian/liboping0@1.10.0-5.1%2Bb3?arch=loong64
