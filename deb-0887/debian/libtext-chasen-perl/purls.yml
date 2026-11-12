@@ -19,3 +19,5 @@
 - pkg:deb/debian/libtext-chasen-perl@1.04-6%2Bb1?arch=ppc64el
 - pkg:deb/debian/libtext-chasen-perl@1.04-6%2Bb1?arch=riscv64
 - pkg:deb/debian/libtext-chasen-perl@1.04-6%2Bb1?arch=s390x
+- pkg:deb/debian/libtext-chasen-perl@1.04-6%2Bb3?arch=amd64
+- pkg:deb/debian/libtext-chasen-perl@1.04-6%2Bb3?arch=i386

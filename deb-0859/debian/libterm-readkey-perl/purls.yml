@@ -11,6 +11,7 @@
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb1?arch=mipsel
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb1?arch=s390x
+- pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb3?arch=loong64
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb3?arch=riscv64
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb4?arch=amd64
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb4?arch=arm64
@@ -19,3 +20,6 @@
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb4?arch=i386
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb4?arch=s390x
+- pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb6?arch=amd64
+- pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb6?arch=i386
+- pkg:deb/debian/libterm-readkey-perl@2.38-2%2Bb6?arch=s390x

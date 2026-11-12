@@ -19,3 +19,6 @@
 - pkg:deb/debian/libtest-taint-perl@1.08-2%2Bb4?arch=i386
 - pkg:deb/debian/libtest-taint-perl@1.08-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libtest-taint-perl@1.08-2%2Bb4?arch=s390x
+- pkg:deb/debian/libtest-taint-perl@1.08-2%2Bb6?arch=amd64
+- pkg:deb/debian/libtest-taint-perl@1.08-2%2Bb6?arch=i386
+- pkg:deb/debian/libtest-taint-perl@1.08-2%2Bb6?arch=s390x

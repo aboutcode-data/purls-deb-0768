@@ -1,3 +1,6 @@
+- pkg:deb/debian/libspf2-2t64@1.2.10-11%2Bb2?arch=i386
+- pkg:deb/debian/libspf2-2t64@1.2.10-11%2Bb2?arch=loong64
+- pkg:deb/debian/libspf2-2t64@1.2.10-11%2Bb2?arch=s390x
 - pkg:deb/debian/libspf2-2t64@1.2.10-8.3?arch=amd64
 - pkg:deb/debian/libspf2-2t64@1.2.10-8.3?arch=arm64
 - pkg:deb/debian/libspf2-2t64@1.2.10-8.3?arch=armel

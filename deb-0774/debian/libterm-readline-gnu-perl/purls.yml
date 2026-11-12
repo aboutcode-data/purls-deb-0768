@@ -19,6 +19,10 @@
 - pkg:deb/debian/libterm-readline-gnu-perl@1.46-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libterm-readline-gnu-perl@1.46-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libterm-readline-gnu-perl@1.46-1%2Bb3?arch=s390x
+- pkg:deb/debian/libterm-readline-gnu-perl@1.47-1%2Bb2?arch=amd64
+- pkg:deb/debian/libterm-readline-gnu-perl@1.47-1%2Bb2?arch=i386
+- pkg:deb/debian/libterm-readline-gnu-perl@1.47-1%2Bb2?arch=s390x
+- pkg:deb/debian/libterm-readline-gnu-perl@1.47-1%2Bb3?arch=loong64
 - pkg:deb/debian/libterm-readline-gnu-perl@1.47-1?arch=amd64
 - pkg:deb/debian/libterm-readline-gnu-perl@1.47-1?arch=arm64
 - pkg:deb/debian/libterm-readline-gnu-perl@1.47-1?arch=armhf

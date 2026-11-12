@@ -28,3 +28,4 @@
 - pkg:deb/debian/libsolvext1@0.7.35-1?arch=s390x
 - pkg:deb/debian/libsolvext1@0.7.40-1%2Bb1?arch=i386
 - pkg:deb/debian/libsolvext1@0.7.40-1%2Bb1?arch=loong64
+- pkg:deb/debian/libsolvext1@0.7.40-1%2Bb1?arch=s390x
