@@ -11,6 +11,9 @@
 - pkg:deb/debian/libvideo-capture-v4l-perl@0.902-5%2Bb3?arch=s390x
 - pkg:deb/debian/libvideo-capture-v4l-perl@0.902-5?arch=armhf
 - pkg:deb/debian/libvideo-capture-v4l-perl@0.902-5?arch=i386
+- pkg:deb/debian/libvideo-capture-v4l-perl@0.902-6%2Bb2?arch=amd64
+- pkg:deb/debian/libvideo-capture-v4l-perl@0.902-6%2Bb2?arch=i386
+- pkg:deb/debian/libvideo-capture-v4l-perl@0.902-6%2Bb2?arch=ppc64el
 - pkg:deb/debian/libvideo-capture-v4l-perl@0.902-6?arch=amd64
 - pkg:deb/debian/libvideo-capture-v4l-perl@0.902-6?arch=arm64
 - pkg:deb/debian/libvideo-capture-v4l-perl@0.902-6?arch=armel

@@ -19,3 +19,5 @@
 - pkg:deb/debian/libunicode-map-perl@0.112-13%2Bb5?arch=amd64
 - pkg:deb/debian/libunicode-map-perl@0.112-13%2Bb5?arch=armhf
 - pkg:deb/debian/libunicode-map-perl@0.112-13%2Bb5?arch=i386
+- pkg:deb/debian/libunicode-map-perl@0.112-13%2Bb6?arch=ppc64el
+- pkg:deb/debian/libunicode-map-perl@0.112-13%2Bb7?arch=amd64

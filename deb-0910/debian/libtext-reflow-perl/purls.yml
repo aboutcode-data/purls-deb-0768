@@ -20,3 +20,5 @@
 - pkg:deb/debian/libtext-reflow-perl@1.17-2%2Bb5?arch=armhf
 - pkg:deb/debian/libtext-reflow-perl@1.17-2%2Bb5?arch=i386
 - pkg:deb/debian/libtext-reflow-perl@1.17-2%2Bb5?arch=ppc64el
+- pkg:deb/debian/libtext-reflow-perl@1.17-2%2Bb6?arch=amd64
+- pkg:deb/debian/libtext-reflow-perl@1.17-2%2Bb7?arch=i386
