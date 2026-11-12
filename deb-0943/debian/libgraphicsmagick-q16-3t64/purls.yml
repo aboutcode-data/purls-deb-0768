@@ -20,3 +20,4 @@
 - pkg:deb/debian/libgraphicsmagick-q16-3t64@1.4%2Breally1.3.46-2?arch=ppc64el
 - pkg:deb/debian/libgraphicsmagick-q16-3t64@1.4%2Breally1.3.46-2?arch=riscv64
 - pkg:deb/debian/libgraphicsmagick-q16-3t64@1.4%2Breally1.3.46-2?arch=s390x
+- pkg:deb/debian/libgraphicsmagick-q16-3t64@1.4%2Breally1.3.49-1%2Bb1?arch=armhf

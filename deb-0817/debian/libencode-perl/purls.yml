@@ -19,6 +19,7 @@
 - pkg:deb/debian/libencode-perl@3.21-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libencode-perl@3.21-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libencode-perl@3.21-1%2Bb2?arch=s390x
+- pkg:deb/debian/libencode-perl@3.25-1%2Bb1?arch=loong64
 - pkg:deb/debian/libencode-perl@3.25-1?arch=amd64
 - pkg:deb/debian/libencode-perl@3.25-1?arch=arm64
 - pkg:deb/debian/libencode-perl@3.25-1?arch=armhf

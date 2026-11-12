@@ -19,3 +19,4 @@
 - pkg:deb/debian/libfilehandle-fmode-perl@0.15-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libfilehandle-fmode-perl@0.15-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libfilehandle-fmode-perl@0.15-1%2Bb1?arch=s390x
+- pkg:deb/debian/libfilehandle-fmode-perl@0.15-1%2Bb4?arch=loong64

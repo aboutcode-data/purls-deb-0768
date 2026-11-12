@@ -11,6 +11,7 @@
 - pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-1%2Bb2?arch=mipsel
 - pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-1%2Bb2?arch=s390x
+- pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-2%2Bb4?arch=loong64
 - pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-2?arch=amd64
 - pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-2?arch=arm64
 - pkg:deb/debian/libencoding-fixlatin-xs-perl@1.02-2?arch=armel

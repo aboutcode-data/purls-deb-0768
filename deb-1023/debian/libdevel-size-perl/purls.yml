@@ -34,3 +34,4 @@
 - pkg:deb/debian/libdevel-size-perl@0.86-1?arch=ppc64el
 - pkg:deb/debian/libdevel-size-perl@0.86-1?arch=riscv64
 - pkg:deb/debian/libdevel-size-perl@0.86-1?arch=s390x
+- pkg:deb/debian/libdevel-size-perl@0.87-1%2Bb2?arch=loong64

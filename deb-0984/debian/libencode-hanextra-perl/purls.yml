@@ -11,6 +11,7 @@
 - pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb1?arch=mipsel
 - pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb1?arch=ppc64el
 - pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb1?arch=s390x
+- pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb3?arch=loong64
 - pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb4?arch=armel
 - pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb4?arch=ppc64el
 - pkg:deb/debian/libencode-hanextra-perl@0.23-6%2Bb4?arch=riscv64

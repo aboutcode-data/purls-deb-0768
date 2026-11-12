@@ -17,5 +17,6 @@
 - pkg:deb/debian/libdigest-elf-perl@1.42-2%2Bb4?arch=armel
 - pkg:deb/debian/libdigest-elf-perl@1.42-2%2Bb4?arch=armhf
 - pkg:deb/debian/libdigest-elf-perl@1.42-2%2Bb4?arch=i386
+- pkg:deb/debian/libdigest-elf-perl@1.42-2%2Bb4?arch=loong64
 - pkg:deb/debian/libdigest-elf-perl@1.42-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libdigest-elf-perl@1.42-2%2Bb4?arch=s390x

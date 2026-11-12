@@ -7,6 +7,7 @@
 - pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=armel
 - pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=armhf
 - pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=i386
+- pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=loong64
 - pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=ppc64el
 - pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=riscv64
 - pkg:deb/debian/libevent-perl@1.28-2%2Bb3?arch=s390x
