@@ -20,3 +20,7 @@
 - pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb4?arch=ppc64el
 - pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb4?arch=s390x
 - pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb6?arch=amd64
+- pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb6?arch=armhf
+- pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb6?arch=i386
+- pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb6?arch=ppc64el
+- pkg:deb/debian/libxml-quote-perl@1.02-5%2Bb7?arch=arm64

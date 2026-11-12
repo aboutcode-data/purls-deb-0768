@@ -8,3 +8,4 @@
 - pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=arm64
 - pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=armhf
 - pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=i386
+- pkg:deb/debian/minijail@2026.05.18%2Bgit20261103.9bb6be3-1?arch=riscv64
