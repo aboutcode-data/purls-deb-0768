@@ -26,3 +26,7 @@
 - pkg:deb/debian/swish-e@2.4.7-7.1?arch=ppc64el
 - pkg:deb/debian/swish-e@2.4.7-7.1?arch=riscv64
 - pkg:deb/debian/swish-e@2.4.7-7.1?arch=s390x
+- pkg:deb/debian/swish-e@2.4.7-7.2%2Bb2?arch=amd64
+- pkg:deb/debian/swish-e@2.4.7-7.2%2Bb2?arch=arm64
+- pkg:deb/debian/swish-e@2.4.7-7.2%2Bb2?arch=armhf
+- pkg:deb/debian/swish-e@2.4.7-7.2%2Bb2?arch=ppc64el

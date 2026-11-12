@@ -19,3 +19,5 @@
 - pkg:deb/debian/stymulator@0.21a~dfsg-4?arch=ppc64el
 - pkg:deb/debian/stymulator@0.21a~dfsg-4?arch=riscv64
 - pkg:deb/debian/stymulator@0.21a~dfsg-4?arch=s390x
+- pkg:deb/debian/stymulator@0.21a~dfsg-5?arch=arm64
+- pkg:deb/debian/stymulator@0.21a~dfsg-5?arch=armhf
