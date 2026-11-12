@@ -13,3 +13,4 @@
 - pkg:deb/debian/libharfbuzz-shaper-perl@0.031%2Bds-2?arch=ppc64el
 - pkg:deb/debian/libharfbuzz-shaper-perl@0.031%2Bds-2?arch=riscv64
 - pkg:deb/debian/libharfbuzz-shaper-perl@0.031%2Bds-2?arch=s390x
+- pkg:deb/debian/libharfbuzz-shaper-perl@0.033%2Bds-1%2Bb3?arch=loong64

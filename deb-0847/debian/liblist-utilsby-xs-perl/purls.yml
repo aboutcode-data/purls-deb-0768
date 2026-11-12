@@ -11,6 +11,7 @@
 - pkg:deb/debian/liblist-utilsby-xs-perl@0.06-1%2Bb2?arch=armhf
 - pkg:deb/debian/liblist-utilsby-xs-perl@0.06-1%2Bb2?arch=mips64el
 - pkg:deb/debian/liblist-utilsby-xs-perl@0.06-1%2Bb2?arch=mipsel
+- pkg:deb/debian/liblist-utilsby-xs-perl@0.06-2%2Bb3?arch=loong64
 - pkg:deb/debian/liblist-utilsby-xs-perl@0.06-2?arch=amd64
 - pkg:deb/debian/liblist-utilsby-xs-perl@0.06-2?arch=arm64
 - pkg:deb/debian/liblist-utilsby-xs-perl@0.06-2?arch=armel

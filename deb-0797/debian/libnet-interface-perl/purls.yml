@@ -19,6 +19,8 @@
 - pkg:deb/debian/libnet-interface-perl@1.016-3%2Bb2?arch=armhf
 - pkg:deb/debian/libnet-interface-perl@1.016-3%2Bb2?arch=i386
 - pkg:deb/debian/libnet-interface-perl@1.016-3%2Bb2?arch=riscv64
+- pkg:deb/debian/libnet-interface-perl@1.016-4%2Bb2?arch=i386
+- pkg:deb/debian/libnet-interface-perl@1.016-4%2Bb3?arch=loong64
 - pkg:deb/debian/libnet-interface-perl@1.016-4?arch=amd64
 - pkg:deb/debian/libnet-interface-perl@1.016-4?arch=arm64
 - pkg:deb/debian/libnet-interface-perl@1.016-4?arch=armhf

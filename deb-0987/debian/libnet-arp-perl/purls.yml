@@ -11,6 +11,7 @@
 - pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb1?arch=mipsel
 - pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb1?arch=s390x
+- pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb3?arch=loong64
 - pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb4?arch=amd64
 - pkg:deb/debian/libnet-arp-perl@1.0.12-1%2Bb4?arch=arm64

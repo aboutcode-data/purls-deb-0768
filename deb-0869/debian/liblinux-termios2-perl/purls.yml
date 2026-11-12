@@ -23,3 +23,4 @@
 - pkg:deb/debian/liblinux-termios2-perl@0.01-4?arch=i386
 - pkg:deb/debian/liblinux-termios2-perl@0.01-4?arch=riscv64
 - pkg:deb/debian/liblinux-termios2-perl@0.01-4?arch=s390x
+- pkg:deb/debian/liblinux-termios2-perl@0.01-5%2Bb1?arch=loong64

@@ -19,3 +19,4 @@
 - pkg:deb/debian/libmath-vector-real-xs-perl@0.10-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libmath-vector-real-xs-perl@0.10-3%2Bb1?arch=riscv64
 - pkg:deb/debian/libmath-vector-real-xs-perl@0.10-3%2Bb1?arch=s390x
+- pkg:deb/debian/libmath-vector-real-xs-perl@0.10-3%2Bb3?arch=loong64
