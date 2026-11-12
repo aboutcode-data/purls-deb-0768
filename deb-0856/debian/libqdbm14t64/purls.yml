@@ -13,3 +13,7 @@
 - pkg:deb/debian/libqdbm14t64@1.8.78-14?arch=ppc64el
 - pkg:deb/debian/libqdbm14t64@1.8.78-14?arch=riscv64
 - pkg:deb/debian/libqdbm14t64@1.8.78-14?arch=s390x
+- pkg:deb/debian/libqdbm14t64@1.8.78-16%2Bb2?arch=amd64
+- pkg:deb/debian/libqdbm14t64@1.8.78-16%2Bb2?arch=arm64
+- pkg:deb/debian/libqdbm14t64@1.8.78-16%2Bb2?arch=armhf
+- pkg:deb/debian/libqdbm14t64@1.8.78-16%2Bb2?arch=ppc64el

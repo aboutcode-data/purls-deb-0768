@@ -29,3 +29,4 @@
 - pkg:deb/debian/libqdbm-dev@1.8.78-16%2Bb2?arch=amd64
 - pkg:deb/debian/libqdbm-dev@1.8.78-16%2Bb2?arch=arm64
 - pkg:deb/debian/libqdbm-dev@1.8.78-16%2Bb2?arch=armhf
+- pkg:deb/debian/libqdbm-dev@1.8.78-16%2Bb2?arch=ppc64el
