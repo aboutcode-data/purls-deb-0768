@@ -19,3 +19,4 @@
 - pkg:deb/debian/libdevel-declare-perl@0.006022-1%2Bb6?arch=i386
 - pkg:deb/debian/libdevel-declare-perl@0.006022-1%2Bb6?arch=ppc64el
 - pkg:deb/debian/libdevel-declare-perl@0.006022-1%2Bb6?arch=s390x
+- pkg:deb/debian/libdevel-declare-perl@0.006022-1%2Bb8?arch=s390x

@@ -35,3 +35,4 @@
 - pkg:deb/debian/openjdk-25-jre-headless@25.0.5.0.3%2B1-1?arch=i386
 - pkg:deb/debian/openjdk-25-jre-headless@25.0.5.0.3%2B1-1?arch=ppc64el
 - pkg:deb/debian/openjdk-25-jre-headless@25.0.5.0.3%2B1-1?arch=s390x
+- pkg:deb/debian/openjdk-25-jre-headless@25.0.5.0.3%2B1-3?arch=s390x

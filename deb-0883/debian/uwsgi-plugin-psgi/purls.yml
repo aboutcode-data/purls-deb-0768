@@ -26,3 +26,4 @@
 - pkg:deb/debian/uwsgi-plugin-psgi@2.0.29%2B1%2B0.0.2%2Bb1?arch=ppc64el
 - pkg:deb/debian/uwsgi-plugin-psgi@2.0.29%2B1%2B0.0.2%2Bb1?arch=riscv64
 - pkg:deb/debian/uwsgi-plugin-psgi@2.0.29%2B1%2B0.0.2%2Bb1?arch=s390x
+- pkg:deb/debian/uwsgi-plugin-psgi@2.0.31%2B7%2B0.0.2%2Bb3?arch=s390x
