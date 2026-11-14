@@ -39,3 +39,4 @@
 - pkg:deb/debian/libsbml5-dev@5.20.5%2Bdfsg-3?arch=ppc64el
 - pkg:deb/debian/libsbml5-dev@5.20.5%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/libsbml5-dev@5.20.5%2Bdfsg-3?arch=s390x
+- pkg:deb/debian/libsbml5-dev@5.21.2%2Bdfsg-1%2Bb1?arch=riscv64

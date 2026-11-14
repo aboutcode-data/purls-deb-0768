@@ -12,6 +12,8 @@
 - pkg:deb/debian/libpolly-22-dev@22.1.8-3?arch=loong64
 - pkg:deb/debian/libpolly-22-dev@22.1.8-3?arch=ppc64el
 - pkg:deb/debian/libpolly-22-dev@22.1.8-3?arch=s390x
+- pkg:deb/debian/libpolly-22-dev@22.1.8-4?arch=armhf
+- pkg:deb/debian/libpolly-22-dev@22.1.8-4?arch=s390x
 - pkg:deb/debian/libpolly-22-dev@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=amd64
 - pkg:deb/debian/libpolly-22-dev@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=arm64
 - pkg:deb/debian/libpolly-22-dev@22~%2B%2B20251023025710%2B3f47a7be1ae6-1~exp5?arch=armhf

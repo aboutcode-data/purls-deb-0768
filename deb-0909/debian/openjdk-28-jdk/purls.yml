@@ -1,1 +1,2 @@
 - pkg:deb/debian/openjdk-28-jdk@28~18ea-1?arch=riscv64
+- pkg:deb/debian/openjdk-28-jdk@28~23ea-1?arch=i386
