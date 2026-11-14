@@ -20,6 +20,7 @@
 - pkg:deb/debian/cyrus-clients@3.12.1-2?arch=ppc64el
 - pkg:deb/debian/cyrus-clients@3.12.1-2?arch=riscv64
 - pkg:deb/debian/cyrus-clients@3.12.1-2?arch=s390x
+- pkg:deb/debian/cyrus-clients@3.12.4-1%2Bb1?arch=riscv64
 - pkg:deb/debian/cyrus-clients@3.2.6-2%2Bdeb11u2?arch=amd64
 - pkg:deb/debian/cyrus-clients@3.2.6-2%2Bdeb11u2?arch=arm64
 - pkg:deb/debian/cyrus-clients@3.2.6-2%2Bdeb11u2?arch=armhf
