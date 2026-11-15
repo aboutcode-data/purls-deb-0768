@@ -46,3 +46,4 @@
 - pkg:deb/debian/qdl@2.9-1?arch=loong64
 - pkg:deb/debian/qdl@2.9-1?arch=ppc64el
 - pkg:deb/debian/qdl@2.9-1?arch=s390x
+- pkg:deb/debian/qdl@2.9-3?arch=riscv64

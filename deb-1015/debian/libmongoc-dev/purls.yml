@@ -11,6 +11,7 @@
 - pkg:deb/debian/libmongoc-dev@1.23.1-1%2Bdeb12u1?arch=mipsel
 - pkg:deb/debian/libmongoc-dev@1.23.1-1%2Bdeb12u1?arch=ppc64el
 - pkg:deb/debian/libmongoc-dev@1.23.1-1%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/libmongoc-dev@1.30.4-1%2Bdeb13u5?arch=riscv64
 - pkg:deb/debian/libmongoc-dev@1.30.4-1?arch=amd64
 - pkg:deb/debian/libmongoc-dev@1.30.4-1?arch=arm64
 - pkg:deb/debian/libmongoc-dev@1.30.4-1?arch=armel

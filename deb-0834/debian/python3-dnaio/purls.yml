@@ -31,3 +31,4 @@
 - pkg:deb/debian/python3-dnaio@1.2.4-1%2Bb3?arch=loong64
 - pkg:deb/debian/python3-dnaio@1.2.4-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/python3-dnaio@1.2.4-1%2Bb3?arch=riscv64
+- pkg:deb/debian/python3-dnaio@1.2.5-1?arch=riscv64
