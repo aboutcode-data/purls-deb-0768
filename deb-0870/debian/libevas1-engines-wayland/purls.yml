@@ -26,3 +26,4 @@
 - pkg:deb/debian/libevas1-engines-wayland@1.29.0-1?arch=loong64
 - pkg:deb/debian/libevas1-engines-wayland@1.29.0-1?arch=ppc64el
 - pkg:deb/debian/libevas1-engines-wayland@1.29.0-1?arch=s390x
+- pkg:deb/debian/libevas1-engines-wayland@1.29.0-2%2Bb1?arch=riscv64
