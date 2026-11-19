@@ -30,3 +30,7 @@
 - pkg:deb/debian/valkey-sentinel@8.1.4%2Bdfsg1-1?arch=ppc64el
 - pkg:deb/debian/valkey-sentinel@8.1.4%2Bdfsg1-1?arch=riscv64
 - pkg:deb/debian/valkey-sentinel@8.1.4%2Bdfsg1-1?arch=s390x
+- pkg:deb/debian/valkey-sentinel@9.1.4-1?arch=arm64
+- pkg:deb/debian/valkey-sentinel@9.1.4-1?arch=armhf
+- pkg:deb/debian/valkey-sentinel@9.1.4-1?arch=i386
+- pkg:deb/debian/valkey-sentinel@9.1.4-1?arch=ppc64el

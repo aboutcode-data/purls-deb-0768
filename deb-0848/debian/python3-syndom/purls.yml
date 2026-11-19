@@ -1,3 +1,4 @@
+- pkg:deb/debian/python3-syndom@1.0-3%2Bb10?arch=s390x
 - pkg:deb/debian/python3-syndom@1.0-3%2Bb4?arch=loong64
 - pkg:deb/debian/python3-syndom@1.0-3%2Bb5?arch=amd64
 - pkg:deb/debian/python3-syndom@1.0-3%2Bb5?arch=arm64
