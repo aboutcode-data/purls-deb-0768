@@ -1,3 +1,6 @@
+- pkg:deb/debian/libnvidia-tesla-470-ml1@470.256.02-11?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-470-ml1@470.256.02-11?arch=i386
+- pkg:deb/debian/libnvidia-tesla-470-ml1@470.256.02-11?arch=ppc64el
 - pkg:deb/debian/libnvidia-tesla-470-ml1@470.256.02-1~deb11u2?arch=amd64
 - pkg:deb/debian/libnvidia-tesla-470-ml1@470.256.02-1~deb11u2?arch=arm64
 - pkg:deb/debian/libnvidia-tesla-470-ml1@470.256.02-1~deb11u2?arch=i386

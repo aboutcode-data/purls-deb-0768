@@ -1,3 +1,5 @@
+- pkg:deb/debian/libnvidia-tesla-470-compiler@470.256.02-11?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-470-compiler@470.256.02-11?arch=i386
 - pkg:deb/debian/libnvidia-tesla-470-compiler@470.256.02-1~deb11u2?arch=amd64
 - pkg:deb/debian/libnvidia-tesla-470-compiler@470.256.02-1~deb11u2?arch=i386
 - pkg:deb/debian/libnvidia-tesla-470-compiler@470.256.02-1~deb12u1?arch=amd64
