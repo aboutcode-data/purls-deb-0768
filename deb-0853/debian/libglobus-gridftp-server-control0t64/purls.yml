@@ -6,3 +6,4 @@
 - pkg:deb/debian/libglobus-gridftp-server-control0t64@9.3-6%2Bb1?arch=ppc64el
 - pkg:deb/debian/libglobus-gridftp-server-control0t64@9.3-6%2Bb1?arch=riscv64
 - pkg:deb/debian/libglobus-gridftp-server-control0t64@9.3-6%2Bb1?arch=s390x
+- pkg:deb/debian/libglobus-gridftp-server-control0t64@9.6-1?arch=riscv64

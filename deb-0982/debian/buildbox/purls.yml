@@ -13,3 +13,4 @@
 - pkg:deb/debian/buildbox@1.4.30%2Bdfsg-1?arch=loong64
 - pkg:deb/debian/buildbox@1.4.30%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/buildbox@1.4.30%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/buildbox@1.4.32%2Bdfsg-1?arch=loong64

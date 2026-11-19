@@ -19,3 +19,4 @@
 - pkg:deb/debian/libglobus-io-dev@12.4-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libglobus-io-dev@12.4-3%2Bb1?arch=riscv64
 - pkg:deb/debian/libglobus-io-dev@12.4-3%2Bb1?arch=s390x
+- pkg:deb/debian/libglobus-io-dev@12.5-1?arch=riscv64

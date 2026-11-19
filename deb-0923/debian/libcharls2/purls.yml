@@ -19,3 +19,4 @@
 - pkg:deb/debian/libcharls2@2.4.2-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/libcharls2@2.4.2-2%2Bb2?arch=riscv64
 - pkg:deb/debian/libcharls2@2.4.2-2%2Bb2?arch=s390x
+- pkg:deb/debian/libcharls2@2.4.5-1?arch=loong64

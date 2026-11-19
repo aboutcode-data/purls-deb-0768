@@ -92,3 +92,4 @@
 - pkg:deb/debian/bind9-libs@9.21.18-1?arch=ppc64el
 - pkg:deb/debian/bind9-libs@9.21.18-1?arch=riscv64
 - pkg:deb/debian/bind9-libs@9.21.18-1?arch=s390x
+- pkg:deb/debian/bind9-libs@9.21.28-1?arch=ppc64el

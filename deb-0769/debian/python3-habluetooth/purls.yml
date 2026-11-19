@@ -20,3 +20,4 @@
 - pkg:deb/debian/python3-habluetooth@5.8.0-1?arch=ppc64el
 - pkg:deb/debian/python3-habluetooth@5.8.0-1?arch=riscv64
 - pkg:deb/debian/python3-habluetooth@5.8.0-1?arch=s390x
+- pkg:deb/debian/python3-habluetooth@7.1.2-2?arch=loong64

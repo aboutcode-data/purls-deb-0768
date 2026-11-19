@@ -15,6 +15,7 @@
 - pkg:deb/debian/globus-common-progs@18.14-3?arch=ppc64el
 - pkg:deb/debian/globus-common-progs@18.14-3?arch=riscv64
 - pkg:deb/debian/globus-common-progs@18.14-3?arch=s390x
+- pkg:deb/debian/globus-common-progs@18.16-1?arch=riscv64
 - pkg:deb/debian/globus-common-progs@18.9-1?arch=amd64
 - pkg:deb/debian/globus-common-progs@18.9-1?arch=arm64
 - pkg:deb/debian/globus-common-progs@18.9-1?arch=armhf
