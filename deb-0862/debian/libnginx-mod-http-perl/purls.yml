@@ -68,3 +68,4 @@
 - pkg:deb/debian/libnginx-mod-http-perl@1.30.6-2?arch=riscv64
 - pkg:deb/debian/libnginx-mod-http-perl@1.30.6-2?arch=s390x
 - pkg:deb/debian/libnginx-mod-http-perl@1.30.6-3%2Bb1?arch=riscv64
+- pkg:deb/debian/libnginx-mod-http-perl@1.30.6-4?arch=s390x
