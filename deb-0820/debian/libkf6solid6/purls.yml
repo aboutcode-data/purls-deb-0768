@@ -19,3 +19,4 @@
 - pkg:deb/debian/libkf6solid6@6.23.0-1?arch=i386
 - pkg:deb/debian/libkf6solid6@6.23.0-1?arch=loong64
 - pkg:deb/debian/libkf6solid6@6.23.0-1?arch=ppc64el
+- pkg:deb/debian/libkf6solid6@6.32.0-2%2Bb1?arch=riscv64

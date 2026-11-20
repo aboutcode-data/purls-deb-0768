@@ -19,3 +19,4 @@
 - pkg:deb/debian/libbz2-ocaml@0.8.0-2%2Bb3?arch=ppc64el
 - pkg:deb/debian/libbz2-ocaml@0.8.0-2%2Bb3?arch=riscv64
 - pkg:deb/debian/libbz2-ocaml@0.8.0-2%2Bb3?arch=s390x
+- pkg:deb/debian/libbz2-ocaml@0.8.0-3%2Bb2?arch=riscv64

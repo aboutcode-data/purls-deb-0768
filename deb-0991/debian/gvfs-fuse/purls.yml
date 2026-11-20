@@ -40,3 +40,4 @@
 - pkg:deb/debian/gvfs-fuse@1.59.1-1?arch=ppc64el
 - pkg:deb/debian/gvfs-fuse@1.59.1-1?arch=riscv64
 - pkg:deb/debian/gvfs-fuse@1.59.1-1?arch=s390x
+- pkg:deb/debian/gvfs-fuse@1.62.0-3%2Bb1?arch=riscv64
