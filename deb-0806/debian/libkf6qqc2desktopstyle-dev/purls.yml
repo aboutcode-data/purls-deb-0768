@@ -17,3 +17,10 @@
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.23.0-1?arch=armhf
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.23.0-1?arch=loong64
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.23.0-1?arch=ppc64el
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=amd64
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=arm64
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=armhf
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=i386
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=loong64
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=ppc64el
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=s390x

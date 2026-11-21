@@ -13,3 +13,4 @@
 - pkg:deb/debian/libkf6baloo-dev@6.20.0-1?arch=ppc64el
 - pkg:deb/debian/libkf6baloo-dev@6.20.0-1?arch=riscv64
 - pkg:deb/debian/libkf6baloo-dev@6.20.0-1?arch=s390x
+- pkg:deb/debian/libkf6baloo-dev@6.32.0-1?arch=riscv64

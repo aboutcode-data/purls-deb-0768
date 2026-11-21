@@ -11,6 +11,13 @@
 - pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-1?arch=mipsel
 - pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-1?arch=ppc64el
 - pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-1?arch=s390x
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb11?arch=amd64
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb11?arch=armhf
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb11?arch=i386
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb11?arch=ppc64el
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb11?arch=s390x
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb12?arch=arm64
+- pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb2?arch=loong64
 - pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb6?arch=amd64
 - pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb6?arch=arm64
 - pkg:deb/debian/libcalendar-ocaml-dev@3.0.0-4%2Bb6?arch=armel
