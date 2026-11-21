@@ -6,3 +6,10 @@
 - pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb3?arch=s390x
 - pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb4?arch=amd64
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb4?arch=loong64
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb6?arch=arm64
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb6?arch=armhf
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb6?arch=i386
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb6?arch=ppc64el
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb6?arch=s390x
+- pkg:deb/debian/libopam-0install-cudf-ocaml@0.5.0-1%2Bb7?arch=amd64
