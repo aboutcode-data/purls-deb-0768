@@ -19,3 +19,9 @@
 - pkg:deb/debian/librtmidi-dev@6.0.0-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/librtmidi-dev@6.0.0-2%2Bb1?arch=riscv64
 - pkg:deb/debian/librtmidi-dev@6.0.0-2%2Bb1?arch=s390x
+- pkg:deb/debian/librtmidi-dev@6.1.0-1~exp1?arch=arm64
+- pkg:deb/debian/librtmidi-dev@6.1.0-1~exp1?arch=armhf
+- pkg:deb/debian/librtmidi-dev@6.1.0-1~exp1?arch=i386
+- pkg:deb/debian/librtmidi-dev@6.1.0-1~exp1?arch=loong64
+- pkg:deb/debian/librtmidi-dev@6.1.0-1~exp1?arch=ppc64el
+- pkg:deb/debian/librtmidi-dev@6.1.0-1~exp1?arch=s390x
