@@ -14,3 +14,4 @@
 - pkg:deb/debian/syncevolution-libs@2.0.0-3.3?arch=ppc64el
 - pkg:deb/debian/syncevolution-libs@2.0.0-3.3?arch=riscv64
 - pkg:deb/debian/syncevolution-libs@2.0.0-3.3?arch=s390x
+- pkg:deb/debian/syncevolution-libs@2.0.0-4%2Bb1?arch=riscv64
