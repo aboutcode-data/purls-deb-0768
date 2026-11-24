@@ -75,3 +75,4 @@
 - pkg:deb/debian/libaqbanking44@6.7.16beta-1?arch=ppc64el
 - pkg:deb/debian/libaqbanking44@6.7.16beta-1?arch=riscv64
 - pkg:deb/debian/libaqbanking44@6.7.16beta-1?arch=s390x
+- pkg:deb/debian/libaqbanking44@6.9.2-1%2Bb1?arch=riscv64
