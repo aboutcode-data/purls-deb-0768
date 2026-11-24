@@ -34,3 +34,4 @@
 - pkg:deb/debian/clamav-milter@1.4.6%2Bdfsg-1~deb13u1?arch=ppc64el
 - pkg:deb/debian/clamav-milter@1.4.6%2Bdfsg-1~deb13u1?arch=riscv64
 - pkg:deb/debian/clamav-milter@1.4.6%2Bdfsg-1~deb13u1?arch=s390x
+- pkg:deb/debian/clamav-milter@1.4.7%2Bdfsg-1?arch=riscv64
