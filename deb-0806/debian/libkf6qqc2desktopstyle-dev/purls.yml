@@ -23,4 +23,5 @@
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=i386
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=loong64
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=ppc64el
+- pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=riscv64
 - pkg:deb/debian/libkf6qqc2desktopstyle-dev@6.32.0-2?arch=s390x
