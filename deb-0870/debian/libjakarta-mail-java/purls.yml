@@ -1,1 +1,2 @@
 - pkg:deb/debian/libjakarta-mail-java@2.0.0-2?arch=all
+- pkg:deb/debian/libjakarta-mail-java@2.0.2-1?arch=all
