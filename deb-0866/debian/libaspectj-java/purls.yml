@@ -1,3 +1,4 @@
 - pkg:deb/debian/libaspectj-java@1.9.2-2?arch=all
+- pkg:deb/debian/libaspectj-java@1.9.20.1-1?arch=all
 - pkg:deb/debian/libaspectj-java@1.9.5-2?arch=all
 - pkg:deb/debian/libaspectj-java@1.9.6-1?arch=all
