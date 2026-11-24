@@ -10,3 +10,4 @@
 - pkg:deb/debian/gobjc%2B%2B-hppa-linux-gnu@15.2.0-4?arch=arm64
 - pkg:deb/debian/gobjc%2B%2B-hppa-linux-gnu@15.2.0-4?arch=i386
 - pkg:deb/debian/gobjc%2B%2B-hppa-linux-gnu@15.2.0-4?arch=ppc64el
+- pkg:deb/debian/gobjc%2B%2B-hppa-linux-gnu@16.2.0-1?arch=i386
