@@ -26,3 +26,4 @@
 - pkg:deb/debian/libbpp-raa-dev@2.4.1-9%2Bb1?arch=ppc64el
 - pkg:deb/debian/libbpp-raa-dev@2.4.1-9%2Bb1?arch=riscv64
 - pkg:deb/debian/libbpp-raa-dev@2.4.1-9%2Bb1?arch=s390x
+- pkg:deb/debian/libbpp-raa-dev@3.0.0-2?arch=riscv64
