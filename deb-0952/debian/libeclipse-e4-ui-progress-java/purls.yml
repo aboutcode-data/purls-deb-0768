@@ -1,3 +1,4 @@
 - pkg:deb/debian/libeclipse-e4-ui-progress-java@0.3.0%2Beclipse4.18-2?arch=all
 - pkg:deb/debian/libeclipse-e4-ui-progress-java@0.3.600%2Beclipse4.26-1?arch=all
 - pkg:deb/debian/libeclipse-e4-ui-progress-java@0.4.100%2Beclipse4.29-1?arch=all
+- pkg:deb/debian/libeclipse-e4-ui-progress-java@0.4.300%2Beclipse4.31-1?arch=all

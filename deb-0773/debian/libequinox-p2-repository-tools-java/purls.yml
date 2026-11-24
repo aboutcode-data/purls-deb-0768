@@ -1,3 +1,4 @@
 - pkg:deb/debian/libequinox-p2-repository-tools-java@2.2.500%2Beclipse4.18-1?arch=all
 - pkg:deb/debian/libequinox-p2-repository-tools-java@2.3.200%2Beclipse4.26-1?arch=all
 - pkg:deb/debian/libequinox-p2-repository-tools-java@2.4.100%2Beclipse4.29-1?arch=all
+- pkg:deb/debian/libequinox-p2-repository-tools-java@2.4.600%2Beclipse4.35-1?arch=all
