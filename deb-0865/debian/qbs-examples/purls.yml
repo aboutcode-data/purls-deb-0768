@@ -3,3 +3,4 @@
 - pkg:deb/debian/qbs-examples@2.6.1-1?arch=all
 - pkg:deb/debian/qbs-examples@3.1.1-1?arch=all
 - pkg:deb/debian/qbs-examples@3.1.2-2?arch=all
+- pkg:deb/debian/qbs-examples@3.4.0-1?arch=all
