@@ -26,3 +26,4 @@
 - pkg:deb/debian/vdr-plugin-epgsearch@2.4.4-1?arch=ppc64el
 - pkg:deb/debian/vdr-plugin-epgsearch@2.4.4-1?arch=riscv64
 - pkg:deb/debian/vdr-plugin-epgsearch@2.4.4-1?arch=s390x
+- pkg:deb/debian/vdr-plugin-epgsearch@2.4.6-2?arch=riscv64
