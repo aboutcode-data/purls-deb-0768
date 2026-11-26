@@ -48,4 +48,5 @@
 - pkg:deb/debian/libbpf-dev@1.8.0-1?arch=i386
 - pkg:deb/debian/libbpf-dev@1.8.0-1?arch=loong64
 - pkg:deb/debian/libbpf-dev@1.8.0-1?arch=ppc64el
+- pkg:deb/debian/libbpf-dev@1.8.0-1?arch=riscv64
 - pkg:deb/debian/libbpf-dev@1.8.0-1?arch=s390x

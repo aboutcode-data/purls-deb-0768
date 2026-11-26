@@ -30,6 +30,7 @@
 - pkg:deb/debian/libapache2-mod-auth-openidc@2.4.19.1-2?arch=ppc64el
 - pkg:deb/debian/libapache2-mod-auth-openidc@2.4.19.1-2?arch=riscv64
 - pkg:deb/debian/libapache2-mod-auth-openidc@2.4.19.1-2?arch=s390x
+- pkg:deb/debian/libapache2-mod-auth-openidc@2.4.20.5-1?arch=riscv64
 - pkg:deb/debian/libapache2-mod-auth-openidc@2.4.9.4-0%2Bdeb11u4?arch=amd64
 - pkg:deb/debian/libapache2-mod-auth-openidc@2.4.9.4-0%2Bdeb11u4?arch=arm64
 - pkg:deb/debian/libapache2-mod-auth-openidc@2.4.9.4-0%2Bdeb11u4?arch=armhf
