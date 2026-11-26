@@ -6,6 +6,7 @@
 - pkg:deb/debian/libvirt-daemon-driver-xen@11.3.0-3%2Bdeb13u1?arch=arm64
 - pkg:deb/debian/libvirt-daemon-driver-xen@11.9.0-2?arch=amd64
 - pkg:deb/debian/libvirt-daemon-driver-xen@11.9.0-2?arch=arm64
+- pkg:deb/debian/libvirt-daemon-driver-xen@12.9.0-1~bpo13%2B1?arch=arm64
 - pkg:deb/debian/libvirt-daemon-driver-xen@7.0.0-3%2Bdeb11u3?arch=amd64
 - pkg:deb/debian/libvirt-daemon-driver-xen@7.0.0-3%2Bdeb11u3?arch=arm64
 - pkg:deb/debian/libvirt-daemon-driver-xen@7.0.0-3%2Bdeb11u3?arch=armhf
