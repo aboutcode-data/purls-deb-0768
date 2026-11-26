@@ -1,3 +1,4 @@
+- pkg:deb/debian/mcxtrace-mxdisplay-webgl-classic@3.5%2B3.10.3%2Bds5%2B~cs4.4.1-1?arch=riscv64
 - pkg:deb/debian/mcxtrace-mxdisplay-webgl-classic@3.5%2B3.5.19%2Bds5-2?arch=amd64
 - pkg:deb/debian/mcxtrace-mxdisplay-webgl-classic@3.5%2B3.5.19%2Bds5-2?arch=arm64
 - pkg:deb/debian/mcxtrace-mxdisplay-webgl-classic@3.5%2B3.5.19%2Bds5-2?arch=armel
