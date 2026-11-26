@@ -2,4 +2,5 @@
 - pkg:deb/debian/libimath-doc@3.1.6-1?arch=all
 - pkg:deb/debian/libimath-doc@3.2.3-1?arch=all
 - pkg:deb/debian/libimath-doc@3.2.3-4?arch=all
+- pkg:deb/debian/libimath-doc@3.2.3-5.1?arch=all
 - pkg:deb/debian/libimath-doc@3.2.3-5?arch=all

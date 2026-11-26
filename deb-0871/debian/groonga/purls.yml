@@ -47,3 +47,4 @@
 - pkg:deb/debian/groonga@16.1.5%2Bdfsg-1%2Bb2?arch=loong64
 - pkg:deb/debian/groonga@16.1.5%2Bdfsg-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/groonga@16.1.5%2Bdfsg-1%2Bb2?arch=s390x
+- pkg:deb/debian/groonga@16.1.5%2Bdfsg-1%2Bb3?arch=riscv64
