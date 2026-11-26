@@ -26,3 +26,10 @@
 - pkg:deb/debian/anacron@2.3-45?arch=ppc64el
 - pkg:deb/debian/anacron@2.3-45?arch=riscv64
 - pkg:deb/debian/anacron@2.3-45?arch=s390x
+- pkg:deb/debian/anacron@2.3-53?arch=amd64
+- pkg:deb/debian/anacron@2.3-53?arch=arm64
+- pkg:deb/debian/anacron@2.3-53?arch=armhf
+- pkg:deb/debian/anacron@2.3-53?arch=i386
+- pkg:deb/debian/anacron@2.3-53?arch=loong64
+- pkg:deb/debian/anacron@2.3-53?arch=ppc64el
+- pkg:deb/debian/anacron@2.3-53?arch=s390x

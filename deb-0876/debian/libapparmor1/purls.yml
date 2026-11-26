@@ -56,3 +56,4 @@
 - pkg:deb/debian/libapparmor1@5.0.2-5?arch=loong64
 - pkg:deb/debian/libapparmor1@5.0.2-5?arch=ppc64el
 - pkg:deb/debian/libapparmor1@5.0.2-5?arch=s390x
+- pkg:deb/debian/libapparmor1@5.0.2-6?arch=riscv64

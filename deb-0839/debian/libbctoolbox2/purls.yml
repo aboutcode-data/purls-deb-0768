@@ -6,3 +6,4 @@
 - pkg:deb/debian/libbctoolbox2@5.3.105-1?arch=ppc64el
 - pkg:deb/debian/libbctoolbox2@5.3.105-1?arch=riscv64
 - pkg:deb/debian/libbctoolbox2@5.3.105-1?arch=s390x
+- pkg:deb/debian/libbctoolbox2@5.4.130-1?arch=riscv64

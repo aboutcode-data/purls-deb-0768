@@ -35,3 +35,16 @@
 - pkg:deb/debian/libcjson1@1.7.18-4?arch=ppc64el
 - pkg:deb/debian/libcjson1@1.7.18-4?arch=riscv64
 - pkg:deb/debian/libcjson1@1.7.18-4?arch=s390x
+- pkg:deb/debian/libcjson1@1.7.19-3?arch=amd64
+- pkg:deb/debian/libcjson1@1.7.19-3?arch=arm64
+- pkg:deb/debian/libcjson1@1.7.19-3?arch=armhf
+- pkg:deb/debian/libcjson1@1.7.19-3?arch=i386
+- pkg:deb/debian/libcjson1@1.7.19-3?arch=loong64
+- pkg:deb/debian/libcjson1@1.7.19-3?arch=ppc64el
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=amd64
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=arm64
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=armhf
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=i386
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=loong64
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=ppc64el
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=s390x
