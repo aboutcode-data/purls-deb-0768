@@ -19,3 +19,4 @@
 - pkg:deb/debian/r-cran-admisc@0.42-1?arch=arm64
 - pkg:deb/debian/r-cran-admisc@0.42-1?arch=loong64
 - pkg:deb/debian/r-cran-admisc@0.42-1?arch=ppc64el
+- pkg:deb/debian/r-cran-admisc@0.42-1?arch=riscv64

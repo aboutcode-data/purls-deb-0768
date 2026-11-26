@@ -34,3 +34,4 @@
 - pkg:deb/debian/pdns-recursor@5.4.9-1?arch=ppc64el
 - pkg:deb/debian/pdns-recursor@5.4.9-1?arch=riscv64
 - pkg:deb/debian/pdns-recursor@5.4.9-1?arch=s390x
+- pkg:deb/debian/pdns-recursor@5.4.9-2?arch=s390x

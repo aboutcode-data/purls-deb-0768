@@ -12,4 +12,5 @@
 - pkg:deb/debian/ruby-prism@2.1.0-2?arch=i386
 - pkg:deb/debian/ruby-prism@2.1.0-2?arch=loong64
 - pkg:deb/debian/ruby-prism@2.1.0-2?arch=ppc64el
+- pkg:deb/debian/ruby-prism@2.1.0-2?arch=riscv64
 - pkg:deb/debian/ruby-prism@2.1.0-2?arch=s390x

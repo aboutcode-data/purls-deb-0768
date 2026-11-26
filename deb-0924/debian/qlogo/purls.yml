@@ -19,3 +19,7 @@
 - pkg:deb/debian/qlogo@0.961-1?arch=ppc64el
 - pkg:deb/debian/qlogo@0.961-1?arch=riscv64
 - pkg:deb/debian/qlogo@0.961-1?arch=s390x
+- pkg:deb/debian/qlogo@1.01-3?arch=amd64
+- pkg:deb/debian/qlogo@1.01-3?arch=arm64
+- pkg:deb/debian/qlogo@1.01-3?arch=armhf
+- pkg:deb/debian/qlogo@1.01-3?arch=loong64

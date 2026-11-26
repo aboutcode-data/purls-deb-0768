@@ -42,3 +42,4 @@
 - pkg:deb/debian/libqpid-proton-cpp12-dev@0.37.0-7%2Bb1?arch=ppc64el
 - pkg:deb/debian/libqpid-proton-cpp12-dev@0.37.0-7%2Bb1?arch=riscv64
 - pkg:deb/debian/libqpid-proton-cpp12-dev@0.37.0-7%2Bb1?arch=s390x
+- pkg:deb/debian/libqpid-proton-cpp12-dev@0.41.1-2?arch=riscv64

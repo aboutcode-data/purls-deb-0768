@@ -19,3 +19,4 @@
 - pkg:deb/debian/pgstat@1.4.0-1?arch=ppc64el
 - pkg:deb/debian/pgstat@1.4.0-1?arch=riscv64
 - pkg:deb/debian/pgstat@1.4.0-1?arch=s390x
+- pkg:deb/debian/pgstat@1.5.0-1?arch=riscv64
