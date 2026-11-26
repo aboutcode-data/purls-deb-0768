@@ -35,3 +35,4 @@
 - pkg:deb/debian/flatpak@1.16.1-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/flatpak@1.16.1-3%2Bb1?arch=riscv64
 - pkg:deb/debian/flatpak@1.16.1-3%2Bb1?arch=s390x
+- pkg:deb/debian/flatpak@1.18.6-1?arch=riscv64
