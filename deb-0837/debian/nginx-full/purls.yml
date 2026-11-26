@@ -7,3 +7,4 @@
 - pkg:deb/debian/nginx-full@1.28.0-6?arch=all
 - pkg:deb/debian/nginx-full@1.28.2-2?arch=all
 - pkg:deb/debian/nginx-full@1.30.6-2?arch=all
+- pkg:deb/debian/nginx-full@1.30.6-6?arch=all
