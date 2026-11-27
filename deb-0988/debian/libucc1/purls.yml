@@ -6,3 +6,6 @@
 - pkg:deb/debian/libucc1@1.9.0-2?arch=arm64
 - pkg:deb/debian/libucc1@1.9.0-2?arch=ppc64el
 - pkg:deb/debian/libucc1@1.9.0-2?arch=riscv64
+- pkg:deb/debian/libucc1@1.9.0-3?arch=amd64
+- pkg:deb/debian/libucc1@1.9.0-3?arch=arm64
+- pkg:deb/debian/libucc1@1.9.0-3?arch=ppc64el
