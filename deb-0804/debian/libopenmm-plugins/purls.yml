@@ -19,3 +19,4 @@
 - pkg:deb/debian/libopenmm-plugins@8.6.1%2Bdfsg-1~exp2%2Bb1?arch=arm64
 - pkg:deb/debian/libopenmm-plugins@8.6.1%2Bdfsg-1~exp2%2Bb1?arch=loong64
 - pkg:deb/debian/libopenmm-plugins@8.6.1%2Bdfsg-1~exp2%2Bb1?arch=ppc64el
+- pkg:deb/debian/libopenmm-plugins@8.6.1%2Bdfsg-2?arch=riscv64

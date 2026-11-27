@@ -53,3 +53,4 @@
 - pkg:deb/debian/libmimalloc-dev@3.7.0%2Bds-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/libmimalloc-dev@3.7.0%2Bds-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/libmimalloc-dev@3.7.0%2Bds-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/libmimalloc-dev@3.7.1%2Bds-1?arch=riscv64

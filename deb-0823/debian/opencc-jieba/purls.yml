@@ -6,3 +6,4 @@
 - pkg:deb/debian/opencc-jieba@1.4.2%2Bds1-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/opencc-jieba@1.4.2%2Bds1-1%2Bb2?arch=riscv64
 - pkg:deb/debian/opencc-jieba@1.4.2%2Bds1-1%2Bb2?arch=s390x
+- pkg:deb/debian/opencc-jieba@1.4.2%2Bds1-2?arch=riscv64
