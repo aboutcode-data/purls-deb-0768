@@ -5,3 +5,4 @@
 - pkg:deb/debian/zxc@0.15.0-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/zxc@0.15.0-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/zxc@0.15.0-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/zxc@1.0.2-1?arch=riscv64
