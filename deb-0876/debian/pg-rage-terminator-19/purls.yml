@@ -1,0 +1,5 @@
+- pkg:deb/debian/pg-rage-terminator-19@0.1.7-13?arch=amd64
+- pkg:deb/debian/pg-rage-terminator-19@0.1.7-13?arch=arm64
+- pkg:deb/debian/pg-rage-terminator-19@0.1.7-13?arch=loong64
+- pkg:deb/debian/pg-rage-terminator-19@0.1.7-13?arch=ppc64el
+- pkg:deb/debian/pg-rage-terminator-19@0.1.7-13?arch=s390x

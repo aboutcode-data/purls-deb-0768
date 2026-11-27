@@ -41,4 +41,5 @@
 - pkg:deb/debian/pgagent@4.2.3-6?arch=i386
 - pkg:deb/debian/pgagent@4.2.3-6?arch=loong64
 - pkg:deb/debian/pgagent@4.2.3-6?arch=ppc64el
+- pkg:deb/debian/pgagent@4.2.3-6?arch=riscv64
 - pkg:deb/debian/pgagent@4.2.3-6?arch=s390x

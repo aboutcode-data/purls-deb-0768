@@ -2,3 +2,4 @@
 - pkg:deb/debian/pg-checksums-doc@1.1-4?arch=all
 - pkg:deb/debian/pg-checksums-doc@1.2-2?arch=all
 - pkg:deb/debian/pg-checksums-doc@1.3-2?arch=all
+- pkg:deb/debian/pg-checksums-doc@1.4-2?arch=all

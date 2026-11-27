@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-19-pg-stat-tcpinfo@1.1-3?arch=amd64
+- pkg:deb/debian/postgresql-19-pg-stat-tcpinfo@1.1-3?arch=arm64
+- pkg:deb/debian/postgresql-19-pg-stat-tcpinfo@1.1-3?arch=loong64
+- pkg:deb/debian/postgresql-19-pg-stat-tcpinfo@1.1-3?arch=ppc64el
+- pkg:deb/debian/postgresql-19-pg-stat-tcpinfo@1.1-3?arch=s390x
