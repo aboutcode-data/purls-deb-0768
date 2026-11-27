@@ -8,5 +8,6 @@
 - pkg:deb/debian/libdolfinx-real0.11@0.11.0.post0-7%2Bb1?arch=loong64
 - pkg:deb/debian/libdolfinx-real0.11@0.11.0.post0-7%2Bb1?arch=ppc64el
 - pkg:deb/debian/libdolfinx-real0.11@0.11.0.post0-7%2Bb1?arch=s390x
+- pkg:deb/debian/libdolfinx-real0.11@0.11.0.post0-8%2Bb1?arch=riscv64
 - pkg:deb/debian/libdolfinx-real0.11@0.11.0.post0-8?arch=armhf
 - pkg:deb/debian/libdolfinx-real0.11@0.11.0.post0-8?arch=s390x
