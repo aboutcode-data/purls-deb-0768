@@ -26,3 +26,17 @@
 - pkg:deb/debian/libkissfft-float131@131.1.0-4?arch=ppc64el
 - pkg:deb/debian/libkissfft-float131@131.1.0-4?arch=riscv64
 - pkg:deb/debian/libkissfft-float131@131.1.0-4?arch=s390x
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=amd64
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=arm64
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=armhf
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=i386
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=loong64
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=ppc64el
+- pkg:deb/debian/libkissfft-float131@131.2.0-1?arch=s390x
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=amd64
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=arm64
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=armhf
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=i386
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=loong64
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=ppc64el
+- pkg:deb/debian/libkissfft-float131@131.2.0-2?arch=s390x
