@@ -23,3 +23,5 @@
 - pkg:deb/debian/libslepc-real-dev@3.24.1%2Bdfsg1-1?arch=ppc64el
 - pkg:deb/debian/libslepc-real-dev@3.24.1%2Bdfsg1-1?arch=riscv64
 - pkg:deb/debian/libslepc-real-dev@3.24.1%2Bdfsg1-1?arch=s390x
+- pkg:deb/debian/libslepc-real-dev@3.26.1%2Bdfsg1-1exp2?arch=loong64
+- pkg:deb/debian/libslepc-real-dev@3.26.1%2Bdfsg1-1exp2?arch=s390x
