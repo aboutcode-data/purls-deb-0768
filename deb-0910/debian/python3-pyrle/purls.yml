@@ -27,3 +27,4 @@
 - pkg:deb/debian/python3-pyrle@0.0.33-5%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-pyrle@0.0.33-5%2Bb1?arch=s390x
 - pkg:deb/debian/python3-pyrle@0.0.33-5?arch=riscv64
+- pkg:deb/debian/python3-pyrle@0.0.44-4?arch=riscv64

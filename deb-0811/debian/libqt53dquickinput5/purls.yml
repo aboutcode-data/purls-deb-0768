@@ -13,6 +13,7 @@
 - pkg:deb/debian/libqt53dquickinput5@5.15.17%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/libqt53dquickinput5@5.15.17%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/libqt53dquickinput5@5.15.17%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/libqt53dquickinput5@5.15.19%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/libqt53dquickinput5@5.15.2%2Bdfsg-2?arch=amd64
 - pkg:deb/debian/libqt53dquickinput5@5.15.2%2Bdfsg-2?arch=arm64
 - pkg:deb/debian/libqt53dquickinput5@5.15.2%2Bdfsg-2?arch=armhf
