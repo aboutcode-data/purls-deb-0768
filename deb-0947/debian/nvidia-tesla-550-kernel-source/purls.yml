@@ -4,3 +4,6 @@
 - pkg:deb/debian/nvidia-tesla-550-kernel-source@550.54.15-5?arch=amd64
 - pkg:deb/debian/nvidia-tesla-550-kernel-source@550.54.15-5?arch=arm64
 - pkg:deb/debian/nvidia-tesla-550-kernel-source@550.54.15-5?arch=ppc64el
+- pkg:deb/debian/nvidia-tesla-550-kernel-source@550.54.15-6?arch=amd64
+- pkg:deb/debian/nvidia-tesla-550-kernel-source@550.54.15-6?arch=arm64
+- pkg:deb/debian/nvidia-tesla-550-kernel-source@550.54.15-6?arch=ppc64el
