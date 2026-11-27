@@ -47,4 +47,5 @@
 - pkg:deb/debian/libcjson1@1.7.19-4?arch=i386
 - pkg:deb/debian/libcjson1@1.7.19-4?arch=loong64
 - pkg:deb/debian/libcjson1@1.7.19-4?arch=ppc64el
+- pkg:deb/debian/libcjson1@1.7.19-4?arch=riscv64
 - pkg:deb/debian/libcjson1@1.7.19-4?arch=s390x

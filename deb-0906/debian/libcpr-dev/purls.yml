@@ -11,4 +11,5 @@
 - pkg:deb/debian/libcpr-dev@1.15.1-2?arch=i386
 - pkg:deb/debian/libcpr-dev@1.15.1-2?arch=loong64
 - pkg:deb/debian/libcpr-dev@1.15.1-2?arch=ppc64el
+- pkg:deb/debian/libcpr-dev@1.15.1-2?arch=riscv64
 - pkg:deb/debian/libcpr-dev@1.15.1-2?arch=s390x

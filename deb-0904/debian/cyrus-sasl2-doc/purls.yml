@@ -2,4 +2,5 @@
 - pkg:deb/debian/cyrus-sasl2-doc@2.1.28%2Bdfsg-10?arch=all
 - pkg:deb/debian/cyrus-sasl2-doc@2.1.28%2Bdfsg1-10?arch=all
 - pkg:deb/debian/cyrus-sasl2-doc@2.1.28%2Bdfsg1-12?arch=all
+- pkg:deb/debian/cyrus-sasl2-doc@2.1.28%2Bdfsg1-13?arch=all
 - pkg:deb/debian/cyrus-sasl2-doc@2.1.28%2Bdfsg1-9?arch=all
