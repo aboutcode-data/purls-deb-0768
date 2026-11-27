@@ -19,3 +19,10 @@
 - pkg:deb/debian/libbz2-1.0@1.0.8-6?arch=ppc64el
 - pkg:deb/debian/libbz2-1.0@1.0.8-6?arch=riscv64
 - pkg:deb/debian/libbz2-1.0@1.0.8-6?arch=s390x
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=amd64
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=arm64
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=armhf
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=i386
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=loong64
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=ppc64el
+- pkg:deb/debian/libbz2-1.0@1.0.8-7?arch=s390x

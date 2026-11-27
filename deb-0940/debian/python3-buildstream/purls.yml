@@ -14,3 +14,4 @@
 - pkg:deb/debian/python3-buildstream@2.8.2-1?arch=i386
 - pkg:deb/debian/python3-buildstream@2.8.2-1?arch=loong64
 - pkg:deb/debian/python3-buildstream@2.8.2-1?arch=ppc64el
+- pkg:deb/debian/python3-buildstream@2.8.2-1?arch=riscv64
