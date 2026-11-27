@@ -6,3 +6,4 @@
 - pkg:deb/debian/greaseweazle@1.22%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/greaseweazle@1.22%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/greaseweazle@1.22%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/greaseweazle@1.23%2Bdfsg-2?arch=riscv64
