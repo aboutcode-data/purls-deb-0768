@@ -34,3 +34,4 @@
 - pkg:deb/debian/libpoppler-private-dev@26.01.0-2?arch=ppc64el
 - pkg:deb/debian/libpoppler-private-dev@26.01.0-2?arch=riscv64
 - pkg:deb/debian/libpoppler-private-dev@26.01.0-2?arch=s390x
+- pkg:deb/debian/libpoppler-private-dev@26.07.0-6?arch=riscv64
