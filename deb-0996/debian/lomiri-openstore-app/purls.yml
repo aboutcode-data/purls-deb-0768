@@ -1,0 +1,4 @@
+- pkg:deb/debian/lomiri-openstore-app@0.0~git20261105.c43f87a-1?arch=amd64
+- pkg:deb/debian/lomiri-openstore-app@0.0~git20261105.c43f87a-1?arch=arm64
+- pkg:deb/debian/lomiri-openstore-app@0.0~git20261105.c43f87a-1?arch=armhf
+- pkg:deb/debian/lomiri-openstore-app@0.0~git20261105.c43f87a-1?arch=i386

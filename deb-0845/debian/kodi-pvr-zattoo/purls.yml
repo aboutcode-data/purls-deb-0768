@@ -23,3 +23,4 @@
 - pkg:deb/debian/kodi-pvr-zattoo@21.0.7%2Bds-1?arch=i386
 - pkg:deb/debian/kodi-pvr-zattoo@21.0.7%2Bds-1?arch=loong64
 - pkg:deb/debian/kodi-pvr-zattoo@21.0.7%2Bds-1?arch=ppc64el
+- pkg:deb/debian/kodi-pvr-zattoo@21.0.7%2Bds-1?arch=s390x

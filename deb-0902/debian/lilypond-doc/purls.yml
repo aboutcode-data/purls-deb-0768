@@ -2,3 +2,4 @@
 - pkg:deb/debian/lilypond-doc@2.24.1-2?arch=all
 - pkg:deb/debian/lilypond-doc@2.24.4-5?arch=all
 - pkg:deb/debian/lilypond-doc@2.24.4-6?arch=all
+- pkg:deb/debian/lilypond-doc@2.26.0-2?arch=all

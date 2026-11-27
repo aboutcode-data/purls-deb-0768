@@ -29,3 +29,4 @@
 - pkg:deb/debian/liblomirigestures-dev@1.3.6000~git20250930.d1286a4%2Bdfsg-1~exp1?arch=i386
 - pkg:deb/debian/liblomirigestures-dev@1.3.6000~git20250930.d1286a4%2Bdfsg-1~exp1?arch=ppc64el
 - pkg:deb/debian/liblomirigestures-dev@1.3.6000~git20250930.d1286a4%2Bdfsg-1~exp1?arch=s390x
+- pkg:deb/debian/liblomirigestures-dev@1.3.6000~really1.3.5909-5?arch=riscv64
